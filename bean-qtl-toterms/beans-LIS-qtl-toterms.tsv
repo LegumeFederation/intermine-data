@@ -1,0 +1,264 @@
+# Trait data from LIS chado database; TO terms chosen by SH
+#primaryidentifier	TO terms	experimenttraitname	experimenttraitdescription
+phavu.Branching 1-1	TO:0000547	Branch number	Number of branches per plant were estimated by counting the stems winding around the string supports halfway up the height of the plant and dividing by the number of plants on that support.
+phavu.Canopy width 1-1		Plant width	Measurement across the planted row including leaf coverage at the R7 growth stage.
+phavu.Canopy width 1-2		Plant width	Measurement across the row including leaf coverage at the R7 growth stage.
+phavu.Canopy width 1-3		Plant width	Measurement across the row including leaf coverage at the R7 growth stage.
+phavu.Climbing 1-1		Climbing ability 45 days after planting	Overall climbing ability was measured using a visual scale. It ranged from 1 to 9 with 1 indicating the tallest and most aggressive plants and 9 the shortest and least aggressive plants.
+phavu.Climbing 1-3		Climbing ability 45 days after planting	Overall climbing ability was measured using a visual scale. It ranged from 1 to 9 with 1 indicating the tallest and most aggressive plants and 9 the shortest and least aggressive plants.
+phavu.Climbing 1-4		Climbing ability 45 days after planting	Overall climbing ability was measured using a visual scale. It ranged from 1 to 9 with 1 indicating the tallest and most aggressive plants and 9 the shortest and least aggressive plants.
+phavu.Climbing 1-5		Climbing ability 45 days after planting	Overall climbing ability was measured using a visual scale. It ranged from 1 to 9 with 1 indicating the tallest and most aggressive plants and 9 the shortest and least aggressive plants.
+phavu.Climbing 1-6		Climbing ability 45 days after planting	Overall climbing ability was measured using a visual scale. It ranged from 1 to 9 with 1 indicating the tallest and most aggressive plants and 9 the shortest and least aggressive plants.
+phavu.Climbing 1-7		Climbing ability 45 days after planting	Overall climbing ability was measured using a visual scale. It ranged from 1 to 9 with 1 indicating the tallest and most aggressive plants and 9 the shortest and least aggressive plants.
+phavu.Climbing 1-8		Climbing ability 75 days after planting	Overall climbing ability was measured using a visual scale. It ranged from 1 to 9 with 1 indicating the tallest and most aggressive plants and 9 the shortest and least aggressive plants.
+phavu.First flower, bean 1-1	TO:0000344	Days to flowering	Days to flowering
+phavu.First flower, bean 1-10	TO:0000344	Days to flowering	Days to flowering
+phavu.First flower, bean 1-2	TO:0000344	Days to flowering	Days to flowering
+phavu.First flower, bean 1-3	TO:0000344	Days to flowering	Days to flowering
+phavu.First flower, bean 1-4	TO:0000344	Days to flowering	Days to flowering
+phavu.First flower, bean 1-5	TO:0000344	Days to flowering	Days to flowering
+phavu.First flower, bean 1-6	TO:0000344	Days to flowering	Days to flowering
+phavu.First flower, bean 1-7	TO:0000344	Days to flowering	Days to flowering
+phavu.First flower, bean 1-8	TO:0000344	Days to flowering	Days to flowering
+phavu.First flower, bean 1-9	TO:0000344	Days to flowering	Days to flowering
+phavu.First flower, bean 2-1	TO:0000344	Days to flowering	Days to flowering
+phavu.First flower, bean 2-2	TO:0000344	Days to flowering	Days to flowering
+phavu.First flower, bean 2-3	TO:0000344	Days to flowering	Days to flowering
+phavu.First flower, bean 2-4	TO:0000344	Days to flowering	Days to flowering
+phavu.First flower, bean 2-5	TO:0000344	Days to flowering	Days to flowering
+phavu.First flower, bean 2-7	TO:0000344	Days to flowering	Days to flowering
+phavu.First flower, bean 2-9	TO:0000344	Days to flowering	Days to flowering
+phavu.First flower, bean 3-1	TO:0000344	Days to flowering	The number of days from planting to 50% of the plants within a plot having flowers.
+phavu.First flower, bean 3-4	TO:0000344	Days to flowering	The number of days from planting to 50% of the plants within a plot having flowers.
+phavu.First flower, bean 3-7	TO:0000344	Days to flowering	The number of days from planting to 50% of the plants within a plot having flowers.
+phavu.Full maturity, bean 1-1	TO:0000469 	Days to maturity	Days to maturity
+phavu.Full maturity, bean 1-2	TO:0000469 	Days to maturity	Days to maturity
+phavu.Full maturity, bean 1-3	TO:0000469 	Days to maturity	Days to maturity
+phavu.Full maturity, bean 1-4	TO:0000469 	Days to maturity	Days to maturity
+phavu.Full maturity, bean 1-5	TO:0000469 	Days to maturity	Days to maturity
+phavu.Full maturity, bean 1-6	TO:0000469 	Days to maturity	Days to maturity
+phavu.Full maturity, bean 1-7	TO:0000469 	Days to maturity	Days to maturity
+phavu.Full maturity, bean 1-8	TO:0000469 	Days to maturity	Days to maturity
+phavu.Full maturity, bean 2-1	TO:0000469 	Days to maturity	Days to harvest maturity
+phavu.Full maturity, bean 2-2	TO:0000469 	Days to maturity	Days to harvest maturity
+phavu.Full maturity, bean 3-1	TO:0000469 	Days to maturity	The number of days from planting to harvest maturity of seeds.
+phavu.Full maturity, bean 3-11	TO:0000469 	Days to maturity	The number of days from planting to harvest maturity of seeds.
+phavu.Full maturity, bean 3-13	TO:0000469 	Days to maturity	The number of days from planting to harvest maturity of seeds.
+phavu.Full maturity, bean 3-4	TO:0000469 	Days to maturity	The number of days from planting to harvest maturity of seeds.
+phavu.Full maturity, bean 3-7	TO:0000469 	Days to maturity	The number of days from planting to harvest maturity of seeds.
+phavu.Internode length 1-1	TO:0000145 	Internode length	Measure of an internode length halfway up the height of the plant
+phavu.Internode length 1-2	TO:0000145 	Internode length	Measure of an internode length halfway up the height of the plant
+phavu.Internode length 1-4	TO:0000145 	Internode length	Measure of an internode length halfway up the height of the plant
+phavu.Internode length 1-6	TO:0000145 	Internode length	Measure of an internode length halfway up the height of the plant
+phavu.Last flower 1-1		Days to end of flowering	The number of days from planting to 100% of the plants within a plot having ended flowering.
+phavu.Last flower 1-12		Days to end of flowering	The number of days from planting to 100% of the plants within a plot having ended flowering.
+phavu.Last flower 1-5		Days to end of flowering	The number of days from planting to 100% of the plants within a plot having ended flowering.
+phavu.Last flower 1-9		Days to end of flowering	The number of days from planting to 100% of the plants within a plot having ended flowering.
+phavu.Plant height 1-1	TO:0000207	Plant height	Measurement from where the soil touched the hypocotyl to the furthest vegetative or reproductive meristem in indeterminate or determinate plants, respectively. Plant heights recorded for the R6 growth stage.
+phavu.Plant height 1-2	TO:0000207	Plant height	Measurement from where the soil touched the hypocotyl to the furthest vegetative or reproductive meristem in indeterminate or determinate plants, respectively. Plant heights recorded for the R6 growth stage.
+phavu.Plant height 1-3	TO:0000207	Plant height	Measurement from where the soil touched the hypocotyl to the furthest vegetative or reproductive meristem in indeterminate or determinate plants, respectively. Plant heights recorded for the R6 growth stage.
+phavu.Plant height 1-4	TO:0000207	Plant height	Measurement from where the soil touched the hypocotyl to the furthest vegetative or reproductive meristem in indeterminate or determinate plants, respectively. Plant heights recorded for the R6 growth stage.
+phavu.Plant height 2-1	TO:0000207	Plant height 45 days after planting	Height measured from the plant base at ground level to the uppermost leaflet on the longest branch.
+phavu.Plant height 2-2	TO:0000207	Plant height 45 days after planting	Height measured from the plant base at ground level to the uppermost leaflet on the longest branch.
+phavu.Plant height 2-3	TO:0000207	Plant height 45 days after planting	Height measured from the plant base at ground level to the uppermost leaflet on the longest branch.
+phavu.Plant height 2-4	TO:0000207	Plant height 45 days after planting	Height measured from the plant base at ground level to the uppermost leaflet on the longest branch.
+phavu.Plant height 2-5	TO:0000207	Plant height 75 days after planting	Height measured from the plant base at ground level to the uppermost leaflet on the longest branch.
+phavu.Plant height 2-6	TO:0000207	Plant height 75 days after planting	Height measured from the plant base at ground level to the uppermost leaflet on the longest branch.
+phavu.Plant height 2-7	TO:0000207	Plant height 75 days after planting	Height measured from the plant base at ground level to the uppermost leaflet on the longest branch.
+phavu.Plant P 1-1	TO:0000511	Phosphorus uptake in low phosphorus field (PUP, PAE)	Phosphorus mass content per plant
+phavu.Plant P 1-2	TO:0000511	Phosphorus uptake in low phosphorus field (PUP, PAE)	Phosphorus mass content per plant
+phavu.Plant P 2-1	TO:0000511	P accumulation	Total P accumulation calculated based on analysis of P concentration in plant tissues. Presumably whole plant measurement.
+phavu.Plant P 2-2	TO:0000511	P accumulation	Total P accumulation calculated based on analysis of P concentration in plant tissues. Presumably whole plant measurement.
+phavu.Plant P 2-3	TO:0000511	P accumulation	Total P accumulation calculated based on analysis of P concentration in plant tissues.
+phavu.Pod, green harvest 1-1		Days to harvest as green pod	The number of days from planting to 50% of the pods within a plot being harvested as snap beans.
+phavu.Pod, green harvest 1-4		Days to harvest as green pod	The number of days from planting to 50% of the pods within a plot being harvested as snap beans.
+phavu.Pods per plant 1-1	TO:0000894	Pods per plant	Pods per plant
+phavu.Pods per plant 1-2	TO:0000894	Pods per plant	Pods per plant
+phavu.Pods per plant 1-3	TO:0000894	Pods per plant	Pods per plant
+phavu.Root density 1-1	TO:0000084	Number of Root Tips	Number of root tips for entire root system
+phavu.Root density 1-2	TO:0000084	Number of Root Tips	Number of root tips for entire root system
+phavu.Root density 1-3	TO:0000084	Number of Root Tips	Number of root tips for entire root system
+phavu.Root density 1-4	TO:0000084	Number of Root Tips	Number of root tips for entire root system
+phavu.Root density 1-5	TO:0000084	Number of Root Tips	Number of root tips for entire root system
+phavu.Root density 1-6	TO:0000084	Number of Root Tips	Number of root tips for entire root system
+phavu.Root density, adventitious 1-1	TO:0001006	Number of Adventitious Roots	Count of adventitious roots per plant emerging from the hypocotyls.
+phavu.Root density, adventitious 1-2	TO:0001006	Number of Adventitious Roots	Count of adventitious roots per plant emerging from the hypocotyls.
+phavu.Root density, adventitious 1-3	TO:0001006	Number of Adventitious Roots	Count of adventitious roots per plant emerging from the hypocotyls.
+phavu.Root density, adventitious 1-4	TO:0001006	Number of Adventitious Roots	Count of adventitious roots per plant emerging from the hypocotyls.
+phavu.Root hair density, basal 1-1		Root hair density for basal roots (RHD-br, RHD-Br)	Number of root hairs per length of basal roots
+phavu.Root hair density, basal 1-2		Root hair density for basal roots (RHD-br, RHD-Br)	Number of root hairs per length of basal roots
+phavu.Root hair density, basal 1-3		Root hair density for basal roots (RHD-br, RHD-Br)	Number of root hairs per length of basal roots
+phavu.Root hair length, basal 1-1	TO:0002665	Total root hair length for basal roots (TRHL-br, THL-Br)	Total root hair length per plant for basal roots
+phavu.Root hair length, basal 1-2	TO:0002665	Total root hair length for basal roots (TRHL-br, THL-Br)	Total root hair length per plant for basal roots
+phavu.Root hair length, primary 1-1	TO:0002665	Total root hair length for tap roots (TRHL-tr, THL-Tr)	Total root hair length per plant for tap roots
+phavu.Root hair length, primary 1-2	TO:0002665	Total root hair length for tap roots (TRHL-tr, THL-Tr)	Total root hair length per plant for tap roots
+phavu.Root hair length, primary 1-3	TO:0002665	Total root hair length for tap roots (TRHL-tr, THL-Tr)	Total root hair length per plant for tap roots
+phavu.Root length 1-1	TO:0000227	Total Root Length	Total root length of entire root system
+phavu.Root length 1-2	TO:0000227	Total Root Length	Total root length of entire root system
+phavu.Root length 1-3	TO:0000227	Total Root Length	Total root length of entire root system
+phavu.Root length 1-4	TO:0000227	Total Root Length	Total root length of entire root system
+phavu.Root length 1-5	TO:0000227	Total Root Length	Total root length of entire root system
+phavu.Root length 1-6	TO:0000227	Total Root Length	Total root length of entire root system
+phavu.Root length 2-1	TO:0000227	Root length	Total length of the entire root system.
+phavu.Root length 2-2	TO:0000227	Root length	Total length of the entire root system.
+phavu.Root length 2-3	TO:0000227	Root length	Total length of the entire root system.
+phavu.Root length 2-4	TO:0000227	Root length	Total length of the entire root system.
+phavu.Root length 2-5	TO:0000227	Root length	Total length of the entire root system.
+phavu.Root length 2-6	TO:0000227	Root length	Total length of the entire root system.
+phavu.Root length 2-7	TO:0000227	Root length	Total length of the entire root system.
+phavu.Root length, adventitious 1-1	TO:0020103	Adventitious Root Length	Total length of adventitious roots per plant.
+phavu.Root length, adventitious 1-2	TO:0020103	Adventitious Root Length	Total length of adventitious roots per plant.
+phavu.Root length, adventitious 1-3	TO:0020103	Adventitious Root Length	Total length of adventitious roots per plant.
+phavu.Root length, adventitious 1-4	TO:0020103	Adventitious Root Length	Total length of adventitious roots per plant.
+phavu.Root length, adventitious specific 1-1	TO:0020103	Specific Root Length of Adventitious Roots	Length of adventitious root per unit of adventitious root dry weight.
+phavu.Root length, adventitious specific 1-2	TO:0020103	Specific Root Length of Adventitious Roots	Length of adventitious root per unit of adventitious root dry weight.
+phavu.Root length, adventitious specific 1-3	TO:0020103	Specific Root Length of Adventitious Roots	Length of adventitious root per unit of adventitious root dry weight.
+phavu.Root length, adventitious specific 1-4	TO:0020103	Specific Root Length of Adventitious Roots	Length of adventitious root per unit of adventitious root dry weight.
+phavu.Root length, adventitious specific 1-5	TO:0020103	Specific Root Length of Adventitious Roots	Length of adventitious root per unit of adventitious root dry weight.
+phavu.Root length, adventitious specific 1-6	TO:0020103	Specific Root Length of Adventitious Roots	Length of adventitious root per unit of adventitious root dry weight.
+phavu.Root length, adventitious specific 1-7	TO:0020103	Specific Root Length of Adventitious Roots	Length of adventitious root per unit of adventitious root dry weight.
+phavu.Root length, adventitious specific 1-8	TO:0020103	Specific Root Length of Adventitious Roots	Length of adventitious root per unit of adventitious root dry weight.
+phavu.Root length, basal 1-1	TO:0000227	Basal root length	Total length of basal root system.
+phavu.Root length, basal 1-2	TO:0000227	Basal root length	Total length of basal root system.
+phavu.Root length, primary 1-1	TO:0000227	Taproot root length	Length of the taproot
+phavu.Root length, specific 1-1	TO:0000227	Specific Root Length	The ratio between total root length and total root dry weight
+phavu.Root length, specific 1-2	TO:0000227	Specific Root Length	The ratio between total root length and total root dry weight
+phavu.Root length, specific 1-3	TO:0000227	Specific Root Length	The ratio between total root length and total root dry weight
+phavu.Root length, specific 1-4	TO:0000227	Specific Root Length	The ratio between total root length and total root dry weight
+phavu.Root length, specific 1-5	TO:0000227	Specific Root Length	The ratio between total root length and total root dry weight
+phavu.Root length, specific 2-1	TO:0000227	Specific root length	The root length per mass of root.
+phavu.Root length, specific 2-2	TO:0000227	Specific root length	The root length per mass of root.
+phavu.Root length, specific 2-3	TO:0000227	Specific root length	The root length per mass of root.
+phavu.Root length, specific 2-4	TO:0000227	Specific root length	The root length per mass of root.
+phavu.Root length, specific 2-5	TO:0000227	Specific root length	The root length per mass of root.
+phavu.Root length, specific 2-6	TO:0000227	Specific root length	The root length per mass of root.
+phavu.Root length, specific 2-7	TO:0000227	Specific root length	The root length per mass of root.
+phavu.Root organic acid exudation 1-1		Total Acid Exudation (TAE)	The total amount of acidic substances (protons, organic acids, etc.) exuded per plant into a liquid medium over 8 hours
+phavu.Root organic acid exudation 1-2		Total Acid Exudation (TAE)	The total amount of acidic substances (protons, organic acids, etc.) exuded per plant into a liquid medium over 8 hours
+phavu.Root organic acid exudation 1-3		Total Acid Exudation (TAE)	The total amount of acidic substances (protons, organic acids, etc.) exuded per plant into a liquid medium over 8 hours
+phavu.Root organic acid exudation 1-4		Total Acid Exudation (TAE)	The total amount of acidic substances (protons, organic acids, etc.) exuded per plant into a liquid medium over 8 hours
+phavu.Root proton exudation 1-1		Proton (H+) Exudation (HEX, THE)	The number of protons exuded per plant into a liquid medium over 8 hours
+phavu.Root proton exudation 1-2		Proton (H+) Exudation (HEX, THE)	The number of protons exuded per plant into a liquid medium over 8 hours
+phavu.Root proton exudation 1-3		Proton (H+) Exudation (HEX, THE)	The number of protons exuded per plant into a liquid medium over 8 hours
+phavu.Root proton exudation rate 1-1		Proton (H+) Exudation Rate (HER)	Proton exudation per plant divided by root weight and time
+phavu.Root proton exudation rate 1-2		Proton (H+) Exudation Rate (HER)	Proton exudation per plant divided by root weight and time
+phavu.Root weight 1-1	TO:0000279	Root Dry Weight	Total dry weight of the entire root system
+phavu.Root weight 1-2	TO:0000279	Root Dry Weight	Total dry weight of the entire root system
+phavu.Root weight 1-3	TO:0000279	Root Dry Weight	Total dry weight of the entire root system
+phavu.Root weight 1-4	TO:0000279	Root Dry Weight	Total dry weight of the entire root system
+phavu.Root weight 1-5	TO:0000279	Root Dry Weight	Total dry weight of the entire root system
+phavu.Root weight, adventitious 1-1	TO:0000279	Adventitious Root Biomass (Dry Weight)	Dry weight of adventitious roots per plant.
+phavu.Root weight, adventitious 1-2	TO:0000279	Adventitious Root Biomass (Dry Weight)	Dry weight of adventitious roots per plant.
+phavu.Root weight, adventitious 1-3	TO:0000279	Adventitious Root Biomass (Dry Weight)	Dry weight of adventitious roots per plant.
+phavu.Root weight, adventitious 1-4	TO:0000279	Adventitious Root Biomass (Dry Weight)	Dry weight of adventitious roots per plant.
+phavu.Root weight, basal 1-1	TO:0000279	Basal root dry weight	Total dry weight of basal roots per plant.
+phavu.Root weight, basal 1-2	TO:0000279	Basal root dry weight	Total dry weight of basal roots per plant.
+phavu.Root weight, basal 1-3	TO:0000279	Basal root dry weight	Total dry weight of basal roots per plant.
+phavu.Root weight, primary 1-1	TO:0000279	Taproot dry weight	Dry weight of the taproot
+phavu.Root weight, primary 1-2	TO:0000279	Taproot dry weight	Dry weight of the taproot
+phavu.Root weight, primary 1-3	TO:0000279	Taproot dry weight	Dry weight of the taproot
+phavu.Root width 1-1	TO:0000306	Average Root Diameter	Average Root Diameter for entire root system
+phavu.Root width 1-2	TO:0000306	Average Root Diameter	Average Root Diameter for entire root system
+phavu.Seed coat proportion 1-1	TO:0000890	Coat proportion	Average coat proportion of three sets of 25 seeds (Protocol taken from Castellanos et al., 1995). Seeds were soaked in water for 24 hours, coats and embryos were seperated, then dried at 80 C for 8 days, and then weighed individually.
+phavu.Seed coat proportion 1-3	TO:0000890	Coat proportion	Average coat proportion of three sets of 25 seeds (Protocol taken from Castellanos et al., 1995). Seeds were soaked in water for 24 hours, coats and embryos were seperated, then dried at 80 C for 8 days, and then weighed individually.
+phavu.Seed coat tannin 1-1		Total condensed tannin concentration	Percentage of total condensed tannins in seed coats
+phavu.Seed coat tannin 1-2		Total condensed tannin concentration	Percentage of total condensed tannins in seed coats
+phavu.Seed coat tannin 1-3		Total condensed tannin concentration	Percentage of total condensed tannins in seed coats
+phavu.Seed coat tannin 1-4		Total condensed tannin concentration	Percentage of total condensed tannins in seed coats
+phavu.Seed coat tannin 1-5		Total condensed tannin concentration	Percentage of total condensed tannins in seed coats
+phavu.Seed coat tannin, insoluble 1-1		Insoluble condensed tannin concentration	Percentage of insoluble condensed tannins in seed coats
+phavu.Seed coat tannin, insoluble 1-2		Insoluble condensed tannin concentration	Percentage of insoluble condensed tannins in seed coats
+phavu.Seed coat tannin, insoluble 1-3		Insoluble condensed tannin concentration	Percentage of insoluble condensed tannins in seed coats
+phavu.Seed coat tannin, soluble 1-1		Soluble condensed tannin concentration	Percentage of soluble condensed tannins in seed coats
+phavu.Seed coat tannin, soluble 1-2		Soluble condensed tannin concentration	Percentage of soluble condensed tannins in seed coats
+phavu.Seed coat tannin, soluble 1-3		Soluble condensed tannin concentration	Percentage of soluble condensed tannins in seed coats
+phavu.Seed coat tannin, soluble 1-4		Soluble condensed tannin concentration	Percentage of soluble condensed tannins in seed coats
+phavu.Seed height 1-1	TO:0000391	Seed height	Average height of ten randomly chosen seeds (measured from hilum to opposite side).
+phavu.Seed height 1-3	TO:0000391	Seed height	Average height of ten randomly chosen seeds (measured from hilum to opposite side).
+phavu.Seed length 1-1	TO:0000146,TO:0000391	Seed length	Average length of ten randomly chosen seeds (measured parallel to the hilum).
+phavu.Seed length 1-13	TO:0000146,TO:0000391	Seed length	Average length of ten randomly chosen seeds (measured parallel to the hilum).
+phavu.Seed length 1-16	TO:0000146,TO:0000391	Seed length	Average length of ten randomly chosen seeds (measured parallel to the hilum).
+phavu.Seed length 1-5	TO:0000146,TO:0000391	Seed length	Average length of ten randomly chosen seeds (measured parallel to the hilum).
+phavu.Seed length 1-9	TO:0000146,TO:0000391	Seed length	Average length of ten randomly chosen seeds (measured parallel to the hilum).
+phavu.Seeds per plant 1-1	TO:0000445	Seeds per plant	Seeds per plant
+phavu.Seeds per plant 1-2	TO:0000445	Seeds per plant	Seeds per plant
+phavu.Seeds per plant 1-3	TO:0000445	Seeds per plant	Seeds per plant
+phavu.Seed water absorption 1-1	TO:0002648	Water absorption	Average water absorption of three sets of 25 seeds (Protocol taken from Castellanos et al., 1995).
+phavu.Seed water absorption 1-3	TO:0002648	Water absorption	Average water absorption of three sets of 25 seeds (Protocol taken from Castellanos et al., 1995).
+phavu.Seed weight 1-1	TO:0000181,TO:0000269	Seed weight	Hundred seed weight
+phavu.Seed weight 1-10	TO:0000181,TO:0000269	Seed weight	Hundred seed weight
+phavu.Seed weight 1-11	TO:0000181,TO:0000269	Seed weight	Hundred seed weight
+phavu.Seed weight 1-12	TO:0000181,TO:0000269	Seed weight	Hundred seed weight
+phavu.Seed weight 1-13	TO:0000181,TO:0000269	Seed weight	Hundred seed weight
+phavu.Seed weight 1-14	TO:0000181,TO:0000269	Seed weight	Hundred seed weight
+phavu.Seed weight 1-15	TO:0000181,TO:0000269	Seed weight	Hundred seed weight
+phavu.Seed weight 1-16	TO:0000181,TO:0000269	Seed weight	Hundred seed weight
+phavu.Seed weight 1-17	TO:0000181,TO:0000269	Seed weight	Hundred seed weight
+phavu.Seed weight 1-18	TO:0000181,TO:0000269	Seed weight	Hundred seed weight
+phavu.Seed weight 1-19	TO:0000181,TO:0000269	Seed weight	Hundred seed weight
+phavu.Seed weight 1-2	TO:0000181,TO:0000269	Seed weight	Hundred seed weight
+phavu.Seed weight 1-20	TO:0000181,TO:0000269	Seed weight	Hundred seed weight
+phavu.Seed weight 1-21	TO:0000181,TO:0000269	Seed weight	Hundred seed weight
+phavu.Seed weight 1-22	TO:0000181,TO:0000269	Seed weight	Hundred seed weight
+phavu.Seed weight 1-23	TO:0000181,TO:0000269	Seed weight	Hundred seed weight
+phavu.Seed weight 1-24	TO:0000181,TO:0000269	Seed weight	Hundred seed weight
+phavu.Seed weight 1-25	TO:0000181,TO:0000269	Seed weight	Hundred seed weight
+phavu.Seed weight 1-26	TO:0000181,TO:0000269	Seed weight	Hundred seed weight
+phavu.Seed weight 1-27	TO:0000181,TO:0000269	Seed weight	Hundred seed weight
+phavu.Seed weight 1-3	TO:0000181,TO:0000269	Seed weight	Hundred seed weight
+phavu.Seed weight 1-4	TO:0000181,TO:0000269	Seed weight	Hundred seed weight
+phavu.Seed weight 1-5	TO:0000181,TO:0000269	Seed weight	Hundred seed weight
+phavu.Seed weight 1-6	TO:0000181,TO:0000269	Seed weight	Hundred seed weight
+phavu.Seed weight 1-7	TO:0000181,TO:0000269	Seed weight	Hundred seed weight
+phavu.Seed weight 1-8	TO:0000181,TO:0000269	Seed weight	Hundred seed weight
+phavu.Seed weight 1-9	TO:0000181,TO:0000269	Seed weight	Hundred seed weight
+phavu.Seed weight 2-1	TO:0000181,TO:0000269	Seed weight	The weight of 100 seeds
+phavu.Seed weight 2-2	TO:0000181,TO:0000269	Seed weight	The weight of 100 seeds
+phavu.Seed weight 2-3	TO:0000181,TO:0000269	Seed weight	The weight of 100 seeds
+phavu.Seed weight 3-1	TO:0000181,TO:0000269	Seed weight	100 Seed weight
+phavu.Seed weight 3-10	TO:0000181,TO:0000269	Seed weight	100 Seed weight
+phavu.Seed weight 3-12	TO:0000181,TO:0000269	Seed weight	100 Seed weight
+phavu.Seed weight 3-13	TO:0000181,TO:0000269	Seed weight	100 Seed weight
+phavu.Seed weight 3-14	TO:0000181,TO:0000269	Seed weight	100 Seed weight
+phavu.Seed weight 3-2	TO:0000181,TO:0000269	Seed weight	100 Seed weight
+phavu.Seed weight 3-4	TO:0000181,TO:0000269	Seed weight	100 Seed weight
+phavu.Seed weight 3-5	TO:0000181,TO:0000269	Seed weight	100 Seed weight
+phavu.Seed weight 3-6	TO:0000181,TO:0000269	Seed weight	100 Seed weight
+phavu.Seed weight 3-8	TO:0000181,TO:0000269	Seed weight	100 Seed weight
+phavu.Seed weight 4-1	TO:0000181,TO:0000269	Seed weight	Average weight of 100 randomly chosen seeds.
+phavu.Seed weight 4-5	TO:0000181,TO:0000269	Seed weight	Average weight of 100 randomly chosen seeds.
+phavu.Seed weight 4-8	TO:0000181,TO:0000269	Seed weight	Average weight of 100 randomly chosen seeds.
+phavu.Seed width 1-1	TO:0000181	Seed width	Average width of ten randomly chosen seeds.
+phavu.Seed width 1-4	TO:0000181	Seed width	Average width of ten randomly chosen seeds.
+phavu.Seed width 1-6	TO:0000181	Seed width	Average width of ten randomly chosen seeds.
+phavu.Seed yield 1-1	TO:0000905	Yield	Seed yield
+phavu.Seed yield 1-10	TO:0000905	Yield	Seed yield
+phavu.Seed yield 1-2	TO:0000905	Yield	Seed yield
+phavu.Seed yield 1-3	TO:0000905	Yield	Seed yield
+phavu.Seed yield 1-4	TO:0000905	Yield	Seed yield
+phavu.Seed yield 1-5	TO:0000905	Yield	Seed yield
+phavu.Seed yield 1-6	TO:0000905	Yield	Seed yield
+phavu.Seed yield 1-7	TO:0000905	Yield	Seed yield
+phavu.Seed yield 1-8	TO:0000905	Yield	Seed yield
+phavu.Seed yield 1-9	TO:0000905	Yield	Seed yield
+phavu.Seed yield 2-1	TO:0000905	Yield	Yield of seed produced by a hectare
+phavu.Seed yield 2-2	TO:0000905	Yield	Yield of seed produced by a hectare
+phavu.Seed yield 2-3	TO:0000905	Yield	Yield of seed produced by a hectare
+phavu.Seed yield 2-4	TO:0000905	Yield	Yield of seed produced by a hectare
+phavu.Seed yield 2-5	TO:0000905	Yield	Yield of seed produced by a hectare
+phavu.Seed yield 2-6	TO:0000905	Yield	Yield of seed produced by a hectare
+phavu.Seed yield 2-7	TO:0000905	Yield	Yield of seed produced by a hectare
+phavu.Seed yield 2-8	TO:0000905	Yield	Yield of seed produced by a hectare
+phavu.Seed yield 2-9	TO:0000905	Yield	Yield of seed produced by a hectare
+phavu.Seed yield/Full maturity, bean 1-1	TO:0000905	Yield per day	Seed yield per day
+phavu.Seed yield/Full maturity, bean 1-10	TO:0000905	Yield per day	Seed yield per day
+phavu.Seed yield/Full maturity, bean 1-11	TO:0000905	Yield per day	Seed yield per day
+phavu.Seed yield/Full maturity, bean 1-12	TO:0000905	Yield per day	Seed yield per day
+phavu.Seed yield/Full maturity, bean 1-2	TO:0000905	Yield per day	Seed yield per day
+phavu.Seed yield/Full maturity, bean 1-3	TO:0000905	Yield per day	Seed yield per day
+phavu.Seed yield/Full maturity, bean 1-4	TO:0000905	Yield per day	Seed yield per day
+phavu.Seed yield/Full maturity, bean 1-5	TO:0000905	Yield per day	Seed yield per day
+phavu.Seed yield/Full maturity, bean 1-6	TO:0000905	Yield per day	Seed yield per day
+phavu.Seed yield/Full maturity, bean 1-7	TO:0000905	Yield per day	Seed yield per day
+phavu.Seed yield/Full maturity, bean 1-8	TO:0000905	Yield per day	Seed yield per day
+phavu.Seed yield/Full maturity, bean 1-9	TO:0000905	Yield per day	Seed yield per day
