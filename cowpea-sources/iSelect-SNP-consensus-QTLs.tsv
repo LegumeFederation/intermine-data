@@ -1,0 +1,242 @@
+GeneticMap	iSelect-consensus-2016
+PMID	27658053
+Parents	CB27	IT82E-18
+Parents	CB46	IT93K-503-1
+Parents	Sanzi	Vita7
+Parents	TVu-14676	IT84S-2246-4
+Parents	ZN016	Zhijiang282
+#Marker	LG	Type	Loc	QTL	Trait
+1_0255	8	SNP	46.14 	abSC	Seed color
+1_0255	8	SNP	46.14	abFLC	Flower color
+1_0643	8	SNP	47.70 	abSC	Seed color
+1_0643	8	SNP	47.79	abFLC	Flower color
+1_0649	8	SNP	45.49 	abSC	Seed color
+1_0649	8	SNP	45.49	abFLC	Flower color
+1_0797	8	SNP	45.49 	abSC	Seed color
+1_0797	8	SNP	45.49	abFLC	Flower color
+1_0078	5	SNP	75.43 	Css-1	Seed size
+1_0099	5	SNP	68.09 	Css-1	Seed size
+1_0923	5	SNP	74.34 	Css-1	Seed size
+1_0974	5	SNP	70.00 	Css-1	Seed size
+1_0392	7	SNP	40.59 	Css-10	Seed size
+1_1060	7	SNP	42.34 	Css-10	Seed size
+1_0023	7	SNP	26.19 	Css-2	Seed size
+1_0047	7	SNP	20.71 	Css-2	Seed size
+1_0126	7	SNP	20.53 	Css-2	Seed size
+1_0659	7	SNP	22.84 	Css-2	Seed size
+1_0164	2	SNP	19.12 	Css-3	Seed size
+1_0525	2	SNP	32.89 	Css-3	Seed size
+1_0585	2	SNP	32.89 	Css-3	Seed size
+1_0589	2	SNP	17.96 	Css-3	Seed size
+1_1096	2	SNP	36.98 	Css-3	Seed size
+1_1428	2	SNP	36.98 	Css-3	Seed size
+1_0437	6	SNP	30.95 	Css-4	Seed size
+1_0860	6	SNP	21.72 	Css-4	Seed size
+1_0871	6	SNP	14.22 	Css-4	Seed size
+1_0058	8	SNP	90.27 	Css-5	Seed size
+1_0750	8	SNP	79.87 	Css-5	Seed size
+1_0977	10	SNP	0.41 	Css-6	Seed size
+1_1118	10	SNP	2.29 	Css-6	Seed size
+1_0670	2	SNP	61.21 	Css-7	Seed size
+1_1039	2	SNP	66.51 	Css-7	Seed size
+1_0690	6	SNP	2.81 	Css-8	Seed size
+1_1403	6	SNP	4.71 	Css-8	Seed size
+1_0557	5	SNP	26.72 	Css-9	Seed size
+1_0819	5	SNP	20.65 	Css-9	Seed size
+1_0860	6	SNP	21.72 	Fot3-1	Resistance to Fusarium oxysporumf.sp. tracheiphilum
+1_0911	6	SNP	17.22 	Fot3-1	Resistance to Fusarium oxysporumf.sp. tracheiphilum
+1_1107	6	SNP	21.93 	Fot3-1	Resistance to Fusarium oxysporumf.sp. tracheiphilum
+1_0380	3	SNP	77.00 	Fot4-2	Resistance to Fusarium oxysporumf.sp. tracheiphilum
+1_0594	3	SNP	84.33 	Fot4-2	Resistance to Fusarium oxysporumf.sp. tracheiphilum
+1_0984	3	SNP	76.79 	Fot4-2	Resistance to Fusarium oxysporumf.sp. tracheiphilum
+1_1162	3	SNP	78.63 	Fot4-2	Resistance to Fusarium oxysporumf.sp. tracheiphilum
+1_0037	5	SNP	62.51 	Hbs-1	Heat-induced brown discoloration of seed coats
+1_0081	5	SNP	58.32 	Hbs-1	Heat-induced brown discoloration of seed coats
+1_0226	5	SNP	62.51 	Hbs-1	Heat-induced brown discoloration of seed coats
+1_0224	6	SNP	12.98 	Hbs-2	Heat-induced brown discoloration of seed coats
+1_0794	6	SNP	26.36 	Hbs-2	Heat-induced brown discoloration of seed coats
+1_0871	6	SNP	14.22 	Hbs-2	Heat-induced brown discoloration of seed coats
+1_1343	6	SNP	15.11 	Hbs-2	Heat-induced brown discoloration of seed coats
+1_1404	1	SNP	18.37 	Hbs-3	Heat-induced brown discoloration of seed coats
+1_1534	1	SNP	18.37 	Hbs-3	Heat-induced brown discoloration of seed coats
+1_0106	4	SNP	36.06 	Hls	Hastate leaf shape
+1_0349	4	SNP	50.79 	Hls	Hastate leaf shape
+1_0910	4	SNP	46.65 	Hls	Hastate leaf shape
+1_0992	4	SNP	47.27 	Hls	Hastate leaf shape
+1_1316	4	SNP	43.09 	Hls	Hastate leaf shape
+1_0551	2	SNP	68.76 	Mac-1	Resistance to Macrophomina phaseolina
+1_0709	2	SNP	70.89 	Mac-1	Resistance to Macrophomina phaseolina
+1_0070	3	SNP	11.22 	Mac-2	Resistance to Macrophomina phaseolina
+1_0667	3	SNP	13.56 	Mac-2	Resistance to Macrophomina phaseolina
+1_0604	3	SNP	70.80 	Mac-3	Resistance to Macrophomina phaseolina
+1_1075	3	SNP	71.48 	Mac-3	Resistance to Macrophomina phaseolina
+1_1087	3	SNP	73.53 	Mac-3	Resistance to Macrophomina phaseolina
+1_1109	3	SNP	72.56 	Mac-3	Resistance to Macrophomina phaseolina
+1_0201	3	SNP	102.74 	Mac-4	Resistance to Macrophomina phaseolina
+1_0464	3	SNP	104.61 	Mac-4	Resistance to Macrophomina phaseolina
+1_0707	3	SNP	100.40 	Mac-4	Resistance to Macrophomina phaseolina
+1_0776	3	SNP	106.52 	Mac-4	Resistance to Macrophomina phaseolina
+1_0079	3	SNP	120.93 	Mac-5	Resistance to Macrophomina phaseolina
+1_0121	3	SNP	106.34 	Mac-5	Resistance to Macrophomina phaseolina
+1_0304	4	SNP	60.95 	Mac-6	Resistance to Macrophomina phaseolina
+1_0398	4	SNP	52.43 	Mac-6	Resistance to Macrophomina phaseolina
+1_0699	4	SNP	55.15 	Mac-6	Resistance to Macrophomina phaseolina
+1_0804	4	SNP	58.22 	Mac-6	Resistance to Macrophomina phaseolina
+1_0117	4	SNP	42.29 	Mac-7	Resistance to Macrophomina phaseolina
+1_0153	4	SNP	29.40 	Mac-7	Resistance to Macrophomina phaseolina
+1_0678	4	SNP	39.08 	Mac-7	Resistance to Macrophomina phaseolina
+1_0030	5	SNP	42.56 	Mac-8	Resistance to Macrophomina phaseolina
+1_0662	5	SNP	37.90 	Mac-8	Resistance to Macrophomina phaseolina
+1_0032	5	SNP	59.38 	Mac-9	Resistance to Macrophomina phaseolina
+1_1533	5	SNP	56.19 	Mac-9	Resistance to Macrophomina phaseolina
+1_0357	1	SNP	15.02 	QAc-vu1.1	Resistance to Aphis craccivora
+1_1404	1	SNP	18.37 	QAc-vu1.1	Resistance to Aphis craccivora
+1_0391	7	SNP	27.85 	QAc-vu7.1	Resistance to Aphis craccivora
+1_0912	7	SNP	27.40 	QAc-vu7.1	Resistance to Aphis craccivora
+1_0060	10	SNP	53.95 	Qfld.zaas-10	Flowering time
+1_0140	10	SNP	38.59 	Qfld.zaas-10	Flowering time
+1_0759	10	SNP	39.82 	Qfld.zaas-10	Flowering time
+1_0960	10	SNP	51.96 	Qfld.zaas-10	Flowering time
+1_1049	10	SNP	27.96 	Qfld.zaas-10	Flowering time
+1_0274	11	SNP	38.41 	Qfld.zaas-11	Flowering time
+1_0274	11	SNP	38.41	Qls.zaas-11	Senescence
+1_0274	11	SNP	38.41	Qnff.zaas-11	Node of first flower
+1_0322	11	SNP	45.34 	Qfld.zaas-11	Flowering time
+1_0322	11	SNP	45.34	Qls.zaas-11	Senescence
+1_0322	11	SNP	45.34	Qnff.zaas-11	Node of first flower
+1_1417	11	SNP	27.16 	Qfld.zaas-11	Flowering time
+1_1417	11	SNP	27.16	Qls.zaas-11	Senescence
+1_1417	11	SNP	27.16	Qnff.zaas-11	Node of first flower
+1_0504	4	SNP	14.88 	Qnff.zaas-4	Node of first flower
+1_1034	4	SNP	3.31 	Qnff.zaas-4	Node of first flower
+2_02274	3	SNP	46.08 	Qpl.zaas-3	Pod length
+2_04960	3	SNP	44.79 	Qpl.zaas-3	Pod length
+2_17765	3	SNP	44.79 	Qpl.zaas-3	Pod length
+2_23724	3	SNP	44.79 	Qpl.zaas-3	Pod length
+2_23725	3	SNP	44.79 	Qpl.zaas-3	Pod length
+2_24595	3	SNP	44.79 	Qpl.zaas-3	Pod length
+2_25214	3	SNP	44.79 	Qpl.zaas-3	Pod length
+2_25215	3	SNP	44.79 	Qpl.zaas-3	Pod length
+2_26051	3	SNP	44.79 	Qpl.zaas-3	Pod length
+2_32458	3	SNP	44.79 	Qpl.zaas-3	Pod length
+2_36087	3	SNP	44.79 	Qpl.zaas-3	Pod length
+2_41026	3	SNP	44.79 	Qpl.zaas-3	Pod length
+2_44486	3	SNP	44.79 	Qpl.zaas-3	Pod length
+2_46273	3	SNP	44.79 	Qpl.zaas-3	Pod length
+2_49346	3	SNP	44.79 	Qpl.zaas-3	Pod length
+2_51786	3	SNP	44.79 	Qpl.zaas-3	Pod length
+2_54163	3	SNP	44.79 	Qpl.zaas-3	Pod length
+1_1130	5	SNP	75.47 	Qpl.zaas-5	Pod length
+2_01644	5	SNP	73.73 	Qpl.zaas-5	Pod length
+2_07408	5	SNP	66.40 	Qpl.zaas-5	Pod length
+2_09633	5	SNP	66.40 	Qpl.zaas-5	Pod length
+2_11712	5	SNP	66.40 	Qpl.zaas-5	Pod length
+2_11830	5	SNP	66.40 	Qpl.zaas-5	Pod length
+2_11831	5	SNP	66.40 	Qpl.zaas-5	Pod length
+2_12600	5	SNP	65.97 	Qpl.zaas-5	Pod length
+2_13813	5	SNP	65.97 	Qpl.zaas-5	Pod length
+2_14969	5	SNP	73.73 	Qpl.zaas-5	Pod length
+2_14970	5	SNP	73.73 	Qpl.zaas-5	Pod length
+2_19653	5	SNP	65.97 	Qpl.zaas-5	Pod length
+2_21040	5	SNP	66.40 	Qpl.zaas-5	Pod length
+2_22575	5	SNP	66.40 	Qpl.zaas-5	Pod length
+2_23361	5	SNP	73.73 	Qpl.zaas-5	Pod length
+2_23362	5	SNP	73.73 	Qpl.zaas-5	Pod length
+2_23751	5	SNP	66.40 	Qpl.zaas-5	Pod length
+2_28910	5	SNP	66.40 	Qpl.zaas-5	Pod length
+2_29184	5	SNP	65.97 	Qpl.zaas-5	Pod length
+1_0938	3	SNP	70.80 	Qpn.zaas-3	Pod number per plant
+1_1075	3	SNP	71.48 	Qpn.zaas-3	Pod number per plant
+1_0702	11	SNP	1.41 	RKN	Resistance to root-knot nematodes
+1_0757	11	SNP	15.11 	RKN	Resistance to root-knot nematodes
+1_0894	11	SNP	6.76 	RKN	Resistance to root-knot nematodes
+1_1390	11	SNP	15.28 	RKN	Resistance to root-knot nematodes
+2_02385	1	SNP	63.22 	SNP-PL.1	Pod length
+2_09611	1	SNP	63.41 	SNP-PL.1	Pod length
+2_13525	1	SNP	63.60 	SNP-PL.1	Pod length
+2_13526	1	SNP	63.60 	SNP-PL.1	Pod length
+2_14400	1	SNP	63.22 	SNP-PL.1	Pod length
+2_15915	1	SNP	14.09 	SNP-PL.1	Pod length
+2_17062	1	SNP	14.57 	SNP-PL.1	Pod length
+2_17063	1	SNP	14.57 	SNP-PL.1	Pod length
+2_17551	1	SNP	63.80 	SNP-PL.1	Pod length
+2_18147	1	SNP	14.57 	SNP-PL.1	Pod length
+2_18148	1	SNP	14.57 	SNP-PL.1	Pod length
+2_18473	1	SNP	63.22 	SNP-PL.1	Pod length
+2_19577	1	SNP	63.60 	SNP-PL.1	Pod length
+2_19945	1	SNP	63.22 	SNP-PL.1	Pod length
+2_21689	1	SNP	14.57 	SNP-PL.1	Pod length
+2_23151	1	SNP	63.22 	SNP-PL.1	Pod length
+2_29462	1	SNP	63.60 	SNP-PL.1	Pod length
+2_29881	1	SNP	63.60 	SNP-PL.1	Pod length
+2_30682	1	SNP	43.06 	SNP-PL.1	Pod length
+2_31820	1	SNP	63.22 	SNP-PL.1	Pod length
+2_32254	1	SNP	63.22 	SNP-PL.1	Pod length
+2_32308	1	SNP	63.22 	SNP-PL.1	Pod length
+2_33026	1	SNP	63.22 	SNP-PL.1	Pod length
+2_37017	1	SNP	63.60 	SNP-PL.1	Pod length
+2_50573	1	SNP	63.22 	SNP-PL.1	Pod length
+2_52909	1	SNP	63.60 	SNP-PL.1	Pod length
+2_53769	1	SNP	63.22 	SNP-PL.1	Pod length
+2_01441	2	SNP	56.92 	SNP-PL.2	Pod length
+2_40107	2	SNP	56.92 	SNP-PL.2	Pod length
+2_39098	3	SNP	54.49 	SNP-PL.3	Pod length
+2_39758	3	SNP	54.99 	SNP-PL.3	Pod length
+2_00103	4	SNP	5.67 	SNP-PL.4	Pod length
+2_04267	4	SNP	5.86 	SNP-PL.4	Pod length
+2_07745	4	SNP	8.08 	SNP-PL.4	Pod length
+2_16948	4	SNP	5.67 	SNP-PL.4	Pod length
+2_18817	4	SNP	5.67 	SNP-PL.4	Pod length
+2_33395	4	SNP	8.83 	SNP-PL.4	Pod length
+2_40216	4	SNP	47.27 	SNP-PL.4	Pod length
+2_48570	4	SNP	5.86 	SNP-PL.4	Pod length
+2_20313	5	SNP	54.45 	SNP-PL.5	Pod length
+2_23977	5	SNP	62.51 	SNP-PL.5	Pod length
+2_38008	5	SNP	44.87 	SNP-PL.5	Pod length
+2_02170	6	SNP	30.95 	SNP-PL.6	Pod length
+2_07709	6	SNP	4.71 	SNP-PL.6	Pod length
+2_08862	6	SNP	5.32 	SNP-PL.6	Pod length
+2_08863	6	SNP	5.32 	SNP-PL.6	Pod length
+2_19425	6	SNP	4.71 	SNP-PL.6	Pod length
+2_08963	9	SNP	39.48 	SNP-PL.9	Pod length
+2_24744	10	SNP	42.64 	SNP-PL.10	Pod length
+2_45590	10	SNP	46.34 	SNP-PL.10	Pod length
+2_46448	10	SNP	43.32 	SNP-PL.10	Pod length
+2_47322	10	SNP	43.32 	SNP-PL.10	Pod length
+2_15062	11	SNP	49.45 	SNP-PL.11	Pod length
+2_38264	11	SNP	29.35 	SNP-PL.11	Pod length
+2_41675	11	SNP	31.49 	SNP-PL.11	Pod length
+1_0029	1	SNP	76.59	Dro-7.1.bm	Biomass
+1_0029	1	SNP	76.59	Dro-7.1.pw	Pod weight per plant
+1_0029	1	SNP	76.59	Dro-7.1.sw	Seed weight per plant
+1_0029	1	SNP	76.59	Dro-7.1.sw100	100-seed weight
+1_0589	2	SNP	17.96	Dro-7.2.bm	Biomass
+1_0589	2	SNP	17.96	Dro-7.2.gy	Grain yield
+1_0067	3	SNP	25.00	Dro-7.3.bm	Biomass
+1_0067	3	SNP	25.00	Dro-7.3.se	Senescence
+1_0296	3	SNP	92.53	Dro-7.3.bm	Biomass
+1_0296	3	SNP	92.53	Dro-7.3.se	Senescence
+1_0888	4	SNP	1.20	Dro-7.4.pw	Pod weight per plant
+1_0888	4	SNP	1.20	Dro-7.4.sw	Seed weight per plant
+1_0049	5	SNP	3.96	Dro-7.5.gy	Grain yield
+1_0108	7	SNP	20.71	Dro-1.bm	Biomass
+1_0108	7	SNP	20.71	Dro-1.gy	Grain yield
+1_0108	7	SNP	20.71	Dro-1.se	Senescence
+1_0983	7	SNP	26.19	Dro-1.bm	Biomass
+1_0983	7	SNP	26.19	Dro-1.gy	Grain yield
+1_0983	7	SNP	26.19	Dro-1.se	Senescence
+1_1150	7	SNP	20.71	Dro-1.bm	Biomass
+1_1150	7	SNP	20.71	Dro-1.gy	Grain yield
+1_1150	7	SNP	20.71	Dro-1.se	Senescence
+1_0140	10	SNP	38.59	Dro-3.gy	Grain yield
+1_0140	10	SNP	38.59	Dro-3.pn	Pod number per plant
+1_0140	10	SNP	38.59	Dro-3.sn	Seed number per pod
+1_0140	10	SNP	38.59	Dro-3.se	Senescence
+1_0759	10	SNP	39.82	Dro-3.gy	Grain yield
+1_0759	10	SNP	39.82	Dro-3.pn	Pod number per plant
+1_0759	10	SNP	39.82	Dro-3.sn	Seed number per pod
+1_0759	10	SNP	39.82	Dro-3.se	Senescence
+1_1405	10	SNP	42.64	Dro-3.gy	Grain yield
+1_1405	10	SNP	42.64	Dro-3.pn	Pod number per plant
+1_1405	10	SNP	42.64	Dro-3.sn	Seed number per pod
+1_1405	10	SNP	42.64	Dro-3.se	Senescence

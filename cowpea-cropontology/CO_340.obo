@@ -1,0 +1,8899 @@
+format-version: 1.2
+ontology: Cowpea_ontology
+
+[Term]
+id: CO_340:ROOT
+name: Cowpea
+
+[Term]
+id: CO_340:Quality traits
+name: Quality traits
+is_a: CO_340:ROOT
+
+[Term]
+id: CO_340:Phenological traits
+name: Phenological traits
+is_a: CO_340:ROOT
+
+[Term]
+id: CO_340:Morphological traits
+name: Morphological traits
+is_a: CO_340:ROOT
+
+[Term]
+id: CO_340:Biotic stress traits
+name: Biotic stress traits
+is_a: CO_340:ROOT
+
+[Term]
+id: CO_340:Agronomical traits
+name: Agronomical traits
+is_a: CO_340:ROOT
+
+[Term]
+id: CO_340:Abiotic stress traits
+name: Abiotic stress traits
+is_a: CO_340:ROOT
+
+[Term]
+id: CO_340:0007645
+name: Floral abscision
+namespace: CowpeaTrait
+def: "Floral abscision" []
+synonym: "DTFLWRAB" EXACT []
+is_a: CO_340:Abiotic stress traits
+
+[Term]
+id: CO_340:0006644
+name: Biomass at Maturity
+namespace: CowpeaTrait
+def: "Fodder biomass i.e., above ground biomass excluding the pods, at 90% maturity" []
+synonym: "FODMAT" EXACT []
+is_a: CO_340:Agronomical traits
+
+[Term]
+id: CO_340:0005643
+name: Seed weight
+namespace: CowpeaTrait
+def: "Weight of seeds" []
+synonym: "SdWt" EXACT []
+is_a: CO_340:Agronomical traits
+
+[Term]
+id: CO_340:0004642
+name: Fodder biomass at Flowering
+namespace: CowpeaTrait
+def: "Fodder biomass i.e., above ground biomass excluding the pods, at 50% Flowering" []
+synonym: "FODMID" EXACT []
+is_a: CO_340:Agronomical traits
+
+[Term]
+id: CO_340:0003641
+name: Pod yield
+namespace: CowpeaTrait
+def: "Weight of harvested pods" []
+synonym: "PODWT" EXACT []
+is_a: CO_340:Agronomical traits
+
+[Term]
+id: CO_340:0002640
+name: Bacterial blight (X. vignicola) severity
+namespace: CowpeaTrait
+def: "Severity of the bacteria blight symptoms caused by X. vignicola" []
+synonym: "BCTBLT" EXACT []
+is_a: CO_340:Biotic stress traits
+
+[Term]
+id: CO_340:0000999
+name: FFodWt_Meas_g
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000614
+relationship: variable_of CO_340:0000615
+relationship: variable_of CO_340:0000616
+
+[Term]
+id: CO_340:0000998
+name: AshStmR_Est_0to4
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000611
+relationship: variable_of CO_340:0000612
+relationship: variable_of CO_340:0000613
+
+[Term]
+id: CO_340:0000997
+name: LFHV
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000602
+relationship: variable_of CO_340:0000603
+relationship: variable_of CO_340:0000604
+
+[Term]
+id: CO_340:0000996
+name: Wasps_xxx_xxx
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000596
+relationship: variable_of CO_340:0000597
+relationship: variable_of CO_340:0000598
+
+[Term]
+id: CO_340:0000995
+name: HillNo_Count_Hill
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000587
+relationship: variable_of CO_340:0000588
+relationship: variable_of CO_340:0000589
+
+[Term]
+id: CO_340:0000994
+name: LfRustInf_Est_0to4
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000584
+relationship: variable_of CO_340:0000585
+relationship: variable_of CO_340:0000586
+
+[Term]
+id: CO_340:0000993
+name: DPlntNo_Count_Plnt
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000581
+relationship: variable_of CO_340:0000582
+relationship: variable_of CO_340:0000583
+
+[Term]
+id: CO_340:0000992
+name: LfProtCt_Meas_mgg
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000875
+relationship: variable_of CO_340:0000576
+relationship: variable_of CO_340:0000577
+
+[Term]
+id: CO_340:0000991
+name: GrProtCt_Meas_mgg
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000575
+relationship: variable_of CO_340:0000576
+relationship: variable_of CO_340:0000577
+
+[Term]
+id: CO_340:0000990
+name: PhomaInf_Est_0to4
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000572
+relationship: variable_of CO_340:0000573
+relationship: variable_of CO_340:0000574
+
+[Term]
+id: CO_340:0000989
+name: PlntHt_Av_cm
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000569
+relationship: variable_of CO_340:0000570
+relationship: variable_of CO_340:0000571
+
+[Term]
+id: CO_340:0000988
+name: LfWt_Sum_g
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000566
+relationship: variable_of CO_340:0000567
+relationship: variable_of CO_340:0000568
+
+[Term]
+id: CO_340:0000987
+name: LfSptInf_Est_0to4
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000563
+relationship: variable_of CO_340:0000564
+relationship: variable_of CO_340:0000565
+
+[Term]
+id: CO_340:0000986
+name: GSucrCt_Meas_Read
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000548
+relationship: variable_of CO_340:0000549
+relationship: variable_of CO_340:0000550
+
+[Term]
+id: CO_340:0000985
+name: PodScbInf_Est_0to4
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000494
+relationship: variable_of CO_340:0000495
+relationship: variable_of CO_340:0000496
+
+[Term]
+id: CO_340:0000984
+name: LfScbInf_Est_0to4
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000545
+relationship: variable_of CO_340:0000546
+relationship: variable_of CO_340:0000547
+
+[Term]
+id: CO_340:0000983
+name: SmutInf_Est_0to4
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000539
+relationship: variable_of CO_340:0000540
+relationship: variable_of CO_340:0000541
+
+[Term]
+id: CO_340:0000982
+name: StrgWt_Av_g
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000626
+relationship: variable_of CO_340:0000627
+relationship: variable_of CO_340:0000810
+
+[Term]
+id: CO_340:0000981
+name: StrgHt_Av_cm
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000650
+relationship: variable_of CO_340:0000727
+relationship: variable_of CO_340:0000809
+
+[Term]
+id: CO_340:0000980
+name: StrNo_Count9Wk_Striga
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000320
+relationship: variable_of CO_340:0000726
+relationship: variable_of CO_340:0000808
+
+[Term]
+id: CO_340:0000979
+name: StrParPlnt_Count_Plnt
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000359
+relationship: variable_of CO_340:0000725
+relationship: variable_of CO_340:0000807
+
+[Term]
+id: CO_340:0000978
+name: StrNo_CountWk_Striga
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000320
+relationship: variable_of CO_340:0000724
+relationship: variable_of CO_340:0000806
+
+[Term]
+id: CO_340:0000977
+name: Str1EmDat_Meas_Date
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000536
+relationship: variable_of CO_340:0000537
+relationship: variable_of CO_340:0000805
+
+[Term]
+id: CO_340:0000976
+name: StrInf_Est_0to4
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000649
+relationship: variable_of CO_340:0000723
+relationship: variable_of CO_340:0000804
+
+[Term]
+id: CO_340:0000975
+name: PodEmerT_1PCount_d
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000533
+relationship: variable_of CO_340:0000534
+relationship: variable_of CO_340:0000535
+
+[Term]
+id: CO_340:0000974
+name: DFodYd_Comp_kgha
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000608
+relationship: variable_of CO_340:0000609
+relationship: variable_of CO_340:0000610
+
+[Term]
+id: CO_340:0000973
+name: DFodWt_Week_g
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000530
+relationship: variable_of CO_340:0000531
+relationship: variable_of CO_340:0000532
+
+[Term]
+id: CO_340:0000972
+name: ChlCt_Meas_Score
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000509
+relationship: variable_of CO_340:0000510
+relationship: variable_of CO_340:0000511
+
+[Term]
+id: CO_340:0000971
+name: JRtNemDam_Est_undefined
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000503
+relationship: variable_of CO_340:0000504
+relationship: variable_of CO_340:0000505
+
+[Term]
+id: CO_340:0000970
+name: PodFWt_Meas_g
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000500
+relationship: variable_of CO_340:0000501
+relationship: variable_of CO_340:0000502
+
+[Term]
+id: CO_340:0000969
+name: PhytmInf_Est_0to4
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000497
+relationship: variable_of CO_340:0000498
+relationship: variable_of CO_340:0000499
+
+[Term]
+id: CO_340:0000968
+name: CookT_Meas_min
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000476
+relationship: variable_of CO_340:0000477
+relationship: variable_of CO_340:0000478
+
+[Term]
+id: CO_340:0000967
+name: GwthHab_Est_1to5
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000467
+relationship: variable_of CO_340:0000468
+relationship: variable_of CO_340:0000469
+
+[Term]
+id: CO_340:0000966
+name: LygusBDam_Est_0to4
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000443
+relationship: variable_of CO_340:0000444
+relationship: variable_of CO_340:0000445
+
+[Term]
+id: CO_340:0000965
+name: MacrophSev_Est_0to4
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000440
+relationship: variable_of CO_340:0000441
+relationship: variable_of CO_340:0000442
+
+[Term]
+id: CO_340:0000964
+name: PodCol_Est_1to3
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000437
+relationship: variable_of CO_340:0000438
+relationship: variable_of CO_340:0000439
+
+[Term]
+id: CO_340:0000963
+name: CanHt_Meas_cm
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000434
+relationship: variable_of CO_340:0000435
+relationship: variable_of CO_340:0000436
+
+[Term]
+id: CO_340:0000962
+name: FlwCol_Est_1to4
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000431
+relationship: variable_of CO_340:0000432
+relationship: variable_of CO_340:0000433
+
+[Term]
+id: CO_340:0000961
+name: AlctWt_Av_g
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000648
+relationship: variable_of CO_340:0000722
+relationship: variable_of CO_340:0000803
+
+[Term]
+id: CO_340:0000960
+name: AlHt_Av_cm
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000647
+relationship: variable_of CO_340:0000721
+relationship: variable_of CO_340:0000802
+
+[Term]
+id: CO_340:0000959
+name: AlecNo_Count9Wk_Alec
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000632
+relationship: variable_of CO_340:0000633
+relationship: variable_of CO_340:0000801
+
+[Term]
+id: CO_340:0000958
+name: AlecParPlnt_Count_Alec
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000646
+relationship: variable_of CO_340:0000720
+relationship: variable_of CO_340:0000800
+
+[Term]
+id: CO_340:0000957
+name: AlecNo_CountWk_Alec
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000632
+relationship: variable_of CO_340:0000719
+relationship: variable_of CO_340:0000799
+
+[Term]
+id: CO_340:0000956
+name: AlecEmDat_Meas_Date
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000645
+relationship: variable_of CO_340:0000718
+relationship: variable_of CO_340:0000798
+
+[Term]
+id: CO_340:0000955
+name: AlecInf_Est_0to4
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000425
+relationship: variable_of CO_340:0000426
+relationship: variable_of CO_340:0000427
+
+[Term]
+id: CO_340:0000954
+name: CrcspDam_Est_1to5
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000422
+relationship: variable_of CO_340:0000423
+relationship: variable_of CO_340:0000424
+
+[Term]
+id: CO_340:0000953
+name: SdShp_Est_1to5
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000419
+relationship: variable_of CO_340:0000420
+relationship: variable_of CO_340:0000421
+
+[Term]
+id: CO_340:0000952
+name: SdCCol_Est_1to7
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000416
+relationship: variable_of CO_340:0000417
+relationship: variable_of CO_340:0000418
+
+[Term]
+id: CO_340:0000951
+name: SdCTex_Est_1to3
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000413
+relationship: variable_of CO_340:0000414
+relationship: variable_of CO_340:0000415
+
+[Term]
+id: CO_340:0000950
+name: AnthrDam_Est_0to4
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000410
+relationship: variable_of CO_340:0000411
+relationship: variable_of CO_340:0000412
+
+[Term]
+id: CO_340:0000949
+name: DPllntProp_Comp_Pct
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000404
+relationship: variable_of CO_340:0000405
+relationship: variable_of CO_340:0000406
+
+[Term]
+id: CO_340:0000948
+name: PodLng_Av_cm
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000401
+relationship: variable_of CO_340:0000402
+relationship: variable_of CO_340:0000403
+
+[Term]
+id: CO_340:0000947
+name: SeptSev_Est_0to4
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000398
+relationship: variable_of CO_340:0000399
+relationship: variable_of CO_340:0000400
+
+[Term]
+id: CO_340:0000946
+name: PigBleed_Est_0to4
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000395
+relationship: variable_of CO_340:0000396
+relationship: variable_of CO_340:0000397
+
+[Term]
+id: CO_340:0000945
+name: TermInf_Est_undefined
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000392
+relationship: variable_of CO_340:0000393
+relationship: variable_of CO_340:0000394
+
+[Term]
+id: CO_340:0000944
+name: LfThripDam_Est_undefined
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000428
+relationship: variable_of CO_340:0000429
+relationship: variable_of CO_340:0000430
+
+[Term]
+id: CO_340:0000943
+name: ThrpDamFlw_Est_1to9
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000644
+relationship: variable_of CO_340:0000717
+relationship: variable_of CO_340:0000797
+
+[Term]
+id: CO_340:0000942
+name: ThrpDamStpl_Est_0to4
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000389
+relationship: variable_of CO_340:0000390
+relationship: variable_of CO_340:0000391
+
+[Term]
+id: CO_340:0000941
+name: MarDam_EstPct_1to9
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000308
+relationship: variable_of CO_340:0000716
+relationship: variable_of CO_340:0000796
+
+[Term]
+id: CO_340:0000940
+name: MarDam_EstDeg_1to9
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000308
+relationship: variable_of CO_340:0000715
+relationship: variable_of CO_340:0000795
+
+[Term]
+id: CO_340:0000939
+name: EmpDam_Est_1to9
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000643
+relationship: variable_of CO_340:0000714
+relationship: variable_of CO_340:0000794
+
+[Term]
+id: CO_340:0000938
+name: AphSev_EstComp_0to9
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000642
+relationship: variable_of CO_340:0000713
+relationship: variable_of CO_340:0000793
+
+[Term]
+id: CO_340:0000937
+name: AphInc_Est_Pct
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000641
+relationship: variable_of CO_340:0000712
+relationship: variable_of CO_340:0000792
+
+[Term]
+id: CO_340:0000936
+name: AphDam_Est_0to4
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000386
+relationship: variable_of CO_340:0000387
+relationship: variable_of CO_340:0000388
+
+[Term]
+id: CO_340:0000935
+name: FusWltR4_Est_0to4
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000383
+relationship: variable_of CO_340:0000384
+relationship: variable_of CO_340:0000385
+
+[Term]
+id: CO_340:0000934
+name: FusWltR3_Est_0to4
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000380
+relationship: variable_of CO_340:0000381
+relationship: variable_of CO_340:0000382
+
+[Term]
+id: CO_340:0000933
+name: StrEmDat_Meas_Date
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000314
+relationship: variable_of CO_340:0000315
+relationship: variable_of CO_340:0000316
+
+[Term]
+id: CO_340:0000932
+name: Thrs_Comp_Pct
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000374
+relationship: variable_of CO_340:0000375
+relationship: variable_of CO_340:0000376
+
+[Term]
+id: CO_340:0000931
+name: StmRtDam_Est_1to5
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000368
+relationship: variable_of CO_340:0000369
+relationship: variable_of CO_340:0000370
+
+[Term]
+id: CO_340:0000930
+name: WebBDam_Est_1to5
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000365
+relationship: variable_of CO_340:0000366
+relationship: variable_of CO_340:0000367
+
+[Term]
+id: CO_340:0000929
+name: ThripResFlw_Est_1to9
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000362
+relationship: variable_of CO_340:0000363
+relationship: variable_of CO_340:0000364
+
+[Term]
+id: CO_340:0000928
+name: StrParPlnt_Est_1to5
+synonym: "StrRes_Est_1to5" EXACT []
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000359
+relationship: variable_of CO_340:0000360
+relationship: variable_of CO_340:0000361
+
+[Term]
+id: CO_340:0000927
+name: PodPlnt_Av_PodPlnt
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000356
+relationship: variable_of CO_340:0000357
+relationship: variable_of CO_340:0000358
+
+[Term]
+id: CO_340:0000926
+name: MatT_1PCount_d
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000236
+relationship: variable_of CO_340:0000345
+relationship: variable_of CO_340:0000346
+
+[Term]
+id: CO_340:0000925
+name: Tto1MatPod_Count_d
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000344
+relationship: variable_of CO_340:0000345
+relationship: variable_of CO_340:0000346
+
+[Term]
+id: CO_340:0000924
+name: FlwT_FFlwCount_d
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000233
+relationship: variable_of CO_340:0000342
+relationship: variable_of CO_340:0000343
+
+[Term]
+id: CO_340:0000923
+name: Tto1Flw_Count_d
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000341
+relationship: variable_of CO_340:0000342
+relationship: variable_of CO_340:0000343
+
+[Term]
+id: CO_340:0000922
+name: BactPustDam_Est_1to5
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000338
+relationship: variable_of CO_340:0000339
+relationship: variable_of CO_340:0000340
+
+[Term]
+id: CO_340:0000921
+name: BECMVSev_Est_0to4
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000323
+relationship: variable_of CO_340:0000324
+relationship: variable_of CO_340:0000325
+
+[Term]
+id: CO_340:0000920
+name: StrNo_CountHvst_Striga
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000320
+relationship: variable_of CO_340:0000321
+relationship: variable_of CO_340:0000322
+
+[Term]
+id: CO_340:0000919
+name: PodSBSev_Est_0to4
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000317
+relationship: variable_of CO_340:0000318
+relationship: variable_of CO_340:0000319
+
+[Term]
+id: CO_340:0000918
+name: MarDam_EstSymp_1to4
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000308
+relationship: variable_of CO_340:0000309
+relationship: variable_of CO_340:0000310
+
+[Term]
+id: CO_340:0000917
+name: PodNo_Av_PodPed
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000302
+relationship: variable_of CO_340:0000303
+relationship: variable_of CO_340:0000304
+
+[Term]
+id: CO_340:0000916
+name: ThrpDamPod_Est_0to4
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000299
+relationship: variable_of CO_340:0000300
+relationship: variable_of CO_340:0000301
+
+[Term]
+id: CO_340:0000915
+name: CAMVSev_Est0to4
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000296
+relationship: variable_of CO_340:0000297
+relationship: variable_of CO_340:0000298
+
+[Term]
+id: CO_340:0000914
+name: HI_Comp_ratio
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000293
+relationship: variable_of CO_340:0000294
+relationship: variable_of CO_340:0000295
+
+[Term]
+id: CO_340:0000913
+name: StrRes_Est_1to5
+synonym: "StrParPlnt_Est_1to5" EXACT []
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000290
+relationship: variable_of CO_340:0000291
+relationship: variable_of CO_340:0000292
+
+[Term]
+id: CO_340:0000912
+name: BrBltchInf_Est_0to4
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000281
+relationship: variable_of CO_340:0000282
+relationship: variable_of CO_340:0000283
+
+[Term]
+id: CO_340:0000911
+name: VirSev_Est_Pct
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000278
+relationship: variable_of CO_340:0000279
+relationship: variable_of CO_340:0000280
+
+[Term]
+id: CO_340:0000910
+name: VirSev_Est_1to5
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000275
+relationship: variable_of CO_340:0000276
+relationship: variable_of CO_340:0000277
+
+[Term]
+id: CO_340:0000909
+name: SdCPat_Est_1to6
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000272
+relationship: variable_of CO_340:0000273
+relationship: variable_of CO_340:0000274
+
+[Term]
+id: CO_340:0000908
+name: SdSen_Est_0to4
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000269
+relationship: variable_of CO_340:0000270
+relationship: variable_of CO_340:0000271
+
+[Term]
+id: CO_340:0000907
+name: HvstLf_Wgh_g
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000640
+relationship: variable_of CO_340:0000711
+relationship: variable_of CO_340:0000791
+
+[Term]
+id: CO_340:0000906
+name: FlwAbsc_Est_0to4
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0007645
+relationship: variable_of CO_340:0000267
+relationship: variable_of CO_340:0000268
+
+[Term]
+id: CO_340:0000905
+name: BiomDWtMat_Av_g
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0006644
+relationship: variable_of CO_340:0000264
+relationship: variable_of CO_340:0000265
+
+[Term]
+id: CO_340:0000904
+name: SdWt_Wgh_g
+synonym: "100SDWT" EXACT []
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0005643
+relationship: variable_of CO_340:0000261
+relationship: variable_of CO_340:0000262
+
+[Term]
+id: CO_340:0000903
+name: BiomDWtFlw_Av_g
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0004642
+relationship: variable_of CO_340:0000258
+relationship: variable_of CO_340:0000259
+
+[Term]
+id: CO_340:0000902
+name: PodYld_Wgh_g
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0003641
+relationship: variable_of CO_340:0000255
+relationship: variable_of CO_340:0000256
+
+[Term]
+id: CO_340:0000901
+name: BBSev_Est_0to4
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0002640
+relationship: variable_of CO_340:0000252
+relationship: variable_of CO_340:0000253
+
+[Term]
+id: CO_340:0000900
+name: PlntStEmg_Count_Plnt
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000639
+relationship: variable_of CO_340:0000710
+relationship: variable_of CO_340:0000790
+
+[Term]
+id: CO_340:0000899
+name: PlntStHvst_Count_Plnt
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000248
+relationship: variable_of CO_340:0000249
+relationship: variable_of CO_340:0000250
+
+[Term]
+id: CO_340:0000898
+name: GrYld_Plnt_g
+synonym: "YLDPLOT" EXACT []
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000638
+relationship: variable_of CO_340:0000873
+relationship: variable_of CO_340:0000874
+
+[Term]
+id: CO_340:0000897
+name: GrYld_PerPlot_g
+synonym: "YLDPLOT" EXACT []
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000638
+relationship: variable_of CO_340:0000246
+relationship: variable_of CO_340:0000247
+
+[Term]
+id: CO_340:0000896
+name: GrYld_PerPlnt_gPlnt
+synonym: "YLDPLANT" EXACT []
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000638
+relationship: variable_of CO_340:0000243
+relationship: variable_of CO_340:0000244
+
+[Term]
+id: CO_340:0000895
+name: YLDPLOT
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000245
+relationship: variable_of CO_340:0000246
+relationship: variable_of CO_340:0000247
+
+[Term]
+id: CO_340:0000894
+name: YLDPLANT
+synonym: "GrYld_PerPlnt_gPlnt" EXACT []
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000242
+relationship: variable_of CO_340:0000243
+relationship: variable_of CO_340:0000244
+
+[Term]
+id: CO_340:0000893
+name: SdPod_Av_sdpod
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000239
+relationship: variable_of CO_340:0000240
+relationship: variable_of CO_340:0000241
+
+[Term]
+id: CO_340:0000892
+name: MatT_95MatCount_days
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000236
+relationship: variable_of CO_340:0000237
+relationship: variable_of CO_340:0000238
+
+[Term]
+id: CO_340:0000891
+name: FlwT_50FlwCount_days
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000233
+relationship: variable_of CO_340:0000234
+relationship: variable_of CO_340:0000235
+
+[Term]
+id: CO_340:0000890
+name: Iron concentration
+namespace: CowpeaTrait
+def: "Iron concentration in the leaf" []
+synonym: "ICONC" EXACT []
+is_a: CO_340:Quality traits
+
+[Term]
+id: CO_340:0000879
+name: Zinc concentration
+namespace: CowpeaTrait
+def: "Zinc concentration in the leaf" []
+synonym: "ZNCONC" EXACT []
+is_a: CO_340:Quality traits
+
+[Term]
+id: CO_340:0000878
+name: g
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000877
+
+[Term]
+id: CO_340:0000877
+name: Nodule dry weight - Method
+namespace: CowpeaMethod
+def: "Average dry weight of nodule from 10 plants per experimental unit" []
+relationship: method_of CO_340:0000617
+
+[Term]
+id: CO_340:0000875
+name: Leaf protein content
+namespace: CowpeaTrait
+def: "Protein content of the leaf" []
+synonym: "PROTEIN" EXACT []
+is_a: CO_340:Quality traits
+
+[Term]
+id: CO_340:0000874
+name: g
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000873
+
+[Term]
+id: CO_340:0000873
+name: Grain yield of a single plant - Method
+namespace: CowpeaMethod
+def: "Actual measurement of the weight of the grain harvested from a representative plant of a plot" []
+relationship: method_of CO_340:0000638
+
+[Term]
+id: CO_340:0000872
+name: lateral roots
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000789
+
+[Term]
+id: CO_340:0000871
+name: lateral roots
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000788
+
+[Term]
+id: CO_340:0000870
+name: mm
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000787
+
+[Term]
+id: CO_340:0000869
+name: mm
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000786
+
+[Term]
+id: CO_340:0000868
+name: mm
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000785
+
+[Term]
+id: CO_340:0000867
+name: 1-9 nodulation score
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000784
+
+[Term]
+id: CO_340:0000867/1
+name: Low
+namespace: CowpeaScale
+synonym: "1" EXACT []
+is_a: CO_340:0000867
+
+
+[Term]
+id: CO_340:0000867/4
+name: 
+namespace: CowpeaScale
+synonym: "4" EXACT []
+is_a: CO_340:0000867
+
+
+[Term]
+id: CO_340:0000867/5
+name: 
+namespace: CowpeaScale
+synonym: "5" EXACT []
+is_a: CO_340:0000867
+
+
+[Term]
+id: CO_340:0000867/2
+name: 
+namespace: CowpeaScale
+synonym: "2" EXACT []
+is_a: CO_340:0000867
+
+
+[Term]
+id: CO_340:0000867/3
+name: 
+namespace: CowpeaScale
+synonym: "3" EXACT []
+is_a: CO_340:0000867
+
+
+[Term]
+id: CO_340:0000867/8
+name: 
+namespace: CowpeaScale
+synonym: "8" EXACT []
+is_a: CO_340:0000867
+
+
+[Term]
+id: CO_340:0000867/9
+name: high
+namespace: CowpeaScale
+synonym: "9" EXACT []
+is_a: CO_340:0000867
+
+
+[Term]
+id: CO_340:0000867/6
+name: 
+namespace: CowpeaScale
+synonym: "6" EXACT []
+is_a: CO_340:0000867
+
+
+[Term]
+id: CO_340:0000867/7
+name: 
+namespace: CowpeaScale
+synonym: "7" EXACT []
+is_a: CO_340:0000867
+
+
+[Term]
+id: CO_340:0000866
+name: 1-9 density score
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000783
+
+[Term]
+id: CO_340:0000866/1
+name: Low
+namespace: CowpeaScale
+synonym: "1" EXACT []
+is_a: CO_340:0000866
+
+
+[Term]
+id: CO_340:0000866/4
+name: 
+namespace: CowpeaScale
+synonym: "4" EXACT []
+is_a: CO_340:0000866
+
+
+[Term]
+id: CO_340:0000866/5
+name: 
+namespace: CowpeaScale
+synonym: "5" EXACT []
+is_a: CO_340:0000866
+
+
+[Term]
+id: CO_340:0000866/2
+name: 
+namespace: CowpeaScale
+synonym: "2" EXACT []
+is_a: CO_340:0000866
+
+
+[Term]
+id: CO_340:0000866/3
+name: 
+namespace: CowpeaScale
+synonym: "3" EXACT []
+is_a: CO_340:0000866
+
+
+[Term]
+id: CO_340:0000866/8
+name: 
+namespace: CowpeaScale
+synonym: "8" EXACT []
+is_a: CO_340:0000866
+
+
+[Term]
+id: CO_340:0000866/9
+name: high
+namespace: CowpeaScale
+synonym: "9" EXACT []
+is_a: CO_340:0000866
+
+
+[Term]
+id: CO_340:0000866/6
+name: 
+namespace: CowpeaScale
+synonym: "6" EXACT []
+is_a: CO_340:0000866
+
+
+[Term]
+id: CO_340:0000866/7
+name: 
+namespace: CowpeaScale
+synonym: "7" EXACT []
+is_a: CO_340:0000866
+
+
+[Term]
+id: CO_340:0000865
+name: roots
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000782
+
+[Term]
+id: CO_340:0000864
+name: basal roots
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000781
+
+[Term]
+id: CO_340:0000863
+name: adventitious roots
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000780
+
+[Term]
+id: CO_340:0000862
+name: lateral roots
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000779
+
+[Term]
+id: CO_340:0000861
+name: lateral roots
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000778
+
+[Term]
+id: CO_340:0000860
+name: adventitious roots
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000777
+
+[Term]
+id: CO_340:0000859
+name: Basal roots
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000776
+
+[Term]
+id: CO_340:0000858
+name: No scale name found
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000775
+
+[Term]
+id: CO_340:0000857
+name: No scale name found
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000774
+
+[Term]
+id: CO_340:0000856
+name: No scale name found
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000773
+
+[Term]
+id: CO_340:0000855
+name: mm
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000772
+
+[Term]
+id: CO_340:0000854
+name: Degree
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000771
+
+[Term]
+id: CO_340:0000853
+name: Degree
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000770
+
+[Term]
+id: CO_340:0000852
+name: 0-1 score
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000769
+
+[Term]
+id: CO_340:0000852/2
+name:  Testa firmly attached to seed
+namespace: CowpeaScale
+synonym: "1" EXACT []
+is_a: CO_340:0000852
+
+
+[Term]
+id: CO_340:0000852/1
+name:  Testa not firmly attached to seed
+namespace: CowpeaScale
+synonym: "0" EXACT []
+is_a: CO_340:0000852
+
+
+[Term]
+id: CO_340:0000851
+name: 0-1 score
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000768
+
+[Term]
+id: CO_340:0000851/2
+name: Present (testa split exposing cotyledons)
+namespace: CowpeaScale
+synonym: "1 " EXACT []
+is_a: CO_340:0000851
+
+
+[Term]
+id: CO_340:0000851/1
+name:  Absent
+namespace: CowpeaScale
+synonym: "0" EXACT []
+is_a: CO_340:0000851
+
+
+[Term]
+id: CO_340:0000850
+name: 1-7 score
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000767
+
+[Term]
+id: CO_340:0000850/1
+name:  Not crowded (no compression of seed ends)
+namespace: CowpeaScale
+synonym: "0" EXACT []
+is_a: CO_340:0000850
+
+
+[Term]
+id: CO_340:0000850/4
+name:  Semi–crowded (slight flattering of seed ends)
+namespace: CowpeaScale
+synonym: "3" EXACT []
+is_a: CO_340:0000850
+
+
+[Term]
+id: CO_340:0000850/5
+name: 
+namespace: CowpeaScale
+synonym: "4" EXACT []
+is_a: CO_340:0000850
+
+
+[Term]
+id: CO_340:0000850/2
+name: 
+namespace: CowpeaScale
+synonym: "1" EXACT []
+is_a: CO_340:0000850
+
+
+[Term]
+id: CO_340:0000850/3
+name: 
+namespace: CowpeaScale
+synonym: "2" EXACT []
+is_a: CO_340:0000850
+
+
+[Term]
+id: CO_340:0000850/8
+name:  Extremely crowded (seed width greater than seed length)
+namespace: CowpeaScale
+synonym: "7" EXACT []
+is_a: CO_340:0000850
+
+
+[Term]
+id: CO_340:0000850/6
+name:  Crowded (marked compression of seed ends
+namespace: CowpeaScale
+synonym: "5 " EXACT []
+is_a: CO_340:0000850
+
+
+[Term]
+id: CO_340:0000850/7
+name: 
+namespace: CowpeaScale
+synonym: "6" EXACT []
+is_a: CO_340:0000850
+
+
+[Term]
+id: CO_340:0000849
+name: mm
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000766
+
+[Term]
+id: CO_340:0000848
+name: mm
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000765
+
+[Term]
+id: CO_340:0000847
+name: mm
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000764
+
+[Term]
+id: CO_340:0000846
+name: 1-5 color scale
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000763
+
+[Term]
+id: CO_340:0000846/1
+name:  Pale tan or straw
+namespace: CowpeaScale
+synonym: "1" EXACT []
+is_a: CO_340:0000846
+
+
+[Term]
+id: CO_340:0000846/4
+name:  Black or dark purple
+namespace: CowpeaScale
+synonym: "4" EXACT []
+is_a: CO_340:0000846
+
+
+[Term]
+id: CO_340:0000846/5
+name:  Other
+namespace: CowpeaScale
+synonym: "5" EXACT []
+is_a: CO_340:0000846
+
+
+[Term]
+id: CO_340:0000846/2
+name:  Dark tan
+namespace: CowpeaScale
+synonym: "2" EXACT []
+is_a: CO_340:0000846
+
+
+[Term]
+id: CO_340:0000846/3
+name: Dark brown
+namespace: CowpeaScale
+synonym: "3 " EXACT []
+is_a: CO_340:0000846
+
+
+[Term]
+id: CO_340:0000845
+name: 1-7 score
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000762
+
+[Term]
+id: CO_340:0000844
+name: cm
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000761
+
+[Term]
+id: CO_340:0000843
+name: racemes/plant
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000760
+
+[Term]
+id: CO_340:0000842
+name: mm
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000759
+
+[Term]
+id: CO_340:0000841
+name: mm
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000758
+
+[Term]
+id: CO_340:0000840
+name: 0-6 score
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000757
+
+[Term]
+id: CO_340:0000840/1
+name:  Not pigmented (white)
+namespace: CowpeaScale
+synonym: "0" EXACT []
+is_a: CO_340:0000840
+
+
+[Term]
+id: CO_340:0000840/4
+name:  Wing pigmented - standard lightly pigmented
+namespace: CowpeaScale
+synonym: "3" EXACT []
+is_a: CO_340:0000840
+
+
+[Term]
+id: CO_340:0000840/5
+name:  Wing with pigmented upper margin - standard is pigmented
+namespace: CowpeaScale
+synonym: "4" EXACT []
+is_a: CO_340:0000840
+
+
+[Term]
+id: CO_340:0000840/2
+name:  Wing pigmented - standard with light V-shaped pattern of pigment at top center
+namespace: CowpeaScale
+synonym: "1" EXACT []
+is_a: CO_340:0000840
+
+
+[Term]
+id: CO_340:0000840/3
+name:  Pigmented margins on wing and standard
+namespace: CowpeaScale
+synonym: "2" EXACT []
+is_a: CO_340:0000840
+
+
+[Term]
+id: CO_340:0000840/6
+name:  Completely pigmented
+namespace: CowpeaScale
+synonym: "5" EXACT []
+is_a: CO_340:0000840
+
+
+[Term]
+id: CO_340:0000840/7
+name:  Other
+namespace: CowpeaScale
+synonym: "6" EXACT []
+is_a: CO_340:0000840
+
+
+[Term]
+id: CO_340:0000839
+name: undefined scale
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000756
+
+[Term]
+id: CO_340:0000838
+name: g
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000755
+
+[Term]
+id: CO_340:0000837
+name: g
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000754
+
+[Term]
+id: CO_340:0000836
+name: Pct
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000753
+
+[Term]
+id: CO_340:0000835
+name: ratio
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000752
+
+[Term]
+id: CO_340:0000834
+name: 1-9 score
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000751
+
+[Term]
+id: CO_340:0000834/1
+name: 
+namespace: CowpeaScale
+synonym: "1" EXACT []
+is_a: CO_340:0000834
+
+
+[Term]
+id: CO_340:0000834/4
+name: 
+namespace: CowpeaScale
+synonym: "4" EXACT []
+is_a: CO_340:0000834
+
+
+[Term]
+id: CO_340:0000834/5
+name:  Intermediate (height greater than 37cm or width greater than 75 cm
+namespace: CowpeaScale
+synonym: "5" EXACT []
+is_a: CO_340:0000834
+
+
+[Term]
+id: CO_340:0000834/2
+name: 
+namespace: CowpeaScale
+synonym: "2" EXACT []
+is_a: CO_340:0000834
+
+
+[Term]
+id: CO_340:0000834/3
+name:  Non–vigorous (height less than 37 cm and width less than 75 cm
+namespace: CowpeaScale
+synonym: "3" EXACT []
+is_a: CO_340:0000834
+
+
+[Term]
+id: CO_340:0000834/8
+name: 
+namespace: CowpeaScale
+synonym: "8" EXACT []
+is_a: CO_340:0000834
+
+
+[Term]
+id: CO_340:0000834/9
+name:  Very vigorous (height greater than 50 cm and width greater than 1 m)
+namespace: CowpeaScale
+synonym: "9" EXACT []
+is_a: CO_340:0000834
+
+
+[Term]
+id: CO_340:0000834/6
+name: 
+namespace: CowpeaScale
+synonym: "6" EXACT []
+is_a: CO_340:0000834
+
+
+[Term]
+id: CO_340:0000834/7
+name:  Vigorous (height greater than 37 cm and width greater than 75 cm)
+namespace: CowpeaScale
+synonym: "7" EXACT []
+is_a: CO_340:0000834
+
+
+[Term]
+id: CO_340:0000833
+name: nodes
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000750
+
+[Term]
+id: CO_340:0000832
+name: branches
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000749
+
+[Term]
+id: CO_340:0000831
+name: mm
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000748
+
+[Term]
+id: CO_340:0000830
+name: mm
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000747
+
+[Term]
+id: CO_340:0000829
+name: 1-3 score
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000746
+
+[Term]
+id: CO_340:0000829/1
+name:  Cariaceous
+namespace: CowpeaScale
+synonym: "1" EXACT []
+is_a: CO_340:0000829
+
+
+[Term]
+id: CO_340:0000829/2
+name:  Intermediate
+namespace: CowpeaScale
+synonym: "2" EXACT []
+is_a: CO_340:0000829
+
+
+[Term]
+id: CO_340:0000829/3
+name:  Membranous
+namespace: CowpeaScale
+synonym: "3" EXACT []
+is_a: CO_340:0000829
+
+
+[Term]
+id: CO_340:0000828
+name: mm
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000745
+
+[Term]
+id: CO_340:0000827
+name: mm
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000744
+
+[Term]
+id: CO_340:0000826
+name: Presence - absence
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000743
+
+[Term]
+id: CO_340:0000826/2
+name:  Present
+namespace: CowpeaScale
+synonym: "1" EXACT []
+is_a: CO_340:0000826
+
+
+[Term]
+id: CO_340:0000826/1
+name:  Absent
+namespace: CowpeaScale
+synonym: "0" EXACT []
+is_a: CO_340:0000826
+
+
+[Term]
+id: CO_340:0000825
+name: 1-7 score
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000742
+
+[Term]
+id: CO_340:0000825/1
+name: 
+namespace: CowpeaScale
+synonym: "1" EXACT []
+is_a: CO_340:0000825
+
+
+[Term]
+id: CO_340:0000825/4
+name: 
+namespace: CowpeaScale
+synonym: "4" EXACT []
+is_a: CO_340:0000825
+
+
+[Term]
+id: CO_340:0000825/5
+name:  Intermediate green
+namespace: CowpeaScale
+synonym: "5" EXACT []
+is_a: CO_340:0000825
+
+
+[Term]
+id: CO_340:0000825/2
+name: 
+namespace: CowpeaScale
+synonym: "2" EXACT []
+is_a: CO_340:0000825
+
+
+[Term]
+id: CO_340:0000825/3
+name:  Pale Green
+namespace: CowpeaScale
+synonym: "3" EXACT []
+is_a: CO_340:0000825
+
+
+[Term]
+id: CO_340:0000825/6
+name: 
+namespace: CowpeaScale
+synonym: "6" EXACT []
+is_a: CO_340:0000825
+
+
+[Term]
+id: CO_340:0000825/7
+name:  Dark green
+namespace: CowpeaScale
+synonym: "7" EXACT []
+is_a: CO_340:0000825
+
+
+[Term]
+id: CO_340:0000824
+name: mm
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000741
+
+[Term]
+id: CO_340:0000823
+name: 0-8 score
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000740
+
+[Term]
+id: CO_340:0000823/1
+name:   Absent (A1)
+namespace: CowpeaScale
+synonym: "0" EXACT []
+is_a: CO_340:0000823
+
+
+[Term]
+id: CO_340:0000823/4
+name:   Narrow eye (Hilum Ring. Eye fills the narrow groove around the hilum and spills out of this groove in front of the hilum for a short distance and has an indistinct front margin) (N)
+namespace: CowpeaScale
+synonym: "3" EXACT []
+is_a: CO_340:0000823
+
+
+[Term]
+id: CO_340:0000823/5
+name:   Small eye (eye has a distinct margin, but is E smaller than Holstein group)
+namespace: CowpeaScale
+synonym: "4" EXACT []
+is_a: CO_340:0000823
+
+
+[Term]
+id: CO_340:0000823/2
+name: 1+  Very Small ( A )
+namespace: CowpeaScale
+synonym: "1" EXACT []
+is_a: CO_340:0000823
+
+
+[Term]
+id: CO_340:0000823/3
+name:  Kabba group (Eye fills the narrow groove all around the hilum, and the body has some form of speckling. A blue halo is also found around the hilum) (K)
+namespace: CowpeaScale
+synonym: "2 " EXACT []
+is_a: CO_340:0000823
+
+
+[Term]
+id: CO_340:0000823/8
+name:   Self coloured (eye covers entire seed) S
+namespace: CowpeaScale
+synonym: "7" EXACT []
+is_a: CO_340:0000823
+
+
+[Term]
+id: CO_340:0000823/9
+name:  Other
+namespace: CowpeaScale
+synonym: "8 " EXACT []
+is_a: CO_340:0000823
+
+
+[Term]
+id: CO_340:0000823/6
+name:   Holstein group (eye encircles the back of the hilum in a narrow ring, widens at the sides,and then extends margin of the eye is very distinct) (H)
+namespace: CowpeaScale
+synonym: "5" EXACT []
+is_a: CO_340:0000823
+
+
+[Term]
+id: CO_340:0000823/7
+name:  Watson group (eye encircles the back of the hilum as a narrow ring, widens at the sides and spills over the non – micropylar end of the seed withan indistinct margin. The extra width at the sidesof the hilum distinguishes this group from 3, narrow eye) (W)
+namespace: CowpeaScale
+synonym: "6 " EXACT []
+is_a: CO_340:0000823
+
+
+[Term]
+id: CO_340:0000822
+name: Color
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000739
+
+[Term]
+id: CO_340:0000822/1
+name:   Eye absent (white, cream)
+namespace: CowpeaScale
+synonym: "0" EXACT []
+is_a: CO_340:0000822
+
+
+[Term]
+id: CO_340:0000822/4
+name:   Red
+namespace: CowpeaScale
+synonym: "3" EXACT []
+is_a: CO_340:0000822
+
+
+[Term]
+id: CO_340:0000822/5
+name:   Green
+namespace: CowpeaScale
+synonym: "4" EXACT []
+is_a: CO_340:0000822
+
+
+[Term]
+id: CO_340:0000822/2
+name:   Brown splash or gray
+namespace: CowpeaScale
+synonym: "1" EXACT []
+is_a: CO_340:0000822
+
+
+[Term]
+id: CO_340:0000822/3
+name:   Tan Brown
+namespace: CowpeaScale
+synonym: "2" EXACT []
+is_a: CO_340:0000822
+
+
+[Term]
+id: CO_340:0000822/8
+name:   Speckled (even distribution of fine speckling)
+namespace: CowpeaScale
+synonym: "7" EXACT []
+is_a: CO_340:0000822
+
+
+[Term]
+id: CO_340:0000822/9
+name:   Mottled (dark brown pigment typically Absent around hilum)
+namespace: CowpeaScale
+synonym: "8" EXACT []
+is_a: CO_340:0000822
+
+
+[Term]
+id: CO_340:0000822/6
+name:   Blue to black
+namespace: CowpeaScale
+synonym: "5" EXACT []
+is_a: CO_340:0000822
+
+
+[Term]
+id: CO_340:0000822/7
+name:   Blue to black spots or mottle
+namespace: CowpeaScale
+synonym: "6" EXACT []
+is_a: CO_340:0000822
+
+
+[Term]
+id: CO_340:0000822/10
+name:   Mottled and speckled (Victor)
+namespace: CowpeaScale
+synonym: "9" EXACT []
+is_a: CO_340:0000822
+
+
+[Term]
+id: CO_340:0000821
+name: 1-9 score
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000738
+
+[Term]
+id: CO_340:0000821/1
+name:  Smooth
+namespace: CowpeaScale
+synonym: "1" EXACT []
+is_a: CO_340:0000821
+
+
+[Term]
+id: CO_340:0000821/4
+name:  Rough to wrinkled
+namespace: CowpeaScale
+synonym: "7" EXACT []
+is_a: CO_340:0000821
+
+
+[Term]
+id: CO_340:0000821/5
+name:  Wrinkled (coarse folds on the testa)
+namespace: CowpeaScale
+synonym: "9" EXACT []
+is_a: CO_340:0000821
+
+
+[Term]
+id: CO_340:0000821/2
+name:  Smooth to rough
+namespace: CowpeaScale
+synonym: "3" EXACT []
+is_a: CO_340:0000821
+
+
+[Term]
+id: CO_340:0000821/3
+name:  Rough (fine reticulation)
+namespace: CowpeaScale
+synonym: "5" EXACT []
+is_a: CO_340:0000821
+
+
+[Term]
+id: CO_340:0000820
+name: 0-5 score
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000737
+
+[Term]
+id: CO_340:0000820/1
+name:   Kidney
+namespace: CowpeaScale
+synonym: "1" EXACT []
+is_a: CO_340:0000820
+
+
+[Term]
+id: CO_340:0000820/4
+name:  Globose
+namespace: CowpeaScale
+synonym: "4" EXACT []
+is_a: CO_340:0000820
+
+
+[Term]
+id: CO_340:0000820/5
+name: Rhomboid
+namespace: CowpeaScale
+synonym: "5" EXACT []
+is_a: CO_340:0000820
+
+
+[Term]
+id: CO_340:0000820/2
+name:   Ovoid
+namespace: CowpeaScale
+synonym: "2" EXACT []
+is_a: CO_340:0000820
+
+
+[Term]
+id: CO_340:0000820/3
+name:   Crowder
+namespace: CowpeaScale
+synonym: "3" EXACT []
+is_a: CO_340:0000820
+
+
+[Term]
+id: CO_340:0000819
+name: 0-7 score
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000736
+
+[Term]
+id: CO_340:0000819/1
+name:  Straight
+namespace: CowpeaScale
+synonym: "0" EXACT []
+is_a: CO_340:0000819
+
+
+[Term]
+id: CO_340:0000819/4
+name:  Slightly curved
+namespace: CowpeaScale
+synonym: "3" EXACT []
+is_a: CO_340:0000819
+
+
+[Term]
+id: CO_340:0000819/5
+name: 
+namespace: CowpeaScale
+synonym: "4" EXACT []
+is_a: CO_340:0000819
+
+
+[Term]
+id: CO_340:0000819/2
+name: 
+namespace: CowpeaScale
+synonym: "1" EXACT []
+is_a: CO_340:0000819
+
+
+[Term]
+id: CO_340:0000819/3
+name: 
+namespace: CowpeaScale
+synonym: "2" EXACT []
+is_a: CO_340:0000819
+
+
+[Term]
+id: CO_340:0000819/8
+name:  Coiled
+namespace: CowpeaScale
+synonym: "7" EXACT []
+is_a: CO_340:0000819
+
+
+[Term]
+id: CO_340:0000819/6
+name:  Curved
+namespace: CowpeaScale
+synonym: "5" EXACT []
+is_a: CO_340:0000819
+
+
+[Term]
+id: CO_340:0000819/7
+name: 
+namespace: CowpeaScale
+synonym: "6" EXACT []
+is_a: CO_340:0000819
+
+
+[Term]
+id: CO_340:0000818
+name: 0-6 score
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000735
+
+[Term]
+id: CO_340:0000818/1
+name:  None
+namespace: CowpeaScale
+synonym: "0" EXACT []
+is_a: CO_340:0000818
+
+
+[Term]
+id: CO_340:0000818/4
+name:  Pigmented valves, green sutures
+namespace: CowpeaScale
+synonym: "3" EXACT []
+is_a: CO_340:0000818
+
+
+[Term]
+id: CO_340:0000818/5
+name:  Splashes of pigment
+namespace: CowpeaScale
+synonym: "4" EXACT []
+is_a: CO_340:0000818
+
+
+[Term]
+id: CO_340:0000818/2
+name:  Pigmented tip
+namespace: CowpeaScale
+synonym: "1" EXACT []
+is_a: CO_340:0000818
+
+
+[Term]
+id: CO_340:0000818/3
+name:  Pigmented sutures
+namespace: CowpeaScale
+synonym: "2" EXACT []
+is_a: CO_340:0000818
+
+
+[Term]
+id: CO_340:0000818/6
+name:  Uniformly pigmented
+namespace: CowpeaScale
+synonym: "5" EXACT []
+is_a: CO_340:0000818
+
+
+[Term]
+id: CO_340:0000818/7
+name:  Other
+namespace: CowpeaScale
+synonym: "6" EXACT []
+is_a: CO_340:0000818
+
+
+[Term]
+id: CO_340:0000817
+name: 1-7 score
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000734
+
+[Term]
+id: CO_340:0000817/1
+name: 
+namespace: CowpeaScale
+synonym: "1" EXACT []
+is_a: CO_340:0000817
+
+
+[Term]
+id: CO_340:0000817/4
+name: 
+namespace: CowpeaScale
+synonym: "4" EXACT []
+is_a: CO_340:0000817
+
+
+[Term]
+id: CO_340:0000817/5
+name:  30 – 90o down from erect
+namespace: CowpeaScale
+synonym: "5" EXACT []
+is_a: CO_340:0000817
+
+
+[Term]
+id: CO_340:0000817/2
+name: 
+namespace: CowpeaScale
+synonym: "2" EXACT []
+is_a: CO_340:0000817
+
+
+[Term]
+id: CO_340:0000817/3
+name:  Pendant
+namespace: CowpeaScale
+synonym: "3" EXACT []
+is_a: CO_340:0000817
+
+
+[Term]
+id: CO_340:0000817/6
+name: 
+namespace: CowpeaScale
+synonym: "6" EXACT []
+is_a: CO_340:0000817
+
+
+[Term]
+id: CO_340:0000817/7
+name:  Erect
+namespace: CowpeaScale
+synonym: "7" EXACT []
+is_a: CO_340:0000817
+
+
+[Term]
+id: CO_340:0000816
+name: 1-3 score
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000733
+
+[Term]
+id: CO_340:0000816/1
+name:  Mostly above canopy
+namespace: CowpeaScale
+synonym: "1" EXACT []
+is_a: CO_340:0000816
+
+
+[Term]
+id: CO_340:0000816/2
+name:  In upper canopy
+namespace: CowpeaScale
+synonym: "2" EXACT []
+is_a: CO_340:0000816
+
+
+[Term]
+id: CO_340:0000816/3
+name:  Throughout canopy
+namespace: CowpeaScale
+synonym: "3" EXACT []
+is_a: CO_340:0000816
+
+
+[Term]
+id: CO_340:0000815
+name: 1-7 score
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000732
+
+[Term]
+id: CO_340:0000815/1
+name: 
+namespace: CowpeaScale
+synonym: "1" EXACT []
+is_a: CO_340:0000815
+
+
+[Term]
+id: CO_340:0000815/4
+name: 
+namespace: CowpeaScale
+synonym: "4" EXACT []
+is_a: CO_340:0000815
+
+
+[Term]
+id: CO_340:0000815/5
+name:  Short appressed hairs
+namespace: CowpeaScale
+synonym: "5" EXACT []
+is_a: CO_340:0000815
+
+
+[Term]
+id: CO_340:0000815/2
+name: 
+namespace: CowpeaScale
+synonym: "2" EXACT []
+is_a: CO_340:0000815
+
+
+[Term]
+id: CO_340:0000815/3
+name:  Glabrescent
+namespace: CowpeaScale
+synonym: "3" EXACT []
+is_a: CO_340:0000815
+
+
+[Term]
+id: CO_340:0000815/6
+name: 
+namespace: CowpeaScale
+synonym: "6" EXACT []
+is_a: CO_340:0000815
+
+
+[Term]
+id: CO_340:0000815/7
+name:  Pubescent to hirsute
+namespace: CowpeaScale
+synonym: "7" EXACT []
+is_a: CO_340:0000815
+
+
+[Term]
+id: CO_340:0000814
+name: 1-4 score
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000731
+
+[Term]
+id: CO_340:0000814/1
+name:   Globose
+namespace: CowpeaScale
+synonym: "1" EXACT []
+is_a: CO_340:0000814
+
+
+[Term]
+id: CO_340:0000814/4
+name:   Hastate
+namespace: CowpeaScale
+synonym: "4" EXACT []
+is_a: CO_340:0000814
+
+
+[Term]
+id: CO_340:0000814/2
+name:   Sub–globose
+namespace: CowpeaScale
+synonym: "2" EXACT []
+is_a: CO_340:0000814
+
+
+[Term]
+id: CO_340:0000814/3
+name:   Sub–hastate
+namespace: CowpeaScale
+synonym: "3" EXACT []
+is_a: CO_340:0000814
+
+
+[Term]
+id: CO_340:0000813
+name: 0-9 score
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000730
+
+[Term]
+id: CO_340:0000813/1
+name:   None
+namespace: CowpeaScale
+synonym: "0" EXACT []
+is_a: CO_340:0000813
+
+
+[Term]
+id: CO_340:0000813/4
+name:  Moderate at the base and tips of petioles
+namespace: CowpeaScale
+synonym: "3" EXACT []
+is_a: CO_340:0000813
+
+
+[Term]
+id: CO_340:0000813/5
+name: 
+namespace: CowpeaScale
+synonym: "4" EXACT []
+is_a: CO_340:0000813
+
+
+[Term]
+id: CO_340:0000813/2
+name:   Very slight
+namespace: CowpeaScale
+synonym: "1" EXACT []
+is_a: CO_340:0000813
+
+
+[Term]
+id: CO_340:0000813/3
+name: 
+namespace: CowpeaScale
+synonym: "2" EXACT []
+is_a: CO_340:0000813
+
+
+[Term]
+id: CO_340:0000813/8
+name:  Extensive
+namespace: CowpeaScale
+synonym: "7" EXACT []
+is_a: CO_340:0000813
+
+
+[Term]
+id: CO_340:0000813/9
+name: 
+namespace: CowpeaScale
+synonym: "8" EXACT []
+is_a: CO_340:0000813
+
+
+[Term]
+id: CO_340:0000813/6
+name:  Intermediate
+namespace: CowpeaScale
+synonym: "5" EXACT []
+is_a: CO_340:0000813
+
+
+[Term]
+id: CO_340:0000813/7
+name: 
+namespace: CowpeaScale
+synonym: "6" EXACT []
+is_a: CO_340:0000813
+
+
+[Term]
+id: CO_340:0000813/10
+name:  Solid
+namespace: CowpeaScale
+synonym: "9" EXACT []
+is_a: CO_340:0000813
+
+
+[Term]
+id: CO_340:0000812
+name: 0-7 score
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000729
+
+[Term]
+id: CO_340:0000812/1
+name:  None
+namespace: CowpeaScale
+synonym: "0" EXACT []
+is_a: CO_340:0000812
+
+
+[Term]
+id: CO_340:0000812/4
+name:  Slight
+namespace: CowpeaScale
+synonym: "3" EXACT []
+is_a: CO_340:0000812
+
+
+[Term]
+id: CO_340:0000812/5
+name: 
+namespace: CowpeaScale
+synonym: "4" EXACT []
+is_a: CO_340:0000812
+
+
+[Term]
+id: CO_340:0000812/2
+name: 
+namespace: CowpeaScale
+synonym: "1" EXACT []
+is_a: CO_340:0000812
+
+
+[Term]
+id: CO_340:0000812/3
+name: 
+namespace: CowpeaScale
+synonym: "2" EXACT []
+is_a: CO_340:0000812
+
+
+[Term]
+id: CO_340:0000812/8
+name:  Pronounced
+namespace: CowpeaScale
+synonym: "7" EXACT []
+is_a: CO_340:0000812
+
+
+[Term]
+id: CO_340:0000812/6
+name:  Intermediate
+namespace: CowpeaScale
+synonym: "5" EXACT []
+is_a: CO_340:0000812
+
+
+[Term]
+id: CO_340:0000812/7
+name: 
+namespace: CowpeaScale
+synonym: "6" EXACT []
+is_a: CO_340:0000812
+
+
+[Term]
+id: CO_340:0000811
+name: 1 - 2 score
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000728
+
+[Term]
+id: CO_340:0000811/2
+name:  Indeterminate
+namespace: CowpeaScale
+synonym: "2" EXACT []
+is_a: CO_340:0000811
+
+
+[Term]
+id: CO_340:0000811/1
+name:  Determinate (apical bud of main stem reproductive)
+namespace: CowpeaScale
+synonym: "1" EXACT []
+is_a: CO_340:0000811
+
+
+[Term]
+id: CO_340:0000810
+name: g
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000627
+
+[Term]
+id: CO_340:0000809
+name: cm
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000727
+
+[Term]
+id: CO_340:0000808
+name: strigas/plot
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000726
+
+[Term]
+id: CO_340:0000807
+name: plants infected
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000725
+
+[Term]
+id: CO_340:0000806
+name: strigas/plot
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000724
+
+[Term]
+id: CO_340:0000805
+name: number
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000537
+
+[Term]
+id: CO_340:0000804
+name: 0-4 score
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000723
+
+[Term]
+id: CO_340:0000804/1
+name:  no infestation
+namespace: CowpeaScale
+synonym: "0" EXACT []
+is_a: CO_340:0000804
+
+
+[Term]
+id: CO_340:0000804/4
+name: heavy infestation
+namespace: CowpeaScale
+synonym: "3" EXACT []
+is_a: CO_340:0000804
+
+
+[Term]
+id: CO_340:0000804/5
+name: heavy devastating infestation
+namespace: CowpeaScale
+synonym: "4" EXACT []
+is_a: CO_340:0000804
+
+
+[Term]
+id: CO_340:0000804/2
+name: mild infestation
+namespace: CowpeaScale
+synonym: "1" EXACT []
+is_a: CO_340:0000804
+
+
+[Term]
+id: CO_340:0000804/3
+name: moderate infestation
+namespace: CowpeaScale
+synonym: "2" EXACT []
+is_a: CO_340:0000804
+
+
+[Term]
+id: CO_340:0000803
+name: g
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000722
+
+[Term]
+id: CO_340:0000802
+name: cm
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000721
+
+[Term]
+id: CO_340:0000801
+name: alectra/plot
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000633
+
+[Term]
+id: CO_340:0000800
+name: plants infected
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000720
+
+[Term]
+id: CO_340:0000799
+name: alectra/plot
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000719
+
+[Term]
+id: CO_340:0000798
+name: number
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000718
+
+[Term]
+id: CO_340:0000797
+name: 1-9 visual score
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000717
+
+[Term]
+id: CO_340:0000797/1
+name: no browning/drying (i.e. scaling) of stipules, leaf or flower buds - no bud abscission
+namespace: CowpeaScale
+synonym: "1" EXACT []
+is_a: CO_340:0000797
+
+
+[Term]
+id: CO_340:0000797/4
+name: 
+namespace: CowpeaScale
+synonym: "4" EXACT []
+is_a: CO_340:0000797
+
+
+[Term]
+id: CO_340:0000797/5
+name: distinct browning/drying of stipules and leaf or flower buds - some bud abscission
+namespace: CowpeaScale
+synonym: "5" EXACT []
+is_a: CO_340:0000797
+
+
+[Term]
+id: CO_340:0000797/2
+name: 
+namespace: CowpeaScale
+synonym: "2" EXACT []
+is_a: CO_340:0000797
+
+
+[Term]
+id: CO_340:0000797/3
+name:  initiation of browning of stipules, leaf or flower buds - no bud abscission
+namespace: CowpeaScale
+synonym: "3" EXACT []
+is_a: CO_340:0000797
+
+
+[Term]
+id: CO_340:0000797/8
+name: 
+namespace: CowpeaScale
+synonym: "8" EXACT []
+is_a: CO_340:0000797
+
+
+[Term]
+id: CO_340:0000797/9
+name: very severe bud abscission, heavy browning/drying of stipules and buds - distinct non-elongation of (most or all) peduncles
+namespace: CowpeaScale
+synonym: "9" EXACT []
+is_a: CO_340:0000797
+
+
+[Term]
+id: CO_340:0000797/6
+name: 
+namespace: CowpeaScale
+synonym: "6" EXACT []
+is_a: CO_340:0000797
+
+
+[Term]
+id: CO_340:0000797/7
+name: serious bud abscission accompanied by browning/drying of stipules and buds - non-elongation of peduncles
+namespace: CowpeaScale
+synonym: "7" EXACT []
+is_a: CO_340:0000797
+
+
+[Term]
+id: CO_340:0000796
+name: 1-9 rating scale
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000716
+
+[Term]
+id: CO_340:0000796/1
+name: 0-10% pod damage
+namespace: CowpeaScale
+synonym: "1" EXACT []
+is_a: CO_340:0000796
+
+
+[Term]
+id: CO_340:0000796/4
+name: 31-40% pod damage
+namespace: CowpeaScale
+synonym: "4" EXACT []
+is_a: CO_340:0000796
+
+
+[Term]
+id: CO_340:0000796/5
+name: 41-50% pod damage
+namespace: CowpeaScale
+synonym: "5" EXACT []
+is_a: CO_340:0000796
+
+
+[Term]
+id: CO_340:0000796/2
+name: 11-20% pod damage
+namespace: CowpeaScale
+synonym: "2" EXACT []
+is_a: CO_340:0000796
+
+
+[Term]
+id: CO_340:0000796/3
+name: 21-30% pod damage
+namespace: CowpeaScale
+synonym: "3" EXACT []
+is_a: CO_340:0000796
+
+
+[Term]
+id: CO_340:0000796/8
+name: 71-80% pod damage
+namespace: CowpeaScale
+synonym: "8" EXACT []
+is_a: CO_340:0000796
+
+
+[Term]
+id: CO_340:0000796/9
+name: 80-90% pod damage
+namespace: CowpeaScale
+synonym: "9" EXACT []
+is_a: CO_340:0000796
+
+
+[Term]
+id: CO_340:0000796/6
+name: 51-60% pod damage
+namespace: CowpeaScale
+synonym: "6" EXACT []
+is_a: CO_340:0000796
+
+
+[Term]
+id: CO_340:0000796/7
+name: 61-70% pod damage
+namespace: CowpeaScale
+synonym: "7" EXACT []
+is_a: CO_340:0000796
+
+
+[Term]
+id: CO_340:0000796/10
+name: undefined
+namespace: CowpeaScale
+synonym: "9-91-100% pod damage" EXACT []
+is_a: CO_340:0000796
+
+
+[Term]
+id: CO_340:0000795
+name: 1-9 rating scale
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000715
+
+[Term]
+id: CO_340:0000795/1
+name: most (>60%) peduncles bare (i.e. no pods)
+namespace: CowpeaScale
+synonym: "1" EXACT []
+is_a: CO_340:0000795
+
+
+[Term]
+id: CO_340:0000795/4
+name: 
+namespace: CowpeaScale
+synonym: "4" EXACT []
+is_a: CO_340:0000795
+
+
+[Term]
+id: CO_340:0000795/5
+name: 16-30% peduncles bare
+namespace: CowpeaScale
+synonym: "5" EXACT []
+is_a: CO_340:0000795
+
+
+[Term]
+id: CO_340:0000795/2
+name: 
+namespace: CowpeaScale
+synonym: "2" EXACT []
+is_a: CO_340:0000795
+
+
+[Term]
+id: CO_340:0000795/3
+name: 31-60% peducles bare
+namespace: CowpeaScale
+synonym: "3" EXACT []
+is_a: CO_340:0000795
+
+
+[Term]
+id: CO_340:0000795/8
+name: 
+namespace: CowpeaScale
+synonym: "8" EXACT []
+is_a: CO_340:0000795
+
+
+[Term]
+id: CO_340:0000795/9
+name: occasional bare peduncles
+namespace: CowpeaScale
+synonym: "9" EXACT []
+is_a: CO_340:0000795
+
+
+[Term]
+id: CO_340:0000795/6
+name: 
+namespace: CowpeaScale
+synonym: "6" EXACT []
+is_a: CO_340:0000795
+
+
+[Term]
+id: CO_340:0000795/7
+name: up to 15% peduncles bare
+namespace: CowpeaScale
+synonym: "7" EXACT []
+is_a: CO_340:0000795
+
+
+[Term]
+id: CO_340:0000794
+name: 1-9 rating scale
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000714
+
+[Term]
+id: CO_340:0000794/1
+name: no visible damage
+namespace: CowpeaScale
+synonym: "1" EXACT []
+is_a: CO_340:0000794
+
+
+[Term]
+id: CO_340:0000794/4
+name: 
+namespace: CowpeaScale
+synonym: "4" EXACT []
+is_a: CO_340:0000794
+
+
+[Term]
+id: CO_340:0000794/5
+name: pronounced yellowing at midrib and side veins - yellowing extends slightly between the veins - symptoms may or may not be associated with moderate cupping
+namespace: CowpeaScale
+synonym: "5" EXACT []
+is_a: CO_340:0000794
+
+
+[Term]
+id: CO_340:0000794/2
+name: 
+namespace: CowpeaScale
+synonym: "2" EXACT []
+is_a: CO_340:0000794
+
+
+[Term]
+id: CO_340:0000794/3
+name: slight yellowing of the midrib - no cupping
+namespace: CowpeaScale
+synonym: "3" EXACT []
+is_a: CO_340:0000794
+
+
+[Term]
+id: CO_340:0000794/8
+name: 
+namespace: CowpeaScale
+synonym: "8" EXACT []
+is_a: CO_340:0000794
+
+
+[Term]
+id: CO_340:0000794/9
+name: severe defoliation, followed by wilting, resulting in death of plants
+namespace: CowpeaScale
+synonym: "9" EXACT []
+is_a: CO_340:0000794
+
+
+[Term]
+id: CO_340:0000794/6
+name: 
+namespace: CowpeaScale
+synonym: "6" EXACT []
+is_a: CO_340:0000794
+
+
+[Term]
+id: CO_340:0000794/7
+name:  severe yellowing of the leaves followed by drying of leaf tips and leaf margins - characteristic  "hopper burn" observed
+namespace: CowpeaScale
+synonym: "7" EXACT []
+is_a: CO_340:0000794
+
+
+[Term]
+id: CO_340:0000793
+name: 0-9 rating score
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000713
+
+[Term]
+id: CO_340:0000793/1
+name: no infestation
+namespace: CowpeaScale
+synonym: "0" EXACT []
+is_a: CO_340:0000793
+
+
+[Term]
+id: CO_340:0000793/4
+name:  a few isolated colonies (5-20 aphids)
+namespace: CowpeaScale
+synonym: "3" EXACT []
+is_a: CO_340:0000793
+
+
+[Term]
+id: CO_340:0000793/5
+name: 
+namespace: CowpeaScale
+synonym: "4" EXACT []
+is_a: CO_340:0000793
+
+
+[Term]
+id: CO_340:0000793/2
+name:  a few individual aphids (1-4 aphids)
+namespace: CowpeaScale
+synonym: "1" EXACT []
+is_a: CO_340:0000793
+
+
+[Term]
+id: CO_340:0000793/3
+name: 
+namespace: CowpeaScale
+synonym: "2" EXACT []
+is_a: CO_340:0000793
+
+
+[Term]
+id: CO_340:0000793/8
+name: large isolated colonies (101-500 aphids)
+namespace: CowpeaScale
+synonym: "7" EXACT []
+is_a: CO_340:0000793
+
+
+[Term]
+id: CO_340:0000793/9
+name: 
+namespace: CowpeaScale
+synonym: "8" EXACT []
+is_a: CO_340:0000793
+
+
+[Term]
+id: CO_340:0000793/6
+name: several small colonies (21-100 aphids)
+namespace: CowpeaScale
+synonym: "5" EXACT []
+is_a: CO_340:0000793
+
+
+[Term]
+id: CO_340:0000793/7
+name: 
+namespace: CowpeaScale
+synonym: "6" EXACT []
+is_a: CO_340:0000793
+
+
+[Term]
+id: CO_340:0000793/10
+name: large continuous colonies (>500 aphids)
+namespace: CowpeaScale
+synonym: "9" EXACT []
+is_a: CO_340:0000793
+
+
+[Term]
+id: CO_340:0000792
+name: %
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000712
+
+[Term]
+id: CO_340:0000791
+name: g
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000711
+
+[Term]
+id: CO_340:0000790
+name: plants
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000710
+
+[Term]
+id: CO_340:0000789
+name: branching density 10-15 - Shovelomics Method
+namespace: CowpeaMethod
+def: "Count the number of 1st order lateral roots between 10 and 15 cm" []
+relationship: method_of CO_340:0000709
+
+[Term]
+id: CO_340:0000788
+name: branching density 5-10 - Shovelomics Method
+namespace: CowpeaMethod
+def: "Count the number of 1st order lateral roots (not including the basal root)" []
+relationship: method_of CO_340:0000709
+
+[Term]
+id: CO_340:0000787
+name: tap root diameter at 15 - Shovelomics Method
+namespace: CowpeaMethod
+def: "Measure the mean of tap diameter 15cm below soil surface of 10 plants per experimental plot" []
+relationship: method_of CO_340:0000708
+
+[Term]
+id: CO_340:0000786
+name: tap root diameter at 10 - Shovelomics Method
+namespace: CowpeaMethod
+def: "Measure the mean of tap diameter 10cm below soil surface of 10 plants per experimental plot" []
+relationship: method_of CO_340:0000708
+
+[Term]
+id: CO_340:0000785
+name: tap root diameter at 5 - Shovelomics Method
+namespace: CowpeaMethod
+def: "Measure the mean of tap diameter 5cm below soil surface of 10 plants per experimental plot" []
+relationship: method_of CO_340:0000708
+
+[Term]
+id: CO_340:0000784
+name: nodule score - Shovelomics Method
+namespace: CowpeaMethod
+def: "Visual assessment of the number of nodule per plant" []
+relationship: method_of CO_340:0000620
+
+[Term]
+id: CO_340:0000783
+name: 3rd order branching density - Shovelomics Method
+namespace: CowpeaMethod
+def: "Visual assessment of 3 order branching density" []
+relationship: method_of CO_340:0000706
+
+[Term]
+id: CO_340:0000782
+name: number of larger tap laterals - Shovelomics Method
+namespace: CowpeaMethod
+def: "Count the number of roots in 5-10 cm below soil surface region" []
+relationship: method_of CO_340:0000705
+
+[Term]
+id: CO_340:0000781
+name: number of larger basal roots - Shovelomics Method
+namespace: CowpeaMethod
+def: "Count  the number of basal root with greater than 1.5 mm at 2cm from hypocotyl" []
+relationship: method_of CO_340:0000704
+
+[Term]
+id: CO_340:0000780
+name: number of larger adventittious roots - Shovelomics Method
+namespace: CowpeaMethod
+def: "Count  the number of adventitious roots with diameter greater than 1.5 mm at 2cm hypocotyl" []
+relationship: method_of CO_340:0000703
+
+[Term]
+id: CO_340:0000779
+name: branching density 10-15 - Shovelomics Method
+namespace: CowpeaMethod
+def: "Count the number of 1st order lateral roots between 10 and 15 cm" []
+relationship: method_of CO_340:0000702
+
+[Term]
+id: CO_340:0000778
+name: branching density 5-10 - Shovelomics Method
+namespace: CowpeaMethod
+def: "Count the number of 1st order lateral roots (not including the basal root)" []
+relationship: method_of CO_340:0000701
+
+[Term]
+id: CO_340:0000777
+name: number of adventitious roots - Shovelomics Method
+namespace: CowpeaMethod
+def: "Count the number of adventitious roots" []
+relationship: method_of CO_340:0000700
+
+[Term]
+id: CO_340:0000776
+name: number of basal region roots - Shovelomics Method
+namespace: CowpeaMethod
+def: "Count the number of basal region roots" []
+relationship: method_of CO_340:0000699
+
+[Term]
+id: CO_340:0000775
+name: tap root diameter at 15 - Shovelomics Method
+namespace: CowpeaMethod
+def: "Measure the mean of tap diameter 15cm below soil surface of 10 plants per experimental plot" []
+relationship: method_of CO_340:0000698
+
+[Term]
+id: CO_340:0000774
+name: tap root diameter at 10 - Shovelomics Method
+namespace: CowpeaMethod
+def: "Measure the mean of tap diameter 10cm below soil surface of 10 plants per experimental plot" []
+relationship: method_of CO_340:0000697
+
+[Term]
+id: CO_340:0000773
+name: tap root diameter at 5 - Shovelomics Method
+namespace: CowpeaMethod
+def: "Measure the mean of tap diameter 5cm below soil surface of 10 plants per experimental plot" []
+relationship: method_of CO_340:0000696
+
+[Term]
+id: CO_340:0000772
+name: stem diameter - Shovelomics Method
+namespace: CowpeaMethod
+def: "Measure the mean of stem diameter at soil level of 10 plants per experimental plot" []
+relationship: method_of CO_340:0000695
+
+[Term]
+id: CO_340:0000771
+name: basal root growth angle - Shovelomics Method
+namespace: CowpeaMethod
+def: "Visual assessment of the angle of basal region roots" []
+relationship: method_of CO_340:0000694
+
+[Term]
+id: CO_340:0000770
+name: adventitous root growth angle - Shovelomics Method
+namespace: CowpeaMethod
+def: "Visual assessment of the angle of advantitious roots" []
+relationship: method_of CO_340:0000693
+
+[Term]
+id: CO_340:0000769
+name: Attachment of testa  - Method
+namespace: CowpeaMethod
+def: "Visual assessment of the testa to the seed" []
+relationship: method_of CO_340:0000692
+
+[Term]
+id: CO_340:0000768
+name: Splitting of testa  - Method
+namespace: CowpeaMethod
+def: "Visual assessment of the splitting of testa" []
+relationship: method_of CO_340:0000691
+
+[Term]
+id: CO_340:0000767
+name: Seed crowding  - Method
+namespace: CowpeaMethod
+def: "Visual assessment of seed compression within the pod" []
+relationship: method_of CO_340:0000690
+
+[Term]
+id: CO_340:0000766
+name: Seed thickness - Method
+namespace: CowpeaMethod
+def: "Mean thickness of the 10 seeds measured for length - measured perpendicular to length and width" []
+relationship: method_of CO_340:0000689
+
+[Term]
+id: CO_340:0000765
+name: Seed width - Method
+namespace: CowpeaMethod
+def: "Mean width from hilum to keel of the 10 seeds measured for length" []
+relationship: method_of CO_340:0000688
+
+[Term]
+id: CO_340:0000764
+name: Seed length - Method
+namespace: CowpeaMethod
+def: "Mean of 10 mature seeds excluding those from the extremities of pods" []
+relationship: method_of CO_340:0000687
+
+[Term]
+id: CO_340:0000763
+name: Pod colour  - Method
+namespace: CowpeaMethod
+def: "Visual assessment of the colour of the pod at maturity" []
+relationship: method_of CO_340:0000686
+
+[Term]
+id: CO_340:0000762
+name: Pod wall thickness  - Method
+namespace: CowpeaMethod
+def: "Visual assessment of the tickness of the pod wall" []
+relationship: method_of CO_340:0000685
+
+[Term]
+id: CO_340:0000761
+name: Pod width - Method
+namespace: CowpeaMethod
+def: "Mean width of the 10 mature pods per plot that are measured for length" []
+relationship: method_of CO_340:0000684
+
+[Term]
+id: CO_340:0000760
+name: Number of racemes per plant  - Method
+namespace: CowpeaMethod
+def: "Mean of racemes in 10 randomly selected plants" []
+relationship: method_of CO_340:0000683
+
+[Term]
+id: CO_340:0000759
+name: Calyx lobe length - Method
+namespace: CowpeaMethod
+def: "Measure the mean length of 10 freshly opened, randomly selected calyx" []
+relationship: method_of CO_340:0000682
+
+[Term]
+id: CO_340:0000758
+name: Standard length - Method
+namespace: CowpeaMethod
+def: "Measure the mean length of 10 freshly opened, randomly selected standard petals" []
+relationship: method_of CO_340:0000681
+
+[Term]
+id: CO_340:0000757
+name: Flowering pigment pattern  - Method
+namespace: CowpeaMethod
+def: "Visual assessment of newly opened flower pigmentation" []
+relationship: method_of CO_340:0000680
+
+[Term]
+id: CO_340:0000756
+name: In vitro dry matter digestibility - Method
+namespace: CowpeaMethod
+def: "In vitro measurerement of the digestibility of green fodder at 50% flowering" []
+relationship: method_of CO_340:0000679
+
+[Term]
+id: CO_340:0000755
+name: Capacity for re-growth  - Method
+namespace: CowpeaMethod
+def: "Measure the weight of green matter in grams at 50% flowering after the accession has been cut at six week stage" []
+relationship: method_of CO_340:0000678
+
+[Term]
+id: CO_340:0000754
+name: Yield of green matter  - Method
+namespace: CowpeaMethod
+def: "Average the weight of 10 randomly selected plants at 50% flowering" []
+relationship: method_of CO_340:0000677
+
+[Term]
+id: CO_340:0000753
+name: Percentage dry weight  - Method
+namespace: CowpeaMethod
+def: "Take a 500 g sample of green plant. Measure the fresh weight then oven dry the sample and measure the dry weight of the sample. Calculate the ratio dry weight per fresh weight" []
+relationship: method_of CO_340:0000676
+
+[Term]
+id: CO_340:0000752
+name: Leaf–stem ratio  - Method
+namespace: CowpeaMethod
+def: "Measure weight of leaves and other parts of the shoot and calculate the ratio" []
+relationship: method_of CO_340:0000675
+
+[Term]
+id: CO_340:0000751
+name: Plant vigour - Method
+namespace: CowpeaMethod
+def: "Estimation of plant vigor based on the height and width of the plant 3-4 week after sowing" []
+relationship: method_of CO_340:0000674
+
+[Term]
+id: CO_340:0000750
+name: Number of nodes on main stem  - Method
+namespace: CowpeaMethod
+def: "Count of nodes on main stem per plant 3 – 4 weeks after sowing. Mean of 10 randomly selected plants" []
+relationship: method_of CO_340:0000673
+
+[Term]
+id: CO_340:0000749
+name: Number of main branches  - Method
+namespace: CowpeaMethod
+def: "Count the number of branches whose origin is in the leaf axils on the main stem - recorded in the 8th week after sowing. Mean of 10 randomly selected plants" []
+relationship: method_of CO_340:0000672
+
+[Term]
+id: CO_340:0000748
+name: Stipule width - Method
+namespace: CowpeaMethod
+def: "Mean width of stipules from 5 randomly selected plants from the plot experimental unit" []
+relationship: method_of CO_340:0000671
+
+[Term]
+id: CO_340:0000747
+name: Stipule length - Method
+namespace: CowpeaMethod
+def: "Mean length of stipules from 5 randomly selected plants from the plot experimental unit" []
+relationship: method_of CO_340:0000670
+
+[Term]
+id: CO_340:0000746
+name: Leaf texture  - Method
+namespace: CowpeaMethod
+def: "Visual rating of the leaf appearance" []
+relationship: method_of CO_340:0000669
+
+[Term]
+id: CO_340:0000745
+name: Terminal leaflet width - Method
+namespace: CowpeaMethod
+def: "Measure the widest dimension of the terminal leaflet whose shape was recorded (young , mature leaf in the 6th week after sowing)" []
+relationship: method_of CO_340:0000668
+
+[Term]
+id: CO_340:0000744
+name: Terminal leaflet length - Method
+namespace: CowpeaMethod
+def: "Measure the length of the leaflet of the young , mature leaf in the 6th week after sowing whose shape was recorded" []
+relationship: method_of CO_340:0000667
+
+[Term]
+id: CO_340:0000743
+name: Leaf marking - Method
+namespace: CowpeaMethod
+def: "Visual rating of the presence or absence of the V-mark on the leaf" []
+relationship: method_of CO_340:0000666
+
+[Term]
+id: CO_340:0000742
+name: Leaf colour  - Method
+namespace: CowpeaMethod
+def: "Visual rating of the intensity of the leaf color" []
+relationship: method_of CO_340:0000665
+
+[Term]
+id: CO_340:0000741
+name: Hypocotyl length - Method
+namespace: CowpeaMethod
+def: "Mean of 10 plants per experimental unit (in mm)" []
+relationship: method_of CO_340:0000664
+
+[Term]
+id: CO_340:0000740
+name: Eye pattern - Method
+namespace: CowpeaMethod
+def: "Use of diagram illustrating eye pattern (IITA Genetic Resource Center)" []
+relationship: method_of CO_340:0000663
+
+[Term]
+id: CO_340:0000739
+name: Eye colour  - Method
+namespace: CowpeaMethod
+def: "Visual rating of the color of the eye" []
+relationship: method_of CO_340:0000662
+
+[Term]
+id: CO_340:0000738
+name: Testa texture  - Method
+namespace: CowpeaMethod
+def: "Visual recording of the texture of the testa" []
+relationship: method_of CO_340:0000661
+
+[Term]
+id: CO_340:0000737
+name: Seed Shape  - Method
+namespace: CowpeaMethod
+def: "Visual rating of the shape of the seed at maturity" []
+relationship: method_of CO_340:0000660
+
+[Term]
+id: CO_340:0000736
+name: Pod curvature  - Method
+namespace: CowpeaMethod
+def: "Of mature pods" []
+relationship: method_of CO_340:0000659
+
+[Term]
+id: CO_340:0000735
+name: Immature pod pigmentation - Method
+namespace: CowpeaMethod
+def: "Pattern of pigment distribution on full grown immature pods" []
+relationship: method_of CO_340:0000658
+
+[Term]
+id: CO_340:0000734
+name: Pod attachment to peduncle  - Method
+namespace: CowpeaMethod
+def: "Recorded when pods are full grown" []
+relationship: method_of CO_340:0000657
+
+[Term]
+id: CO_340:0000733
+name: Raceme position  - Method
+namespace: CowpeaMethod
+def: "Recorded when peduncles have reached full length" []
+relationship: method_of CO_340:0000656
+
+[Term]
+id: CO_340:0000732
+name: Plant hairiness  - Method
+namespace: CowpeaMethod
+def: "Visual observation of the presence of hairs on stems, leaves and pods" []
+relationship: method_of CO_340:0000655
+
+[Term]
+id: CO_340:0000731
+name: Terminal leaflet shape  - Method
+namespace: CowpeaMethod
+def: "Recorded for the terminal leaflet of a young, mature leaf in the 6th week after sowing" []
+relationship: method_of CO_340:0000654
+
+[Term]
+id: CO_340:0000730
+name: Plant pigmentation - Method
+namespace: CowpeaMethod
+def: "Recorded for stem, branches, petioles and peduncles in the 6th week after sowing" []
+relationship: method_of CO_340:0000653
+
+[Term]
+id: CO_340:0000729
+name: Twinning tendency  - Method
+namespace: CowpeaMethod
+def: "Visual recording of the twinning tendency of the plant" []
+relationship: method_of CO_340:0000652
+
+[Term]
+id: CO_340:0000728
+name: Growth pattern - Method
+namespace: CowpeaMethod
+def: "Visual observation of growth pattern" []
+relationship: method_of CO_340:0000651
+
+[Term]
+id: CO_340:0000727
+name: Striga- Height of Striga - Method
+namespace: CowpeaMethod
+def: "Measure the height of 5 or 10 random Striga plants per experimental plot 9 weeks after planting and record the average height for the experimental plot" []
+relationship: method_of CO_340:0000650
+
+[Term]
+id: CO_340:0000726
+name: Total Striga plants at 9 weeks- Method
+namespace: CowpeaMethod
+def: "Count the number of Striga in the experimental plot 9 weeks after planting" []
+relationship: method_of CO_340:0000320
+
+[Term]
+id: CO_340:0000725
+name: Striga- Striga infection - Method
+namespace: CowpeaMethod
+def: "Count the number of plants infected by Striga in the experimental plot 9 weeks after planting" []
+relationship: method_of CO_340:0000359
+
+[Term]
+id: CO_340:0000724
+name: Striga- Striga plants per week - Method
+namespace: CowpeaMethod
+def: "Count the number of Striga in the experimental plot at weekly interval after first emergence up to maturity" []
+relationship: method_of CO_340:0000320
+
+[Term]
+id: CO_340:0000723
+name: Striga - Method
+namespace: CowpeaMethod
+def: "Visual rating of affected plot area" []
+relationship: method_of CO_340:0000649
+
+[Term]
+id: CO_340:0000722
+name: Alectra- Weight of Alectra - Method
+namespace: CowpeaMethod
+def: "Average the weight of 5 or 10 random plants per experimental plot" []
+relationship: method_of CO_340:0000648
+
+[Term]
+id: CO_340:0000721
+name: Alectra- Height of Alectra - Method
+namespace: CowpeaMethod
+def: "Measure the height of 5 or 10 random Alectra plants per experimental plot 9 weeks after planting and record the average height for the experimental plot" []
+relationship: method_of CO_340:0000647
+
+[Term]
+id: CO_340:0000720
+name: Alectra- Alectra infection - Method
+namespace: CowpeaMethod
+def: "Count the number of plants infected by Alectra in the experimental plot 9 weeks after planting" []
+relationship: method_of CO_340:0000646
+
+[Term]
+id: CO_340:0000719
+name: Alectra- Alectra plants per week - Method
+namespace: CowpeaMethod
+def: "Count the number of Alectra in the experimental plot at weekly interval after first emergence up to maturity" []
+relationship: method_of CO_340:0000632
+
+[Term]
+id: CO_340:0000718
+name: Alectra - Date of First Alectra Emergence - Method
+namespace: CowpeaMethod
+def: "Record the date at which the first Alectra emerged in the experimental plot" []
+relationship: method_of CO_340:0000645
+
+[Term]
+id: CO_340:0000717
+name: Flower thrip damage - Method
+namespace: CowpeaMethod
+def: "Visual rating based on a combination of varying intensities of browning of the stipules and flower buds, non-elongation of peducles, and flower bud abscission" []
+relationship: method_of CO_340:0000644
+
+[Term]
+id: CO_340:0000716
+name: Maruca damage - Method
+namespace: CowpeaMethod
+def: "Visual evaluation of the percentage of pod damage when the pods are mature but still green" []
+relationship: method_of CO_340:0000308
+
+[Term]
+id: CO_340:0000715
+name: Maruca resistance - Method
+namespace: CowpeaMethod
+def: "Visual evaluation of the degree of podding when the pods are mature but still green" []
+relationship: method_of CO_340:0000308
+
+[Term]
+id: CO_340:0000714
+name: Leafhopper (Empoasca) resistance - Method
+namespace: CowpeaMethod
+def: "Visual rating of the extend of leafhopper damage to cowpea on experimental plot basis around 25-30 days after seedling emergence. It is done" []
+relationship: method_of CO_340:0000643
+
+[Term]
+id: CO_340:0000713
+name: Aphid severity - Method
+namespace: CowpeaMethod
+def: "The level of infestation is assessed on 30 stands per plot (five stands per row at fixed intervals to avoid bias) and scores averaged." []
+relationship: method_of CO_340:0000642
+
+[Term]
+id: CO_340:0000712
+name: Aphid incidence - Method
+namespace: CowpeaMethod
+def: "Assessing the incidence of aphids by determining the percentage of plants in each experimental plot that is infested at 10, 20 and 30 days after seedling emergence." []
+relationship: method_of CO_340:0000641
+
+[Term]
+id: CO_340:0000711
+name: Total weight of leaves - Method
+namespace: CowpeaMethod
+def: "Pick young succulent leaves from experimental plot beginning 3rd week after planting, and at weekly interval thereafter and stop harvesting when 50% of plants in the plot have started to flower. Weigh the amount of leaves harvested leaves each week." []
+relationship: method_of CO_340:0000640
+
+[Term]
+id: CO_340:0000710
+name: Plant stand at emergence - Method
+namespace: CowpeaMethod
+def: "Count number of plants emerged in the experimental plot one week after planting" []
+relationship: method_of CO_340:0000639
+
+[Term]
+id: CO_340:0000709
+name: Branching density
+namespace: CowpeaTrait
+def: "Number of 1st order lateral roots whithout counting basal region roots" []
+synonym: "BrnchDen" EXACT []
+is_a: CO_340:Morphological traits
+
+[Term]
+id: CO_340:0000708
+name: Tap root diameter
+namespace: CowpeaTrait
+def: "tap root diameter" []
+synonym: "RtDiam" EXACT []
+is_a: CO_340:Morphological traits
+
+[Term]
+id: CO_340:0000706
+name: 3rd order branching density
+namespace: CowpeaTrait
+def: "3 order branching density" []
+synonym: "3BD" EXACT []
+is_a: CO_340:Morphological traits
+
+[Term]
+id: CO_340:0000705
+name: number of tap laterals
+namespace: CowpeaTrait
+def: "number of roots in 5-10cm below soil surface region with a diameter greater than 1.5mm at 2cm from hypocotyl that are perpendicular to the tap root" []
+is_a: CO_340:Morphological traits
+
+[Term]
+id: CO_340:0000704
+name: number of basal region roots
+namespace: CowpeaTrait
+def: "number of adventitious roots" []
+synonym: "AdvNo" EXACT []
+is_a: CO_340:Morphological traits
+
+[Term]
+id: CO_340:0000703
+name: number of adventitious roots
+namespace: CowpeaTrait
+def: "number of basal region roots" []
+synonym: "BasRtNo" EXACT []
+is_a: CO_340:Morphological traits
+
+[Term]
+id: CO_340:0000702
+name: branching density 10-15
+namespace: CowpeaTrait
+def: "number of 1st order lateral roots between 10 and 15cm below soil surface" []
+synonym: "BD15" EXACT []
+is_a: CO_340:Morphological traits
+
+[Term]
+id: CO_340:0000701
+name: branching density 5-10
+namespace: CowpeaTrait
+def: "number of 1st order lateral roots (not counting basal region roots) between 5 and 10 cm or from just below basal region to 10cm below soil level" []
+synonym: "BD10" EXACT []
+is_a: CO_340:Morphological traits
+
+[Term]
+id: CO_340:0000700
+name: number of adventitious roots
+namespace: CowpeaTrait
+def: "number of adventitious roots" []
+synonym: "AdvNo" EXACT []
+is_a: CO_340:Morphological traits
+
+[Term]
+id: CO_340:0000699
+name: number of basal region roots
+namespace: CowpeaTrait
+def: "number of basal region roots" []
+synonym: "BasRtNo" EXACT []
+is_a: CO_340:Morphological traits
+
+[Term]
+id: CO_340:0000698
+name: tap root diameter at 15
+namespace: CowpeaTrait
+def: "tap diameter 15cm below soil surface" []
+synonym: "TD15" EXACT []
+is_a: CO_340:Morphological traits
+
+[Term]
+id: CO_340:0000697
+name: tap root diameter at 10
+namespace: CowpeaTrait
+def: "tap diameter 10 below soil surface" []
+synonym: "TD10" EXACT []
+is_a: CO_340:Morphological traits
+
+[Term]
+id: CO_340:0000696
+name: tap root diameter at 5
+namespace: CowpeaTrait
+def: "tap diameter 5cm below soil surface or just below basal region" []
+synonym: "TD5" EXACT []
+is_a: CO_340:Morphological traits
+
+[Term]
+id: CO_340:0000695
+name: stem diameter
+namespace: CowpeaTrait
+def: "stem diameter" []
+synonym: "stemD" EXACT []
+is_a: CO_340:Morphological traits
+
+[Term]
+id: CO_340:0000694
+name: basal root growth angle
+namespace: CowpeaTrait
+def: "Angle of basal region roots" []
+synonym: "ang bas" EXACT []
+is_a: CO_340:Morphological traits
+
+[Term]
+id: CO_340:0000693
+name: adventitous root growth angle
+namespace: CowpeaTrait
+def: "Angle of adventitious roots" []
+synonym: "ang_ad" EXACT []
+is_a: CO_340:Morphological traits
+
+[Term]
+id: CO_340:0000692
+name: Attachment of testa
+namespace: CowpeaTrait
+def: "Attachment of the testa to the seed" []
+synonym: "AttTes" EXACT []
+is_a: CO_340:Morphological traits
+
+[Term]
+id: CO_340:0000691
+name: Splitting of testa
+namespace: CowpeaTrait
+def: "Splitting of the testa" []
+synonym: "SplTes" EXACT []
+is_a: CO_340:Morphological traits
+
+[Term]
+id: CO_340:0000690
+name: Seed crowding
+namespace: CowpeaTrait
+def: "Seed crowding or compression, indicating the spacing within the pod" []
+synonym: "Seed compression" EXACT []
+synonym: "SeeCro" EXACT []
+is_a: CO_340:Agronomical traits
+
+[Term]
+id: CO_340:0000689
+name: Seed thickness
+namespace: CowpeaTrait
+def: "Tickness of the seed" []
+synonym: "SeeThi" EXACT []
+is_a: CO_340:Morphological traits
+
+[Term]
+id: CO_340:0000688
+name: Seed width
+namespace: CowpeaTrait
+def: "Average width of seeds" []
+synonym: "SeeWdt" EXACT []
+is_a: CO_340:Morphological traits
+
+[Term]
+id: CO_340:0000687
+name: Seed length
+namespace: CowpeaTrait
+def: "Average length of seeds" []
+synonym: "SeeLen" EXACT []
+is_a: CO_340:Morphological traits
+
+[Term]
+id: CO_340:0000686
+name: Pod colour
+namespace: CowpeaTrait
+def: "Colour of the pod" []
+synonym: "PodCol" EXACT []
+is_a: CO_340:Morphological traits
+
+[Term]
+id: CO_340:0000685
+name: Pod wall thickness
+namespace: CowpeaTrait
+def: "Tickness of pod wall" []
+synonym: "PodWaiTh" EXACT []
+is_a: CO_340:Morphological traits
+
+[Term]
+id: CO_340:0000684
+name: Pod width
+namespace: CowpeaTrait
+def: "Width of pods" []
+synonym: "PodWdt" EXACT []
+is_a: CO_340:Morphological traits
+
+[Term]
+id: CO_340:0000683
+name: Number of racemes
+namespace: CowpeaTrait
+def: "Number of racemes" []
+synonym: "NumRacPla" EXACT []
+is_a: CO_340:Agronomical traits
+
+[Term]
+id: CO_340:0000682
+name: Calyx lobe length
+namespace: CowpeaTrait
+def: "Flower calyx lobe length" []
+synonym: "CaLobLen" EXACT []
+is_a: CO_340:Morphological traits
+
+[Term]
+id: CO_340:0000681
+name: Flower length
+namespace: CowpeaTrait
+def: "Length of flowers" []
+synonym: "Standard length" EXACT []
+synonym: "StaLen" EXACT []
+is_a: CO_340:Morphological traits
+
+[Term]
+id: CO_340:0000680
+name: Flowering pigment pattern
+namespace: CowpeaTrait
+def: "Pigmentation pattern of newly opened flowers" []
+synonym: "FloPigPat" EXACT []
+is_a: CO_340:Morphological traits
+
+[Term]
+id: CO_340:0000679
+name: Dry matter digestibility
+namespace: CowpeaTrait
+def: "Digestibility of green fodder" []
+synonym: "DMDig" EXACT []
+is_a: CO_340:Quality traits
+
+[Term]
+id: CO_340:0000678
+name: Capacity for re-growth
+namespace: CowpeaTrait
+def: "Weight of green matter in grams at 50% flowering after the accession has been cut at six week stage" []
+synonym: "CapReGro" EXACT []
+is_a: CO_340:Agronomical traits
+
+[Term]
+id: CO_340:0000677
+name: Fresh biomass at flowering
+namespace: CowpeaTrait
+def: "Total above ground fresh biomass" []
+synonym: "Yield of green matter" EXACT []
+synonym: "FBMFlw" EXACT []
+is_a: CO_340:Agronomical traits
+
+[Term]
+id: CO_340:0000676
+name: Plant dry weight content
+namespace: CowpeaTrait
+def: "Plant matter content" []
+synonym: "PerDryWei" EXACT []
+is_a: CO_340:Agronomical traits
+
+[Term]
+id: CO_340:0000675
+name: Leaf–stem ratio
+namespace: CowpeaTrait
+def: "Weight of leaves divided by weight of other parts of shoot" []
+synonym: "LeaSteRat" EXACT []
+is_a: CO_340:Agronomical traits
+
+[Term]
+id: CO_340:0000674
+name: Plant vigour
+namespace: CowpeaTrait
+def: "Status of the plant" []
+synonym: "PlaVig" EXACT []
+is_a: CO_340:Agronomical traits
+
+[Term]
+id: CO_340:0000673
+name: Number of nodes
+namespace: CowpeaTrait
+def: "Number of nodes" []
+synonym: "NumNodMainSte" EXACT []
+is_a: CO_340:Morphological traits
+
+[Term]
+id: CO_340:0000672
+name: Number of main branches
+namespace: CowpeaTrait
+def: "Number of main branches" []
+synonym: "NumMaiBra" EXACT []
+is_a: CO_340:Morphological traits
+
+[Term]
+id: CO_340:0000671
+name: Stipule width
+namespace: CowpeaTrait
+def: "Measure of stipule width" []
+synonym: "StiWid" EXACT []
+is_a: CO_340:Morphological traits
+
+[Term]
+id: CO_340:0000670
+name: Stipule length
+namespace: CowpeaTrait
+def: "Measure of stipule length" []
+synonym: "StiLen" EXACT []
+is_a: CO_340:Morphological traits
+
+[Term]
+id: CO_340:0000669
+name: Leaf texture
+namespace: CowpeaTrait
+def: "Leaf appearance" []
+synonym: "LeaTex" EXACT []
+is_a: CO_340:Morphological traits
+
+[Term]
+id: CO_340:0000668
+name: Terminal leaflet width
+namespace: CowpeaTrait
+def: "The widest dimension of the terminal leaflet whose shape" []
+synonym: "TerLeaWid" EXACT []
+is_a: CO_340:Morphological traits
+
+[Term]
+id: CO_340:0000667
+name: Terminal leaflet length
+namespace: CowpeaTrait
+def: "Length of terminal leaflet whose shape was recorded" []
+synonym: "TerLeaLen" EXACT []
+is_a: CO_340:Morphological traits
+
+[Term]
+id: CO_340:0000666
+name: Leaf marking
+namespace: CowpeaTrait
+def: "Presence/absence of V-mark on leaflets" []
+synonym: "LeaMar" EXACT []
+is_a: CO_340:Morphological traits
+
+[Term]
+id: CO_340:0000665
+name: Leaf colour
+namespace: CowpeaTrait
+def: "Intensity of green Colour of the leaf" []
+synonym: "LeaCol" EXACT []
+is_a: CO_340:Morphological traits
+
+[Term]
+id: CO_340:0000664
+name: Hypocotyl length
+namespace: CowpeaTrait
+def: "length of the hypocotyl" []
+synonym: "HypLen" EXACT []
+is_a: CO_340:Morphological traits
+
+[Term]
+id: CO_340:0000663
+name: Eye pattern
+namespace: CowpeaTrait
+def: "The shape of the pigment pattern which surrounds the hilum. The ‘front’ of the hilum is the non-micropylar end." []
+synonym: "EyePat" EXACT []
+is_a: CO_340:Morphological traits
+
+[Term]
+id: CO_340:0000662
+name: Eye colour
+namespace: CowpeaTrait
+def: "The color of the eye" []
+synonym: "EyeCol" EXACT []
+is_a: CO_340:Morphological traits
+
+[Term]
+id: CO_340:0000661
+name: Testa texture
+namespace: CowpeaTrait
+def: "The texture of the testa" []
+synonym: "TesTex" EXACT []
+is_a: CO_340:Morphological traits
+
+[Term]
+id: CO_340:0000660
+name: Seed Shape
+namespace: CowpeaTrait
+def: "Shape of the seed" []
+synonym: "SeeSha" EXACT []
+is_a: CO_340:Morphological traits
+
+[Term]
+id: CO_340:0000659
+name: Pod curvature
+namespace: CowpeaTrait
+def: "Curvature of th pod" []
+synonym: "PodCur" EXACT []
+is_a: CO_340:Morphological traits
+
+[Term]
+id: CO_340:0000658
+name: Immature pod pigmentation
+namespace: CowpeaTrait
+def: "Pigmentation of immature pod" []
+synonym: "ImmPodPig" EXACT []
+is_a: CO_340:Morphological traits
+
+[Term]
+id: CO_340:0000657
+name: Pod attachment to peduncle
+namespace: CowpeaTrait
+def: "attachment of the pod to the peduncle" []
+synonym: "PodAtt" EXACT []
+is_a: CO_340:Morphological traits
+
+[Term]
+id: CO_340:0000656
+name: Raceme position
+namespace: CowpeaTrait
+def: "position of raceme" []
+synonym: "RacPos" EXACT []
+is_a: CO_340:Morphological traits
+
+[Term]
+id: CO_340:0000655
+name: Plant hairiness
+namespace: CowpeaTrait
+def: "Presence of hair on plant" []
+synonym: "PlaHair" EXACT []
+is_a: CO_340:Morphological traits
+
+[Term]
+id: CO_340:0000654
+name: Terminal leaflet shape
+namespace: CowpeaTrait
+def: "Shape of terminal leaflet" []
+synonym: "TerLEASh" EXACT []
+is_a: CO_340:Morphological traits
+
+[Term]
+id: CO_340:0000653
+name: Plant pigmentation
+namespace: CowpeaTrait
+def: "Pigmentation of the plant part" []
+synonym: "PlaPig" EXACT []
+is_a: CO_340:Morphological traits
+
+[Term]
+id: CO_340:0000652
+name: Twinning tendency
+namespace: CowpeaTrait
+def: "twinning tendency" []
+synonym: "TwiTend" EXACT []
+is_a: CO_340:Morphological traits
+
+[Term]
+id: CO_340:0000651
+name: Growth pattern
+namespace: CowpeaTrait
+def: "Pattern of growth" []
+synonym: "GroPat" EXACT []
+is_a: CO_340:Morphological traits
+
+[Term]
+id: CO_340:0000650
+name: Striga- Height of Striga
+namespace: CowpeaTrait
+def: "Height of Striga" []
+synonym: "AHS" EXACT []
+is_a: CO_340:Biotic stress traits
+
+[Term]
+id: CO_340:0000649
+name: Striga infestation
+namespace: CowpeaTrait
+def: "Plot infested with Striga gesnerioides" []
+synonym: "SIP" EXACT []
+is_a: CO_340:Biotic stress traits
+
+[Term]
+id: CO_340:0000648
+name: Weight of Alectra
+namespace: CowpeaTrait
+def: "Weight of Alectra" []
+synonym: "AWA" EXACT []
+is_a: CO_340:Biotic stress traits
+
+[Term]
+id: CO_340:0000647
+name: Alectra- Height of Alectra
+namespace: CowpeaTrait
+def: "Height of Alectra" []
+synonym: "AHA" EXACT []
+is_a: CO_340:Biotic stress traits
+
+[Term]
+id: CO_340:0000646
+name: Alectra- Alectra infection
+namespace: CowpeaTrait
+def: "Number of plants infected by Alectra" []
+synonym: "PIA" EXACT []
+is_a: CO_340:Biotic stress traits
+
+[Term]
+id: CO_340:0000645
+name: Alectra - Date of First Alectra Emergence
+namespace: CowpeaTrait
+def: "Date of the first Alectra emergence" []
+synonym: "DFAE" EXACT []
+is_a: CO_340:Biotic stress traits
+
+[Term]
+id: CO_340:0000644
+name: Flower thrip damage
+namespace: CowpeaTrait
+def: "Flower thrip damage to stipules, flower buds and peduncles" []
+synonym: "THRIPFLOW, FOLTHRIP" EXACT []
+is_a: CO_340:Biotic stress traits
+
+[Term]
+id: CO_340:0000643
+name: Leafhopper (Empoasca) damage
+namespace: CowpeaTrait
+def: "Damage caused by leafhopper (Empoasca)" []
+synonym: "EmpRes" EXACT []
+is_a: CO_340:Biotic stress traits
+
+[Term]
+id: CO_340:0000642
+name: Aphid severity
+namespace: CowpeaTrait
+def: "Severity of aphid infestation" []
+synonym: "AphSev" EXACT []
+is_a: CO_340:Biotic stress traits
+
+[Term]
+id: CO_340:0000641
+name: Aphid incidence
+namespace: CowpeaTrait
+def: "Aphid Incidence Score" []
+synonym: "AphIS" EXACT []
+is_a: CO_340:Biotic stress traits
+
+[Term]
+id: CO_340:0000640
+name: Harvested leaf weight
+namespace: CowpeaTrait
+def: "Weight of harvested leaves" []
+synonym: "TWL" EXACT []
+is_a: CO_340:Agronomical traits
+
+[Term]
+id: CO_340:0000639
+name: Plant stand at emergence
+namespace: CowpeaTrait
+def: "Number of plants germinated within one week after planting" []
+synonym: "Plants germinated" EXACT []
+synonym: " Hills with plants emerged" EXACT []
+synonym: "GERM" EXACT []
+is_a: CO_340:Agronomical traits
+
+[Term]
+id: CO_340:0000638
+name: Grain yield
+namespace: CowpeaTrait
+def: "Harvested grain weight" []
+synonym: "GrYld" EXACT []
+is_a: CO_340:Agronomical traits
+
+[Term]
+id: CO_340:0000634
+name: No scale name found
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000633
+
+[Term]
+id: CO_340:0000633
+name: 
+namespace: CowpeaMethod
+def: "Count the number of Alectra in the experimental plot 9 weeks after planting" []
+relationship: method_of CO_340:0000632
+
+[Term]
+id: CO_340:0000632
+name: ALPERPLT
+namespace: CowpeaTrait
+def: "Alectra per plot" []
+synonym: "ALPERP" EXACT []
+is_a: CO_340:Agronomical traits
+
+[Term]
+id: CO_340:0000631
+name: 0-4 score
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000630
+
+[Term]
+id: CO_340:0000631/1
+name:  no infestation
+namespace: CowpeaScale
+synonym: "0" EXACT []
+is_a: CO_340:0000631
+
+
+[Term]
+id: CO_340:0000631/4
+name: heavy infestation
+namespace: CowpeaScale
+synonym: "3" EXACT []
+is_a: CO_340:0000631
+
+
+[Term]
+id: CO_340:0000631/5
+name: heavy devastating infestation
+namespace: CowpeaScale
+synonym: "4" EXACT []
+is_a: CO_340:0000631
+
+
+[Term]
+id: CO_340:0000631/2
+name: mild infestation
+namespace: CowpeaScale
+synonym: "1" EXACT []
+is_a: CO_340:0000631
+
+
+[Term]
+id: CO_340:0000631/3
+name: moderate infestation
+namespace: CowpeaScale
+synonym: "2" EXACT []
+is_a: CO_340:0000631
+
+
+[Term]
+id: CO_340:0000630
+name: Diabrotica - Method
+namespace: CowpeaMethod
+def: "visual rating of diabrotica per plot" []
+relationship: method_of CO_340:0000629
+
+[Term]
+id: CO_340:0000629
+name: Diabrotica
+namespace: CowpeaTrait
+def: "Infestation by diabrotica" []
+synonym: "DIABRT" EXACT []
+is_a: CO_340:Biotic stress traits
+
+[Term]
+id: CO_340:0000628
+name: kg/ha
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000627
+
+[Term]
+id: CO_340:0000627
+name: 
+namespace: CowpeaMethod
+def: "Averaged weigh of 5 or 10 random Striga plants per experimental plot" []
+relationship: method_of CO_340:0000626
+
+[Term]
+id: CO_340:0000626
+name: STRGDRWT
+namespace: CowpeaTrait
+def: "Striga dry weight" []
+synonym: "STRGDR" EXACT []
+is_a: CO_340:Agronomical traits
+
+[Term]
+id: CO_340:0000625
+name: cm
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000624
+
+[Term]
+id: CO_340:0000624
+name: Peduncle length - Method
+namespace: CowpeaMethod
+def: "Measure peduncules when they have grown full length. Mean length of 10 peduncles, one from each of 10 randomly selected plants" []
+relationship: method_of CO_340:0000623
+
+[Term]
+id: CO_340:0000623
+name: Peduncle length
+namespace: CowpeaTrait
+def: "Length of peduncules at full growth" []
+synonym: "PedLen" EXACT []
+is_a: CO_340:Morphological traits
+
+[Term]
+id: CO_340:0000622
+name: nodules/plot
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000621
+
+[Term]
+id: CO_340:0000621
+name: Nodule count - Method
+namespace: CowpeaMethod
+def: "average number of nodules from 10 plants per experimental unit" []
+relationship: method_of CO_340:0000620
+
+[Term]
+id: CO_340:0000620
+name: Nodule number
+namespace: CowpeaTrait
+def: "Number of nodules" []
+synonym: "NodNo" EXACT []
+is_a: CO_340:Agronomical traits
+
+[Term]
+id: CO_340:0000619
+name: g
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000618
+
+[Term]
+id: CO_340:0000618
+name: Nodule fresh weight - Method
+namespace: CowpeaMethod
+def: "Average fresh Weight of nodule from 10 plants per experimental unit" []
+relationship: method_of CO_340:0000617
+
+[Term]
+id: CO_340:0000617
+name: Nodule weight
+namespace: CowpeaTrait
+def: "weight of nodule" []
+synonym: "NDLWT" EXACT []
+is_a: CO_340:Agronomical traits
+
+[Term]
+id: CO_340:0000616
+name: g
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000615
+
+[Term]
+id: CO_340:0000615
+name: Fresh fodder weight - Method
+namespace: CowpeaMethod
+def: "Weigh of fresh fodder harversted from experimental plot" []
+relationship: method_of CO_340:0000614
+
+[Term]
+id: CO_340:0000614
+name: Fresh fodder weight
+namespace: CowpeaTrait
+def: "weight of fresh fodder" []
+synonym: "FFWT" EXACT []
+is_a: CO_340:Agronomical traits
+
+[Term]
+id: CO_340:0000613
+name: mg/kg
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000612
+
+[Term]
+id: CO_340:0000612
+name: Atomic Absorption Spectrophotometry
+namespace: CowpeaMethod
+def: "Atomic Absorption Spectrophotometry (AAS)" []
+relationship: method_of CO_340:0000611
+relationship: method_of CO_340:0000890
+
+[Term]
+id: CO_340:0000611
+name: Iron concentration
+namespace: CowpeaTrait
+def: "Iron concentration in the seed" []
+synonym: "ICONC" EXACT []
+is_a: CO_340:Quality traits
+
+[Term]
+id: CO_340:0000610
+name: mg/kg
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000609
+
+[Term]
+id: CO_340:0000609
+name: Atomic Absorption Spectrophotometry
+namespace: CowpeaMethod
+def: "Atomic Absorption Spectrophotometry (AAS)" []
+relationship: method_of CO_340:0000608
+relationship: method_of CO_340:0000879
+
+[Term]
+id: CO_340:0000608
+name: Zinc concentration
+namespace: CowpeaTrait
+def: "Zinc concentration in the seed" []
+synonym: "dry fodder yield" EXACT []
+synonym: "ZNCONC" EXACT []
+is_a: CO_340:Quality traits
+
+[Term]
+id: CO_340:0000607
+name: kg/ha
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000606
+
+[Term]
+id: CO_340:0000606
+name: 
+relationship: method_of CO_340:0000605
+
+[Term]
+id: CO_340:0000605
+name: HEAD WEIGHT
+namespace: CowpeaTrait
+def: "HEAD WEIGHT" []
+synonym: "HDWT" EXACT []
+is_a: CO_340:Agronomical traits
+
+[Term]
+id: CO_340:0000604
+name: g
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000603
+
+[Term]
+id: CO_340:0000603
+name: Leaf harvest - Method
+namespace: CowpeaMethod
+def: "Weigh leaf harvested from experimental unit weekly" []
+relationship: method_of CO_340:0000602
+relationship: method_of CO_340:0000640
+
+[Term]
+id: CO_340:0000602
+name: Leaf harvest
+namespace: CowpeaTrait
+def: "Weight of LEAF HARVESTed per plot every week" []
+synonym: "LFHV" EXACT []
+is_a: CO_340:Agronomical traits
+
+[Term]
+id: CO_340:0000601
+name: No scale name found
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000600
+
+[Term]
+id: CO_340:0000600
+name: 
+namespace: CowpeaMethod
+def: "Pouch Screening in growth chamber" []
+relationship: method_of CO_340:0000599
+
+[Term]
+id: CO_340:0000599
+name: Resistance to M. javanica root knot nematode
+namespace: CowpeaTrait
+def: "Resistance to M. javanica root knot nematode" []
+synonym: "RSMJAV" EXACT []
+is_a: CO_340:Biotic stress traits
+
+[Term]
+id: CO_340:0000598
+name: undefined scale
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000597
+
+[Term]
+id: CO_340:0000597
+name: Wasps - Method
+namespace: CowpeaMethod
+def: "undefined method" []
+relationship: method_of CO_340:0000596
+
+[Term]
+id: CO_340:0000596
+name: Wasps
+namespace: CowpeaTrait
+def: "Undefined trait" []
+synonym: "WASPS" EXACT []
+is_a: CO_340:Biotic stress traits
+
+[Term]
+id: CO_340:0000589
+name: hills
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000588
+
+[Term]
+id: CO_340:0000588
+name: Hills - Method
+namespace: CowpeaMethod
+def: "Count number of hill per plot having at least one plant" []
+relationship: method_of CO_340:0000587
+
+[Term]
+id: CO_340:0000587
+name: Number of hills
+namespace: CowpeaTrait
+def: "Number of hills having at least one plant" []
+synonym: "HILLS" EXACT []
+is_a: CO_340:Agronomical traits
+
+[Term]
+id: CO_340:0000586
+name: 0-4 visual score
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000585
+
+[Term]
+id: CO_340:0000586/1
+name:  no infestation
+namespace: CowpeaScale
+synonym: "0" EXACT []
+is_a: CO_340:0000586
+
+
+[Term]
+id: CO_340:0000586/4
+name: heavy infestation
+namespace: CowpeaScale
+synonym: "3" EXACT []
+is_a: CO_340:0000586
+
+
+[Term]
+id: CO_340:0000586/5
+name: heavy devastating infestation
+namespace: CowpeaScale
+synonym: "4" EXACT []
+is_a: CO_340:0000586
+
+
+[Term]
+id: CO_340:0000586/2
+name: mild infestation
+namespace: CowpeaScale
+synonym: "1" EXACT []
+is_a: CO_340:0000586
+
+
+[Term]
+id: CO_340:0000586/3
+name: moderate infestation
+namespace: CowpeaScale
+synonym: "2" EXACT []
+is_a: CO_340:0000586
+
+
+[Term]
+id: CO_340:0000585
+name: Leaf rust - Method
+namespace: CowpeaMethod
+def: "Visual rating of leaf rust affected plant per plot" []
+relationship: method_of CO_340:0000584
+
+[Term]
+id: CO_340:0000584
+name: Leaf rust infestation
+namespace: CowpeaTrait
+def: "Infestation by Leaf rust" []
+synonym: "LEAFRU" EXACT []
+is_a: CO_340:Biotic stress traits
+
+[Term]
+id: CO_340:0000583
+name: plants
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000582
+
+[Term]
+id: CO_340:0000582
+name: Plants dead - Method
+namespace: CowpeaMethod
+def: "Count number of plants dead per plot" []
+relationship: method_of CO_340:0000581
+
+[Term]
+id: CO_340:0000581
+name: Dead plant number
+namespace: CowpeaTrait
+def: "Number of dead plants" []
+synonym: "NDEADP" EXACT []
+is_a: CO_340:Agronomical traits
+
+[Term]
+id: CO_340:0000580
+name: percent
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000579
+
+[Term]
+id: CO_340:0000579
+name: 
+relationship: method_of CO_340:0000578
+
+[Term]
+id: CO_340:0000578
+name: PERCENT PROTEIN
+namespace: CowpeaTrait
+def: "PERCENT PROTEIN" []
+synonym: "PPTP" EXACT []
+is_a: CO_340:Agronomical traits
+
+[Term]
+id: CO_340:0000577
+name: mg/g
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000576
+
+[Term]
+id: CO_340:0000576
+name: Protein - Method
+namespace: CowpeaMethod
+def: "Protein content of sample grain" []
+relationship: method_of CO_340:0000575
+
+[Term]
+id: CO_340:0000575
+name: Grain protein content
+namespace: CowpeaTrait
+def: "Protein content of the grain" []
+synonym: "PROTEIN" EXACT []
+is_a: CO_340:Quality traits
+
+[Term]
+id: CO_340:0000574
+name: 0-4 visual score
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000573
+
+[Term]
+id: CO_340:0000574/1
+name:  no infestation
+namespace: CowpeaScale
+synonym: "0" EXACT []
+is_a: CO_340:0000574
+
+
+[Term]
+id: CO_340:0000574/4
+name: heavy infestation
+namespace: CowpeaScale
+synonym: "3" EXACT []
+is_a: CO_340:0000574
+
+
+[Term]
+id: CO_340:0000574/5
+name: heavy devastating infestation
+namespace: CowpeaScale
+synonym: "4" EXACT []
+is_a: CO_340:0000574
+
+
+[Term]
+id: CO_340:0000574/2
+name: mild infestation
+namespace: CowpeaScale
+synonym: "1" EXACT []
+is_a: CO_340:0000574
+
+
+[Term]
+id: CO_340:0000574/3
+name: moderate infestation
+namespace: CowpeaScale
+synonym: "2" EXACT []
+is_a: CO_340:0000574
+
+
+[Term]
+id: CO_340:0000573
+name: Phoma - Method
+namespace: CowpeaMethod
+def: "Visual rating of phoma affected plant per plot" []
+relationship: method_of CO_340:0000572
+
+[Term]
+id: CO_340:0000572
+name: Phoma infestation
+namespace: CowpeaTrait
+def: "Infestation by phoma" []
+synonym: "PHOMA" EXACT []
+is_a: CO_340:Biotic stress traits
+
+[Term]
+id: CO_340:0000571
+name: cm
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000570
+
+[Term]
+id: CO_340:0000570
+name: Plant height - Method
+namespace: CowpeaMethod
+def: "Average the height of 5 to 10 plants per plot at maturity" []
+relationship: method_of CO_340:0000569
+
+[Term]
+id: CO_340:0000569
+name: Plant height
+namespace: CowpeaTrait
+def: "Plant height" []
+synonym: "PTHT" EXACT []
+is_a: CO_340:Morphological traits
+
+[Term]
+id: CO_340:0000568
+name: g
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000567
+
+[Term]
+id: CO_340:0000567
+name: Total leaf - Method
+namespace: CowpeaMethod
+def: "Weight of total leaf harvested per plot" []
+relationship: method_of CO_340:0000566
+relationship: method_of CO_340:0000640
+
+[Term]
+id: CO_340:0000566
+name: Leaf weight
+namespace: CowpeaTrait
+def: "Leaf weight" []
+synonym: "LfWt" EXACT []
+is_a: CO_340:Agronomical traits
+
+[Term]
+id: CO_340:0000565
+name: 0-4 visual score
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000564
+
+[Term]
+id: CO_340:0000565/1
+name:  no infestation
+namespace: CowpeaScale
+synonym: "0" EXACT []
+is_a: CO_340:0000565
+
+
+[Term]
+id: CO_340:0000565/4
+name: heavy infestation
+namespace: CowpeaScale
+synonym: "3" EXACT []
+is_a: CO_340:0000565
+
+
+[Term]
+id: CO_340:0000565/5
+name: heavy devastating infestation
+namespace: CowpeaScale
+synonym: "4" EXACT []
+is_a: CO_340:0000565
+
+
+[Term]
+id: CO_340:0000565/2
+name: mild infestation
+namespace: CowpeaScale
+synonym: "1" EXACT []
+is_a: CO_340:0000565
+
+
+[Term]
+id: CO_340:0000565/3
+name: moderate infestation
+namespace: CowpeaScale
+synonym: "2" EXACT []
+is_a: CO_340:0000565
+
+
+[Term]
+id: CO_340:0000564
+name: Leaf spot - Method
+namespace: CowpeaMethod
+def: "Visual rating of leafspot per plot" []
+relationship: method_of CO_340:0000563
+
+[Term]
+id: CO_340:0000563
+name: Leaf spot infestation
+namespace: CowpeaTrait
+def: "Leaf spot infestation" []
+synonym: "Septoria" EXACT []
+synonym: "LFSPT" EXACT []
+is_a: CO_340:Biotic stress traits
+
+[Term]
+id: CO_340:0000559
+name: No scale name found
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000558
+
+[Term]
+id: CO_340:0000558
+name: 
+namespace: CowpeaMethod
+def: "Pouch Screening in growth chamber" []
+relationship: method_of CO_340:0000557
+
+[Term]
+id: CO_340:0000557
+name: M. incognita root knot nematode
+namespace: CowpeaTrait
+def: "Resistance to M. incognita root knot nematode" []
+synonym: "RSMICG" EXACT []
+is_a: CO_340:Biotic stress traits
+
+[Term]
+id: CO_340:0000550
+name: Reading of the blood testing device
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000549
+
+[Term]
+id: CO_340:0000549
+name: Grain sucrose content - Method
+namespace: CowpeaMethod
+def: "Measure the sucrose content of grain sample using a blood testing device for tracking diabetese" []
+relationship: method_of CO_340:0000548
+
+[Term]
+id: CO_340:0000548
+name: Grain sucrose content
+namespace: CowpeaTrait
+def: "Grain sucrose content" []
+synonym: "SUCROS" EXACT []
+is_a: CO_340:Quality traits
+
+[Term]
+id: CO_340:0000547
+name: 0-4 visual score
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000546
+
+[Term]
+id: CO_340:0000547/1
+name:  no infestation
+namespace: CowpeaScale
+synonym: "0" EXACT []
+is_a: CO_340:0000547
+
+
+[Term]
+id: CO_340:0000547/4
+name: heavy infestation
+namespace: CowpeaScale
+synonym: "3" EXACT []
+is_a: CO_340:0000547
+
+
+[Term]
+id: CO_340:0000547/5
+name: heavy devastating infestation
+namespace: CowpeaScale
+synonym: "4" EXACT []
+is_a: CO_340:0000547
+
+
+[Term]
+id: CO_340:0000547/2
+name: mild infestation
+namespace: CowpeaScale
+synonym: "1" EXACT []
+is_a: CO_340:0000547
+
+
+[Term]
+id: CO_340:0000547/3
+name: moderate infestation
+namespace: CowpeaScale
+synonym: "2" EXACT []
+is_a: CO_340:0000547
+
+
+[Term]
+id: CO_340:0000546
+name: Leaf scab - Method
+namespace: CowpeaMethod
+def: "Visual rating of leaf affected by scab" []
+relationship: method_of CO_340:0000545
+
+[Term]
+id: CO_340:0000545
+name: Leaf scab infestation
+namespace: CowpeaTrait
+def: "Infestation by Leaf scab" []
+synonym: "LEAFSC" EXACT []
+is_a: CO_340:Biotic stress traits
+
+[Term]
+id: CO_340:0000544
+name: No scale name found
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000543
+
+[Term]
+id: CO_340:0000543
+name: 
+relationship: method_of CO_340:0000542
+
+[Term]
+id: CO_340:0000542
+name: Resistance to M. incognita root knot nematode
+namespace: CowpeaTrait
+def: "Resistance to M. incognita root knot nematode" []
+synonym: "RESMIN" EXACT []
+is_a: CO_340:Biotic stress traits
+
+[Term]
+id: CO_340:0000541
+name: 0-4 visual score
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000540
+
+[Term]
+id: CO_340:0000541/1
+name:  no infestation
+namespace: CowpeaScale
+synonym: "0" EXACT []
+is_a: CO_340:0000541
+
+
+[Term]
+id: CO_340:0000541/4
+name: heavy infestation
+namespace: CowpeaScale
+synonym: "3" EXACT []
+is_a: CO_340:0000541
+
+
+[Term]
+id: CO_340:0000541/5
+name: heavy devastating infestation
+namespace: CowpeaScale
+synonym: "4" EXACT []
+is_a: CO_340:0000541
+
+
+[Term]
+id: CO_340:0000541/2
+name: mild infestation
+namespace: CowpeaScale
+synonym: "1" EXACT []
+is_a: CO_340:0000541
+
+
+[Term]
+id: CO_340:0000541/3
+name: moderate infestation
+namespace: CowpeaScale
+synonym: "2" EXACT []
+is_a: CO_340:0000541
+
+
+[Term]
+id: CO_340:0000540
+name: Smut - Method
+namespace: CowpeaMethod
+def: "Visual rating of leaf affected by smut" []
+relationship: method_of CO_340:0000539
+
+[Term]
+id: CO_340:0000539
+name: Smut infestation
+namespace: CowpeaTrait
+def: "Infestation by Smut" []
+synonym: "SMUT" EXACT []
+is_a: CO_340:Biotic stress traits
+
+[Term]
+id: CO_340:0000538
+name: number
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000537
+
+[Term]
+id: CO_340:0000537
+name: 
+namespace: CowpeaMethod
+def: "Record the date at which the first Striga in the experimental plot emerged" []
+relationship: method_of CO_340:0000536
+
+[Term]
+id: CO_340:0000536
+name: DYSTRGEM
+namespace: CowpeaTrait
+def: "Days to Striga Emergence" []
+synonym: "STREM" EXACT []
+synonym: "DYSTRG" EXACT []
+is_a: CO_340:Agronomical traits
+
+[Term]
+id: CO_340:0000535
+name: days
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000534
+
+[Term]
+id: CO_340:0000534
+name: First pods emergence - Method
+namespace: CowpeaMethod
+def: "Count number of days from planting to first appearance of pod per plot" []
+relationship: method_of CO_340:0000533
+
+[Term]
+id: CO_340:0000533
+name: Pode emergence time
+namespace: CowpeaTrait
+def: "Time to pod Emergence" []
+synonym: "DFRSTPO" EXACT []
+is_a: CO_340:Phenological traits
+
+[Term]
+id: CO_340:0000532
+name: g
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000531
+
+[Term]
+id: CO_340:0000531
+name: Dry fodder weight - Method
+namespace: CowpeaMethod
+def: "Weight of dry fodder harvested on an experimental plot" []
+relationship: method_of CO_340:0000530
+
+[Term]
+id: CO_340:0000530
+name: Dry fodder weight
+namespace: CowpeaTrait
+def: "Dry fodder weight" []
+synonym: "dry fodder" EXACT []
+synonym: "DFWT" EXACT []
+is_a: CO_340:Agronomical traits
+
+[Term]
+id: CO_340:0000511
+name: SPAD units
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000510
+
+[Term]
+id: CO_340:0000510
+name: Chlorophyll content - Method
+namespace: CowpeaMethod
+def: "Measurement of chlorophyll using a chlorophyll SPAD meter between 8am -10am as per manufacturers instructions" []
+relationship: method_of CO_340:0000509
+
+[Term]
+id: CO_340:0000509
+name: Chlorophyll content
+namespace: CowpeaTrait
+def: "Chlorophyll content" []
+synonym: "SPAD" EXACT []
+is_a: CO_340:Abiotic stress traits
+
+[Term]
+id: CO_340:0000505
+name: Undefined scale
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000504
+
+[Term]
+id: CO_340:0000504
+name: M. javanica root knot nematode - Method
+namespace: CowpeaMethod
+def: "Visual assessment of root" []
+relationship: method_of CO_340:0000503
+
+[Term]
+id: CO_340:0000503
+name: M. javanica root knot nematode
+namespace: CowpeaTrait
+def: "Damage caused by M. javanica root knot nematode" []
+synonym: "RootNemRes" EXACT []
+is_a: CO_340:Biotic stress traits
+
+[Term]
+id: CO_340:0000502
+name: g
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000501
+
+[Term]
+id: CO_340:0000501
+name: Fresh pod - Method
+namespace: CowpeaMethod
+def: "Record Weight fresh mature pod from a plot" []
+relationship: method_of CO_340:0000500
+
+[Term]
+id: CO_340:0000500
+name: Fresh pod
+namespace: CowpeaTrait
+def: "Weight of fresh pod" []
+synonym: "FRESHP" EXACT []
+is_a: CO_340:Agronomical traits
+
+[Term]
+id: CO_340:0000499
+name: 0-4 visual score
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000498
+
+[Term]
+id: CO_340:0000499/1
+name:  no infestation
+namespace: CowpeaScale
+synonym: "0" EXACT []
+is_a: CO_340:0000499
+
+
+[Term]
+id: CO_340:0000499/4
+name: heavy infestation
+namespace: CowpeaScale
+synonym: "3" EXACT []
+is_a: CO_340:0000499
+
+
+[Term]
+id: CO_340:0000499/5
+name: heavy devastating infestation
+namespace: CowpeaScale
+synonym: "4" EXACT []
+is_a: CO_340:0000499
+
+
+[Term]
+id: CO_340:0000499/2
+name: mild infestation
+namespace: CowpeaScale
+synonym: "1" EXACT []
+is_a: CO_340:0000499
+
+
+[Term]
+id: CO_340:0000499/3
+name: moderate infestation
+namespace: CowpeaScale
+synonym: "2" EXACT []
+is_a: CO_340:0000499
+
+
+[Term]
+id: CO_340:0000498
+name: Phytium Infestation - Method
+namespace: CowpeaMethod
+def: "Visual assessment of pithium infested plant per plot" []
+relationship: method_of CO_340:0000497
+
+[Term]
+id: CO_340:0000497
+name: Phytium infestation
+namespace: CowpeaTrait
+def: "Extent of the infestation by Pythium" []
+synonym: "PHYTM" EXACT []
+is_a: CO_340:Biotic stress traits
+
+[Term]
+id: CO_340:0000496
+name: 0-4 visual score
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000495
+
+[Term]
+id: CO_340:0000496/1
+name:  no infestation
+namespace: CowpeaScale
+synonym: "0" EXACT []
+is_a: CO_340:0000496
+
+
+[Term]
+id: CO_340:0000496/4
+name: heavy infestation
+namespace: CowpeaScale
+synonym: "3" EXACT []
+is_a: CO_340:0000496
+
+
+[Term]
+id: CO_340:0000496/5
+name: heavy devastating infestation
+namespace: CowpeaScale
+synonym: "4" EXACT []
+is_a: CO_340:0000496
+
+
+[Term]
+id: CO_340:0000496/2
+name: mild infestation
+namespace: CowpeaScale
+synonym: "1" EXACT []
+is_a: CO_340:0000496
+
+
+[Term]
+id: CO_340:0000496/3
+name: moderate infestation
+namespace: CowpeaScale
+synonym: "2" EXACT []
+is_a: CO_340:0000496
+
+
+[Term]
+id: CO_340:0000495
+name: Pod SCAB - Method
+namespace: CowpeaMethod
+def: "Visual rating of pod affected by scab" []
+relationship: method_of CO_340:0000494
+
+[Term]
+id: CO_340:0000494
+name: Pod scab infestation
+namespace: CowpeaTrait
+def: "Pod infestation by SCAB" []
+synonym: "PODSCAB" EXACT []
+is_a: CO_340:Biotic stress traits
+
+[Term]
+id: CO_340:0000478
+name: minutes
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000477
+
+[Term]
+id: CO_340:0000477
+name: Cooking time - Method
+namespace: CowpeaMethod
+def: "Time taken for dry grain to soften in boiling water" []
+relationship: method_of CO_340:0000476
+
+[Term]
+id: CO_340:0000476
+name: Cooking time
+namespace: CowpeaTrait
+def: "Time needed for cowpea sample to cook" []
+synonym: "CKTME" EXACT []
+is_a: CO_340:Quality traits
+
+[Term]
+id: CO_340:0000469
+name: Growth habit
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000468
+
+[Term]
+id: CO_340:0000469/1
+name:  Acute erect (branches form acute angles with main stem)
+namespace: CowpeaScale
+synonym: "1" EXACT []
+is_a: CO_340:0000469
+
+
+[Term]
+id: CO_340:0000469/4
+name:  Intermediate (most lower branches touch the ground)
+namespace: CowpeaScale
+synonym: "4" EXACT []
+is_a: CO_340:0000469
+
+
+[Term]
+id: CO_340:0000469/5
+name:  Semi–prostrate (main stem reaches 20 or more centimeters 6 Prostrate (plants flat on ground - branches spread several meters)
+namespace: CowpeaScale
+synonym: "5" EXACT []
+is_a: CO_340:0000469
+
+
+[Term]
+id: CO_340:0000469/2
+name:  Erect (branching angle less acute than above)
+namespace: CowpeaScale
+synonym: "2" EXACT []
+is_a: CO_340:0000469
+
+
+[Term]
+id: CO_340:0000469/3
+name:  Semi-erect (branches perpendicular to main stem, but not touch ground)
+namespace: CowpeaScale
+synonym: "3" EXACT []
+is_a: CO_340:0000469
+
+
+[Term]
+id: CO_340:0000468
+name: Growth habit - Method
+namespace: CowpeaMethod
+def: "Visual recording of cultivar growth habit Evaluated in the 6th week after sowing" []
+relationship: method_of CO_340:0000467
+
+[Term]
+id: CO_340:0000467
+name: Growth habit
+namespace: CowpeaTrait
+def: "Type of growth habit" []
+synonym: "GROHAB" EXACT []
+is_a: CO_340:Agronomical traits
+
+[Term]
+id: CO_340:0000463
+name: number
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000462
+
+[Term]
+id: CO_340:0000462
+name: 
+relationship: method_of CO_340:0000461
+
+[Term]
+id: CO_340:0000461
+name: PLOT INFECTED WITH ALECTRA
+namespace: CowpeaTrait
+def: "Presence or Absence of Alectra" []
+synonym: "PALCT" EXACT []
+is_a: CO_340:Biotic stress traits
+
+[Term]
+id: CO_340:0000460
+name: gram
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000459
+
+[Term]
+id: CO_340:0000459
+name: 
+namespace: CowpeaMethod
+def: "Total Weight of harvested pod per plot" []
+relationship: method_of CO_340:0000458
+
+[Term]
+id: CO_340:0000458
+name: TOTAL PODS
+namespace: CowpeaTrait
+def: "Total pods harvested" []
+synonym: "TPDHV" EXACT []
+is_a: CO_340:Agronomical traits
+
+[Term]
+id: CO_340:0000454
+name: No scale name found
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000453
+
+[Term]
+id: CO_340:0000453
+name: 
+namespace: CowpeaMethod
+def: "Visual rating of % affected leaf area, 0 - 10 score" []
+relationship: method_of CO_340:0000452
+
+[Term]
+id: CO_340:0000452
+name: Resistance to bacterial blight (X. vignicola)
+namespace: CowpeaTrait
+def: "Resistance to bacterial blight (Xanthomonas vignicola)" []
+synonym: "BB" EXACT []
+is_a: CO_340:Biotic stress traits
+
+[Term]
+id: CO_340:0000451
+name: number
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000450
+
+[Term]
+id: CO_340:0000450
+name: 
+namespace: CowpeaMethod
+def: "Count of pods per plant for ten plants" []
+relationship: method_of CO_340:0000449
+
+[Term]
+id: CO_340:0000449
+name: Pods per plot
+namespace: CowpeaTrait
+def: "Pods per plot" []
+synonym: "PODN" EXACT []
+is_a: CO_340:Agronomical traits
+
+[Term]
+id: CO_340:0000445
+name: 0-4 visual score
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000444
+
+[Term]
+id: CO_340:0000445/1
+name: no pods
+namespace: CowpeaScale
+synonym: "0" EXACT []
+is_a: CO_340:0000445
+
+
+[Term]
+id: CO_340:0000445/4
+name: 3 pods/peduncle
+namespace: CowpeaScale
+synonym: "3" EXACT []
+is_a: CO_340:0000445
+
+
+[Term]
+id: CO_340:0000445/5
+name: 4 pods/peduncle
+namespace: CowpeaScale
+synonym: "4" EXACT []
+is_a: CO_340:0000445
+
+
+[Term]
+id: CO_340:0000445/2
+name: 1 pods/peduncle
+namespace: CowpeaScale
+synonym: "1" EXACT []
+is_a: CO_340:0000445
+
+
+[Term]
+id: CO_340:0000445/3
+name: 2 pods/peduncle
+namespace: CowpeaScale
+synonym: "2" EXACT []
+is_a: CO_340:0000445
+
+
+[Term]
+id: CO_340:0000444
+name: Lygus bug - Method
+namespace: CowpeaMethod
+def: "Visual rating of the average pod set under unprotected, lygus infested conditions" []
+relationship: method_of CO_340:0000443
+
+[Term]
+id: CO_340:0000443
+name: Lygus bug damage
+namespace: CowpeaTrait
+def: "Damage caused by lygus bug" []
+synonym: "LYGUSRES" EXACT []
+is_a: CO_340:Biotic stress traits
+
+[Term]
+id: CO_340:0000442
+name: 0-4 visual score
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000441
+
+[Term]
+id: CO_340:0000442/1
+name: No visible infection
+namespace: CowpeaScale
+synonym: "0" EXACT []
+is_a: CO_340:0000442
+
+
+[Term]
+id: CO_340:0000442/4
+name: high wilting and necrosis
+namespace: CowpeaScale
+synonym: "3" EXACT []
+is_a: CO_340:0000442
+
+
+[Term]
+id: CO_340:0000442/5
+name: plant dead or near death
+namespace: CowpeaScale
+synonym: "4" EXACT []
+is_a: CO_340:0000442
+
+
+[Term]
+id: CO_340:0000442/2
+name: very slight wilting
+namespace: CowpeaScale
+synonym: "1" EXACT []
+is_a: CO_340:0000442
+
+
+[Term]
+id: CO_340:0000442/3
+name: moderte wilting and necrosis
+namespace: CowpeaScale
+synonym: "2" EXACT []
+is_a: CO_340:0000442
+
+
+[Term]
+id: CO_340:0000441
+name: Macrophomina Tolerance - Method
+namespace: CowpeaMethod
+def: "Visual rating of severity and extent of macrophomina damage" []
+relationship: method_of CO_340:0000440
+
+[Term]
+id: CO_340:0000440
+name: Macrophomina Severity
+namespace: CowpeaTrait
+def: "Severity of the symptoms caused by macrophomina" []
+synonym: "MACROPH" EXACT []
+is_a: CO_340:Biotic stress traits
+
+[Term]
+id: CO_340:0000439
+name: 1-3 classes
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000438
+
+[Term]
+id: CO_340:0000439/1
+name: S
+namespace: CowpeaScale
+synonym: "1" EXACT []
+is_a: CO_340:0000439
+
+
+[Term]
+id: CO_340:0000439/2
+name: T
+namespace: CowpeaScale
+synonym: "2" EXACT []
+is_a: CO_340:0000439
+
+
+[Term]
+id: CO_340:0000439/3
+name: DT
+namespace: CowpeaScale
+synonym: "3" EXACT []
+is_a: CO_340:0000439
+
+
+[Term]
+id: CO_340:0000438
+name: color of dry pod - Method
+namespace: CowpeaMethod
+def: "Visual observation of the color of the dry pod" []
+relationship: method_of CO_340:0000437
+
+[Term]
+id: CO_340:0000437
+name: color of dry pod
+namespace: CowpeaTrait
+def: "Dry pod color" []
+synonym: "DRYPODCOL" EXACT []
+is_a: CO_340:Morphological traits
+
+[Term]
+id: CO_340:0000436
+name: cm
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000435
+
+[Term]
+id: CO_340:0000435
+name: Canopy Height at FLOW50 - Method
+namespace: CowpeaMethod
+def: "when 50% of the plant in a plot have at least one flower, randomly select 5 plants, measure the height from soil surface to top of canopy and compute the average" []
+relationship: method_of CO_340:0000434
+
+[Term]
+id: CO_340:0000434
+name: Canopy Height
+namespace: CowpeaTrait
+def: "Canopy Height" []
+synonym: "CANOPYHT" EXACT []
+is_a: CO_340:Agronomical traits
+
+[Term]
+id: CO_340:0000433
+name: Color
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000432
+
+[Term]
+id: CO_340:0000433/1
+name: W
+namespace: CowpeaScale
+synonym: "1" EXACT []
+is_a: CO_340:0000433
+
+
+[Term]
+id: CO_340:0000433/4
+name: O
+namespace: CowpeaScale
+synonym: "4" EXACT []
+is_a: CO_340:0000433
+
+
+[Term]
+id: CO_340:0000433/2
+name: V
+namespace: CowpeaScale
+synonym: "2" EXACT []
+is_a: CO_340:0000433
+
+
+[Term]
+id: CO_340:0000433/3
+name: M
+namespace: CowpeaScale
+synonym: "3" EXACT []
+is_a: CO_340:0000433
+
+
+[Term]
+id: CO_340:0000432
+name: Flower color - Method
+namespace: CowpeaMethod
+def: "Visual classification of flower colour in the experimental plot" []
+relationship: method_of CO_340:0000431
+
+[Term]
+id: CO_340:0000431
+name: Flower color
+namespace: CowpeaTrait
+def: "Flower color" []
+synonym: "FLOWCOL" EXACT []
+is_a: CO_340:Morphological traits
+
+[Term]
+id: CO_340:0000430
+name: Undefined scale
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000429
+
+[Term]
+id: CO_340:0000429
+name: Foliar thrip damage  - Method
+namespace: CowpeaMethod
+def: "Visual rating of leaf vein scarring" []
+relationship: method_of CO_340:0000428
+
+[Term]
+id: CO_340:0000428
+name: Foliar thrip damage
+namespace: CowpeaTrait
+def: "Foliar thrip damage" []
+synonym: "FOLTHRIP" EXACT []
+is_a: CO_340:Biotic stress traits
+
+[Term]
+id: CO_340:0000427
+name: 0-4 score
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000426
+
+[Term]
+id: CO_340:0000427/1
+name: infestation
+namespace: CowpeaScale
+synonym: "0" EXACT []
+is_a: CO_340:0000427
+
+
+[Term]
+id: CO_340:0000427/4
+name: heavy infestation
+namespace: CowpeaScale
+synonym: "3" EXACT []
+is_a: CO_340:0000427
+
+
+[Term]
+id: CO_340:0000427/5
+name: heavy devastating infestation
+namespace: CowpeaScale
+synonym: "4" EXACT []
+is_a: CO_340:0000427
+
+
+[Term]
+id: CO_340:0000427/2
+name: mild infestation
+namespace: CowpeaScale
+synonym: "1" EXACT []
+is_a: CO_340:0000427
+
+
+[Term]
+id: CO_340:0000427/3
+name: moderate infestation
+namespace: CowpeaScale
+synonym: "2" EXACT []
+is_a: CO_340:0000427
+
+
+[Term]
+id: CO_340:0000426
+name: Alectra - Method
+namespace: CowpeaMethod
+def: "Visual rating of presence/absence of Alectra" []
+relationship: method_of CO_340:0000425
+
+[Term]
+id: CO_340:0000425
+name: Alectra
+namespace: CowpeaTrait
+def: "Alectra vogelii infestation" []
+synonym: "ALCTRA" EXACT []
+is_a: CO_340:Biotic stress traits
+
+[Term]
+id: CO_340:0000424
+name: 0-4 visual score
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000423
+
+[Term]
+id: CO_340:0000424/1
+name: infestation
+namespace: CowpeaScale
+synonym: "0" EXACT []
+is_a: CO_340:0000424
+
+
+[Term]
+id: CO_340:0000424/4
+name: heavy infestation
+namespace: CowpeaScale
+synonym: "3" EXACT []
+is_a: CO_340:0000424
+
+
+[Term]
+id: CO_340:0000424/5
+name: heavy devastating infestation
+namespace: CowpeaScale
+synonym: "4" EXACT []
+is_a: CO_340:0000424
+
+
+[Term]
+id: CO_340:0000424/2
+name: mild infestation
+namespace: CowpeaScale
+synonym: "1" EXACT []
+is_a: CO_340:0000424
+
+
+[Term]
+id: CO_340:0000424/3
+name: moderate infestation
+namespace: CowpeaScale
+synonym: "2" EXACT []
+is_a: CO_340:0000424
+
+
+[Term]
+id: CO_340:0000423
+name: Cercospora - Method
+namespace: CowpeaMethod
+def: "Visual rating of cercospora affected leaf area" []
+relationship: method_of CO_340:0000422
+
+[Term]
+id: CO_340:0000422
+name: Cercospora
+namespace: CowpeaTrait
+def: "Damage caused by Cercospora" []
+synonym: "CRCSP" EXACT []
+is_a: CO_340:Biotic stress traits
+
+[Term]
+id: CO_340:0000421
+name: 5 classes
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000420
+
+[Term]
+id: CO_340:0000421/1
+name: R
+namespace: CowpeaScale
+synonym: "1" EXACT []
+is_a: CO_340:0000421
+
+
+[Term]
+id: CO_340:0000421/4
+name: K
+namespace: CowpeaScale
+synonym: "4" EXACT []
+is_a: CO_340:0000421
+
+
+[Term]
+id: CO_340:0000421/5
+name: O
+namespace: CowpeaScale
+synonym: "5" EXACT []
+is_a: CO_340:0000421
+
+
+[Term]
+id: CO_340:0000421/2
+name: E
+namespace: CowpeaScale
+synonym: "2" EXACT []
+is_a: CO_340:0000421
+
+
+[Term]
+id: CO_340:0000421/3
+name: G
+namespace: CowpeaScale
+synonym: "3" EXACT []
+is_a: CO_340:0000421
+
+
+[Term]
+id: CO_340:0000420
+name: Seed shape - Method
+namespace: CowpeaMethod
+def: "Visual observation of the shape of the seed" []
+relationship: method_of CO_340:0000419
+
+[Term]
+id: CO_340:0000419
+name: Seed shape
+namespace: CowpeaTrait
+def: "Seed shape" []
+synonym: "SDSHAPE" EXACT []
+is_a: CO_340:Quality traits
+
+[Term]
+id: CO_340:0000418
+name: 7 classes
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000417
+
+[Term]
+id: CO_340:0000418/1
+name: W
+namespace: CowpeaScale
+synonym: "1" EXACT []
+is_a: CO_340:0000418
+
+
+[Term]
+id: CO_340:0000418/4
+name: Bl
+namespace: CowpeaScale
+synonym: "4" EXACT []
+is_a: CO_340:0000418
+
+
+[Term]
+id: CO_340:0000418/5
+name: R
+namespace: CowpeaScale
+synonym: "5" EXACT []
+is_a: CO_340:0000418
+
+
+[Term]
+id: CO_340:0000418/2
+name: C
+namespace: CowpeaScale
+synonym: "2" EXACT []
+is_a: CO_340:0000418
+
+
+[Term]
+id: CO_340:0000418/3
+name: Br
+namespace: CowpeaScale
+synonym: "3" EXACT []
+is_a: CO_340:0000418
+
+
+[Term]
+id: CO_340:0000418/6
+name: P
+namespace: CowpeaScale
+synonym: "6" EXACT []
+is_a: CO_340:0000418
+
+
+[Term]
+id: CO_340:0000418/7
+name: O
+namespace: CowpeaScale
+synonym: "7" EXACT []
+is_a: CO_340:0000418
+
+
+[Term]
+id: CO_340:0000417
+name: Seedcoat color - Method
+namespace: CowpeaMethod
+def: "Visual assessment of seedcoat colour" []
+relationship: method_of CO_340:0000416
+
+[Term]
+id: CO_340:0000416
+name: Seedcoat color
+namespace: CowpeaTrait
+def: "Seed coat color" []
+synonym: "SDCOLOR" EXACT []
+is_a: CO_340:Quality traits
+
+[Term]
+id: CO_340:0000415
+name: 3 classes
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000414
+
+[Term]
+id: CO_340:0000415/1
+name: S
+namespace: CowpeaScale
+synonym: "1" EXACT []
+is_a: CO_340:0000415
+
+
+[Term]
+id: CO_340:0000415/2
+name: R
+namespace: CowpeaScale
+synonym: "2" EXACT []
+is_a: CO_340:0000415
+
+
+[Term]
+id: CO_340:0000415/3
+name: I
+namespace: CowpeaScale
+synonym: "3" EXACT []
+is_a: CO_340:0000415
+
+
+[Term]
+id: CO_340:0000414
+name: Seedcoat - Method
+namespace: CowpeaMethod
+def: "Visual, rough or smooth or intermediate" []
+relationship: method_of CO_340:0000413
+
+[Term]
+id: CO_340:0000413
+name: Seedcoat
+namespace: CowpeaTrait
+def: "Seedcoat texture" []
+synonym: "SDTEXT" EXACT []
+is_a: CO_340:Quality traits
+
+[Term]
+id: CO_340:0000412
+name: 0-4 score
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000411
+
+[Term]
+id: CO_340:0000412/1
+name: no symptoms
+namespace: CowpeaScale
+synonym: "0" EXACT []
+is_a: CO_340:0000412
+
+
+[Term]
+id: CO_340:0000412/4
+name: heavy infestation
+namespace: CowpeaScale
+synonym: "3" EXACT []
+is_a: CO_340:0000412
+
+
+[Term]
+id: CO_340:0000412/5
+name: heavy devastating severity
+namespace: CowpeaScale
+synonym: "4" EXACT []
+is_a: CO_340:0000412
+
+
+[Term]
+id: CO_340:0000412/2
+name: mild symptoms
+namespace: CowpeaScale
+synonym: "1" EXACT []
+is_a: CO_340:0000412
+
+
+[Term]
+id: CO_340:0000412/3
+name: moderate symptoms
+namespace: CowpeaScale
+synonym: "2" EXACT []
+is_a: CO_340:0000412
+
+
+[Term]
+id: CO_340:0000411
+name: Anthracnose - Method
+namespace: CowpeaMethod
+def: "Visual rating of Anthracnose affected leaf area" []
+relationship: method_of CO_340:0000410
+
+[Term]
+id: CO_340:0000410
+name: Anthracnose damage
+namespace: CowpeaTrait
+def: "Anthracnose damage" []
+synonym: "ATNSE" EXACT []
+is_a: CO_340:Biotic stress traits
+
+[Term]
+id: CO_340:0000406
+name: %
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000405
+
+[Term]
+id: CO_340:0000405
+name: Dead plant per plot - Method
+namespace: CowpeaMethod
+def: "Counting sampled plots for % dead plant" []
+relationship: method_of CO_340:0000404
+
+[Term]
+id: CO_340:0000404
+name: Dead plant proportion
+namespace: CowpeaTrait
+def: "Proportion of dead plant" []
+synonym: "PDEADP" EXACT []
+is_a: CO_340:Agronomical traits
+
+[Term]
+id: CO_340:0000403
+name: cm
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000402
+
+[Term]
+id: CO_340:0000402
+name: Length of pods - Method
+namespace: CowpeaMethod
+def: "Average length of ten mature pods per plot" []
+relationship: method_of CO_340:0000401
+
+[Term]
+id: CO_340:0000401
+name: Length of pods
+namespace: CowpeaTrait
+def: "Length of pods" []
+synonym: "PODLNGTH" EXACT []
+is_a: CO_340:Morphological traits
+
+[Term]
+id: CO_340:0000400
+name: 0-4 visual score
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000399
+
+[Term]
+id: CO_340:0000400/1
+name: no symptoms
+namespace: CowpeaScale
+synonym: "0" EXACT []
+is_a: CO_340:0000400
+
+
+[Term]
+id: CO_340:0000400/4
+name: heavy infestation
+namespace: CowpeaScale
+synonym: "3" EXACT []
+is_a: CO_340:0000400
+
+
+[Term]
+id: CO_340:0000400/5
+name: heavy devastating severity
+namespace: CowpeaScale
+synonym: "4" EXACT []
+is_a: CO_340:0000400
+
+
+[Term]
+id: CO_340:0000400/2
+name: mild symptoms
+namespace: CowpeaScale
+synonym: "1" EXACT []
+is_a: CO_340:0000400
+
+
+[Term]
+id: CO_340:0000400/3
+name: moderate symptoms
+namespace: CowpeaScale
+synonym: "2" EXACT []
+is_a: CO_340:0000400
+
+
+[Term]
+id: CO_340:0000399
+name: Septoria  - Method
+namespace: CowpeaMethod
+def: "Visual rating of Septoria affected leaf area" []
+relationship: method_of CO_340:0000398
+
+[Term]
+id: CO_340:0000398
+name: Septoria severity
+namespace: CowpeaTrait
+def: "Severity of the symptoms caused by Septoria" []
+synonym: "SEPT" EXACT []
+is_a: CO_340:Biotic stress traits
+
+[Term]
+id: CO_340:0000397
+name: 0-4 visual score
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000396
+
+[Term]
+id: CO_340:0000397/1
+name: broth clear
+namespace: CowpeaScale
+synonym: "0" EXACT []
+is_a: CO_340:0000397
+
+
+[Term]
+id: CO_340:0000397/4
+name: purple broth
+namespace: CowpeaScale
+synonym: "3" EXACT []
+is_a: CO_340:0000397
+
+
+[Term]
+id: CO_340:0000397/5
+name: black broth
+namespace: CowpeaScale
+synonym: "4" EXACT []
+is_a: CO_340:0000397
+
+
+[Term]
+id: CO_340:0000397/2
+name: broth with slight red color
+namespace: CowpeaScale
+synonym: "1" EXACT []
+is_a: CO_340:0000397
+
+
+[Term]
+id: CO_340:0000397/3
+name: deep red broth
+namespace: CowpeaScale
+synonym: "2" EXACT []
+is_a: CO_340:0000397
+
+
+[Term]
+id: CO_340:0000396
+name: Pigment bleeding - Method
+namespace: CowpeaMethod
+def: "Degree of seedcoat pigment discoloration following boiling water treatment for 5 minutes compared to standards" []
+relationship: method_of CO_340:0000395
+
+[Term]
+id: CO_340:0000395
+name: Pigment bleeding
+namespace: CowpeaTrait
+def: "Seedcoat pigment bleeding" []
+synonym: "EYELEAK" EXACT []
+is_a: CO_340:Quality traits
+
+[Term]
+id: CO_340:0000394
+name: Undefined scale
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000393
+
+[Term]
+id: CO_340:0000393
+name: Termites - Method
+namespace: CowpeaMethod
+def: "Visual assesment of overall occurence and severity of termite damage" []
+relationship: method_of CO_340:0000392
+
+[Term]
+id: CO_340:0000392
+name: Termites infestation
+namespace: CowpeaTrait
+def: "Extent of the infestation by termites" []
+synonym: "TRMTS" EXACT []
+is_a: CO_340:Biotic stress traits
+
+[Term]
+id: CO_340:0000391
+name: 0-4 visual score
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000390
+
+[Term]
+id: CO_340:0000391/1
+name: no stipule necrosis
+namespace: CowpeaScale
+synonym: "0" EXACT []
+is_a: CO_340:0000391
+
+
+[Term]
+id: CO_340:0000391/4
+name: high stipule necrosis
+namespace: CowpeaScale
+synonym: "3" EXACT []
+is_a: CO_340:0000391
+
+
+[Term]
+id: CO_340:0000391/5
+name: complete stipule necrosis
+namespace: CowpeaScale
+synonym: "4" EXACT []
+is_a: CO_340:0000391
+
+
+[Term]
+id: CO_340:0000391/2
+name: low stipule necrosis
+namespace: CowpeaScale
+synonym: "1" EXACT []
+is_a: CO_340:0000391
+
+
+[Term]
+id: CO_340:0000391/3
+name: medium stipule necrosis
+namespace: CowpeaScale
+synonym: "2" EXACT []
+is_a: CO_340:0000391
+
+
+[Term]
+id: CO_340:0000390
+name: Thrip damage to stipules  - Method
+namespace: CowpeaMethod
+def: "Trait assessed by visual rating of stipule necrosis at 40 DAP" []
+relationship: method_of CO_340:0000389
+
+[Term]
+id: CO_340:0000389
+name: Thrip damage to stipules
+namespace: CowpeaTrait
+def: "Flower thrip damage to stipules" []
+synonym: "THRIPSTIP" EXACT []
+is_a: CO_340:Biotic stress traits
+
+[Term]
+id: CO_340:0000388
+name: 0-4 visual score
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000387
+
+[Term]
+id: CO_340:0000388/1
+name: No infestation present
+namespace: CowpeaScale
+synonym: "0" EXACT []
+is_a: CO_340:0000388
+
+
+[Term]
+id: CO_340:0000388/4
+name: high medium aphid numbers
+namespace: CowpeaScale
+synonym: "3" EXACT []
+is_a: CO_340:0000388
+
+
+[Term]
+id: CO_340:0000388/5
+name: completely covered by aphids
+namespace: CowpeaScale
+synonym: "4" EXACT []
+is_a: CO_340:0000388
+
+
+[Term]
+id: CO_340:0000388/2
+name: low aphid numbers
+namespace: CowpeaScale
+synonym: "1" EXACT []
+is_a: CO_340:0000388
+
+
+[Term]
+id: CO_340:0000388/3
+name: medium aphid numbers
+namespace: CowpeaScale
+synonym: "2" EXACT []
+is_a: CO_340:0000388
+
+
+[Term]
+id: CO_340:0000387
+name: Aphid resistance  - Method
+namespace: CowpeaMethod
+def: "Visual rating of extent of aphid infestation" []
+relationship: method_of CO_340:0000386
+
+[Term]
+id: CO_340:0000386
+name: Aphid damage
+namespace: CowpeaTrait
+def: "Damage caused by aphid in specialized nursery" []
+synonym: "APHIDRES" EXACT []
+is_a: CO_340:Biotic stress traits
+
+[Term]
+id: CO_340:0000385
+name: 0-4 visual score
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000384
+
+[Term]
+id: CO_340:0000385/1
+name: No visible infection
+namespace: CowpeaScale
+synonym: "0" EXACT []
+is_a: CO_340:0000385
+
+
+[Term]
+id: CO_340:0000385/4
+name: high wilting and necrosis
+namespace: CowpeaScale
+synonym: "3" EXACT []
+is_a: CO_340:0000385
+
+
+[Term]
+id: CO_340:0000385/5
+name: plant dead or near death
+namespace: CowpeaScale
+synonym: "4" EXACT []
+is_a: CO_340:0000385
+
+
+[Term]
+id: CO_340:0000385/2
+name: very slight wilting
+namespace: CowpeaScale
+synonym: "1" EXACT []
+is_a: CO_340:0000385
+
+
+[Term]
+id: CO_340:0000385/3
+name: moderte wilting and necrosis
+namespace: CowpeaScale
+synonym: "2" EXACT []
+is_a: CO_340:0000385
+
+
+[Term]
+id: CO_340:0000384
+name: Fusarium wilt Race 4 - Method
+namespace: CowpeaMethod
+def: "Visual rating of wilting/stunting/health 3 weeks after root-clip-dip innoculation" []
+relationship: method_of CO_340:0000383
+
+[Term]
+id: CO_340:0000383
+name: Fusarium wilt Race 4 damage
+namespace: CowpeaTrait
+def: "Damage caused by Fusarium wilt Race 4" []
+synonym: "FUSWILTR4" EXACT []
+is_a: CO_340:Biotic stress traits
+
+[Term]
+id: CO_340:0000382
+name: 0-4 visual score
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000381
+
+[Term]
+id: CO_340:0000382/1
+name: No visible infection
+namespace: CowpeaScale
+synonym: "0" EXACT []
+is_a: CO_340:0000382
+
+
+[Term]
+id: CO_340:0000382/4
+name: high wilting and necrosis
+namespace: CowpeaScale
+synonym: "3" EXACT []
+is_a: CO_340:0000382
+
+
+[Term]
+id: CO_340:0000382/5
+name: plant dead or near death
+namespace: CowpeaScale
+synonym: "4" EXACT []
+is_a: CO_340:0000382
+
+
+[Term]
+id: CO_340:0000382/2
+name: very slight wilting
+namespace: CowpeaScale
+synonym: "1" EXACT []
+is_a: CO_340:0000382
+
+
+[Term]
+id: CO_340:0000382/3
+name: moderte wilting and necrosis
+namespace: CowpeaScale
+synonym: "2" EXACT []
+is_a: CO_340:0000382
+
+
+[Term]
+id: CO_340:0000381
+name: Fusarium wilt Race 3  - Method
+namespace: CowpeaMethod
+def: "Visual rating of wilting/stunting/health 3 weeks after root-clip-dip innoculation with Fusarium race 3" []
+relationship: method_of CO_340:0000380
+
+[Term]
+id: CO_340:0000380
+name: Fusarium wilt Race 3 damage
+namespace: CowpeaTrait
+def: "Damage caused by Fusarium wilt Race 3" []
+synonym: "FUSWILTR3" EXACT []
+is_a: CO_340:Biotic stress traits
+
+[Term]
+id: CO_340:0000379
+name: 0-4 visual score
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000378
+
+[Term]
+id: CO_340:0000379/1
+name: no symptoms
+namespace: CowpeaScale
+synonym: "0" EXACT []
+is_a: CO_340:0000379
+
+
+[Term]
+id: CO_340:0000379/4
+name: heavy infestation
+namespace: CowpeaScale
+synonym: "3" EXACT []
+is_a: CO_340:0000379
+
+
+[Term]
+id: CO_340:0000379/5
+name: heavy devastating severity
+namespace: CowpeaScale
+synonym: "4" EXACT []
+is_a: CO_340:0000379
+
+
+[Term]
+id: CO_340:0000379/2
+name: mild symptoms
+namespace: CowpeaScale
+synonym: "1" EXACT []
+is_a: CO_340:0000379
+
+
+[Term]
+id: CO_340:0000379/3
+name: moderate symptoms
+namespace: CowpeaScale
+synonym: "2" EXACT []
+is_a: CO_340:0000379
+
+
+[Term]
+id: CO_340:0000378
+name: 
+namespace: CowpeaMethod
+def: "Visual rating" []
+relationship: method_of CO_340:0000377
+
+[Term]
+id: CO_340:0000377
+name: Blackeye cowpea mosaic virus
+namespace: CowpeaTrait
+def: "Resistance to blackeye cowpea mosaic virus" []
+synonym: "BLCMV" EXACT []
+is_a: CO_340:Biotic stress traits
+
+[Term]
+id: CO_340:0000376
+name: %
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000375
+
+[Term]
+id: CO_340:0000375
+name: Threshability - Method
+namespace: CowpeaMethod
+def: "Percentage score of well polished seeds compared to others in the sample." []
+relationship: method_of CO_340:0000374
+
+[Term]
+id: CO_340:0000374
+name: Threshability
+namespace: CowpeaTrait
+def: "How easy it is to separate the seed from the shafts" []
+synonym: "THRS" EXACT []
+is_a: CO_340:Quality traits
+
+[Term]
+id: CO_340:0000373
+name: kg/ha
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000372
+
+[Term]
+id: CO_340:0000372
+name: 
+relationship: method_of CO_340:0000371
+
+[Term]
+id: CO_340:0000371
+name: GRPODKGH
+namespace: CowpeaTrait
+def: "Grain and Pod weight in kg/ha" []
+synonym: "GRPODK" EXACT []
+is_a: CO_340:Agronomical traits
+
+[Term]
+id: CO_340:0000370
+name: 1-5 visual score
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000369
+
+[Term]
+id: CO_340:0000370/1
+name: no infected leaves (very resistant)
+namespace: CowpeaScale
+synonym: "1" EXACT []
+is_a: CO_340:0000370
+
+
+[Term]
+id: CO_340:0000370/4
+name: many leaves with mild infection (susceptible)
+namespace: CowpeaScale
+synonym: "4" EXACT []
+is_a: CO_340:0000370
+
+
+[Term]
+id: CO_340:0000370/5
+name: many leaves with severe infection (very susceptible)
+namespace: CowpeaScale
+synonym: "5" EXACT []
+is_a: CO_340:0000370
+
+
+[Term]
+id: CO_340:0000370/2
+name: very few leaves with mild infection (resistant)
+namespace: CowpeaScale
+synonym: "2" EXACT []
+is_a: CO_340:0000370
+
+
+[Term]
+id: CO_340:0000370/3
+name:  very few leaves with severe infection (tolerant)
+namespace: CowpeaScale
+synonym: "3" EXACT []
+is_a: CO_340:0000370
+
+
+[Term]
+id: CO_340:0000369
+name: Stem rot - Method
+namespace: CowpeaMethod
+def: "Visual assessment of stem rot affected leaf area per plot" []
+relationship: method_of CO_340:0000368
+
+[Term]
+id: CO_340:0000368
+name: Stem rot damage
+namespace: CowpeaTrait
+def: "Damage caused by Stem rot" []
+synonym: "STMRT" EXACT []
+is_a: CO_340:Biotic stress traits
+
+[Term]
+id: CO_340:0000367
+name: 1-5 visual score
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000366
+
+[Term]
+id: CO_340:0000367/1
+name: no infected leaves (very resistant)
+namespace: CowpeaScale
+synonym: "1" EXACT []
+is_a: CO_340:0000367
+
+
+[Term]
+id: CO_340:0000367/4
+name: many leaves with mild infection (susceptible)
+namespace: CowpeaScale
+synonym: "4" EXACT []
+is_a: CO_340:0000367
+
+
+[Term]
+id: CO_340:0000367/5
+name: many leaves with severe infection (very susceptible)
+namespace: CowpeaScale
+synonym: "5" EXACT []
+is_a: CO_340:0000367
+
+
+[Term]
+id: CO_340:0000367/2
+name: very few leaves with mild infection (resistant)
+namespace: CowpeaScale
+synonym: "2" EXACT []
+is_a: CO_340:0000367
+
+
+[Term]
+id: CO_340:0000367/3
+name:  very few leaves with severe infection (tolerant)
+namespace: CowpeaScale
+synonym: "3" EXACT []
+is_a: CO_340:0000367
+
+
+[Term]
+id: CO_340:0000366
+name: Web blight - Method
+namespace: CowpeaMethod
+def: "Visual assessment of web blight affected leaf area per plot" []
+relationship: method_of CO_340:0000365
+
+[Term]
+id: CO_340:0000365
+name: Web blight damage
+namespace: CowpeaTrait
+def: "Damage caused by WEB BLIGHT" []
+synonym: "WEBB" EXACT []
+is_a: CO_340:Biotic stress traits
+
+[Term]
+id: CO_340:0000364
+name: 1-9 visual score
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000363
+
+[Term]
+id: CO_340:0000363
+name: Thrips Resistance - Method
+namespace: CowpeaMethod
+def: "Visual assessment of the resistance to thrips" []
+relationship: method_of CO_340:0000362
+
+[Term]
+id: CO_340:0000362
+name: Thrip Resistance
+namespace: CowpeaTrait
+def: "Resistance to Thrips" []
+synonym: "THRIPS" EXACT []
+is_a: CO_340:Biotic stress traits
+
+[Term]
+id: CO_340:0000361
+name: 1-5 score
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000360
+
+[Term]
+id: CO_340:0000361/1
+name: no striga emerged (Very resistant)
+namespace: CowpeaScale
+synonym: "1" EXACT []
+is_a: CO_340:0000361
+
+
+[Term]
+id: CO_340:0000361/4
+name:  many plants with striga emerged (susceptible)
+namespace: CowpeaScale
+synonym: "4" EXACT []
+is_a: CO_340:0000361
+
+
+[Term]
+id: CO_340:0000361/5
+name: many plant with several plant of striga emerged (Very susceptible)
+namespace: CowpeaScale
+synonym: "5" EXACT []
+is_a: CO_340:0000361
+
+
+[Term]
+id: CO_340:0000361/2
+name: few striga emerged (moderately resistant)
+namespace: CowpeaScale
+synonym: "2" EXACT []
+is_a: CO_340:0000361
+
+
+[Term]
+id: CO_340:0000361/3
+name:  few plants with striga emerged (tolerant)
+namespace: CowpeaScale
+synonym: "3" EXACT []
+is_a: CO_340:0000361
+
+
+[Term]
+id: CO_340:0000360
+name: Plot infected with Striga - Method
+namespace: CowpeaMethod
+def: "Visual assessment of the presence of emerged Striga plant per plot" []
+relationship: method_of CO_340:0000359
+
+[Term]
+id: CO_340:0000359
+name: Plant infected with Striga
+namespace: CowpeaTrait
+def: "Number of plant infested by Striga" []
+synonym: "Resistance to Striga gesnerioides" EXACT []
+synonym: "PLSTRG" EXACT []
+is_a: CO_340:Biotic stress traits
+
+[Term]
+id: CO_340:0000358
+name: pods/plants
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000357
+
+[Term]
+id: CO_340:0000357
+name: Pod per plant - Method
+namespace: CowpeaMethod
+def: "Count the number of pod on 10 plants from experimental plot and compute the average" []
+relationship: method_of CO_340:0000356
+
+[Term]
+id: CO_340:0000356
+name: Pod per plant
+namespace: CowpeaTrait
+def: "Number of pods per plant" []
+synonym: "PODPLA" EXACT []
+is_a: CO_340:Agronomical traits
+
+[Term]
+id: CO_340:0000355
+name: number
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000354
+
+[Term]
+id: CO_340:0000354
+name: 
+relationship: method_of CO_340:0000353
+
+[Term]
+id: CO_340:0000353
+name: Pods per peduncule
+namespace: CowpeaTrait
+def: "Number of Pods per peduncle - Recorded under total insect control. Average number of 10 randomly selected peduncles" []
+synonym: "PODPED" EXACT []
+is_a: CO_340:Agronomical traits
+
+[Term]
+id: CO_340:0000346
+name: days
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000345
+
+[Term]
+id: CO_340:0000345
+name: Days to 1st pod maturity - Method
+namespace: CowpeaMethod
+def: "Count number of days from planting to first appearance of mature pod in a plot" []
+relationship: method_of CO_340:0000344
+relationship: method_of CO_340:0000236
+
+[Term]
+id: CO_340:0000344
+name: Time to first mature pod
+namespace: CowpeaTrait
+def: "Time elapsed of days from planting to first pod maturity" []
+synonym: "Tto1MatPod" EXACT []
+is_a: CO_340:Phenological traits
+
+[Term]
+id: CO_340:0000343
+name: days
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000342
+
+[Term]
+id: CO_340:0000342
+name: Days to first flower - Method
+namespace: CowpeaMethod
+def: "Count number of days from planting to the first appearance of flower in a plot" []
+relationship: method_of CO_340:0000341
+relationship: method_of CO_340:0000233
+
+[Term]
+id: CO_340:0000341
+name: Time to first flower
+namespace: CowpeaTrait
+def: "Time elapsed from planting to first flowering" []
+synonym: "Tto1stFlw" EXACT []
+is_a: CO_340:Phenological traits
+
+[Term]
+id: CO_340:0000340
+name: 1-5 visual score
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000339
+
+[Term]
+id: CO_340:0000340/1
+name: no infected leaves (very resistant)
+namespace: CowpeaScale
+synonym: "1" EXACT []
+is_a: CO_340:0000340
+
+
+[Term]
+id: CO_340:0000340/4
+name: many leaves with mild infection (susceptible)
+namespace: CowpeaScale
+synonym: "4" EXACT []
+is_a: CO_340:0000340
+
+
+[Term]
+id: CO_340:0000340/5
+name: many leaves with severe infection (very susceptible)
+namespace: CowpeaScale
+synonym: "5" EXACT []
+is_a: CO_340:0000340
+
+
+[Term]
+id: CO_340:0000340/2
+name: very few leaves with mild infection (resistant)
+namespace: CowpeaScale
+synonym: "2" EXACT []
+is_a: CO_340:0000340
+
+
+[Term]
+id: CO_340:0000340/3
+name:  very few leaves with severe infection (tolerant)
+namespace: CowpeaScale
+synonym: "3" EXACT []
+is_a: CO_340:0000340
+
+
+[Term]
+id: CO_340:0000339
+name: Bacteria pustule  - Method
+namespace: CowpeaMethod
+def: "Visual rating of bacteria pustule affected leaf area" []
+relationship: method_of CO_340:0000338
+
+[Term]
+id: CO_340:0000338
+name: Bacteria pustule
+namespace: CowpeaTrait
+def: "Damage caused by bacteria pustule" []
+synonym: "BACTPUST" EXACT []
+is_a: CO_340:Biotic stress traits
+
+[Term]
+id: CO_340:0000337
+name: grams
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000336
+
+[Term]
+id: CO_340:0000336
+name: 
+relationship: method_of CO_340:0000335
+
+[Term]
+id: CO_340:0000335
+name: Pod weight per plot
+namespace: CowpeaTrait
+def: "Pod weight per plot" []
+synonym: "PODWT" EXACT []
+is_a: CO_340:Agronomical traits
+
+[Term]
+id: CO_340:0000334
+name: number
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000333
+
+[Term]
+id: CO_340:0000333
+name: 
+relationship: method_of CO_340:0000332
+
+[Term]
+id: CO_340:0000332
+name: TOTAL PODS HARVESTED
+namespace: CowpeaTrait
+def: "Total pods harvested" []
+synonym: "TPDHV" EXACT []
+is_a: CO_340:Agronomical traits
+
+[Term]
+id: CO_340:0000331
+name: number
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000330
+
+[Term]
+id: CO_340:0000330
+name: 
+relationship: method_of CO_340:0000329
+
+[Term]
+id: CO_340:0000329
+name: TOTAL SEED HARVESTED
+namespace: CowpeaTrait
+def: "Total seed harvested" []
+synonym: "TSDHV" EXACT []
+is_a: CO_340:Agronomical traits
+
+[Term]
+id: CO_340:0000328
+name: date
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000327
+
+[Term]
+id: CO_340:0000327
+name: 
+namespace: CowpeaMethod
+def: "Record date when plot is harvested" []
+relationship: method_of CO_340:0000326
+
+[Term]
+id: CO_340:0000326
+name: Harvest date
+namespace: CowpeaTrait
+def: "Date test was harvested" []
+synonym: "HVDATE" EXACT []
+is_a: CO_340:Agronomical traits
+
+[Term]
+id: CO_340:0000325
+name: 0-5 score
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000324
+
+[Term]
+id: CO_340:0000325/1
+name: no symptoms
+namespace: CowpeaScale
+synonym: "0" EXACT []
+is_a: CO_340:0000325
+
+
+[Term]
+id: CO_340:0000325/4
+name: heavy infestation
+namespace: CowpeaScale
+synonym: "3" EXACT []
+is_a: CO_340:0000325
+
+
+[Term]
+id: CO_340:0000325/5
+name: heavy devastating severity
+namespace: CowpeaScale
+synonym: "4" EXACT []
+is_a: CO_340:0000325
+
+
+[Term]
+id: CO_340:0000325/2
+name: mild symptoms
+namespace: CowpeaScale
+synonym: "1" EXACT []
+is_a: CO_340:0000325
+
+
+[Term]
+id: CO_340:0000325/3
+name: moderate symptoms
+namespace: CowpeaScale
+synonym: "2" EXACT []
+is_a: CO_340:0000325
+
+
+[Term]
+id: CO_340:0000324
+name: Blackeye cowpea mosaic virus - Method
+namespace: CowpeaMethod
+def: "Visual rating of overal frequency and severity of the Blackeye mosaic virus infection" []
+relationship: method_of CO_340:0000323
+
+[Term]
+id: CO_340:0000323
+name: Blackeye cowpea mosaic virus severity
+namespace: CowpeaTrait
+def: "Severity of the symtoms caused by cowpea blackeye mosaic virus" []
+synonym: "BLCMV" EXACT []
+is_a: CO_340:Biotic stress traits
+
+[Term]
+id: CO_340:0000322
+name: strigas/plot
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000321
+
+[Term]
+id: CO_340:0000321
+name: Striga count at harvest - Method
+namespace: CowpeaMethod
+def: "Count number of striga plant in the experimental plot at harvest" []
+relationship: method_of CO_340:0000320
+
+[Term]
+id: CO_340:0000320
+name: Number of Striga
+namespace: CowpeaTrait
+def: "Number of striga emerged" []
+synonym: "StrNo" EXACT []
+is_a: CO_340:Biotic stress traits
+
+[Term]
+id: CO_340:0000319
+name: 0-4 visual score
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000318
+
+[Term]
+id: CO_340:0000319/1
+name: no symptoms
+namespace: CowpeaScale
+synonym: "0" EXACT []
+is_a: CO_340:0000319
+
+
+[Term]
+id: CO_340:0000319/4
+name: heavy infestation
+namespace: CowpeaScale
+synonym: "3" EXACT []
+is_a: CO_340:0000319
+
+
+[Term]
+id: CO_340:0000319/5
+name: heavy devastating severity
+namespace: CowpeaScale
+synonym: "4" EXACT []
+is_a: CO_340:0000319
+
+
+[Term]
+id: CO_340:0000319/2
+name: mild symptoms
+namespace: CowpeaScale
+synonym: "1" EXACT []
+is_a: CO_340:0000319
+
+
+[Term]
+id: CO_340:0000319/3
+name: moderate symptoms
+namespace: CowpeaScale
+synonym: "2" EXACT []
+is_a: CO_340:0000319
+
+
+[Term]
+id: CO_340:0000318
+name: Pod sucking bug - Method
+namespace: CowpeaMethod
+def: "Visual assessment of pod damage per plot" []
+relationship: method_of CO_340:0000317
+
+[Term]
+id: CO_340:0000317
+name: Pod sucking bug severity
+namespace: CowpeaTrait
+def: "Severity of pod sucking bug symptoms" []
+synonym: "PODSB" EXACT []
+is_a: CO_340:Biotic stress traits
+
+[Term]
+id: CO_340:0000316
+name: number
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000315
+
+[Term]
+id: CO_340:0000315
+name: Date of Striga emergence - Method
+namespace: CowpeaMethod
+def: "Record date on which first Striga emergence is noticed in a plot" []
+relationship: method_of CO_340:0000314
+
+[Term]
+id: CO_340:0000314
+name: Date of Striga emergence
+namespace: CowpeaTrait
+def: "Date of Striga emergence" []
+synonym: "STREM" EXACT []
+is_a: CO_340:Biotic stress traits
+
+[Term]
+id: CO_340:0000313
+name: number
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000312
+
+[Term]
+id: CO_340:0000312
+name: 
+relationship: method_of CO_340:0000311
+
+[Term]
+id: CO_340:0000311
+name: INSECTS
+namespace: CowpeaTrait
+def: "Insect infestation" []
+synonym: "INST" EXACT []
+is_a: CO_340:Biotic stress traits
+
+[Term]
+id: CO_340:0000310
+name: 0-4 visual score
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000309
+
+[Term]
+id: CO_340:0000310/1
+name: no symptoms
+namespace: CowpeaScale
+synonym: "0" EXACT []
+is_a: CO_340:0000310
+
+
+[Term]
+id: CO_340:0000310/4
+name: heavy infestation
+namespace: CowpeaScale
+synonym: "3" EXACT []
+is_a: CO_340:0000310
+
+
+[Term]
+id: CO_340:0000310/5
+name: heavy devastating severity
+namespace: CowpeaScale
+synonym: "4" EXACT []
+is_a: CO_340:0000310
+
+
+[Term]
+id: CO_340:0000310/2
+name: mild symptoms
+namespace: CowpeaScale
+synonym: "1" EXACT []
+is_a: CO_340:0000310
+
+
+[Term]
+id: CO_340:0000310/3
+name: moderate symptoms
+namespace: CowpeaScale
+synonym: "2" EXACT []
+is_a: CO_340:0000310
+
+
+[Term]
+id: CO_340:0000309
+name: Maruca damage - Method
+namespace: CowpeaMethod
+def: "Visual rating of damage caused by maruca (insect)" []
+relationship: method_of CO_340:0000308
+
+[Term]
+id: CO_340:0000308
+name: Maruca damage
+namespace: CowpeaTrait
+def: "Pod damage caused by Maruca (insect) attack" []
+synonym: "Maruca resistance" EXACT []
+synonym: " Resistance to Maruca" EXACT []
+synonym: "MARUCA" EXACT []
+is_a: CO_340:Biotic stress traits
+
+[Term]
+id: CO_340:0000307
+name: No scale name found
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000306
+
+[Term]
+id: CO_340:0000306
+name: 
+relationship: method_of CO_340:0000305
+
+[Term]
+id: CO_340:0000305
+name: DISEASES
+namespace: CowpeaTrait
+def: "Disease score" []
+synonym: "DISES" EXACT []
+is_a: CO_340:Biotic stress traits
+
+[Term]
+id: CO_340:0000304
+name: pods/peduncle
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000303
+
+[Term]
+id: CO_340:0000303
+name: Pods per peduncule  - Method
+namespace: CowpeaMethod
+def: "Count of pods on each peduncle on each of ten plants at MAT95" []
+relationship: method_of CO_340:0000302
+
+[Term]
+id: CO_340:0000302
+name: Pods per peduncule
+namespace: CowpeaTrait
+def: "number of pods per peduncles" []
+synonym: "PODPED" EXACT []
+is_a: CO_340:Agronomical traits
+
+[Term]
+id: CO_340:0000301
+name: 0-4 visual score
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000300
+
+[Term]
+id: CO_340:0000301/1
+name: no pods
+namespace: CowpeaScale
+synonym: "0" EXACT []
+is_a: CO_340:0000301
+
+
+[Term]
+id: CO_340:0000301/4
+name: 3 pods/peduncle
+namespace: CowpeaScale
+synonym: "3" EXACT []
+is_a: CO_340:0000301
+
+
+[Term]
+id: CO_340:0000301/5
+name: 4 pods/peduncle
+namespace: CowpeaScale
+synonym: "4" EXACT []
+is_a: CO_340:0000301
+
+
+[Term]
+id: CO_340:0000301/2
+name: 1 pods/peduncle
+namespace: CowpeaScale
+synonym: "1" EXACT []
+is_a: CO_340:0000301
+
+
+[Term]
+id: CO_340:0000301/3
+name: 2 pods/peduncle
+namespace: CowpeaScale
+synonym: "2" EXACT []
+is_a: CO_340:0000301
+
+
+[Term]
+id: CO_340:0000300
+name: Thrip damage to podset - Method
+namespace: CowpeaMethod
+def: "Visual rating of the reduction in pods per plant under thrip pressure compared to control overall podset" []
+relationship: method_of CO_340:0000299
+
+[Term]
+id: CO_340:0000299
+name: Thrip damage to podset
+namespace: CowpeaTrait
+def: "Damage to podset caused by thrips" []
+synonym: "THRIPDAM" EXACT []
+is_a: CO_340:Biotic stress traits
+
+[Term]
+id: CO_340:0000298
+name: 0-4 visual score
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000297
+
+[Term]
+id: CO_340:0000298/1
+name: no symptoms
+namespace: CowpeaScale
+synonym: "0" EXACT []
+is_a: CO_340:0000298
+
+
+[Term]
+id: CO_340:0000298/4
+name: heavy infestation
+namespace: CowpeaScale
+synonym: "3" EXACT []
+is_a: CO_340:0000298
+
+
+[Term]
+id: CO_340:0000298/5
+name: heavy devastating severity
+namespace: CowpeaScale
+synonym: "4" EXACT []
+is_a: CO_340:0000298
+
+
+[Term]
+id: CO_340:0000298/2
+name: mild symptoms
+namespace: CowpeaScale
+synonym: "1" EXACT []
+is_a: CO_340:0000298
+
+
+[Term]
+id: CO_340:0000298/3
+name: moderate symptoms
+namespace: CowpeaScale
+synonym: "2" EXACT []
+is_a: CO_340:0000298
+
+
+[Term]
+id: CO_340:0000297
+name: Cowpea aphid-borne mosaic virus - Method
+namespace: CowpeaMethod
+def: "Visual rating of overal frequency and severity of the aphid-borne mosaic virus infection" []
+relationship: method_of CO_340:0000296
+
+[Term]
+id: CO_340:0000296
+name: Cowpea aphid-borne mosaic virus severity
+namespace: CowpeaTrait
+def: "Severity of the symtoms caused by cowpea aphid-borne mosaic virus" []
+synonym: "CAMV" EXACT []
+is_a: CO_340:Biotic stress traits
+
+[Term]
+id: CO_340:0000295
+name: index
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000294
+
+[Term]
+id: CO_340:0000294
+name: Harvest index - Method
+namespace: CowpeaMethod
+def: "Calculated by making the ratio of  PLOT grain weight total BIOMASS weight at Harvest" []
+relationship: method_of CO_340:0000293
+
+[Term]
+id: CO_340:0000293
+name: Harvest index
+namespace: CowpeaTrait
+def: "Ratio of grain weight over plant biomass" []
+synonym: "Plant biomass partitioning" EXACT []
+synonym: "HI" EXACT []
+is_a: CO_340:Agronomical traits
+
+[Term]
+id: CO_340:0000292
+name: 1-5 score
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000291
+
+[Term]
+id: CO_340:0000292/1
+name: no striga emerged (Very resistant)
+namespace: CowpeaScale
+synonym: "1" EXACT []
+is_a: CO_340:0000292
+
+
+[Term]
+id: CO_340:0000292/4
+name:  many plants with striga emerged (susceptible)
+namespace: CowpeaScale
+synonym: "4" EXACT []
+is_a: CO_340:0000292
+
+
+[Term]
+id: CO_340:0000292/5
+name: many plant with several plant of striga emerged (Very susceptible)
+namespace: CowpeaScale
+synonym: "5" EXACT []
+is_a: CO_340:0000292
+
+
+[Term]
+id: CO_340:0000292/2
+name: few striga emerged (moderately resistant)
+namespace: CowpeaScale
+synonym: "2" EXACT []
+is_a: CO_340:0000292
+
+
+[Term]
+id: CO_340:0000292/3
+name:  few plants with striga emerged (tolerant)
+namespace: CowpeaScale
+synonym: "3" EXACT []
+is_a: CO_340:0000292
+
+
+[Term]
+id: CO_340:0000291
+name: Resistance to Striga gesnerioides  - Method
+namespace: CowpeaMethod
+def: "Visual assessment of the presence of Striga plant per plot" []
+relationship: method_of CO_340:0000290
+
+[Term]
+id: CO_340:0000290
+name: Resistance to Striga gesnerioides
+namespace: CowpeaTrait
+def: "Resistance to Striga gesnerioides parasitic weed." []
+synonym: "PLOT INFECTED WITH STRIGA" EXACT []
+synonym: "STRRES" EXACT []
+is_a: CO_340:Biotic stress traits
+
+[Term]
+id: CO_340:0000286
+name: No scale name found
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000285
+
+[Term]
+id: CO_340:0000285
+name: 
+namespace: CowpeaMethod
+def: "Weighing" []
+relationship: method_of CO_340:0000284
+
+[Term]
+id: CO_340:0000284
+name: PODS KG/H
+namespace: CowpeaTrait
+def: "POD weight Kg/ha" []
+synonym: "PDWT" EXACT []
+is_a: CO_340:Agronomical traits
+
+[Term]
+id: CO_340:0000283
+name: 0-4 visual score
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000282
+
+[Term]
+id: CO_340:0000283/1
+name: infestation
+namespace: CowpeaScale
+synonym: "0" EXACT []
+is_a: CO_340:0000283
+
+
+[Term]
+id: CO_340:0000283/4
+name: heavy infestation
+namespace: CowpeaScale
+synonym: "3" EXACT []
+is_a: CO_340:0000283
+
+
+[Term]
+id: CO_340:0000283/5
+name: heavy devastating infestation
+namespace: CowpeaScale
+synonym: "4" EXACT []
+is_a: CO_340:0000283
+
+
+[Term]
+id: CO_340:0000283/2
+name: mild infestation
+namespace: CowpeaScale
+synonym: "1" EXACT []
+is_a: CO_340:0000283
+
+
+[Term]
+id: CO_340:0000283/3
+name: moderate infestation
+namespace: CowpeaScale
+synonym: "2" EXACT []
+is_a: CO_340:0000283
+
+
+[Term]
+id: CO_340:0000282
+name: Brown blotch - Method
+namespace: CowpeaMethod
+def: "Visual rating of affected leaf area" []
+relationship: method_of CO_340:0000281
+
+[Term]
+id: CO_340:0000281
+name: Brown blotch
+namespace: CowpeaTrait
+def: "Infestation by Brown blotch" []
+synonym: "BRBL" EXACT []
+is_a: CO_340:Biotic stress traits
+
+[Term]
+id: CO_340:0000280
+name: %
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000279
+
+[Term]
+id: CO_340:0000279
+name: Virus Incidence - Method
+namespace: CowpeaMethod
+def: "Visual estimation of portion of plant infected by virus per plot" []
+relationship: method_of CO_340:0000278
+
+[Term]
+id: CO_340:0000278
+name: Virus Incidence
+namespace: CowpeaTrait
+def: "Proportion of plant infected by virus" []
+synonym: "VIRINC" EXACT []
+is_a: CO_340:Biotic stress traits
+
+[Term]
+id: CO_340:0000277
+name: 1-5 visual score
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000276
+
+[Term]
+id: CO_340:0000277/1
+name: no infected leaves (very resistant)
+namespace: CowpeaScale
+synonym: "1" EXACT []
+is_a: CO_340:0000277
+
+
+[Term]
+id: CO_340:0000277/4
+name: many leaves with mild infection (susceptible)
+namespace: CowpeaScale
+synonym: "4" EXACT []
+is_a: CO_340:0000277
+
+
+[Term]
+id: CO_340:0000277/5
+name: many leaves with severe infection (very susceptible)
+namespace: CowpeaScale
+synonym: "5" EXACT []
+is_a: CO_340:0000277
+
+
+[Term]
+id: CO_340:0000277/2
+name: very few leaves with mild infection (resistant)
+namespace: CowpeaScale
+synonym: "2" EXACT []
+is_a: CO_340:0000277
+
+
+[Term]
+id: CO_340:0000277/3
+name:  very few leaves with severe infection (tolerant)
+namespace: CowpeaScale
+synonym: "3" EXACT []
+is_a: CO_340:0000277
+
+
+[Term]
+id: CO_340:0000276
+name: Virus Severity - Method
+namespace: CowpeaMethod
+def: "Visual rating of affected leaf area within a plot" []
+relationship: method_of CO_340:0000275
+
+[Term]
+id: CO_340:0000275
+name: Virus Severity
+namespace: CowpeaTrait
+def: "Severity of symptoms caused by viruses" []
+synonym: "VIRSEV" EXACT []
+is_a: CO_340:Biotic stress traits
+
+[Term]
+id: CO_340:0000274
+name: Pattern
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000273
+
+[Term]
+id: CO_340:0000274/1
+name: BE
+namespace: CowpeaScale
+synonym: "1" EXACT []
+is_a: CO_340:0000274
+
+
+[Term]
+id: CO_340:0000274/4
+name: S
+namespace: CowpeaScale
+synonym: "4" EXACT []
+is_a: CO_340:0000274
+
+
+[Term]
+id: CO_340:0000274/5
+name: SP
+namespace: CowpeaScale
+synonym: "5" EXACT []
+is_a: CO_340:0000274
+
+
+[Term]
+id: CO_340:0000274/2
+name: H
+namespace: CowpeaScale
+synonym: "2" EXACT []
+is_a: CO_340:0000274
+
+
+[Term]
+id: CO_340:0000274/3
+name: P
+namespace: CowpeaScale
+synonym: "3" EXACT []
+is_a: CO_340:0000274
+
+
+[Term]
+id: CO_340:0000274/6
+name: M
+namespace: CowpeaScale
+synonym: "6" EXACT []
+is_a: CO_340:0000274
+
+
+[Term]
+id: CO_340:0000273
+name: Seed coat pattern - Method
+namespace: CowpeaMethod
+def: "Visual assessment of seed coat pattern" []
+relationship: method_of CO_340:0000272
+
+[Term]
+id: CO_340:0000272
+name: Seed coat pattern
+namespace: CowpeaTrait
+def: "Seedcoat pattern" []
+synonym: "SDPATRN" EXACT []
+is_a: CO_340:Quality traits
+
+[Term]
+id: CO_340:0000271
+name: 0-4 visual score
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000270
+
+[Term]
+id: CO_340:0000271/1
+name: No leaf tip senescence
+namespace: CowpeaScale
+synonym: "0" EXACT []
+is_a: CO_340:0000271
+
+
+[Term]
+id: CO_340:0000271/4
+name: heavy leaf senscence
+namespace: CowpeaScale
+synonym: "3" EXACT []
+is_a: CO_340:0000271
+
+
+[Term]
+id: CO_340:0000271/5
+name: completely senesced
+namespace: CowpeaScale
+synonym: "4" EXACT []
+is_a: CO_340:0000271
+
+
+[Term]
+id: CO_340:0000271/2
+name: minor leaf senescence
+namespace: CowpeaScale
+synonym: "1" EXACT []
+is_a: CO_340:0000271
+
+
+[Term]
+id: CO_340:0000271/3
+name: moderate leaf senescence
+namespace: CowpeaScale
+synonym: "2" EXACT []
+is_a: CO_340:0000271
+
+
+[Term]
+id: CO_340:0000270
+name: Drought induced senescence - Method
+namespace: CowpeaMethod
+def: "Visual assessment of degree of senescence following imposed drought" []
+relationship: method_of CO_340:0000269
+
+[Term]
+id: CO_340:0000269
+name: Drought induced senescence
+namespace: CowpeaTrait
+def: "Plant senescence due to drought" []
+synonym: "FLDSN" EXACT []
+is_a: CO_340:Abiotic stress traits
+
+[Term]
+id: CO_340:0000268
+name: 0-4 visual score
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000267
+
+[Term]
+id: CO_340:0000268/1
+name: no pods
+namespace: CowpeaScale
+synonym: "0" EXACT []
+is_a: CO_340:0000268
+
+
+[Term]
+id: CO_340:0000268/4
+name: 3 pods/peduncle
+namespace: CowpeaScale
+synonym: "3" EXACT []
+is_a: CO_340:0000268
+
+
+[Term]
+id: CO_340:0000268/5
+name: 4 pods/peduncle
+namespace: CowpeaScale
+synonym: "4" EXACT []
+is_a: CO_340:0000268
+
+
+[Term]
+id: CO_340:0000268/2
+name: 1 pods/peduncle
+namespace: CowpeaScale
+synonym: "1" EXACT []
+is_a: CO_340:0000268
+
+
+[Term]
+id: CO_340:0000268/3
+name: 2 pods/peduncle
+namespace: CowpeaScale
+synonym: "2" EXACT []
+is_a: CO_340:0000268
+
+
+[Term]
+id: CO_340:0000267
+name: Floral abscision score - Method
+namespace: CowpeaMethod
+def: "Estimate the average number of pods per peduncle under insect-protected and droughted conditions" []
+relationship: method_of CO_340:0007645
+
+[Term]
+id: CO_340:0000265
+name: g
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000264
+
+[Term]
+id: CO_340:0000264
+name: Biomass at Maturity - Method
+namespace: CowpeaMethod
+def: "Trait measured by cutting 10 plants at ground level per plot at at 90% plant maturity, oven drying and weighing biomass" []
+relationship: method_of CO_340:0006644
+
+[Term]
+id: CO_340:0000262
+name: g
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000261
+
+[Term]
+id: CO_340:0000261
+name: 100 seed weight - Method
+namespace: CowpeaMethod
+def: "Weight of 100 random seeds at 12% moisture" []
+relationship: method_of CO_340:0005643
+
+[Term]
+id: CO_340:0000259
+name: g
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000258
+
+[Term]
+id: CO_340:0000258
+name: Biomass at Flowering - Method
+namespace: CowpeaMethod
+def: "Trait measured by cutting 10 plants at ground level per plot at 50% Flowering, oven drying and weighing biomass" []
+relationship: method_of CO_340:0004642
+
+[Term]
+id: CO_340:0000256
+name: g
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000255
+
+[Term]
+id: CO_340:0000255
+name: Pod yield per plot - Method
+namespace: CowpeaMethod
+def: "Weight of harvested pods from a plot" []
+relationship: method_of CO_340:0003641
+
+[Term]
+id: CO_340:0000253
+name: 0-4 score
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000252
+
+[Term]
+id: CO_340:0000253/1
+name: no symptoms
+namespace: CowpeaScale
+synonym: "0" EXACT []
+is_a: CO_340:0000253
+
+
+[Term]
+id: CO_340:0000253/4
+name: heavy infestation
+namespace: CowpeaScale
+synonym: "3" EXACT []
+is_a: CO_340:0000253
+
+
+[Term]
+id: CO_340:0000253/5
+name: heavy devastating severity
+namespace: CowpeaScale
+synonym: "4" EXACT []
+is_a: CO_340:0000253
+
+
+[Term]
+id: CO_340:0000253/2
+name: mild symptoms
+namespace: CowpeaScale
+synonym: "1" EXACT []
+is_a: CO_340:0000253
+
+
+[Term]
+id: CO_340:0000253/3
+name: moderate symptoms
+namespace: CowpeaScale
+synonym: "2" EXACT []
+is_a: CO_340:0000253
+
+
+[Term]
+id: CO_340:0000252
+name: Bacterial blight (X. vignicola) scoring - Method
+namespace: CowpeaMethod
+def: "Visual rating of bacterial blight affected leaf area" []
+relationship: method_of CO_340:0002640
+
+[Term]
+id: CO_340:0000250
+name: plants
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000249
+
+[Term]
+id: CO_340:0000249
+name: Plant stand - Method
+namespace: CowpeaMethod
+def: "By counting the number of plants in an experimental plot at harvest" []
+relationship: method_of CO_340:0000248
+
+[Term]
+id: CO_340:0000248
+name: Plant stand at harvest
+namespace: CowpeaTrait
+def: "Number of plants plot unit at harvest" []
+synonym: "Head count" EXACT []
+synonym: " Net stand" EXACT []
+synonym: "" EXACT []
+synonym: "PSTAND" EXACT []
+is_a: CO_340:Agronomical traits
+
+[Term]
+id: CO_340:0000247
+name: g
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000246
+
+[Term]
+id: CO_340:0000246
+name: Grain yield per plot - Method
+namespace: CowpeaMethod
+def: "Actual measurement of the weight of the grain harvested from a plot" []
+relationship: method_of CO_340:0000245
+relationship: method_of CO_340:0000638
+
+[Term]
+id: CO_340:0000245
+name: Grain yield per plot
+namespace: CowpeaTrait
+def: "Harvested grain weight" []
+synonym: "YLDPLOT" EXACT []
+is_a: CO_340:Agronomical traits
+
+[Term]
+id: CO_340:0000244
+name: g/plant
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000243
+
+[Term]
+id: CO_340:0000243
+name: Grain yield per plant - Method
+namespace: CowpeaMethod
+def: "Divide the plot grain yield by the number of plants in the plot" []
+relationship: method_of CO_340:0000242
+relationship: method_of CO_340:0000638
+
+[Term]
+id: CO_340:0000242
+name: Grain yield per plant
+namespace: CowpeaTrait
+def: "Harvested grain weight" []
+synonym: "YLDPLANT" EXACT []
+is_a: CO_340:Agronomical traits
+
+[Term]
+id: CO_340:0000241
+name: seed/pod
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000240
+
+[Term]
+id: CO_340:0000240
+name: Seed per pod - Method
+namespace: CowpeaMethod
+def: "Average number of seeds per pod from 20 random pod samples per plot" []
+relationship: method_of CO_340:0000239
+
+[Term]
+id: CO_340:0000239
+name: Seed per pod
+namespace: CowpeaTrait
+def: "Number of seed per pod" []
+synonym: "SEEDPOD" EXACT []
+is_a: CO_340:Agronomical traits
+
+[Term]
+id: CO_340:0000238
+name: days
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000237
+
+[Term]
+id: CO_340:0000237
+name: Days to 95% maturity  - Method
+namespace: CowpeaMethod
+def: "number of days from planting to when 95% of plants have mature pods. The maturity stage is visually assessed" []
+relationship: method_of CO_340:0000236
+
+[Term]
+id: CO_340:0000236
+name: Maturity time
+namespace: CowpeaTrait
+def: "Time to maturity" []
+synonym: "MatT" EXACT []
+is_a: CO_340:Phenological traits
+
+[Term]
+id: CO_340:0000235
+name: days
+namespace: CowpeaScale
+relationship: scale_of CO_340:0000234
+
+[Term]
+id: CO_340:0000234
+name: Days to 50% flowering - Method
+namespace: CowpeaMethod
+def: "Count the number of days between planting and the time when 50% of plants in a plot have flowered. The state of flowering is visually assessed in the field" []
+relationship: method_of CO_340:0000233
+
+[Term]
+id: CO_340:0000233
+name: Flowering time
+namespace: CowpeaTrait
+def: "Flowering time" []
+synonym: "FlwT" EXACT []
+is_a: CO_340:Phenological traits
+
+[Term]
+id: CO_340:00001094
+name: IConcLf_AAS_mgkg
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000890
+relationship: variable_of CO_340:0000612
+relationship: variable_of CO_340:0000613
+
+[Term]
+id: CO_340:00001093
+name: ZnConcLf_AAS_mgkg
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000879
+relationship: variable_of CO_340:0000609
+relationship: variable_of CO_340:0000610
+
+[Term]
+id: CO_340:00001092
+name: IConcSd_AAS_mgkg
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000611
+relationship: variable_of CO_340:0000612
+relationship: variable_of CO_340:0000613
+
+[Term]
+id: CO_340:00001091
+name: ZnConcSd_AAS_mgkg
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000608
+relationship: variable_of CO_340:0000609
+relationship: variable_of CO_340:0000610
+
+[Term]
+id: CO_340:00001090
+name: HDWT
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000605
+relationship: variable_of CO_340:0000606
+relationship: variable_of CO_340:0000607
+
+[Term]
+id: CO_340:00001089
+name: RSMJAV
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000599
+relationship: variable_of CO_340:0000600
+relationship: variable_of CO_340:0000601
+
+[Term]
+id: CO_340:00001088
+name: STRGDR
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000626
+relationship: variable_of CO_340:0000627
+relationship: variable_of CO_340:0000628
+
+[Term]
+id: CO_340:00001087
+name: PPTP
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000578
+relationship: variable_of CO_340:0000579
+relationship: variable_of CO_340:0000580
+
+[Term]
+id: CO_340:00001086
+name: RSMICG
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000557
+relationship: variable_of CO_340:0000558
+relationship: variable_of CO_340:0000559
+
+[Term]
+id: CO_340:00001085
+name: RESMIN
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000542
+relationship: variable_of CO_340:0000543
+relationship: variable_of CO_340:0000544
+
+[Term]
+id: CO_340:00001084
+name: ALPERP
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000632
+relationship: variable_of CO_340:0000633
+relationship: variable_of CO_340:0000634
+
+[Term]
+id: CO_340:00001083
+name: PALCT
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000461
+relationship: variable_of CO_340:0000462
+relationship: variable_of CO_340:0000463
+
+[Term]
+id: CO_340:00001082
+name: BLCMV_Est_0to4
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000377
+relationship: variable_of CO_340:0000378
+relationship: variable_of CO_340:0000379
+
+[Term]
+id: CO_340:00001081
+name: GRPODK
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000371
+relationship: variable_of CO_340:0000372
+relationship: variable_of CO_340:0000373
+
+[Term]
+id: CO_340:00001080
+name: PODN
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000449
+relationship: variable_of CO_340:0000450
+relationship: variable_of CO_340:0000451
+
+[Term]
+id: CO_340:00001079
+name: INSCT
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000311
+relationship: variable_of CO_340:0000312
+relationship: variable_of CO_340:0000313
+
+[Term]
+id: CO_340:00001078
+name: BB
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000452
+relationship: variable_of CO_340:0000453
+relationship: variable_of CO_340:0000454
+
+[Term]
+id: CO_340:00001077
+name: PDWT
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000284
+relationship: variable_of CO_340:0000285
+relationship: variable_of CO_340:0000286
+
+[Term]
+id: CO_340:00001076
+name: TPDHV
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000458
+relationship: variable_of CO_340:0000459
+relationship: variable_of CO_340:0000460
+
+[Term]
+id: CO_340:00001075
+name: DISES
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000305
+relationship: variable_of CO_340:0000306
+relationship: variable_of CO_340:0000307
+
+[Term]
+id: CO_340:00001074
+name: PODPED
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000353
+relationship: variable_of CO_340:0000354
+relationship: variable_of CO_340:0000355
+
+[Term]
+id: CO_340:00001073
+name: PODWT
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000335
+relationship: variable_of CO_340:0000336
+relationship: variable_of CO_340:0000337
+
+[Term]
+id: CO_340:00001072
+name: TPDHVT
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000332
+relationship: variable_of CO_340:0000333
+relationship: variable_of CO_340:0000334
+
+[Term]
+id: CO_340:00001071
+name: TSDHV
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000329
+relationship: variable_of CO_340:0000330
+relationship: variable_of CO_340:0000331
+
+[Term]
+id: CO_340:00001070
+name: DYSTRG
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000536
+relationship: variable_of CO_340:0000537
+relationship: variable_of CO_340:0000538
+
+[Term]
+id: CO_340:00001069
+name: HVDATE
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000326
+relationship: variable_of CO_340:0000327
+relationship: variable_of CO_340:0000328
+
+[Term]
+id: CO_340:00001068
+name: BrnchDen_10to15Count_Rt
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000709
+relationship: variable_of CO_340:0000789
+relationship: variable_of CO_340:0000872
+
+[Term]
+id: CO_340:00001067
+name: BrnchDen_5to10Count_Rt
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000709
+relationship: variable_of CO_340:0000788
+relationship: variable_of CO_340:0000871
+
+[Term]
+id: CO_340:00001066
+name: TapRtDia_15Av_mm
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000708
+relationship: variable_of CO_340:0000787
+relationship: variable_of CO_340:0000870
+
+[Term]
+id: CO_340:00001065
+name: TapRtDia_10Av_mm
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000708
+relationship: variable_of CO_340:0000786
+relationship: variable_of CO_340:0000869
+
+[Term]
+id: CO_340:00001064
+name: TapRtDia_5Av_mm
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000708
+relationship: variable_of CO_340:0000785
+relationship: variable_of CO_340:0000868
+
+[Term]
+id: CO_340:00001063
+name: HvstLfWt_Meas_g
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000640
+relationship: variable_of CO_340:0000603
+relationship: variable_of CO_340:0000604
+
+[Term]
+id: CO_340:00001062
+name: HvstLfWt_Sum_g
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000640
+relationship: variable_of CO_340:0000567
+relationship: variable_of CO_340:0000568
+
+[Term]
+id: CO_340:00001061
+name: NodNo_Est_1to9
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000620
+relationship: variable_of CO_340:0000784
+relationship: variable_of CO_340:0000867
+
+[Term]
+id: CO_340:00001060
+name: 3BrnchDen_Est_1to9
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000706
+relationship: variable_of CO_340:0000783
+relationship: variable_of CO_340:0000866
+
+[Term]
+id: CO_340:00001059
+name: TapLatNo_Count_Rt
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000705
+relationship: variable_of CO_340:0000782
+relationship: variable_of CO_340:0000865
+
+[Term]
+id: CO_340:00001058
+name: AdvRtNo_LargeCount_Rt
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000704
+relationship: variable_of CO_340:0000781
+relationship: variable_of CO_340:0000864
+
+[Term]
+id: CO_340:00001057
+name: BasRtNo_LargeCount_Rt
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000703
+relationship: variable_of CO_340:0000780
+relationship: variable_of CO_340:0000863
+
+[Term]
+id: CO_340:00001056
+name: BrnchDen10_Count_Rt
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000702
+relationship: variable_of CO_340:0000779
+relationship: variable_of CO_340:0000862
+
+[Term]
+id: CO_340:00001055
+name: BrnchDen5_Count_Rt
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000701
+relationship: variable_of CO_340:0000778
+relationship: variable_of CO_340:0000861
+
+[Term]
+id: CO_340:00001054
+name: AdvRtNo_Count_Rt
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000700
+relationship: variable_of CO_340:0000777
+relationship: variable_of CO_340:0000860
+
+[Term]
+id: CO_340:00001053
+name: BasRtNo_Count_Rt
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000699
+relationship: variable_of CO_340:0000776
+relationship: variable_of CO_340:0000859
+
+[Term]
+id: CO_340:00001052
+name: TapRtDia15_Av_mm
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000698
+relationship: variable_of CO_340:0000775
+relationship: variable_of CO_340:0000858
+
+[Term]
+id: CO_340:00001051
+name: TapRtDia10_Av_mm
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000697
+relationship: variable_of CO_340:0000774
+relationship: variable_of CO_340:0000857
+
+[Term]
+id: CO_340:00001050
+name: TapRtDia5_Av_mm
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000696
+relationship: variable_of CO_340:0000773
+relationship: variable_of CO_340:0000856
+
+[Term]
+id: CO_340:00001049
+name: StmDia_Av_
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000695
+relationship: variable_of CO_340:0000772
+relationship: variable_of CO_340:0000855
+
+[Term]
+id: CO_340:00001048
+name: BasRtAng_Est_
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000694
+relationship: variable_of CO_340:0000771
+relationship: variable_of CO_340:0000854
+
+[Term]
+id: CO_340:00001047
+name: AdvRtAng_Est_
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000693
+relationship: variable_of CO_340:0000770
+relationship: variable_of CO_340:0000853
+
+[Term]
+id: CO_340:00001046
+name: AttTes_Est_0to1
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000692
+relationship: variable_of CO_340:0000769
+relationship: variable_of CO_340:0000852
+
+[Term]
+id: CO_340:00001045
+name: SplTest_Est_0or1
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000691
+relationship: variable_of CO_340:0000768
+relationship: variable_of CO_340:0000851
+
+[Term]
+id: CO_340:00001044
+name: SdCr_Est_0to7
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000690
+relationship: variable_of CO_340:0000767
+relationship: variable_of CO_340:0000850
+
+[Term]
+id: CO_340:00001043
+name: SdThck_Av_mm
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000689
+relationship: variable_of CO_340:0000766
+relationship: variable_of CO_340:0000849
+
+[Term]
+id: CO_340:00001042
+name: SdWdt_Av_mm
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000688
+relationship: variable_of CO_340:0000765
+relationship: variable_of CO_340:0000848
+
+[Term]
+id: CO_340:00001041
+name: SdLng_Av_mm
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000687
+relationship: variable_of CO_340:0000764
+relationship: variable_of CO_340:0000847
+
+[Term]
+id: CO_340:00001040
+name: PodCol_Est_1to5
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000686
+relationship: variable_of CO_340:0000763
+relationship: variable_of CO_340:0000846
+
+[Term]
+id: CO_340:00001039
+name: PodWThck_Est_1to7
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000685
+relationship: variable_of CO_340:0000762
+relationship: variable_of CO_340:0000845
+
+[Term]
+id: CO_340:00001038
+name: PodWdt_Av_cm
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000684
+relationship: variable_of CO_340:0000761
+relationship: variable_of CO_340:0000844
+
+[Term]
+id: CO_340:00001037
+name: RacNo_Av_RacPlnt
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000683
+relationship: variable_of CO_340:0000760
+relationship: variable_of CO_340:0000843
+
+[Term]
+id: CO_340:00001036
+name: CaLobLng_Av_mm
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000682
+relationship: variable_of CO_340:0000759
+relationship: variable_of CO_340:0000842
+
+[Term]
+id: CO_340:00001035
+name: FlwLng_Av_mm
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000681
+relationship: variable_of CO_340:0000758
+relationship: variable_of CO_340:0000841
+
+[Term]
+id: CO_340:00001034
+name: FlwPigPat_Est_0to6
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000680
+relationship: variable_of CO_340:0000757
+relationship: variable_of CO_340:0000840
+
+[Term]
+id: CO_340:00001033
+name: DMDig_Meas_undefined
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000679
+relationship: variable_of CO_340:0000756
+relationship: variable_of CO_340:0000839
+
+[Term]
+id: CO_340:00001032
+name: CapReGro_Meas_g
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000678
+relationship: variable_of CO_340:0000755
+relationship: variable_of CO_340:0000838
+
+[Term]
+id: CO_340:00001031
+name: FBMFlw_Av_g
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000677
+relationship: variable_of CO_340:0000754
+relationship: variable_of CO_340:0000837
+
+[Term]
+id: CO_340:00001030
+name: DMCt_Comp_Pct
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000676
+relationship: variable_of CO_340:0000753
+relationship: variable_of CO_340:0000836
+
+[Term]
+id: CO_340:00001029
+name: LfStR_Comp_r
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000675
+relationship: variable_of CO_340:0000752
+relationship: variable_of CO_340:0000835
+
+[Term]
+id: CO_340:00001028
+name: PlntVig_Est_1to9
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000674
+relationship: variable_of CO_340:0000751
+relationship: variable_of CO_340:0000834
+
+[Term]
+id: CO_340:00001027
+name: NodeNo_Av_Node
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000673
+relationship: variable_of CO_340:0000750
+relationship: variable_of CO_340:0000833
+
+[Term]
+id: CO_340:00001026
+name: MBrnchNo_Av_Brnch
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000672
+relationship: variable_of CO_340:0000749
+relationship: variable_of CO_340:0000832
+
+[Term]
+id: CO_340:00001025
+name: StplWdt_Meas_mm
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000671
+relationship: variable_of CO_340:0000748
+relationship: variable_of CO_340:0000831
+
+[Term]
+id: CO_340:00001024
+name: StplLng_Meas_mm
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000670
+relationship: variable_of CO_340:0000747
+relationship: variable_of CO_340:0000830
+
+[Term]
+id: CO_340:00001023
+name: LfTex_Est_1to3
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000669
+relationship: variable_of CO_340:0000746
+relationship: variable_of CO_340:0000829
+
+[Term]
+id: CO_340:00001022
+name: TLfWdt_Meas_mm
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000668
+relationship: variable_of CO_340:0000745
+relationship: variable_of CO_340:0000828
+
+[Term]
+id: CO_340:00001021
+name: TLfLng_Meas_mm
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000667
+relationship: variable_of CO_340:0000744
+relationship: variable_of CO_340:0000827
+
+[Term]
+id: CO_340:00001020
+name: LfMk_Est_0or1
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000666
+relationship: variable_of CO_340:0000743
+relationship: variable_of CO_340:0000826
+
+[Term]
+id: CO_340:00001019
+name: LfCol_Est_1to7
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000665
+relationship: variable_of CO_340:0000742
+relationship: variable_of CO_340:0000825
+
+[Term]
+id: CO_340:00001018
+name: HypLng_Av_mm
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000664
+relationship: variable_of CO_340:0000741
+relationship: variable_of CO_340:0000824
+
+[Term]
+id: CO_340:00001017
+name: EyePat_Est_0to8
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000663
+relationship: variable_of CO_340:0000740
+relationship: variable_of CO_340:0000823
+
+[Term]
+id: CO_340:00001016
+name: EyeCol_Est_0to9
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000662
+relationship: variable_of CO_340:0000739
+relationship: variable_of CO_340:0000822
+
+[Term]
+id: CO_340:00001015
+name: TesText_Est_1to9
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000661
+relationship: variable_of CO_340:0000738
+relationship: variable_of CO_340:0000821
+
+[Term]
+id: CO_340:00001014
+name: SdShp_EstMat_0to5
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000660
+relationship: variable_of CO_340:0000737
+relationship: variable_of CO_340:0000820
+
+[Term]
+id: CO_340:00001013
+name: PodCurv_Est_1to5
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000659
+relationship: variable_of CO_340:0000736
+relationship: variable_of CO_340:0000819
+
+[Term]
+id: CO_340:00001012
+name: ImPodPig_Est_0to6
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000658
+relationship: variable_of CO_340:0000735
+relationship: variable_of CO_340:0000818
+
+[Term]
+id: CO_340:00001011
+name: PodAtt_Est_1to7
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000657
+relationship: variable_of CO_340:0000734
+relationship: variable_of CO_340:0000817
+
+[Term]
+id: CO_340:00001010
+name: RacPos_Est_1to3
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000656
+relationship: variable_of CO_340:0000733
+relationship: variable_of CO_340:0000816
+
+[Term]
+id: CO_340:00001009
+name: PlntHair_Est_1to7
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000655
+relationship: variable_of CO_340:0000732
+relationship: variable_of CO_340:0000815
+
+[Term]
+id: CO_340:00001008
+name: TermLftShp_Est_1to4
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000654
+relationship: variable_of CO_340:0000731
+relationship: variable_of CO_340:0000814
+
+[Term]
+id: CO_340:00001007
+name: PlntPig_Est_0to9
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000653
+relationship: variable_of CO_340:0000730
+relationship: variable_of CO_340:0000813
+
+[Term]
+id: CO_340:00001006
+name: TwTnd_Est_0to7
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000652
+relationship: variable_of CO_340:0000729
+relationship: variable_of CO_340:0000812
+
+[Term]
+id: CO_340:00001005
+name: GwtPat_Est_1or2
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000651
+relationship: variable_of CO_340:0000728
+relationship: variable_of CO_340:0000811
+
+[Term]
+id: CO_340:00001004
+name: DiabInf_Est_0to4
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000629
+relationship: variable_of CO_340:0000630
+relationship: variable_of CO_340:0000631
+
+[Term]
+id: CO_340:00001003
+name: PedLng_Comp_cm
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000623
+relationship: variable_of CO_340:0000624
+relationship: variable_of CO_340:0000625
+
+[Term]
+id: CO_340:00001002
+name: NodNo_Comp_NodPlot
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000620
+relationship: variable_of CO_340:0000621
+relationship: variable_of CO_340:0000622
+
+[Term]
+id: CO_340:00001001
+name: NodWt_DryAv_g
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000617
+relationship: variable_of CO_340:0000877
+relationship: variable_of CO_340:0000878
+
+[Term]
+id: CO_340:00001000
+name: NodWt_FrshAv_g
+namespace: CowpeaVariable
+relationship: variable_of CO_340:0000617
+relationship: variable_of CO_340:0000618
+relationship: variable_of CO_340:0000619
+
+[Typedef]
+id: method_of
+name: method_of
+is_transitive: true
+
+[Typedef]
+id: scale_of
+name: scale_of
+is_transitive: true
+
+[Typedef]
+id: variable_of
+name: variable_of

@@ -1,0 +1,34 @@
+PMID	27864597
+#Marker	QTL	Trait	TOTerms
+1_0749		Stem diameter (manual)	TO:0020083
+1_0749		Stem diameter (DIRT)	TO:0020083
+1_0540		Stem diameter (DIRT)	TO:0020083
+1_0540		Stem diameter (manual)	TO:0020083
+1_0113		Stem diameter (manual)	TO:0020083
+1_0489		Avg root density (DIRT)	TO:0000115
+1_0654		RTA range (DIRT)
+1_0381		TD10 (manual)
+1_1116		Stem diameter (DIRT)	TO:0020083
+1_1116		Stem diameter (manual)	TO:0020083
+1_1092		TD10 (manual)
+1_0874		CPD75 (DIRT)
+1_0452		Avg root density (DIRT)	TO:0000115
+1_0323		Stem diameter (DIRT)	TO:0020083
+1_0323		Stem diameter (manual)	TO:0020083
+1_0691		Median root width (DIRT)
+1_1368		CPD 25 (DIRT)
+1_1530		CPD 25 (DIRT)
+1_1343		D10 (DIRT)
+1_1343		D20 (DIRT)
+1_0010		Adventitious root angle (manual)
+1_1249		Stem diameter (DIRT)	TO:0020083
+1_1249		Stem diameter (manual)	TO:0020083
+1_1284		Max root width (DIRT)
+1_1284		Median root width (DIRT)
+1_0703		TD15 (manual)
+1_1118		Basal root angle (manual)
+1_0406		D20 (DIRT)
+1_0406		D50 (DIRT)
+1_0406		D60 (DIRT)
+1_0574		D50 (DIRT)
+1_0574		D60 (DIRT)

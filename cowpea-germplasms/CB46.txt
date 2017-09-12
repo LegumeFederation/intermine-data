@@ -1,0 +1,7 @@
+taxonId	3920
+variety	CB46
+alternateVarietyName	California Blackeye 46
+description	California Blackeye 46 (8046) - Breeder: University of California, Davis, and the California Agric. Expt. Sta. Parentage: California Blackeye 5 x (California Blackeye 5 x PI 166146). Characteristics: more erect plant habit than California Blackeye 5; seeds are typical blackeye type, cream seed coat with black pigment around hilum; seed smaller than California Blackeye 5, 19-20 gm per 100 seed vs. 23 gm per 100 seed; 90 day maturity to dry seed; canning qualities comparable to California Blackeye 5 and California Blackeye 3; yields comparable to or better than those of California Blackeye 5. Resistance: Fusarium oxysporum f. sp. tracheiphilum race 3, homozygous for the Rk root knot nematode resistance gene. Crop Sci. 31:1703, 1991. 1987.
+patentNumber
+url
+country	United States

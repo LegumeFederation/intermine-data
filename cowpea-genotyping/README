@@ -1,0 +1,4 @@
+The files in this directory contain genotyping data: matrices of mapping lines (columns) and markers (rows).
+
+The file name contains metadata and is of the form: ParentA_x_ParentB_taxonID.gt
+

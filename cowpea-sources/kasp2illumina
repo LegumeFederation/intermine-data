@@ -1,0 +1,9 @@
+#!/usr/bin/python
+
+import csv
+
+with open('KASP_XREF.tsv', 'r') as tsvfile:
+     reader = csv.DictReader(tsvfile, delimiter='\t')
+     for row in reader:
+         print(row['Illumina_SNP'], row['KBio_SNP'])
+
