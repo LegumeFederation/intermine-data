@@ -1,0 +1,2221 @@
+6888996	cholesterol biosynthesis I	3847	Glyma.02G03540
+6888996	cholesterol biosynthesis I	3847	Glyma.09G31890
+6888996	cholesterol biosynthesis I	3847	Glyma.01G04170
+6888996	cholesterol biosynthesis I	3847	Glyma.09G31880
+6888996	cholesterol biosynthesis I	3847	Glyma.11G11960
+6888996	cholesterol biosynthesis I	3847	Glyma.12G04220
+6888996	cholesterol biosynthesis I	3847	Glyma.09G31870
+6888996	cholesterol biosynthesis I	3847	Glyma.13G03385
+6889075	aspartate biosynthesis I	3847	Glyma.04G08560
+6889075	aspartate biosynthesis I	3847	Glyma.11G36200
+6889075	aspartate biosynthesis I	3847	Glyma.11G36190
+6889075	aspartate biosynthesis I	3847	Glyma.08G14720
+6889075	aspartate biosynthesis I	3847	Glyma.17G33050
+6889075	aspartate biosynthesis I	3847	Glyma.05G31490
+6889075	aspartate biosynthesis I	3847	Glyma.06G42830
+6889075	aspartate biosynthesis I	3847	Glyma.06G08670
+6889075	aspartate biosynthesis I	3847	Glyma.14G13480
+6889133	Strigolactone Biosynthesis	3847	Glyma.14G11040
+6889133	Strigolactone Biosynthesis	3847	Glyma.11G16370
+6889133	Strigolactone Biosynthesis	3847	Glyma.04G05510
+6889133	Strigolactone Biosynthesis	3847	Glyma.04G08910
+6889133	Strigolactone Biosynthesis	3847	Glyma.06G05520
+6889133	Strigolactone Biosynthesis	3847	Glyma.01G14266
+6889133	Strigolactone Biosynthesis	3847	Glyma.17G34530
+6889133	Strigolactone Biosynthesis	3847	Glyma.06G09000
+6889095	salicylate biosynthesis	3847	Glyma.20G32135
+6889095	salicylate biosynthesis	3847	Glyma.02G47940
+6889095	salicylate biosynthesis	3847	Glyma.19G36620
+6889095	salicylate biosynthesis	3847	Glyma.10G35381
+6889095	salicylate biosynthesis	3847	Glyma.10G06600
+6889095	salicylate biosynthesis	3847	Glyma.03G33890
+6889095	salicylate biosynthesis	3847	Glyma.13G20800
+6889095	salicylate biosynthesis	3847	Glyma.03G33880
+6889066	threonine biosynthesis from homoserine	3847	Glyma.17G05980
+6889066	threonine biosynthesis from homoserine	3847	Glyma.13G42270
+6889066	threonine biosynthesis from homoserine	3847	Glyma.15G03120
+6889066	threonine biosynthesis from homoserine	3847	Glyma.14G00340
+6889050	glutathione biosynthesis	3847	Glyma.19G42620
+6889050	glutathione biosynthesis	3847	Glyma.05G37850
+6889050	glutathione biosynthesis	3847	Glyma.19G42600
+6889050	glutathione biosynthesis	3847	Glyma.08G01750
+6889050	glutathione biosynthesis	3847	Glyma.03G40050
+6889050	glutathione biosynthesis	3847	Glyma.19G42610
+6889050	glutathione biosynthesis	3847	Glyma.01G42900
+6889055	GDP-mannose metabolism	3847	Glyma.12G02451
+6889055	GDP-mannose metabolism	3847	Glyma.18G53370
+6889055	GDP-mannose metabolism	3847	Glyma.08G48120
+6889055	GDP-mannose metabolism	3847	Glyma.20G32030
+6889055	GDP-mannose metabolism	3847	Glyma.18G46390
+6889055	GDP-mannose metabolism	3847	Glyma.10G35490
+6889055	GDP-mannose metabolism	3847	Glyma.01G43650
+6889055	GDP-mannose metabolism	3847	Glyma.11G01820
+6889055	GDP-mannose metabolism	3847	Glyma.20G02220
+6889055	GDP-mannose metabolism	3847	Glyma.19G06740
+6889055	GDP-mannose metabolism	3847	Glyma.13G07660
+6889055	GDP-mannose metabolism	3847	Glyma.11G10130
+6889055	GDP-mannose metabolism	3847	Glyma.09G39800
+6889112	fructan degradation	3847	Glyma.20G03620
+6889112	fructan degradation	3847	Glyma.20G03580
+6889112	fructan degradation	3847	Glyma.19G38160
+6889112	fructan degradation	3847	Glyma.03G35520
+6889112	fructan degradation	3847	Glyma.20G03640
+6889112	fructan degradation	3847	Glyma.10G08670
+6889106	citrulline-nitric oxide cycle	3847	Glyma.05G34900
+6889106	citrulline-nitric oxide cycle	3847	Glyma.06G10130
+6889106	citrulline-nitric oxide cycle	3847	Glyma.09G35850
+6889106	citrulline-nitric oxide cycle	3847	Glyma.05G03190
+6889106	citrulline-nitric oxide cycle	3847	Glyma.05G03210
+6889106	citrulline-nitric oxide cycle	3847	Glyma.08G04815
+6889106	citrulline-nitric oxide cycle	3847	Glyma.04G10100
+6889106	citrulline-nitric oxide cycle	3847	Glyma.17G13790
+6889106	citrulline-nitric oxide cycle	3847	Glyma.12G01500
+6889115	asparagine degradation I	3847	Glyma.11G36190
+6889115	asparagine degradation I	3847	Glyma.08G14720
+6889115	asparagine degradation I	3847	Glyma.05G31490
+6889115	asparagine degradation I	3847	Glyma.06G42830
+6889115	asparagine degradation I	3847	Glyma.06G08670
+6889115	asparagine degradation I	3847	Glyma.14G13480
+6889115	asparagine degradation I	3847	Glyma.06G04590
+6889115	asparagine degradation I	3847	Glyma.11G36200
+6889115	asparagine degradation I	3847	Glyma.04G08560
+6889115	asparagine degradation I	3847	Glyma.05G07420
+6889115	asparagine degradation I	3847	Glyma.17G35650
+6889115	asparagine degradation I	3847	Glyma.17G33050
+6889115	asparagine degradation I	3847	Glyma.04G04470
+6889115	asparagine degradation I	3847	Glyma.06G47490
+6889115	asparagine degradation I	3847	Glyma.03G23840
+6889115	asparagine degradation I	3847	Glyma.14G09510
+6888991	gamma-glutamyl cycle	3847	Glyma.19G42620
+6888991	gamma-glutamyl cycle	3847	Glyma.05G37850
+6888991	gamma-glutamyl cycle	3847	Glyma.19G42600
+6888991	gamma-glutamyl cycle	3847	Glyma.08G01750
+6888991	gamma-glutamyl cycle	3847	Glyma.03G40050
+6888991	gamma-glutamyl cycle	3847	Glyma.08G07400
+6888991	gamma-glutamyl cycle	3847	Glyma.19G42610
+6888991	gamma-glutamyl cycle	3847	Glyma.01G42900
+6889110	maackiain biosynthesis	3847	Glyma.01G37810
+6889110	maackiain biosynthesis	3847	Glyma.11G07490
+6889110	maackiain biosynthesis	3847	Glyma.11G07516
+6889110	maackiain biosynthesis	3847	Glyma.11G07510
+6889110	maackiain biosynthesis	3847	Glyma.01G37820
+6889110	maackiain biosynthesis	3847	Glyma.11G07496
+6889110	maackiain biosynthesis	3847	Glyma.1454S00200
+6889110	maackiain biosynthesis	3847	Glyma.01G37850
+6889110	maackiain biosynthesis	3847	Glyma.01G37840
+6889060	putrescine biosynthesis II	3847	Glyma.06G00990
+6889060	putrescine biosynthesis II	3847	Glyma.04G00960
+6889060	putrescine biosynthesis II	3847	Glyma.13G39210
+6889060	putrescine biosynthesis II	3847	Glyma.08G07960
+6889060	putrescine biosynthesis II	3847	Glyma.12G31100
+6889060	putrescine biosynthesis II	3847	Glyma.17G09090
+6889039	galactose degradation II	3847	Glyma.14G14161
+6889039	galactose degradation II	3847	Glyma.18G50000
+6889039	galactose degradation II	3847	Glyma.08G02690
+6889039	galactose degradation II	3847	Glyma.16G34290
+6889039	galactose degradation II	3847	Glyma.09G29710
+6889039	galactose degradation II	3847	Glyma.11G33240
+6889039	galactose degradation II	3847	Glyma.19G03500
+6889039	galactose degradation II	3847	Glyma.05G38120
+6889039	galactose degradation II	3847	Glyma.05G00590
+6889039	galactose degradation II	3847	Glyma.05G36850
+6889039	galactose degradation II	3847	Glyma.11G01940
+6889039	galactose degradation II	3847	Glyma.19G40041
+6889039	galactose degradation II	3847	Glyma.07G40150
+6889039	galactose degradation II	3847	Glyma.17G08491
+6889039	galactose degradation II	3847	Glyma.08G47350
+6889039	galactose degradation II	3847	Glyma.13G06050
+6889039	galactose degradation II	3847	Glyma.02G12870
+6889039	galactose degradation II	3847	Glyma.17G03990
+6889039	galactose degradation II	3847	Glyma.08G01480
+6889039	galactose degradation II	3847	Glyma.03G37441
+6889039	galactose degradation II	3847	Glyma.02G40740
+6889039	galactose degradation II	3847	Glyma.08G26520
+6889039	galactose degradation II	3847	Glyma.20G03221
+6889039	galactose degradation II	3847	Glyma.07G36610
+6889039	galactose degradation II	3847	Glyma.01G43540
+6889039	galactose degradation II	3847	Glyma.15G16171
+6889039	galactose degradation II	3847	Glyma.14G39070
+6889039	galactose degradation II	3847	Glyma.01G06970
+6889134	alanine biosynthesis III	3847	Glyma.01G40510
+6889134	alanine biosynthesis III	3847	Glyma.11G04800
+6889134	alanine biosynthesis III	3847	Glyma.15G13350
+6889134	alanine biosynthesis III	3847	Glyma.09G02450
+6888995	cholesterol biosynthesis III (via desmosterol)	3847	Glyma.02G03540
+6888995	cholesterol biosynthesis III (via desmosterol)	3847	Glyma.09G31890
+6888995	cholesterol biosynthesis III (via desmosterol)	3847	Glyma.01G04170
+6888995	cholesterol biosynthesis III (via desmosterol)	3847	Glyma.09G31880
+6888995	cholesterol biosynthesis III (via desmosterol)	3847	Glyma.11G11960
+6888995	cholesterol biosynthesis III (via desmosterol)	3847	Glyma.12G04220
+6888995	cholesterol biosynthesis III (via desmosterol)	3847	Glyma.09G31870
+6888995	cholesterol biosynthesis III (via desmosterol)	3847	Glyma.13G03385
+6889010	chlorophyll a biosynthesis II	3847	Glyma.17G10890
+6889010	chlorophyll a biosynthesis II	3847	Glyma.05G01000
+6889113	trehalose biosynthesis I	3847	Glyma.13G01420
+6889113	trehalose biosynthesis I	3847	Glyma.17G07530
+6889113	trehalose biosynthesis I	3847	Glyma.12G00790
+6889113	trehalose biosynthesis I	3847	Glyma.06G47630
+6889113	trehalose biosynthesis I	3847	Glyma.04G13880
+6889113	trehalose biosynthesis I	3847	Glyma.02G09480
+6889113	trehalose biosynthesis I	3847	Glyma.07G26980
+6889113	trehalose biosynthesis I	3847	Glyma.17G14780
+6889113	trehalose biosynthesis I	3847	Glyma.09G36570
+6889013	pyridoxal 5'-phosphate salvage pathway	3847	Glyma.18G04360
+6889013	pyridoxal 5'-phosphate salvage pathway	3847	Glyma.07G02340
+6889013	pyridoxal 5'-phosphate salvage pathway	3847	Glyma.08G23680
+6889013	pyridoxal 5'-phosphate salvage pathway	3847	Glyma.04G09950
+6889013	pyridoxal 5'-phosphate salvage pathway	3847	Glyma.16G02580
+6889013	pyridoxal 5'-phosphate salvage pathway	3847	Glyma.06G10000
+6889013	pyridoxal 5'-phosphate salvage pathway	3847	Glyma.11G33970
+6889064	IAA biosynthesis VI (via indole-3-acetamide)	3847	Glyma.10G29640
+6889064	IAA biosynthesis VI (via indole-3-acetamide)	3847	Glyma.20G37660
+6889048	proline biosynthesis I	3847	Glyma.18G03830
+6889048	proline biosynthesis I	3847	Glyma.07G16510
+6889048	proline biosynthesis I	3847	Glyma.03G28476
+6889048	proline biosynthesis I	3847	Glyma.18G40770
+6889048	proline biosynthesis I	3847	Glyma.19G31230
+6889048	proline biosynthesis I	3847	Glyma.01G24530
+6889048	proline biosynthesis I	3847	Glyma.02G41850
+6889048	proline biosynthesis I	3847	Glyma.03G12240
+6889048	proline biosynthesis I	3847	Glyma.14G07120
+6889062	lysine degradation I	3847	Glyma.17G07830
+6889037	isoleucine biosynthesis from threonine	3847	Glyma.11G04870
+6889037	isoleucine biosynthesis from threonine	3847	Glyma.13G36730
+6889037	isoleucine biosynthesis from threonine	3847	Glyma.14G38840
+6889037	isoleucine biosynthesis from threonine	3847	Glyma.05G30130
+6889037	isoleucine biosynthesis from threonine	3847	Glyma.07G18570
+6889037	isoleucine biosynthesis from threonine	3847	Glyma.08G06766
+6889037	isoleucine biosynthesis from threonine	3847	Glyma.08G18830
+6889037	isoleucine biosynthesis from threonine	3847	Glyma.04G37270
+6889037	isoleucine biosynthesis from threonine	3847	Glyma.07G30500
+6889037	isoleucine biosynthesis from threonine	3847	Glyma.06G05280
+6889037	isoleucine biosynthesis from threonine	3847	Glyma.06G43546
+6889037	isoleucine biosynthesis from threonine	3847	Glyma.01G40420
+6889037	isoleucine biosynthesis from threonine	3847	Glyma.03G07380
+6889037	isoleucine biosynthesis from threonine	3847	Glyma.04G05190
+6889037	isoleucine biosynthesis from threonine	3847	Glyma.13G30490
+6889037	isoleucine biosynthesis from threonine	3847	Glyma.01G29190
+6889037	isoleucine biosynthesis from threonine	3847	Glyma.15G06185
+6889037	isoleucine biosynthesis from threonine	3847	Glyma.10G07340
+6889037	isoleucine biosynthesis from threonine	3847	Glyma.12G33760
+6889037	isoleucine biosynthesis from threonine	3847	Glyma.08G13290
+6889037	isoleucine biosynthesis from threonine	3847	Glyma.08G06773
+6889037	isoleucine biosynthesis from threonine	3847	Glyma.02G40530
+6889037	isoleucine biosynthesis from threonine	3847	Glyma.03G07300
+6889037	isoleucine biosynthesis from threonine	3847	Glyma.18G43460
+6889037	isoleucine biosynthesis from threonine	3847	Glyma.07G30510
+6889037	isoleucine biosynthesis from threonine	3847	Glyma.08G06751
+6889037	isoleucine biosynthesis from threonine	3847	Glyma.12G14420
+6889037	isoleucine biosynthesis from threonine	3847	Glyma.13G21230
+6889037	isoleucine biosynthesis from threonine	3847	Glyma.13G31470
+6889037	isoleucine biosynthesis from threonine	3847	Glyma.06G17790
+6889037	isoleucine biosynthesis from threonine	3847	Glyma.13G27810
+6889037	isoleucine biosynthesis from threonine	3847	Glyma.15G07860
+6889045	geranylgeranyldiphosphate biosynthesis II (plastidic)	3847	Glyma.06G19740
+6889045	geranylgeranyldiphosphate biosynthesis II (plastidic)	3847	Glyma.09G01820
+6889045	geranylgeranyldiphosphate biosynthesis II (plastidic)	3847	Glyma.20G11177
+6889045	geranylgeranyldiphosphate biosynthesis II (plastidic)	3847	Glyma.17G18160
+6889045	geranylgeranyldiphosphate biosynthesis II (plastidic)	3847	Glyma.08G09890
+6889045	geranylgeranyldiphosphate biosynthesis II (plastidic)	3847	Glyma.02G06590
+6889045	geranylgeranyldiphosphate biosynthesis II (plastidic)	3847	Glyma.13G23780
+6889045	geranylgeranyldiphosphate biosynthesis II (plastidic)	3847	Glyma.15G03560
+6889045	geranylgeranyldiphosphate biosynthesis II (plastidic)	3847	Glyma.19G32660
+6889045	geranylgeranyldiphosphate biosynthesis II (plastidic)	3847	Glyma.13G41870
+6889045	geranylgeranyldiphosphate biosynthesis II (plastidic)	3847	Glyma.15G12780
+6889045	geranylgeranyldiphosphate biosynthesis II (plastidic)	3847	Glyma.05G21570
+6889045	geranylgeranyldiphosphate biosynthesis II (plastidic)	3847	Glyma.11G06820
+6889045	geranylgeranyldiphosphate biosynthesis II (plastidic)	3847	Glyma.16G25620
+6889045	geranylgeranyldiphosphate biosynthesis II (plastidic)	3847	Glyma.01G38481
+6889084	cellulose biosynthesis	3847	Glyma.13G18780
+6889084	cellulose biosynthesis	3847	Glyma.02G45560
+6889084	cellulose biosynthesis	3847	Glyma.08G12400
+6889084	cellulose biosynthesis	3847	Glyma.03G37550
+6889084	cellulose biosynthesis	3847	Glyma.04G06780
+6889084	cellulose biosynthesis	3847	Glyma.11G01230
+6889084	cellulose biosynthesis	3847	Glyma.10G04530
+6889084	cellulose biosynthesis	3847	Glyma.15G16900
+6889084	cellulose biosynthesis	3847	Glyma.09G21100
+6889084	cellulose biosynthesis	3847	Glyma.04G07220
+6889084	cellulose biosynthesis	3847	Glyma.19G40170
+6889084	cellulose biosynthesis	3847	Glyma.08G09350
+6889084	cellulose biosynthesis	3847	Glyma.02G36720
+6889084	cellulose biosynthesis	3847	Glyma.04G23530
+6889084	cellulose biosynthesis	3847	Glyma.09G05630
+6889084	cellulose biosynthesis	3847	Glyma.12G02015
+6889084	cellulose biosynthesis	3847	Glyma.05G29240
+6889084	cellulose biosynthesis	3847	Glyma.12G36570
+6889084	cellulose biosynthesis	3847	Glyma.09G15620
+6889084	cellulose biosynthesis	3847	Glyma.17G08000
+6889084	cellulose biosynthesis	3847	Glyma.14G03310
+6889084	cellulose biosynthesis	3847	Glyma.06G07320
+6889084	cellulose biosynthesis	3847	Glyma.06G30860
+6889084	cellulose biosynthesis	3847	Glyma.01G44281
+6889084	cellulose biosynthesis	3847	Glyma.15G43040
+6889084	cellulose biosynthesis	3847	Glyma.13G27250
+6889084	cellulose biosynthesis	3847	Glyma.06G06870
+6889016	CMP-KDO biosynthesis II (from D-arabinose 5-phosphate)	3847	Glyma.09G38010
+6889016	CMP-KDO biosynthesis II (from D-arabinose 5-phosphate)	3847	Glyma.06G37960
+6889016	CMP-KDO biosynthesis II (from D-arabinose 5-phosphate)	3847	Glyma.18G48370
+6889016	CMP-KDO biosynthesis II (from D-arabinose 5-phosphate)	3847	Glyma.12G23350
+6889038	histidine biosynthesis I	3847	Glyma.16G27220
+6889038	histidine biosynthesis I	3847	Glyma.04G01170
+6889038	histidine biosynthesis I	3847	Glyma.06G01210
+6889038	histidine biosynthesis I	3847	Glyma.15G13910
+6889038	histidine biosynthesis I	3847	Glyma.10G39370
+6889038	histidine biosynthesis I	3847	Glyma.02G13140
+6889038	histidine biosynthesis I	3847	Glyma.10G08461
+6889038	histidine biosynthesis I	3847	Glyma.19G36070
+6889038	histidine biosynthesis I	3847	Glyma.09G02960
+6889038	histidine biosynthesis I	3847	Glyma.08G08630
+6889038	histidine biosynthesis I	3847	Glyma.13G27430
+6889038	histidine biosynthesis I	3847	Glyma.16G05140
+6889038	histidine biosynthesis I	3847	Glyma.02G06120
+6889038	histidine biosynthesis I	3847	Glyma.03G33360
+6889038	histidine biosynthesis I	3847	Glyma.13G22111
+6889038	histidine biosynthesis I	3847	Glyma.20G28420
+6889114	chlorophyll a biosynthesis I	3847	Glyma.18G43310
+6889114	chlorophyll a biosynthesis I	3847	Glyma.16G19390
+6889114	chlorophyll a biosynthesis I	3847	Glyma.16G19340
+6889114	chlorophyll a biosynthesis I	3847	Glyma.07G18470
+6888989	ornithine biosynthesis	3847	Glyma.06G07870
+6888989	ornithine biosynthesis	3847	Glyma.11G04650
+6888989	ornithine biosynthesis	3847	Glyma.04G07790
+6888989	ornithine biosynthesis	3847	Glyma.10G40140
+6888989	ornithine biosynthesis	3847	Glyma.07G13320
+6888989	ornithine biosynthesis	3847	Glyma.01G40661
+6888989	ornithine biosynthesis	3847	Glyma.07G29630
+6888989	ornithine biosynthesis	3847	Glyma.20G01220
+6889097	anthocyanin biosynthesis (delphinidin 3-O-glucoside)	3847	Glyma.01G42350
+6889097	anthocyanin biosynthesis (delphinidin 3-O-glucoside)	3847	Glyma.11G03010
+6889003	IAA biosynthesis II	3847	Glyma.07G01570
+6889003	IAA biosynthesis II	3847	Glyma.08G21050
+6889003	IAA biosynthesis II	3847	Glyma.08G21040
+6889003	IAA biosynthesis II	3847	Glyma.08G21030
+6889003	IAA biosynthesis II	3847	Glyma.06G12120
+6889003	IAA biosynthesis II	3847	Glyma.07G01580
+6889003	IAA biosynthesis II	3847	Glyma.04G42660
+6889003	IAA biosynthesis II	3847	Glyma.04G40440
+6889003	IAA biosynthesis II	3847	Glyma.08G21080
+6889003	IAA biosynthesis II	3847	Glyma.13G42880
+6889003	IAA biosynthesis II	3847	Glyma.15G02560
+6889118	spermidine biosynthesis	3847	Glyma.02G03860
+6889118	spermidine biosynthesis	3847	Glyma.06G13210
+6889118	spermidine biosynthesis	3847	Glyma.17G10010
+6889118	spermidine biosynthesis	3847	Glyma.17G07830
+6889118	spermidine biosynthesis	3847	Glyma.06G19580
+6889118	spermidine biosynthesis	3847	Glyma.05G01890
+6889118	spermidine biosynthesis	3847	Glyma.04G41600
+6889118	spermidine biosynthesis	3847	Glyma.08G39810
+6889118	spermidine biosynthesis	3847	Glyma.05G02051
+6889118	spermidine biosynthesis	3847	Glyma.01G03830
+6889118	spermidine biosynthesis	3847	Glyma.18G18880
+6889118	spermidine biosynthesis	3847	Glyma.17G09870
+6889087	lipid-independent phytate biosynthesis	3847	Glyma.18G02210
+6889087	lipid-independent phytate biosynthesis	3847	Glyma.05G31450
+6889087	lipid-independent phytate biosynthesis	3847	Glyma.08G14670
+6889100	UDP-L-arabinose biosynthesis I (from UDP-xylose)	3847	Glyma.08G13540
+6889100	UDP-L-arabinose biosynthesis I (from UDP-xylose)	3847	Glyma.09G03490
+6889100	UDP-L-arabinose biosynthesis I (from UDP-xylose)	3847	Glyma.05G30410
+6889100	UDP-L-arabinose biosynthesis I (from UDP-xylose)	3847	Glyma.15G14433
+6889144	Salicylic acid signaling	3847	Glyma.09G02430
+6889144	Salicylic acid signaling	3847	Glyma.12G09430
+6889144	Salicylic acid signaling	3847	Glyma.05G01860
+6889144	Salicylic acid signaling	3847	Glyma.14G03510
+6889144	Salicylic acid signaling	3847	Glyma.19G41840
+6889144	Salicylic acid signaling	3847	Glyma.03G39290
+6889144	Salicylic acid signaling	3847	Glyma.11G02420
+6889144	Salicylic acid signaling	3847	Glyma.17G04980
+6889144	Salicylic acid signaling	3847	Glyma.05G37480
+6889144	Salicylic acid signaling	3847	Glyma.16G03670
+6889144	Salicylic acid signaling	3847	Glyma.01G43100
+6889144	Salicylic acid signaling	3847	Glyma.10G29090
+6889144	Salicylic acid signaling	3847	Glyma.08G02060
+6889144	Salicylic acid signaling	3847	Glyma.13G17530
+6889144	Salicylic acid signaling	3847	Glyma.12G30990
+6889144	Salicylic acid signaling	3847	Glyma.11G19026
+6889144	Salicylic acid signaling	3847	Glyma.18G47140
+6889144	Salicylic acid signaling	3847	Glyma.13G39325
+6889144	Salicylic acid signaling	3847	Glyma.02G45260
+6889144	Salicylic acid signaling	3847	Glyma.20G38230
+6889144	Salicylic acid signaling	3847	Glyma.15G13320
+6889144	Salicylic acid signaling	3847	Glyma.07G07270
+6889144	Salicylic acid signaling	3847	Glyma.17G10040
+6889144	Salicylic acid signaling	3847	Glyma.09G39190
+6889014	phaseic acid biosynthesis	3847	Glyma.17G36070
+6889014	phaseic acid biosynthesis	3847	Glyma.12G22230
+6889014	phaseic acid biosynthesis	3847	Glyma.16G20490
+6889014	phaseic acid biosynthesis	3847	Glyma.07G33560
+6889014	phaseic acid biosynthesis	3847	Glyma.16G08340
+6889014	phaseic acid biosynthesis	3847	Glyma.14G09110
+6889014	phaseic acid biosynthesis	3847	Glyma.09G35250
+6889014	phaseic acid biosynthesis	3847	Glyma.02G14920
+6889014	phaseic acid biosynthesis	3847	Glyma.01G35660
+6889014	phaseic acid biosynthesis	3847	Glyma.05G03800
+6889014	phaseic acid biosynthesis	3847	Glyma.17G14310
+6889065	proanthocyanidin biosynthesis from flavanols	3847	Glyma.01G37810
+6889065	proanthocyanidin biosynthesis from flavanols	3847	Glyma.11G07516
+6889065	proanthocyanidin biosynthesis from flavanols	3847	Glyma.11G07490
+6889065	proanthocyanidin biosynthesis from flavanols	3847	Glyma.11G07510
+6889065	proanthocyanidin biosynthesis from flavanols	3847	Glyma.01G37820
+6889065	proanthocyanidin biosynthesis from flavanols	3847	Glyma.1454S00200
+6889065	proanthocyanidin biosynthesis from flavanols	3847	Glyma.11G07496
+6889065	proanthocyanidin biosynthesis from flavanols	3847	Glyma.01G37850
+6889065	proanthocyanidin biosynthesis from flavanols	3847	Glyma.01G37840
+6888966	Cytosolic glycolysis	3847	Glyma.13G21540
+6888966	Cytosolic glycolysis	3847	Glyma.02G37590
+6888966	Cytosolic glycolysis	3847	Glyma.11G37360
+6888966	Cytosolic glycolysis	3847	Glyma.04G09800
+6888966	Cytosolic glycolysis	3847	Glyma.15G41550
+6888966	Cytosolic glycolysis	3847	Glyma.10G07710
+6888966	Cytosolic glycolysis	3847	Glyma.05G06420
+6888966	Cytosolic glycolysis	3847	Glyma.19G22780
+6888966	Cytosolic glycolysis	3847	Glyma.08G17600
+6888966	Cytosolic glycolysis	3847	Glyma.14G35881
+6888966	Cytosolic glycolysis	3847	Glyma.02G38730
+6888966	Cytosolic glycolysis	3847	Glyma.06G09880
+6888966	Cytosolic glycolysis	3847	Glyma.06G03560
+6888966	Cytosolic glycolysis	3847	Glyma.14G36850
+6888966	Cytosolic glycolysis	3847	Glyma.04G36870
+6888966	Cytosolic glycolysis	3847	Glyma.04G03490
+6888966	Cytosolic glycolysis	3847	Glyma.04G36860
+6888966	Cytosolic glycolysis	3847	Glyma.03G34950
+6888966	Cytosolic glycolysis	3847	Glyma.06G18110
+6888966	Cytosolic glycolysis	3847	Glyma.19G02031
+6888966	Cytosolic glycolysis	3847	Glyma.18G01330
+6888966	Cytosolic glycolysis	3847	Glyma.06G18120
+6888987	cholesterol biosynthesis II (via 24,25-dihydrolanosterol)	3847	Glyma.02G03540
+6888987	cholesterol biosynthesis II (via 24,25-dihydrolanosterol)	3847	Glyma.09G31890
+6888987	cholesterol biosynthesis II (via 24,25-dihydrolanosterol)	3847	Glyma.01G04170
+6888987	cholesterol biosynthesis II (via 24,25-dihydrolanosterol)	3847	Glyma.09G31880
+6888987	cholesterol biosynthesis II (via 24,25-dihydrolanosterol)	3847	Glyma.11G11960
+6888987	cholesterol biosynthesis II (via 24,25-dihydrolanosterol)	3847	Glyma.12G04220
+6888987	cholesterol biosynthesis II (via 24,25-dihydrolanosterol)	3847	Glyma.09G31870
+6888987	cholesterol biosynthesis II (via 24,25-dihydrolanosterol)	3847	Glyma.13G03385
+6889071	spermine biosynthesis	3847	Glyma.02G03860
+6889071	spermine biosynthesis	3847	Glyma.06G13210
+6889071	spermine biosynthesis	3847	Glyma.17G10010
+6889071	spermine biosynthesis	3847	Glyma.17G07830
+6889071	spermine biosynthesis	3847	Glyma.06G19580
+6889071	spermine biosynthesis	3847	Glyma.05G01890
+6889071	spermine biosynthesis	3847	Glyma.04G41600
+6889071	spermine biosynthesis	3847	Glyma.08G39810
+6889071	spermine biosynthesis	3847	Glyma.05G02051
+6889071	spermine biosynthesis	3847	Glyma.01G03830
+6889071	spermine biosynthesis	3847	Glyma.18G18880
+6889071	spermine biosynthesis	3847	Glyma.17G09870
+6889120	gentiodelphin biosynthesis	3847	Glyma.08G11340
+6889120	gentiodelphin biosynthesis	3847	Glyma.18G00620
+6889120	gentiodelphin biosynthesis	3847	Glyma.05G28330
+6889120	gentiodelphin biosynthesis	3847	Glyma.08G11330
+6889120	gentiodelphin biosynthesis	3847	Glyma.05G28340
+6889094	beta-alanine biosynthesis II	3847	Glyma.18G43240
+6889094	beta-alanine biosynthesis II	3847	Glyma.08G42070
+6889094	beta-alanine biosynthesis II	3847	Glyma.18G13260
+6889094	beta-alanine biosynthesis II	3847	Glyma.05G31390
+6889094	beta-alanine biosynthesis II	3847	Glyma.09G32430
+6889094	beta-alanine biosynthesis II	3847	Glyma.16G08960
+6889094	beta-alanine biosynthesis II	3847	Glyma.03G07540
+6889094	beta-alanine biosynthesis II	3847	Glyma.07G09370
+6889094	beta-alanine biosynthesis II	3847	Glyma.07G18370
+6889018	dolichyl-diphosphooligosaccharide biosynthesis	3847	Glyma.17G07620
+6889018	dolichyl-diphosphooligosaccharide biosynthesis	3847	Glyma.10G16320
+6889018	dolichyl-diphosphooligosaccharide biosynthesis	3847	Glyma.13G01500
+6889018	dolichyl-diphosphooligosaccharide biosynthesis	3847	Glyma.02G34640
+6889018	dolichyl-diphosphooligosaccharide biosynthesis	3847	Glyma.08G16980
+6889078	asparagine biosynthesis III	3847	Glyma.18G02060
+6889078	asparagine biosynthesis III	3847	Glyma.11G38130
+6889005	vitamin E biosynthesis	3847	Glyma.12G01680
+6889005	vitamin E biosynthesis	3847	Glyma.10G03590
+6889005	vitamin E biosynthesis	3847	Glyma.10G08120
+6889005	vitamin E biosynthesis	3847	Glyma.01G33070
+6889005	vitamin E biosynthesis	3847	Glyma.13G00850
+6889005	vitamin E biosynthesis	3847	Glyma.09G35680
+6889005	vitamin E biosynthesis	3847	Glyma.17G06940
+6889005	vitamin E biosynthesis	3847	Glyma.10G08095
+6889005	vitamin E biosynthesis	3847	Glyma.14G03410
+6889005	vitamin E biosynthesis	3847	Glyma.02G16210
+6889005	vitamin E biosynthesis	3847	Glyma.02G00440
+6889005	vitamin E biosynthesis	3847	Glyma.12G01690
+6889005	vitamin E biosynthesis	3847	Glyma.14G35836
+6889005	vitamin E biosynthesis	3847	Glyma.20G35420
+6889005	vitamin E biosynthesis	3847	Glyma.13G21925
+6889005	vitamin E biosynthesis	3847	Glyma.03G03910
+6889005	vitamin E biosynthesis	3847	Glyma.13G21895
+6889005	vitamin E biosynthesis	3847	Glyma.13G21911
+6889005	vitamin E biosynthesis	3847	Glyma.10G08150
+6889005	vitamin E biosynthesis	3847	Glyma.10G44170
+6889005	vitamin E biosynthesis	3847	Glyma.06G08850
+6889005	vitamin E biosynthesis	3847	Glyma.04G08750
+6889005	vitamin E biosynthesis	3847	Glyma.20G38930
+6888978	jasmonic acid biosynthesis	3847	Glyma.13G03790
+6888978	jasmonic acid biosynthesis	3847	Glyma.08G03260
+6888978	jasmonic acid biosynthesis	3847	Glyma.04G08590
+6888978	jasmonic acid biosynthesis	3847	Glyma.13G16940
+6888978	jasmonic acid biosynthesis	3847	Glyma.18G51600
+6888978	jasmonic acid biosynthesis	3847	Glyma.20G11600
+6888978	jasmonic acid biosynthesis	3847	Glyma.13G07490
+6888978	jasmonic acid biosynthesis	3847	Glyma.11G13070
+6888978	jasmonic acid biosynthesis	3847	Glyma.07G15360
+6888978	jasmonic acid biosynthesis	3847	Glyma.01G00541
+6888978	jasmonic acid biosynthesis	3847	Glyma.03G42500
+6888978	jasmonic acid biosynthesis	3847	Glyma.11G13880
+6888978	jasmonic acid biosynthesis	3847	Glyma.06G08700
+6888978	jasmonic acid biosynthesis	3847	Glyma.17G36530
+6888978	jasmonic acid biosynthesis	3847	Glyma.12G31770
+6888978	jasmonic acid biosynthesis	3847	Glyma.07G31660
+6888978	jasmonic acid biosynthesis	3847	Glyma.07G21100
+6888978	jasmonic acid biosynthesis	3847	Glyma.19G45280
+6888978	jasmonic acid biosynthesis	3847	Glyma.07G15580
+6888978	jasmonic acid biosynthesis	3847	Glyma.08G28750
+6888978	jasmonic acid biosynthesis	3847	Glyma.20G11680
+6888978	jasmonic acid biosynthesis	3847	Glyma.02G26160
+6888978	jasmonic acid biosynthesis	3847	Glyma.11G13870
+6888978	jasmonic acid biosynthesis	3847	Glyma.01G00710
+6888978	jasmonic acid biosynthesis	3847	Glyma.17G05770
+6888978	jasmonic acid biosynthesis	3847	Glyma.17G05780
+6888978	jasmonic acid biosynthesis	3847	Glyma.12G05840
+6888978	jasmonic acid biosynthesis	3847	Glyma.01G22160
+6888978	jasmonic acid biosynthesis	3847	Glyma.17G26230
+6888978	jasmonic acid biosynthesis	3847	Glyma.13G16950
+6888978	jasmonic acid biosynthesis	3847	Glyma.04G03740
+6888978	jasmonic acid biosynthesis	3847	Glyma.19G05980
+6888978	jasmonic acid biosynthesis	3847	Glyma.13G31280
+6888978	jasmonic acid biosynthesis	3847	Glyma.20G11610
+6888978	jasmonic acid biosynthesis	3847	Glyma.02G11020
+6888978	jasmonic acid biosynthesis	3847	Glyma.16G01070
+6888978	jasmonic acid biosynthesis	3847	Glyma.07G04480
+6888978	jasmonic acid biosynthesis	3847	Glyma.14G08560
+6889043	beta-alanine biosynthesis III	3847	Glyma.08G18920
+6889043	beta-alanine biosynthesis III	3847	Glyma.02G44690
+6889043	beta-alanine biosynthesis III	3847	Glyma.09G30320
+6889043	beta-alanine biosynthesis III	3847	Glyma.15G06100
+6889043	beta-alanine biosynthesis III	3847	Glyma.07G30090
+6889043	beta-alanine biosynthesis III	3847	Glyma.14G04030
+6889043	beta-alanine biosynthesis III	3847	Glyma.07G11890
+6889004	hydroxycinnamic acid serotonin amides biosynthesis	3847	Glyma.07G06500
+6889004	hydroxycinnamic acid serotonin amides biosynthesis	3847	Glyma.09G02530
+6889004	hydroxycinnamic acid serotonin amides biosynthesis	3847	Glyma.03G32510
+6889004	hydroxycinnamic acid serotonin amides biosynthesis	3847	Glyma.10G15250
+6889004	hydroxycinnamic acid serotonin amides biosynthesis	3847	Glyma.15G13430
+6889021	aminopropanol biosynthesis	3847	Glyma.19G01150
+6889021	aminopropanol biosynthesis	3847	Glyma.05G33140
+6889021	aminopropanol biosynthesis	3847	Glyma.08G00740
+6889021	aminopropanol biosynthesis	3847	Glyma.19G01160
+6889021	aminopropanol biosynthesis	3847	Glyma.08G39520
+6889021	aminopropanol biosynthesis	3847	Glyma.12G35620
+6889021	aminopropanol biosynthesis	3847	Glyma.06G14540
+6889021	aminopropanol biosynthesis	3847	Glyma.13G34810
+6889021	aminopropanol biosynthesis	3847	Glyma.04G40240
+6889021	aminopropanol biosynthesis	3847	Glyma.19G01120
+6889021	aminopropanol biosynthesis	3847	Glyma.16G08040
+6889021	aminopropanol biosynthesis	3847	Glyma.19G01140
+6889021	aminopropanol biosynthesis	3847	Glyma.18G19050
+6889108	trehalose degradation II	3847	Glyma.12G02451
+6889108	trehalose degradation II	3847	Glyma.17G23070
+6889108	trehalose degradation II	3847	Glyma.01G43650
+6889108	trehalose degradation II	3847	Glyma.11G01820
+6889108	trehalose degradation II	3847	Glyma.11G10130
+6889108	trehalose degradation II	3847	Glyma.05G36580
+6889132	Ethylene mediated signaling	3847	Glyma.06G07200
+6889132	Ethylene mediated signaling	3847	Glyma.17G15480
+6889132	Ethylene mediated signaling	3847	Glyma.04G20330
+6889132	Ethylene mediated signaling	3847	Glyma.05G26330
+6889132	Ethylene mediated signaling	3847	Glyma.03G33850
+6889132	Ethylene mediated signaling	3847	Glyma.03G34890
+6889132	Ethylene mediated signaling	3847	Glyma.11G03910
+6889132	Ethylene mediated signaling	3847	Glyma.19G40090
+6889132	Ethylene mediated signaling	3847	Glyma.19G37570
+6889132	Ethylene mediated signaling	3847	Glyma.13G23510
+6889132	Ethylene mediated signaling	3847	Glyma.15G17000
+6889132	Ethylene mediated signaling	3847	Glyma.10G07610
+6889132	Ethylene mediated signaling	3847	Glyma.17G12270
+6889132	Ethylene mediated signaling	3847	Glyma.13G20810
+6889132	Ethylene mediated signaling	3847	Glyma.04G07110
+6889132	Ethylene mediated signaling	3847	Glyma.17G31940
+6889132	Ethylene mediated signaling	3847	Glyma.03G37470
+6889132	Ethylene mediated signaling	3847	Glyma.14G14410
+6889132	Ethylene mediated signaling	3847	Glyma.09G05710
+6889132	Ethylene mediated signaling	3847	Glyma.02G27630
+6889132	Ethylene mediated signaling	3847	Glyma.13G21480
+6889132	Ethylene mediated signaling	3847	Glyma.08G09240
+6889132	Ethylene mediated signaling	3847	Glyma.05G05180
+6889132	Ethylene mediated signaling	3847	Glyma.10G06610
+6889132	Ethylene mediated signaling	3847	Glyma.01G41520
+6889136	arginine degradation VI (arginase 2 pathway)	3847	Glyma.03G03270
+6889136	arginine degradation VI (arginase 2 pathway)	3847	Glyma.03G28476
+6889136	arginine degradation VI (arginase 2 pathway)	3847	Glyma.01G33761
+6889136	arginine degradation VI (arginase 2 pathway)	3847	Glyma.05G27360
+6889136	arginine degradation VI (arginase 2 pathway)	3847	Glyma.19G31230
+6889136	arginine degradation VI (arginase 2 pathway)	3847	Glyma.17G14040
+6889136	arginine degradation VI (arginase 2 pathway)	3847	Glyma.01G33635
+6889136	arginine degradation VI (arginase 2 pathway)	3847	Glyma.08G10340
+6889052	fructan biosynthesis	3847	Glyma.12G00780
+6889052	fructan biosynthesis	3847	Glyma.09G36580
+6889052	fructan biosynthesis	3847	Glyma.01G41990
+6889052	fructan biosynthesis	3847	Glyma.05G04290
+6889052	fructan biosynthesis	3847	Glyma.06G47640
+6889052	fructan biosynthesis	3847	Glyma.11G03360
+6889052	fructan biosynthesis	3847	Glyma.17G14750
+6889007	anthocyanin biosynthesis (pelargonidin 3-O-glucoside, cyanidin 3-O-glucoside)	3847	Glyma.01G42350
+6889007	anthocyanin biosynthesis (pelargonidin 3-O-glucoside, cyanidin 3-O-glucoside)	3847	Glyma.11G03010
+6889137	Brassinosteroid signaling	3847	Glyma.01G04570
+6889137	Brassinosteroid signaling	3847	Glyma.03G36510
+6889137	Brassinosteroid signaling	3847	Glyma.04G06900
+6889137	Brassinosteroid signaling	3847	Glyma.13G38850
+6889137	Brassinosteroid signaling	3847	Glyma.15G02640
+6889137	Brassinosteroid signaling	3847	Glyma.12G01905
+6889137	Brassinosteroid signaling	3847	Glyma.08G20830
+6889137	Brassinosteroid signaling	3847	Glyma.19G41840
+6889137	Brassinosteroid signaling	3847	Glyma.11G18090
+6889137	Brassinosteroid signaling	3847	Glyma.11G11630
+6889137	Brassinosteroid signaling	3847	Glyma.08G47900
+6889137	Brassinosteroid signaling	3847	Glyma.09G15900
+6889137	Brassinosteroid signaling	3847	Glyma.02G22250
+6889137	Brassinosteroid signaling	3847	Glyma.13G42800
+6889137	Brassinosteroid signaling	3847	Glyma.10G02760
+6889137	Brassinosteroid signaling	3847	Glyma.08G22910
+6889137	Brassinosteroid signaling	3847	Glyma.04G03610
+6889137	Brassinosteroid signaling	3847	Glyma.12G33800
+6889137	Brassinosteroid signaling	3847	Glyma.17G36730
+6889137	Brassinosteroid signaling	3847	Glyma.06G03700
+6889137	Brassinosteroid signaling	3847	Glyma.19G39170
+6889137	Brassinosteroid signaling	3847	Glyma.11G06865
+6889137	Brassinosteroid signaling	3847	Glyma.02G02990
+6889137	Brassinosteroid signaling	3847	Glyma.13G34170
+6889137	Brassinosteroid signaling	3847	Glyma.08G40490
+6889137	Brassinosteroid signaling	3847	Glyma.05G28790
+6889137	Brassinosteroid signaling	3847	Glyma.02G26650
+6889137	Brassinosteroid signaling	3847	Glyma.12G36050
+6889137	Brassinosteroid signaling	3847	Glyma.18G17100
+6889137	Brassinosteroid signaling	3847	Glyma.03G39290
+6889137	Brassinosteroid signaling	3847	Glyma.14G08320
+6889137	Brassinosteroid signaling	3847	Glyma.08G11940
+6889137	Brassinosteroid signaling	3847	Glyma.13G34180
+6889137	Brassinosteroid signaling	3847	Glyma.02G17040
+6889137	Brassinosteroid signaling	3847	Glyma.07G01440
+6889137	Brassinosteroid signaling	3847	Glyma.01G38450
+6889137	Brassinosteroid signaling	3847	Glyma.12G31540
+6889137	Brassinosteroid signaling	3847	Glyma.10G29090
+6889137	Brassinosteroid signaling	3847	Glyma.15G00880
+6889137	Brassinosteroid signaling	3847	Glyma.12G36060
+6889137	Brassinosteroid signaling	3847	Glyma.12G10120
+6889137	Brassinosteroid signaling	3847	Glyma.13G36690
+6889137	Brassinosteroid signaling	3847	Glyma.13G44420
+6889137	Brassinosteroid signaling	3847	Glyma.20G38230
+6889137	Brassinosteroid signaling	3847	Glyma.07G03180
+6889137	Brassinosteroid signaling	3847	Glyma.18G53610
+6889068	methionine biosynthesis II	3847	Glyma.13G15140
+6889068	methionine biosynthesis II	3847	Glyma.06G35585
+6889068	methionine biosynthesis II	3847	Glyma.12G26170
+6889068	methionine biosynthesis II	3847	Glyma.19G29180
+6889068	methionine biosynthesis II	3847	Glyma.03G28530
+6889068	methionine biosynthesis II	3847	Glyma.08G30150
+6889068	methionine biosynthesis II	3847	Glyma.19G34120
+6889068	methionine biosynthesis II	3847	Glyma.17G24322
+6889068	methionine biosynthesis II	3847	Glyma.05G10840
+6889068	methionine biosynthesis II	3847	Glyma.12G33350
+6889068	methionine biosynthesis II	3847	Glyma.14G00340
+6889068	methionine biosynthesis II	3847	Glyma.17G23730
+6889068	methionine biosynthesis II	3847	Glyma.04G30350
+6889068	methionine biosynthesis II	3847	Glyma.19G31280
+6889068	methionine biosynthesis II	3847	Glyma.06G35630
+6889068	methionine biosynthesis II	3847	Glyma.03G31281
+6889068	methionine biosynthesis II	3847	Glyma.20G28720
+6889068	methionine biosynthesis II	3847	Glyma.17G24366
+6889068	methionine biosynthesis II	3847	Glyma.16G04240
+6889068	methionine biosynthesis II	3847	Glyma.13G37080
+6889122	ammonia assimilation cycle	3847	Glyma.02G41106
+6889122	ammonia assimilation cycle	3847	Glyma.14G39420
+6889122	ammonia assimilation cycle	3847	Glyma.07G11810
+6889122	ammonia assimilation cycle	3847	Glyma.09G30370
+6889122	ammonia assimilation cycle	3847	Glyma.18G04660
+6889122	ammonia assimilation cycle	3847	Glyma.02G41120
+6889122	ammonia assimilation cycle	3847	Glyma.11G33560
+6889083	thiosulfate disproportionation III (rhodanese)	3847	Glyma.15G41370
+6889083	thiosulfate disproportionation III (rhodanese)	3847	Glyma.08G17760
+6888997	valine biosynthesis	3847	Glyma.11G04870
+6888997	valine biosynthesis	3847	Glyma.13G36730
+6888997	valine biosynthesis	3847	Glyma.14G38840
+6888997	valine biosynthesis	3847	Glyma.05G30130
+6888997	valine biosynthesis	3847	Glyma.07G18570
+6888997	valine biosynthesis	3847	Glyma.08G06766
+6888997	valine biosynthesis	3847	Glyma.08G18830
+6888997	valine biosynthesis	3847	Glyma.04G37270
+6888997	valine biosynthesis	3847	Glyma.07G30500
+6888997	valine biosynthesis	3847	Glyma.06G05280
+6888997	valine biosynthesis	3847	Glyma.06G43546
+6888997	valine biosynthesis	3847	Glyma.01G40420
+6888997	valine biosynthesis	3847	Glyma.03G07380
+6888997	valine biosynthesis	3847	Glyma.04G05190
+6888997	valine biosynthesis	3847	Glyma.13G30490
+6888997	valine biosynthesis	3847	Glyma.01G29190
+6888997	valine biosynthesis	3847	Glyma.15G06185
+6888997	valine biosynthesis	3847	Glyma.12G33760
+6888997	valine biosynthesis	3847	Glyma.08G13290
+6888997	valine biosynthesis	3847	Glyma.08G06773
+6888997	valine biosynthesis	3847	Glyma.02G40530
+6888997	valine biosynthesis	3847	Glyma.03G07300
+6888997	valine biosynthesis	3847	Glyma.18G43460
+6888997	valine biosynthesis	3847	Glyma.07G30510
+6888997	valine biosynthesis	3847	Glyma.08G06751
+6888997	valine biosynthesis	3847	Glyma.12G14420
+6888997	valine biosynthesis	3847	Glyma.13G31470
+6888997	valine biosynthesis	3847	Glyma.06G17790
+6888997	valine biosynthesis	3847	Glyma.13G27810
+6888997	valine biosynthesis	3847	Glyma.15G07860
+6889092	PRPP biosynthesis I	3847	Glyma.05G06110
+6889092	PRPP biosynthesis I	3847	Glyma.18G12740
+6889092	PRPP biosynthesis I	3847	Glyma.08G42220
+6889092	PRPP biosynthesis I	3847	Glyma.17G16400
+6889092	PRPP biosynthesis I	3847	Glyma.02G04310
+6889092	PRPP biosynthesis I	3847	Glyma.01G03270
+6889140	Xylan Biosynthesis	3847	Glyma.10G05730
+6889140	Xylan Biosynthesis	3847	Glyma.13G20080
+6889140	Xylan Biosynthesis	3847	Glyma.04G08720
+6889140	Xylan Biosynthesis	3847	Glyma.06G09560
+6889140	Xylan Biosynthesis	3847	Glyma.03G33570
+6889140	Xylan Biosynthesis	3847	Glyma.19G36280
+6889140	Xylan Biosynthesis	3847	Glyma.04G04080
+6889140	Xylan Biosynthesis	3847	Glyma.14G09070
+6889140	Xylan Biosynthesis	3847	Glyma.17G36100
+6889140	Xylan Biosynthesis	3847	Glyma.06G08820
+6889029	trans-zeatin biosynthesis	3847	Glyma.08G48020
+6889029	trans-zeatin biosynthesis	3847	Glyma.18G53460
+6889029	trans-zeatin biosynthesis	3847	Glyma.10G41990
+6889143	Jasmonic acid signaling	3847	Glyma.13G16940
+6889143	Jasmonic acid signaling	3847	Glyma.19G44310
+6889143	Jasmonic acid signaling	3847	Glyma.06G10290
+6889143	Jasmonic acid signaling	3847	Glyma.03G41700
+6889143	Jasmonic acid signaling	3847	Glyma.19G41840
+6889143	Jasmonic acid signaling	3847	Glyma.09G05860
+6889143	Jasmonic acid signaling	3847	Glyma.09G33730
+6889143	Jasmonic acid signaling	3847	Glyma.16G18480
+6889143	Jasmonic acid signaling	3847	Glyma.03G31940
+6889143	Jasmonic acid signaling	3847	Glyma.09G05840
+6889143	Jasmonic acid signaling	3847	Glyma.03G31920
+6889143	Jasmonic acid signaling	3847	Glyma.10G33070
+6889143	Jasmonic acid signaling	3847	Glyma.08G36720
+6889143	Jasmonic acid signaling	3847	Glyma.18G04500
+6889143	Jasmonic acid signaling	3847	Glyma.01G02251
+6889143	Jasmonic acid signaling	3847	Glyma.18G03420
+6889143	Jasmonic acid signaling	3847	Glyma.02G42150
+6889143	Jasmonic acid signaling	3847	Glyma.10G00990
+6889143	Jasmonic acid signaling	3847	Glyma.11G34940
+6889143	Jasmonic acid signaling	3847	Glyma.05G27190
+6889143	Jasmonic acid signaling	3847	Glyma.13G18410
+6889143	Jasmonic acid signaling	3847	Glyma.01G12740
+6889143	Jasmonic acid signaling	3847	Glyma.07G30140
+6889143	Jasmonic acid signaling	3847	Glyma.10G04190
+6889143	Jasmonic acid signaling	3847	Glyma.01G07390
+6889143	Jasmonic acid signaling	3847	Glyma.15G17100
+6889143	Jasmonic acid signaling	3847	Glyma.09G08290
+6889143	Jasmonic acid signaling	3847	Glyma.09G05850
+6889143	Jasmonic acid signaling	3847	Glyma.01G34820
+6889143	Jasmonic acid signaling	3847	Glyma.08G10140
+6889143	Jasmonic acid signaling	3847	Glyma.19G34696
+6889143	Jasmonic acid signaling	3847	Glyma.20G34560
+6889143	Jasmonic acid signaling	3847	Glyma.04G10340
+6889143	Jasmonic acid signaling	3847	Glyma.07G06370
+6889143	Jasmonic acid signaling	3847	Glyma.19G43815
+6889143	Jasmonic acid signaling	3847	Glyma.10G04210
+6889143	Jasmonic acid signaling	3847	Glyma.13G18400
+6889143	Jasmonic acid signaling	3847	Glyma.17G05770
+6889143	Jasmonic acid signaling	3847	Glyma.17G05780
+6889143	Jasmonic acid signaling	3847	Glyma.16G03011
+6889143	Jasmonic acid signaling	3847	Glyma.08G07170
+6889143	Jasmonic acid signaling	3847	Glyma.03G39290
+6889143	Jasmonic acid signaling	3847	Glyma.14G06740
+6889143	Jasmonic acid signaling	3847	Glyma.13G16950
+6889143	Jasmonic acid signaling	3847	Glyma.08G36090
+6889143	Jasmonic acid signaling	3847	Glyma.10G29090
+6889143	Jasmonic acid signaling	3847	Glyma.11G33720
+6889143	Jasmonic acid signaling	3847	Glyma.03G31930
+6889143	Jasmonic acid signaling	3847	Glyma.20G38230
+6889143	Jasmonic acid signaling	3847	Glyma.15G17090
+6889143	Jasmonic acid signaling	3847	Glyma.03G30590
+6889143	Jasmonic acid signaling	3847	Glyma.09G32660
+6888988	arginine biosynthesis I	3847	Glyma.05G34900
+6888988	arginine biosynthesis I	3847	Glyma.06G10130
+6888988	arginine biosynthesis I	3847	Glyma.11G04650
+6888988	arginine biosynthesis I	3847	Glyma.07G13320
+6888988	arginine biosynthesis I	3847	Glyma.14G02430
+6888988	arginine biosynthesis I	3847	Glyma.01G40661
+6888988	arginine biosynthesis I	3847	Glyma.04G03276
+6888988	arginine biosynthesis I	3847	Glyma.08G04815
+6888988	arginine biosynthesis I	3847	Glyma.20G28700
+6888988	arginine biosynthesis I	3847	Glyma.17G13790
+6888988	arginine biosynthesis I	3847	Glyma.20G01220
+6888988	arginine biosynthesis I	3847	Glyma.06G07870
+6888988	arginine biosynthesis I	3847	Glyma.04G07790
+6888988	arginine biosynthesis I	3847	Glyma.05G03190
+6888988	arginine biosynthesis I	3847	Glyma.10G40140
+6888988	arginine biosynthesis I	3847	Glyma.05G03210
+6888988	arginine biosynthesis I	3847	Glyma.02G46290
+6888988	arginine biosynthesis I	3847	Glyma.04G10100
+6888988	arginine biosynthesis I	3847	Glyma.06G03361
+6888988	arginine biosynthesis I	3847	Glyma.07G29630
+6888988	arginine biosynthesis I	3847	Glyma.05G26170
+6888988	arginine biosynthesis I	3847	Glyma.08G09100
+6889012	pyridoxamine anabolism	3847	Glyma.18G04360
+6889012	pyridoxamine anabolism	3847	Glyma.11G33970
+6889116	homocysteine biosynthesis	3847	Glyma.16G25350
+6889116	homocysteine biosynthesis	3847	Glyma.16G25330
+6889116	homocysteine biosynthesis	3847	Glyma.02G06300
+6889044	geranyldiphosphate biosynthesis	3847	Glyma.09G01820
+6889044	geranyldiphosphate biosynthesis	3847	Glyma.20G11177
+6889044	geranyldiphosphate biosynthesis	3847	Glyma.17G18160
+6889044	geranyldiphosphate biosynthesis	3847	Glyma.15G12780
+6889044	geranyldiphosphate biosynthesis	3847	Glyma.05G21570
+6889009	folate polyglutamylation II	3847	Glyma.13G34290
+6889009	folate polyglutamylation II	3847	Glyma.02G41870
+6889009	folate polyglutamylation II	3847	Glyma.14G07100
+6889009	folate polyglutamylation II	3847	Glyma.13G34300
+6889009	folate polyglutamylation II	3847	Glyma.18G03820
+6889070	linear furanocoumarin biosynthesis	3847	Glyma.10G24476
+6889070	linear furanocoumarin biosynthesis	3847	Glyma.03G36481
+6889070	linear furanocoumarin biosynthesis	3847	Glyma.08G07520
+6889070	linear furanocoumarin biosynthesis	3847	Glyma.13G08010
+6889070	linear furanocoumarin biosynthesis	3847	Glyma.18G44900
+6889070	linear furanocoumarin biosynthesis	3847	Glyma.19G39140
+6889070	linear furanocoumarin biosynthesis	3847	Glyma.0196S50
+6889070	linear furanocoumarin biosynthesis	3847	Glyma.12G15155
+6889070	linear furanocoumarin biosynthesis	3847	Glyma.09G40921
+6889070	linear furanocoumarin biosynthesis	3847	Glyma.02G26780
+6888982	sterol biosynthesis	3847	Glyma.06G02330
+6888982	sterol biosynthesis	3847	Glyma.03G26820
+6888982	sterol biosynthesis	3847	Glyma.09G31890
+6888982	sterol biosynthesis	3847	Glyma.04G02271
+6888982	sterol biosynthesis	3847	Glyma.09G31880
+6888982	sterol biosynthesis	3847	Glyma.13G21450
+6888982	sterol biosynthesis	3847	Glyma.09G31870
+6888982	sterol biosynthesis	3847	Glyma.10G11670
+6888982	sterol biosynthesis	3847	Glyma.08G23970
+6888982	sterol biosynthesis	3847	Glyma.12G01170
+6888982	sterol biosynthesis	3847	Glyma.07G14460
+6888982	sterol biosynthesis	3847	Glyma.15G43200
+6888982	sterol biosynthesis	3847	Glyma.11G11960
+6888982	sterol biosynthesis	3847	Glyma.12G04220
+6888982	sterol biosynthesis	3847	Glyma.13G03385
+6888982	sterol biosynthesis	3847	Glyma.12G01160
+6889098	GDP-D-rhamnose biosynthesis	3847	Glyma.02G37020
+6889098	GDP-D-rhamnose biosynthesis	3847	Glyma.08G13540
+6889098	GDP-D-rhamnose biosynthesis	3847	Glyma.17G07740
+6889098	GDP-D-rhamnose biosynthesis	3847	Glyma.05G03830
+6889098	GDP-D-rhamnose biosynthesis	3847	Glyma.12G06980
+6889098	GDP-D-rhamnose biosynthesis	3847	Glyma.11G08020
+6889098	GDP-D-rhamnose biosynthesis	3847	Glyma.01G37270
+6889098	GDP-D-rhamnose biosynthesis	3847	Glyma.15G04500
+6889098	GDP-D-rhamnose biosynthesis	3847	Glyma.17G14340
+6889098	GDP-D-rhamnose biosynthesis	3847	Glyma.01G33650
+6889098	GDP-D-rhamnose biosynthesis	3847	Glyma.11G15010
+6889098	GDP-D-rhamnose biosynthesis	3847	Glyma.12G36290
+6889098	GDP-D-rhamnose biosynthesis	3847	Glyma.05G30410
+6889098	GDP-D-rhamnose biosynthesis	3847	Glyma.11G36600
+6889098	GDP-D-rhamnose biosynthesis	3847	Glyma.08G11510
+6889098	GDP-D-rhamnose biosynthesis	3847	Glyma.05G04822
+6889098	GDP-D-rhamnose biosynthesis	3847	Glyma.13G33960
+6889098	GDP-D-rhamnose biosynthesis	3847	Glyma.08G42270
+6889098	GDP-D-rhamnose biosynthesis	3847	Glyma.09G03490
+6889098	GDP-D-rhamnose biosynthesis	3847	Glyma.11G15020
+6889098	GDP-D-rhamnose biosynthesis	3847	Glyma.03G03180
+6889098	GDP-D-rhamnose biosynthesis	3847	Glyma.12G06990
+6889098	GDP-D-rhamnose biosynthesis	3847	Glyma.08G15680
+6889098	GDP-D-rhamnose biosynthesis	3847	Glyma.15G27510
+6889098	GDP-D-rhamnose biosynthesis	3847	Glyma.13G40960
+6889098	GDP-D-rhamnose biosynthesis	3847	Glyma.18G12660
+6889098	GDP-D-rhamnose biosynthesis	3847	Glyma.09G36740
+6889098	GDP-D-rhamnose biosynthesis	3847	Glyma.05G28510
+6889098	GDP-D-rhamnose biosynthesis	3847	Glyma.18G00505
+6889098	GDP-D-rhamnose biosynthesis	3847	Glyma.15G14433
+6889069	S-adenosyl-L-methionine cycle	3847	Glyma.13G15140
+6889069	S-adenosyl-L-methionine cycle	3847	Glyma.19G29180
+6889069	S-adenosyl-L-methionine cycle	3847	Glyma.17G23730
+6889069	S-adenosyl-L-methionine cycle	3847	Glyma.04G30350
+6889069	S-adenosyl-L-methionine cycle	3847	Glyma.02G01170
+6889069	S-adenosyl-L-methionine cycle	3847	Glyma.03G38190
+6889069	S-adenosyl-L-methionine cycle	3847	Glyma.17G24322
+6889069	S-adenosyl-L-methionine cycle	3847	Glyma.17G24366
+6889069	S-adenosyl-L-methionine cycle	3847	Glyma.16G04240
+6889069	S-adenosyl-L-methionine cycle	3847	Glyma.19G40810
+6889069	S-adenosyl-L-methionine cycle	3847	Glyma.05G10840
+6889027	NAD biosynthesis I (from aspartate)	3847	Glyma.02G40470
+6889027	NAD biosynthesis I (from aspartate)	3847	Glyma.05G08550
+6889027	NAD biosynthesis I (from aspartate)	3847	Glyma.05G02710
+6889027	NAD biosynthesis I (from aspartate)	3847	Glyma.09G21050
+6889027	NAD biosynthesis I (from aspartate)	3847	Glyma.17G13410
+6889142	Xyloglucan biosynthesis	3847	Glyma.17G11060
+6889142	Xyloglucan biosynthesis	3847	Glyma.17G10980
+6889142	Xyloglucan biosynthesis	3847	Glyma.10G04640
+6889142	Xyloglucan biosynthesis	3847	Glyma.03G32481
+6889142	Xyloglucan biosynthesis	3847	Glyma.19G39760
+6889142	Xyloglucan biosynthesis	3847	Glyma.05G00860
+6889142	Xyloglucan biosynthesis	3847	Glyma.06G21090
+6889142	Xyloglucan biosynthesis	3847	Glyma.05G22680
+6889142	Xyloglucan biosynthesis	3847	Glyma.01G40270
+6889142	Xyloglucan biosynthesis	3847	Glyma.11G05020
+6889142	Xyloglucan biosynthesis	3847	Glyma.09G05010
+6889142	Xyloglucan biosynthesis	3847	Glyma.13G18940
+6889142	Xyloglucan biosynthesis	3847	Glyma.05G00920
+6889142	Xyloglucan biosynthesis	3847	Glyma.19G35210
+6889142	Xyloglucan biosynthesis	3847	Glyma.15G15820
+6889142	Xyloglucan biosynthesis	3847	Glyma.04G33170
+6889142	Xyloglucan biosynthesis	3847	Glyma.03G37150
+6889025	oleoresin monoterpene volatiles biosynthesis	3847	Glyma.17G15256
+6889088	leucodelphinidin biosynthesis	3847	Glyma.02G05470
+6889088	leucodelphinidin biosynthesis	3847	Glyma.01G37120
+6889088	leucodelphinidin biosynthesis	3847	Glyma.05G00500
+6889088	leucodelphinidin biosynthesis	3847	Glyma.17G08550
+6889088	leucodelphinidin biosynthesis	3847	Glyma.16G23880
+6889088	leucodelphinidin biosynthesis	3847	Glyma.05G00510
+6889088	leucodelphinidin biosynthesis	3847	Glyma.06G21920
+6889088	leucodelphinidin biosynthesis	3847	Glyma.05G00530
+6889088	leucodelphinidin biosynthesis	3847	Glyma.02G05450
+6889026	kievitone biosynthesis	3847	Glyma.09G01820
+6889026	kievitone biosynthesis	3847	Glyma.20G11177
+6889026	kievitone biosynthesis	3847	Glyma.15G12780
+6889030	trans,trans-farnesyl diphosphate biosynthesis	3847	Glyma.09G01820
+6889030	trans,trans-farnesyl diphosphate biosynthesis	3847	Glyma.20G11177
+6889030	trans,trans-farnesyl diphosphate biosynthesis	3847	Glyma.17G18160
+6889030	trans,trans-farnesyl diphosphate biosynthesis	3847	Glyma.08G09890
+6889030	trans,trans-farnesyl diphosphate biosynthesis	3847	Glyma.02G06590
+6889030	trans,trans-farnesyl diphosphate biosynthesis	3847	Glyma.19G32660
+6889030	trans,trans-farnesyl diphosphate biosynthesis	3847	Glyma.15G12780
+6889030	trans,trans-farnesyl diphosphate biosynthesis	3847	Glyma.05G21570
+6889030	trans,trans-farnesyl diphosphate biosynthesis	3847	Glyma.11G06820
+6889030	trans,trans-farnesyl diphosphate biosynthesis	3847	Glyma.16G25620
+6889030	trans,trans-farnesyl diphosphate biosynthesis	3847	Glyma.01G38481
+6888973	alanine biosynthesis II	3847	Glyma.01G03260
+6888973	alanine biosynthesis II	3847	Glyma.02G04320
+6889054	ascorbate biosynthesis	3847	Glyma.02G37590
+6889054	ascorbate biosynthesis	3847	Glyma.20G32030
+6889054	ascorbate biosynthesis	3847	Glyma.10G35490
+6889054	ascorbate biosynthesis	3847	Glyma.18G46390
+6889054	ascorbate biosynthesis	3847	Glyma.04G09800
+6889054	ascorbate biosynthesis	3847	Glyma.20G02220
+6889054	ascorbate biosynthesis	3847	Glyma.19G06740
+6889054	ascorbate biosynthesis	3847	Glyma.14G35881
+6889054	ascorbate biosynthesis	3847	Glyma.06G09880
+6889054	ascorbate biosynthesis	3847	Glyma.08G48120
+6889054	ascorbate biosynthesis	3847	Glyma.18G53370
+6889054	ascorbate biosynthesis	3847	Glyma.06G03560
+6889054	ascorbate biosynthesis	3847	Glyma.04G03490
+6889054	ascorbate biosynthesis	3847	Glyma.19G02031
+6889054	ascorbate biosynthesis	3847	Glyma.18G03840
+6889054	ascorbate biosynthesis	3847	Glyma.13G07660
+6889054	ascorbate biosynthesis	3847	Glyma.14G07150
+6889054	ascorbate biosynthesis	3847	Glyma.09G39800
+6889054	ascorbate biosynthesis	3847	Glyma.02G41820
+6889054	ascorbate biosynthesis	3847	Glyma.11G34550
+6889079	asparagine biosynthesis I	3847	Glyma.11G36200
+6889079	asparagine biosynthesis I	3847	Glyma.04G08560
+6889079	asparagine biosynthesis I	3847	Glyma.11G36190
+6889079	asparagine biosynthesis I	3847	Glyma.18G02060
+6889079	asparagine biosynthesis I	3847	Glyma.08G14720
+6889079	asparagine biosynthesis I	3847	Glyma.17G33050
+6889079	asparagine biosynthesis I	3847	Glyma.05G31490
+6889079	asparagine biosynthesis I	3847	Glyma.11G38130
+6889079	asparagine biosynthesis I	3847	Glyma.06G42830
+6889079	asparagine biosynthesis I	3847	Glyma.06G08670
+6889079	asparagine biosynthesis I	3847	Glyma.14G13480
+6889091	flavin biosynthesis	3847	Glyma.07G07815
+6889091	flavin biosynthesis	3847	Glyma.08G06330
+6889091	flavin biosynthesis	3847	Glyma.08G09260
+6889091	flavin biosynthesis	3847	Glyma.03G01270
+6889091	flavin biosynthesis	3847	Glyma.10G43240
+6888998	mevalonate pathway	3847	Glyma.05G03600
+6888998	mevalonate pathway	3847	Glyma.04G33335
+6888998	mevalonate pathway	3847	Glyma.01G36080
+6888998	mevalonate pathway	3847	Glyma.14G05020
+6888998	mevalonate pathway	3847	Glyma.18G47770
+6888998	mevalonate pathway	3847	Glyma.11G02950
+6888998	mevalonate pathway	3847	Glyma.19G42440
+6888998	mevalonate pathway	3847	Glyma.09G38550
+6888998	mevalonate pathway	3847	Glyma.17G00910
+6888998	mevalonate pathway	3847	Glyma.11G09330
+6888998	mevalonate pathway	3847	Glyma.16G21620
+6888998	mevalonate pathway	3847	Glyma.09G27380
+6888998	mevalonate pathway	3847	Glyma.20G05530
+6888998	mevalonate pathway	3847	Glyma.16G32480
+6888998	mevalonate pathway	3847	Glyma.02G47860
+6888998	mevalonate pathway	3847	Glyma.09G32850
+6888998	mevalonate pathway	3847	Glyma.07G39870
+6888998	mevalonate pathway	3847	Glyma.17G14150
+6888998	mevalonate pathway	3847	Glyma.02G44070
+6888998	mevalonate pathway	3847	Glyma.03G39890
+6888998	mevalonate pathway	3847	Glyma.20G24400
+6888998	mevalonate pathway	3847	Glyma.14G00760
+6888998	mevalonate pathway	3847	Glyma.01G42450
+6888998	mevalonate pathway	3847	Glyma.10G42630
+6889127	Abscisic acid (ABA) mediated signaling	3847	Glyma.05G09460
+6889127	Abscisic acid (ABA) mediated signaling	3847	Glyma.18G03930
+6889127	Abscisic acid (ABA) mediated signaling	3847	Glyma.01G31320
+6889127	Abscisic acid (ABA) mediated signaling	3847	Glyma.07G06270
+6889127	Abscisic acid (ABA) mediated signaling	3847	Glyma.14G00320
+6889127	Abscisic acid (ABA) mediated signaling	3847	Glyma.16G02910
+6889127	Abscisic acid (ABA) mediated signaling	3847	Glyma.07G19120
+6889127	Abscisic acid (ABA) mediated signaling	3847	Glyma.14G10730
+6889127	Abscisic acid (ABA) mediated signaling	3847	Glyma.11G04220
+6889127	Abscisic acid (ABA) mediated signaling	3847	Glyma.18G43676
+6889127	Abscisic acid (ABA) mediated signaling	3847	Glyma.15G10140
+6889127	Abscisic acid (ABA) mediated signaling	3847	Glyma.01G39020
+6889127	Abscisic acid (ABA) mediated signaling	3847	Glyma.17G17840
+6889127	Abscisic acid (ABA) mediated signaling	3847	Glyma.02G14880
+6889127	Abscisic acid (ABA) mediated signaling	3847	Glyma.06G05440
+6889127	Abscisic acid (ABA) mediated signaling	3847	Glyma.01G02290
+6889127	Abscisic acid (ABA) mediated signaling	3847	Glyma.02G48160
+6889127	Abscisic acid (ABA) mediated signaling	3847	Glyma.08G36770
+6889127	Abscisic acid (ABA) mediated signaling	3847	Glyma.04G05380
+6889127	Abscisic acid (ABA) mediated signaling	3847	Glyma.13G08120
+6889127	Abscisic acid (ABA) mediated signaling	3847	Glyma.11G35670
+6889127	Abscisic acid (ABA) mediated signaling	3847	Glyma.17G34800
+6889127	Abscisic acid (ABA) mediated signaling	3847	Glyma.02G42990
+6889127	Abscisic acid (ABA) mediated signaling	3847	Glyma.02G41750
+6889127	Abscisic acid (ABA) mediated signaling	3847	Glyma.14G07210
+6889127	Abscisic acid (ABA) mediated signaling	3847	Glyma.01G12970
+6889127	Abscisic acid (ABA) mediated signaling	3847	Glyma.17G20610
+6889127	Abscisic acid (ABA) mediated signaling	3847	Glyma.09G33700
+6889127	Abscisic acid (ABA) mediated signaling	3847	Glyma.14G06100
+6889127	Abscisic acid (ABA) mediated signaling	3847	Glyma.14G30260
+6889127	Abscisic acid (ABA) mediated signaling	3847	Glyma.11G06250
+6889127	Abscisic acid (ABA) mediated signaling	3847	Glyma.07G33600
+6889127	Abscisic acid (ABA) mediated signaling	3847	Glyma.08G24960
+6889127	Abscisic acid (ABA) mediated signaling	3847	Glyma.06G13150
+6889127	Abscisic acid (ABA) mediated signaling	3847	Glyma.11G34410
+6889127	Abscisic acid (ABA) mediated signaling	3847	Glyma.13G28901
+6889035	homoserine biosynthesis	3847	Glyma.19G27500
+6889035	homoserine biosynthesis	3847	Glyma.05G34420
+6889035	homoserine biosynthesis	3847	Glyma.08G11370
+6889035	homoserine biosynthesis	3847	Glyma.05G28380
+6889035	homoserine biosynthesis	3847	Glyma.18G00600
+6889035	homoserine biosynthesis	3847	Glyma.16G26300
+6889035	homoserine biosynthesis	3847	Glyma.02G07300
+6889035	homoserine biosynthesis	3847	Glyma.08G05250
+6889035	homoserine biosynthesis	3847	Glyma.07G29630
+6889035	homoserine biosynthesis	3847	Glyma.20G11950
+6889035	homoserine biosynthesis	3847	Glyma.16G05380
+6889035	homoserine biosynthesis	3847	Glyma.20G01220
+6889034	lysine biosynthesis II	3847	Glyma.19G27500
+6889034	lysine biosynthesis II	3847	Glyma.16G09020
+6889034	lysine biosynthesis II	3847	Glyma.05G28380
+6889034	lysine biosynthesis II	3847	Glyma.18G00600
+6889034	lysine biosynthesis II	3847	Glyma.08G05250
+6889034	lysine biosynthesis II	3847	Glyma.10G06090
+6889034	lysine biosynthesis II	3847	Glyma.03G33830
+6889034	lysine biosynthesis II	3847	Glyma.20G01220
+6889034	lysine biosynthesis II	3847	Glyma.10G38370
+6889034	lysine biosynthesis II	3847	Glyma.05G34420
+6889034	lysine biosynthesis II	3847	Glyma.06G18110
+6889034	lysine biosynthesis II	3847	Glyma.13G20390
+6889034	lysine biosynthesis II	3847	Glyma.06G18120
+6889034	lysine biosynthesis II	3847	Glyma.18G45380
+6889034	lysine biosynthesis II	3847	Glyma.11G37360
+6889034	lysine biosynthesis II	3847	Glyma.07G06610
+6889034	lysine biosynthesis II	3847	Glyma.02G07300
+6889034	lysine biosynthesis II	3847	Glyma.20G29480
+6889034	lysine biosynthesis II	3847	Glyma.19G36580
+6889034	lysine biosynthesis II	3847	Glyma.05G06420
+6889034	lysine biosynthesis II	3847	Glyma.19G22780
+6889034	lysine biosynthesis II	3847	Glyma.16G03180
+6889034	lysine biosynthesis II	3847	Glyma.03G22790
+6889034	lysine biosynthesis II	3847	Glyma.08G11370
+6889034	lysine biosynthesis II	3847	Glyma.04G36870
+6889034	lysine biosynthesis II	3847	Glyma.16G26300
+6889034	lysine biosynthesis II	3847	Glyma.04G36860
+6889034	lysine biosynthesis II	3847	Glyma.07G29630
+6889034	lysine biosynthesis II	3847	Glyma.04G00270
+6889034	lysine biosynthesis II	3847	Glyma.09G40460
+6889034	lysine biosynthesis II	3847	Glyma.18G01330
+6889034	lysine biosynthesis II	3847	Glyma.16G05380
+6889034	lysine biosynthesis II	3847	Glyma.06G00320
+6889121	glutamine biosynthesis I	3847	Glyma.02G41106
+6889121	glutamine biosynthesis I	3847	Glyma.14G39420
+6889121	glutamine biosynthesis I	3847	Glyma.07G11810
+6889121	glutamine biosynthesis I	3847	Glyma.09G30370
+6889121	glutamine biosynthesis I	3847	Glyma.18G04660
+6889121	glutamine biosynthesis I	3847	Glyma.02G41120
+6889121	glutamine biosynthesis I	3847	Glyma.11G33560
+6889006	methionine salvage pathway	3847	Glyma.07G15380
+6889006	methionine salvage pathway	3847	Glyma.11G04890
+6889006	methionine salvage pathway	3847	Glyma.05G37410
+6889006	methionine salvage pathway	3847	Glyma.15G19690
+6889006	methionine salvage pathway	3847	Glyma.03G38190
+6889006	methionine salvage pathway	3847	Glyma.02G01170
+6889006	methionine salvage pathway	3847	Glyma.17G16990
+6889006	methionine salvage pathway	3847	Glyma.10G40730
+6889006	methionine salvage pathway	3847	Glyma.04G00770
+6889006	methionine salvage pathway	3847	Glyma.08G02130
+6889006	methionine salvage pathway	3847	Glyma.08G03400
+6889006	methionine salvage pathway	3847	Glyma.01G40400
+6889006	methionine salvage pathway	3847	Glyma.20G26580
+6889006	methionine salvage pathway	3847	Glyma.01G00700
+6889006	methionine salvage pathway	3847	Glyma.04G05150
+6889006	methionine salvage pathway	3847	Glyma.19G40810
+6889006	methionine salvage pathway	3847	Glyma.04G00785
+6889006	methionine salvage pathway	3847	Glyma.06G00790
+6889006	methionine salvage pathway	3847	Glyma.07G07160
+6889006	methionine salvage pathway	3847	Glyma.06G00800
+6889006	methionine salvage pathway	3847	Glyma.11G02390
+6889006	methionine salvage pathway	3847	Glyma.16G03600
+6889006	methionine salvage pathway	3847	Glyma.05G23020
+6889006	methionine salvage pathway	3847	Glyma.09G39060
+6889006	methionine salvage pathway	3847	Glyma.01G45520
+6889006	methionine salvage pathway	3847	Glyma.18G47280
+6889006	methionine salvage pathway	3847	Glyma.05G36250
+6889006	methionine salvage pathway	3847	Glyma.06G05240
+6889006	methionine salvage pathway	3847	Glyma.09G08190
+6888979	13-LOX and 13-HPL pathway	3847	Glyma.13G03790
+6888979	13-LOX and 13-HPL pathway	3847	Glyma.12G05840
+6888979	13-LOX and 13-HPL pathway	3847	Glyma.20G11600
+6888979	13-LOX and 13-HPL pathway	3847	Glyma.03G42500
+6888979	13-LOX and 13-HPL pathway	3847	Glyma.11G13880
+6888979	13-LOX and 13-HPL pathway	3847	Glyma.07G31660
+6888979	13-LOX and 13-HPL pathway	3847	Glyma.13G31280
+6888979	13-LOX and 13-HPL pathway	3847	Glyma.19G45280
+6888979	13-LOX and 13-HPL pathway	3847	Glyma.20G11610
+6888979	13-LOX and 13-HPL pathway	3847	Glyma.16G01070
+6888979	13-LOX and 13-HPL pathway	3847	Glyma.20G11680
+6888979	13-LOX and 13-HPL pathway	3847	Glyma.02G26160
+6888979	13-LOX and 13-HPL pathway	3847	Glyma.07G04480
+6888979	13-LOX and 13-HPL pathway	3847	Glyma.11G13870
+6889046	pantothenate and coenzyme A biosynthesis III	3847	Glyma.18G45636
+6889046	pantothenate and coenzyme A biosynthesis III	3847	Glyma.03G02380
+6889046	pantothenate and coenzyme A biosynthesis III	3847	Glyma.20G35492
+6889046	pantothenate and coenzyme A biosynthesis III	3847	Glyma.10G32130
+6889046	pantothenate and coenzyme A biosynthesis III	3847	Glyma.11G32682
+6889046	pantothenate and coenzyme A biosynthesis III	3847	Glyma.18G45700
+6889046	pantothenate and coenzyme A biosynthesis III	3847	Glyma.17G13830
+6889046	pantothenate and coenzyme A biosynthesis III	3847	Glyma.09G40313
+6889046	pantothenate and coenzyme A biosynthesis III	3847	Glyma.18G38038
+6889046	pantothenate and coenzyme A biosynthesis III	3847	Glyma.09G28120
+6889046	pantothenate and coenzyme A biosynthesis III	3847	Glyma.16G24040
+6889046	pantothenate and coenzyme A biosynthesis III	3847	Glyma.07G09090
+6889046	pantothenate and coenzyme A biosynthesis III	3847	Glyma.20G35498
+6889046	pantothenate and coenzyme A biosynthesis III	3847	Glyma.18G45690
+6889046	pantothenate and coenzyme A biosynthesis III	3847	Glyma.09G40320
+6889024	tetrahydrofolate biosynthesis I	3847	Glyma.20G25960
+6889024	tetrahydrofolate biosynthesis I	3847	Glyma.19G38854
+6889024	tetrahydrofolate biosynthesis I	3847	Glyma.07G07420
+6889024	tetrahydrofolate biosynthesis I	3847	Glyma.04G01244
+6889024	tetrahydrofolate biosynthesis I	3847	Glyma.16G04120
+6889024	tetrahydrofolate biosynthesis I	3847	Glyma.06G01280
+6889024	tetrahydrofolate biosynthesis I	3847	Glyma.12G04480
+6889024	tetrahydrofolate biosynthesis I	3847	Glyma.16G03830
+6889024	tetrahydrofolate biosynthesis I	3847	Glyma.03G36210
+6889024	tetrahydrofolate biosynthesis I	3847	Glyma.10G41290
+6889024	tetrahydrofolate biosynthesis I	3847	Glyma.02G13270
+6889024	tetrahydrofolate biosynthesis I	3847	Glyma.01G07791
+6889024	tetrahydrofolate biosynthesis I	3847	Glyma.19G29380
+6889024	tetrahydrofolate biosynthesis I	3847	Glyma.11G12280
+6889135	lysine biosynthesis VI	3847	Glyma.19G27500
+6889135	lysine biosynthesis VI	3847	Glyma.08G06790
+6889135	lysine biosynthesis VI	3847	Glyma.05G28380
+6889135	lysine biosynthesis VI	3847	Glyma.18G00600
+6889135	lysine biosynthesis VI	3847	Glyma.07G06610
+6889135	lysine biosynthesis VI	3847	Glyma.08G05250
+6889135	lysine biosynthesis VI	3847	Glyma.02G07300
+6889135	lysine biosynthesis VI	3847	Glyma.20G29480
+6889135	lysine biosynthesis VI	3847	Glyma.10G06090
+6889135	lysine biosynthesis VI	3847	Glyma.19G36580
+6889135	lysine biosynthesis VI	3847	Glyma.03G33830
+6889135	lysine biosynthesis VI	3847	Glyma.16G03180
+6889135	lysine biosynthesis VI	3847	Glyma.07G30460
+6889135	lysine biosynthesis VI	3847	Glyma.10G38370
+6889135	lysine biosynthesis VI	3847	Glyma.05G34420
+6889135	lysine biosynthesis VI	3847	Glyma.08G11370
+6889135	lysine biosynthesis VI	3847	Glyma.16G26300
+6889135	lysine biosynthesis VI	3847	Glyma.09G40460
+6889135	lysine biosynthesis VI	3847	Glyma.13G20390
+6889135	lysine biosynthesis VI	3847	Glyma.16G05380
+6889135	lysine biosynthesis VI	3847	Glyma.18G45380
+6889126	Mitochondrial pyruvate metabolism	3847	Glyma.07G36040
+6889126	Mitochondrial pyruvate metabolism	3847	Glyma.17G04210
+6889008	polyisoprenoid biosynthesis	3847	Glyma.20G11177
+6889008	polyisoprenoid biosynthesis	3847	Glyma.18G47770
+6889008	polyisoprenoid biosynthesis	3847	Glyma.13G33710
+6889008	polyisoprenoid biosynthesis	3847	Glyma.09G38550
+6889008	polyisoprenoid biosynthesis	3847	Glyma.16G25620
+6889008	polyisoprenoid biosynthesis	3847	Glyma.01G38481
+6889008	polyisoprenoid biosynthesis	3847	Glyma.10G00580
+6889008	polyisoprenoid biosynthesis	3847	Glyma.09G01820
+6889008	polyisoprenoid biosynthesis	3847	Glyma.15G39070
+6889008	polyisoprenoid biosynthesis	3847	Glyma.17G18160
+6889008	polyisoprenoid biosynthesis	3847	Glyma.08G09890
+6889008	polyisoprenoid biosynthesis	3847	Glyma.02G06590
+6889008	polyisoprenoid biosynthesis	3847	Glyma.16G22502
+6889008	polyisoprenoid biosynthesis	3847	Glyma.19G32660
+6889008	polyisoprenoid biosynthesis	3847	Glyma.15G12780
+6889008	polyisoprenoid biosynthesis	3847	Glyma.09G33130
+6889008	polyisoprenoid biosynthesis	3847	Glyma.05G21570
+6889008	polyisoprenoid biosynthesis	3847	Glyma.11G06820
+6889089	leucopelargonidin and leucocyanidin biosynthesis	3847	Glyma.02G05470
+6889089	leucopelargonidin and leucocyanidin biosynthesis	3847	Glyma.01G37120
+6889089	leucopelargonidin and leucocyanidin biosynthesis	3847	Glyma.05G00500
+6889089	leucopelargonidin and leucocyanidin biosynthesis	3847	Glyma.17G08550
+6889089	leucopelargonidin and leucocyanidin biosynthesis	3847	Glyma.16G23880
+6889089	leucopelargonidin and leucocyanidin biosynthesis	3847	Glyma.05G00510
+6889089	leucopelargonidin and leucocyanidin biosynthesis	3847	Glyma.06G21920
+6889089	leucopelargonidin and leucocyanidin biosynthesis	3847	Glyma.05G00530
+6889089	leucopelargonidin and leucocyanidin biosynthesis	3847	Glyma.02G05450
+6889032	starch biosynthesis	3847	Glyma.02G37590
+6889032	starch biosynthesis	3847	Glyma.08G04890
+6889032	starch biosynthesis	3847	Glyma.10G35490
+6889032	starch biosynthesis	3847	Glyma.17G01900
+6889032	starch biosynthesis	3847	Glyma.18G49480
+6889032	starch biosynthesis	3847	Glyma.04G09800
+6889032	starch biosynthesis	3847	Glyma.07G38820
+6889032	starch biosynthesis	3847	Glyma.19G02690
+6889032	starch biosynthesis	3847	Glyma.11G12410
+6889032	starch biosynthesis	3847	Glyma.06G03560
+6889032	starch biosynthesis	3847	Glyma.19G02031
+6889032	starch biosynthesis	3847	Glyma.03G05135
+6889032	starch biosynthesis	3847	Glyma.15G11500
+6889032	starch biosynthesis	3847	Glyma.02G47460
+6889032	starch biosynthesis	3847	Glyma.07G39040
+6889032	starch biosynthesis	3847	Glyma.05G25790
+6889032	starch biosynthesis	3847	Glyma.20G32030
+6889032	starch biosynthesis	3847	Glyma.04G01350
+6889032	starch biosynthesis	3847	Glyma.13G27480
+6889032	starch biosynthesis	3847	Glyma.06G03340
+6889032	starch biosynthesis	3847	Glyma.06G13480
+6889032	starch biosynthesis	3847	Glyma.20G02220
+6889032	starch biosynthesis	3847	Glyma.13G05441
+6889032	starch biosynthesis	3847	Glyma.14G01290
+6889032	starch biosynthesis	3847	Glyma.17G37100
+6889032	starch biosynthesis	3847	Glyma.14G35881
+6889032	starch biosynthesis	3847	Glyma.06G09880
+6889032	starch biosynthesis	3847	Glyma.20G29230
+6889032	starch biosynthesis	3847	Glyma.12G04630
+6889032	starch biosynthesis	3847	Glyma.08G08740
+6889032	starch biosynthesis	3847	Glyma.19G41100
+6889032	starch biosynthesis	3847	Glyma.05G34790
+6889032	starch biosynthesis	3847	Glyma.10G38590
+6889032	starch biosynthesis	3847	Glyma.03G38500
+6889032	starch biosynthesis	3847	Glyma.04G03490
+6889032	starch biosynthesis	3847	Glyma.14G07920
+6889032	starch biosynthesis	3847	Glyma.04G41370
+6889032	starch biosynthesis	3847	Glyma.06G01380
+6889032	starch biosynthesis	3847	Glyma.04G03260
+6889053	pinobanksin biosynthesis	3847	Glyma.15G39050
+6889053	pinobanksin biosynthesis	3847	Glyma.10G43850
+6889053	pinobanksin biosynthesis	3847	Glyma.13G33730
+6889053	pinobanksin biosynthesis	3847	Glyma.20G38560
+6889053	pinobanksin biosynthesis	3847	Glyma.19G27930
+6889053	pinobanksin biosynthesis	3847	Glyma.20G38570
+6889053	pinobanksin biosynthesis	3847	Glyma.20G38580
+6889090	phylloquinone biosynthesis	3847	Glyma.08G40800
+6889090	phylloquinone biosynthesis	3847	Glyma.18G49070
+6889090	phylloquinone biosynthesis	3847	Glyma.13G05130
+6889090	phylloquinone biosynthesis	3847	Glyma.18G19503
+6889090	phylloquinone biosynthesis	3847	Glyma.09G37570
+6889090	phylloquinone biosynthesis	3847	Glyma.18G16260
+6889090	phylloquinone biosynthesis	3847	Glyma.19G02380
+6889090	phylloquinone biosynthesis	3847	Glyma.08G39350
+6889049	leucine biosynthesis	3847	Glyma.20G34160
+6889049	leucine biosynthesis	3847	Glyma.11G04870
+6889049	leucine biosynthesis	3847	Glyma.01G36750
+6889049	leucine biosynthesis	3847	Glyma.14G40570
+6889049	leucine biosynthesis	3847	Glyma.08G06766
+6889049	leucine biosynthesis	3847	Glyma.07G30500
+6889049	leucine biosynthesis	3847	Glyma.06G05280
+6889049	leucine biosynthesis	3847	Glyma.01G40420
+6889049	leucine biosynthesis	3847	Glyma.04G05190
+6889049	leucine biosynthesis	3847	Glyma.16G22640
+6889049	leucine biosynthesis	3847	Glyma.08G22480
+6889049	leucine biosynthesis	3847	Glyma.10G06590
+6889049	leucine biosynthesis	3847	Glyma.07G03610
+6889049	leucine biosynthesis	3847	Glyma.17G37541
+6889049	leucine biosynthesis	3847	Glyma.19G29880
+6889049	leucine biosynthesis	3847	Glyma.11G08920
+6889049	leucine biosynthesis	3847	Glyma.08G06773
+6889049	leucine biosynthesis	3847	Glyma.13G20790
+6889049	leucine biosynthesis	3847	Glyma.13G12565
+6889049	leucine biosynthesis	3847	Glyma.02G04780
+6889049	leucine biosynthesis	3847	Glyma.14G00500
+6889049	leucine biosynthesis	3847	Glyma.11G08550
+6889049	leucine biosynthesis	3847	Glyma.07G30510
+6889049	leucine biosynthesis	3847	Glyma.08G06751
+6889049	leucine biosynthesis	3847	Glyma.12G30010
+6889049	leucine biosynthesis	3847	Glyma.19G29920
+6889049	leucine biosynthesis	3847	Glyma.10G44180
+6889049	leucine biosynthesis	3847	Glyma.03G00800
+6889049	leucine biosynthesis	3847	Glyma.13G12484
+6889049	leucine biosynthesis	3847	Glyma.20G38950
+6889111	glycine biosynthesis I	3847	Glyma.05G28490
+6889111	glycine biosynthesis I	3847	Glyma.08G37270
+6889111	glycine biosynthesis I	3847	Glyma.18G27710
+6889111	glycine biosynthesis I	3847	Glyma.16G26210
+6889111	glycine biosynthesis I	3847	Glyma.02G07250
+6889111	glycine biosynthesis I	3847	Glyma.08G20050
+6889111	glycine biosynthesis I	3847	Glyma.12G29171
+6889111	glycine biosynthesis I	3847	Glyma.09G33480
+6889111	glycine biosynthesis I	3847	Glyma.06G11300
+6889111	glycine biosynthesis I	3847	Glyma.08G11490
+6889111	glycine biosynthesis I	3847	Glyma.04G43360
+6889129	monoterpene biosynthesis	3847	Glyma.17G15256
+6889031	sucrose biosynthesis	3847	Glyma.13G23060
+6889031	sucrose biosynthesis	3847	Glyma.09G29710
+6889031	sucrose biosynthesis	3847	Glyma.16G34290
+6889031	sucrose biosynthesis	3847	Glyma.20G32030
+6889031	sucrose biosynthesis	3847	Glyma.08G04890
+6889031	sucrose biosynthesis	3847	Glyma.10G10960
+6889031	sucrose biosynthesis	3847	Glyma.11G33240
+6889031	sucrose biosynthesis	3847	Glyma.10G35490
+6889031	sucrose biosynthesis	3847	Glyma.20G16990
+6889031	sucrose biosynthesis	3847	Glyma.19G40041
+6889031	sucrose biosynthesis	3847	Glyma.20G02220
+6889031	sucrose biosynthesis	3847	Glyma.20G29230
+6889031	sucrose biosynthesis	3847	Glyma.03G37441
+6889031	sucrose biosynthesis	3847	Glyma.02G40740
+6889031	sucrose biosynthesis	3847	Glyma.17G11820
+6889031	sucrose biosynthesis	3847	Glyma.05G34790
+6889031	sucrose biosynthesis	3847	Glyma.10G38590
+6889031	sucrose biosynthesis	3847	Glyma.03G05135
+6889031	sucrose biosynthesis	3847	Glyma.15G16171
+6889031	sucrose biosynthesis	3847	Glyma.14G39070
+6889109	pyridoxal 5'-phosphate biosynthesis	3847	Glyma.08G37680
+6889109	pyridoxal 5'-phosphate biosynthesis	3847	Glyma.18G28830
+6889109	pyridoxal 5'-phosphate biosynthesis	3847	Glyma.13G28470
+6889109	pyridoxal 5'-phosphate biosynthesis	3847	Glyma.16G02580
+6889109	pyridoxal 5'-phosphate biosynthesis	3847	Glyma.07G38260
+6889109	pyridoxal 5'-phosphate biosynthesis	3847	Glyma.17G02480
+6889109	pyridoxal 5'-phosphate biosynthesis	3847	Glyma.08G23680
+6889109	pyridoxal 5'-phosphate biosynthesis	3847	Glyma.07G02340
+6889109	pyridoxal 5'-phosphate biosynthesis	3847	Glyma.09G33320
+6889109	pyridoxal 5'-phosphate biosynthesis	3847	Glyma.08G37670
+6889109	pyridoxal 5'-phosphate biosynthesis	3847	Glyma.15G10610
+6889109	pyridoxal 5'-phosphate biosynthesis	3847	Glyma.04G09950
+6889109	pyridoxal 5'-phosphate biosynthesis	3847	Glyma.06G10000
+6889040	methylerythritol phosphate pathway	3847	Glyma.08G37680
+6889040	methylerythritol phosphate pathway	3847	Glyma.09G38550
+6889040	methylerythritol phosphate pathway	3847	Glyma.12G17240
+6889040	methylerythritol phosphate pathway	3847	Glyma.13G04120
+6889040	methylerythritol phosphate pathway	3847	Glyma.17G02480
+6889040	methylerythritol phosphate pathway	3847	Glyma.09G33320
+6889040	methylerythritol phosphate pathway	3847	Glyma.13G40140
+6889040	methylerythritol phosphate pathway	3847	Glyma.08G37670
+6889040	methylerythritol phosphate pathway	3847	Glyma.20G08930
+6889040	methylerythritol phosphate pathway	3847	Glyma.18G28830
+6889040	methylerythritol phosphate pathway	3847	Glyma.18G47770
+6889040	methylerythritol phosphate pathway	3847	Glyma.05G02190
+6889040	methylerythritol phosphate pathway	3847	Glyma.17G09740
+6889040	methylerythritol phosphate pathway	3847	Glyma.05G21800
+6889040	methylerythritol phosphate pathway	3847	Glyma.11G12870
+6889040	methylerythritol phosphate pathway	3847	Glyma.13G28470
+6889040	methylerythritol phosphate pathway	3847	Glyma.11G05490
+6889040	methylerythritol phosphate pathway	3847	Glyma.11G02380
+6889040	methylerythritol phosphate pathway	3847	Glyma.07G38260
+6889040	methylerythritol phosphate pathway	3847	Glyma.12G29590
+6889040	methylerythritol phosphate pathway	3847	Glyma.01G39800
+6889040	methylerythritol phosphate pathway	3847	Glyma.17G17990
+6889040	methylerythritol phosphate pathway	3847	Glyma.12G05010
+6889040	methylerythritol phosphate pathway	3847	Glyma.15G10610
+6889040	methylerythritol phosphate pathway	3847	Glyma.17G00611
+6889040	methylerythritol phosphate pathway	3847	Glyma.16G10880
+6888970	tetrahydrofolate biosynthesis II	3847	Glyma.14G07100
+6888970	tetrahydrofolate biosynthesis II	3847	Glyma.04G01244
+6888970	tetrahydrofolate biosynthesis II	3847	Glyma.06G01280
+6888970	tetrahydrofolate biosynthesis II	3847	Glyma.03G36210
+6888970	tetrahydrofolate biosynthesis II	3847	Glyma.05G37740
+6888970	tetrahydrofolate biosynthesis II	3847	Glyma.19G38854
+6888970	tetrahydrofolate biosynthesis II	3847	Glyma.08G01850
+6888970	tetrahydrofolate biosynthesis II	3847	Glyma.20G25960
+6888970	tetrahydrofolate biosynthesis II	3847	Glyma.07G07420
+6888970	tetrahydrofolate biosynthesis II	3847	Glyma.02G41870
+6888970	tetrahydrofolate biosynthesis II	3847	Glyma.10G13840
+6888970	tetrahydrofolate biosynthesis II	3847	Glyma.18G03820
+6888970	tetrahydrofolate biosynthesis II	3847	Glyma.12G04480
+6888970	tetrahydrofolate biosynthesis II	3847	Glyma.16G03830
+6888970	tetrahydrofolate biosynthesis II	3847	Glyma.10G41290
+6888970	tetrahydrofolate biosynthesis II	3847	Glyma.20G38740
+6888970	tetrahydrofolate biosynthesis II	3847	Glyma.02G13270
+6888970	tetrahydrofolate biosynthesis II	3847	Glyma.10G44010
+6888970	tetrahydrofolate biosynthesis II	3847	Glyma.01G07791
+6888970	tetrahydrofolate biosynthesis II	3847	Glyma.11G12280
+6889125	Plastid glycolysis	3847	Glyma.16G04940
+6889125	Plastid glycolysis	3847	Glyma.06G01850
+6889125	Plastid glycolysis	3847	Glyma.02G07595
+6889125	Plastid glycolysis	3847	Glyma.03G34300
+6889125	Plastid glycolysis	3847	Glyma.17G23070
+6889125	Plastid glycolysis	3847	Glyma.13G20930
+6889125	Plastid glycolysis	3847	Glyma.19G28240
+6889125	Plastid glycolysis	3847	Glyma.04G01750
+6889125	Plastid glycolysis	3847	Glyma.10G06740
+6889125	Plastid glycolysis	3847	Glyma.19G36990
+6889015	biotin biosynthesis II	3847	Glyma.20G36590
+6889015	biotin biosynthesis II	3847	Glyma.16G26210
+6889015	biotin biosynthesis II	3847	Glyma.02G07250
+6889015	biotin biosynthesis II	3847	Glyma.05G27360
+6889015	biotin biosynthesis II	3847	Glyma.03G04990
+6889015	biotin biosynthesis II	3847	Glyma.12G02510
+6889015	biotin biosynthesis II	3847	Glyma.08G10340
+6889015	biotin biosynthesis II	3847	Glyma.12G02320
+6889015	biotin biosynthesis II	3847	Glyma.11G09980
+6889015	biotin biosynthesis II	3847	Glyma.17G35800
+6889015	biotin biosynthesis II	3847	Glyma.01G32090
+6889015	biotin biosynthesis II	3847	Glyma.03G41120
+6889015	biotin biosynthesis II	3847	Glyma.14G09380
+6889015	biotin biosynthesis II	3847	Glyma.10G30880
+6889015	biotin biosynthesis II	3847	Glyma.13G01170
+6889015	biotin biosynthesis II	3847	Glyma.18G44250
+6889015	biotin biosynthesis II	3847	Glyma.11G10190
+6889101	peptidoglycan biosynthesis I	3847	Glyma.10G30611
+6889101	peptidoglycan biosynthesis I	3847	Glyma.08G01850
+6889101	peptidoglycan biosynthesis I	3847	Glyma.05G13540
+6889101	peptidoglycan biosynthesis I	3847	Glyma.06G36690
+6889101	peptidoglycan biosynthesis I	3847	Glyma.09G41600
+6889101	peptidoglycan biosynthesis I	3847	Glyma.18G44100
+6889101	peptidoglycan biosynthesis I	3847	Glyma.05G37740
+6889101	peptidoglycan biosynthesis I	3847	Glyma.20G36934
+6889119	cyanate degradation	3847	Glyma.19G36970
+6889119	cyanate degradation	3847	Glyma.19G31870
+6889119	cyanate degradation	3847	Glyma.12G29960
+6889119	cyanate degradation	3847	Glyma.01G03720
+6889119	cyanate degradation	3847	Glyma.10G08510
+6889119	cyanate degradation	3847	Glyma.19G31710
+6889119	cyanate degradation	3847	Glyma.02G37710
+6889119	cyanate degradation	3847	Glyma.11G20290
+6889119	cyanate degradation	3847	Glyma.13G39920
+6889119	cyanate degradation	3847	Glyma.11G20300
+6889119	cyanate degradation	3847	Glyma.03G34270
+6889119	cyanate degradation	3847	Glyma.18G19080
+6889119	cyanate degradation	3847	Glyma.02G03990
+6889119	cyanate degradation	3847	Glyma.14G36000
+6889119	cyanate degradation	3847	Glyma.08G39510
+6889119	cyanate degradation	3847	Glyma.05G08590
+6889119	cyanate degradation	3847	Glyma.10G06730
+6889119	cyanate degradation	3847	Glyma.13G20920
+6889119	cyanate degradation	3847	Glyma.03G28950
+6889119	cyanate degradation	3847	Glyma.06G19400
+6889119	cyanate degradation	3847	Glyma.10G06710
+6889119	cyanate degradation	3847	Glyma.13G33080
+6889119	cyanate degradation	3847	Glyma.19G01050
+6889119	cyanate degradation	3847	Glyma.10G00790
+6889119	cyanate degradation	3847	Glyma.15G06280
+6889107	thiamine biosynthesis	3847	Glyma.08G37680
+6889107	thiamine biosynthesis	3847	Glyma.12G29140
+6889107	thiamine biosynthesis	3847	Glyma.18G28830
+6889107	thiamine biosynthesis	3847	Glyma.17G02480
+6889107	thiamine biosynthesis	3847	Glyma.08G20080
+6889107	thiamine biosynthesis	3847	Glyma.09G33320
+6889107	thiamine biosynthesis	3847	Glyma.13G28470
+6889107	thiamine biosynthesis	3847	Glyma.08G37670
+6889107	thiamine biosynthesis	3847	Glyma.15G10610
+6889107	thiamine biosynthesis	3847	Glyma.07G38260
+6889036	galactosylcyclitol biosynthesis	3847	Glyma.15G09810
+6889036	galactosylcyclitol biosynthesis	3847	Glyma.13G29280
+6889036	galactosylcyclitol biosynthesis	3847	Glyma.17G32180
+6889036	galactosylcyclitol biosynthesis	3847	Glyma.08G10590
+6889036	galactosylcyclitol biosynthesis	3847	Glyma.05G27610
+6889036	galactosylcyclitol biosynthesis	3847	Glyma.14G14000
+6889128	chlorophyll cycle	3847	Glyma.18G43310
+6889128	chlorophyll cycle	3847	Glyma.16G19390
+6889128	chlorophyll cycle	3847	Glyma.16G19340
+6889128	chlorophyll cycle	3847	Glyma.07G18470
+6889058	glutathione redox reactions I	3847	Glyma.08G05200
+6889058	glutathione redox reactions I	3847	Glyma.16G27210
+6889058	glutathione redox reactions I	3847	Glyma.05G37900
+6889058	glutathione redox reactions I	3847	Glyma.01G42840
+6889058	glutathione redox reactions I	3847	Glyma.02G16010
+6889058	glutathione redox reactions I	3847	Glyma.17G34110
+6889058	glutathione redox reactions I	3847	Glyma.10G03000
+6889058	glutathione redox reactions I	3847	Glyma.19G33650
+6889058	glutathione redox reactions I	3847	Glyma.02G08180
+6889058	glutathione redox reactions I	3847	Glyma.03G30800
+6889058	glutathione redox reactions I	3847	Glyma.05G34490
+6889058	glutathione redox reactions I	3847	Glyma.08G01700
+6889058	glutathione redox reactions I	3847	Glyma.11G02630
+6889058	glutathione redox reactions I	3847	Glyma.14G11685
+6889058	glutathione redox reactions I	3847	Glyma.10G03740
+6889058	glutathione redox reactions I	3847	Glyma.02G16800
+6889074	momilactone biosynthesis	3847	Glyma.07G39710
+6889074	momilactone biosynthesis	3847	Glyma.10G22060
+6889074	momilactone biosynthesis	3847	Glyma.03G31080
+6889074	momilactone biosynthesis	3847	Glyma.10G22000
+6889074	momilactone biosynthesis	3847	Glyma.08G11570
+6889074	momilactone biosynthesis	3847	Glyma.14G14520
+6889074	momilactone biosynthesis	3847	Glyma.02G40150
+6889074	momilactone biosynthesis	3847	Glyma.02G17940
+6889074	momilactone biosynthesis	3847	Glyma.02G46840
+6889074	momilactone biosynthesis	3847	Glyma.18G08950
+6889074	momilactone biosynthesis	3847	Glyma.14G01880
+6889074	momilactone biosynthesis	3847	Glyma.18G08930
+6889074	momilactone biosynthesis	3847	Glyma.20G00980
+6889074	momilactone biosynthesis	3847	Glyma.20G00960
+6889074	momilactone biosynthesis	3847	Glyma.09G41570
+6889074	momilactone biosynthesis	3847	Glyma.18G08940
+6889074	momilactone biosynthesis	3847	Glyma.11G06660
+6889074	momilactone biosynthesis	3847	Glyma.10G12790
+6889074	momilactone biosynthesis	3847	Glyma.20G00970
+6889074	momilactone biosynthesis	3847	Glyma.10G12710
+6889074	momilactone biosynthesis	3847	Glyma.19G33951
+6889074	momilactone biosynthesis	3847	Glyma.15G05580
+6889074	momilactone biosynthesis	3847	Glyma.01G38610
+6889074	momilactone biosynthesis	3847	Glyma.17G31560
+6889074	momilactone biosynthesis	3847	Glyma.10G22100
+6889074	momilactone biosynthesis	3847	Glyma.02G46820
+6889074	momilactone biosynthesis	3847	Glyma.20G00990
+6889074	momilactone biosynthesis	3847	Glyma.10G22080
+6889074	momilactone biosynthesis	3847	Glyma.08G19410
+6889074	momilactone biosynthesis	3847	Glyma.01G38590
+6889074	momilactone biosynthesis	3847	Glyma.17G01110
+6889074	momilactone biosynthesis	3847	Glyma.02G17720
+6889074	momilactone biosynthesis	3847	Glyma.08G43930
+6889074	momilactone biosynthesis	3847	Glyma.03G31111
+6889074	momilactone biosynthesis	3847	Glyma.08G43890
+6889074	momilactone biosynthesis	3847	Glyma.10G22070
+6889074	momilactone biosynthesis	3847	Glyma.08G43900
+6889074	momilactone biosynthesis	3847	Glyma.01G42600
+6889074	momilactone biosynthesis	3847	Glyma.10G22120
+6889074	momilactone biosynthesis	3847	Glyma.10G22090
+6889074	momilactone biosynthesis	3847	Glyma.08G43920
+6889074	momilactone biosynthesis	3847	Glyma.07G20080
+6889074	momilactone biosynthesis	3847	Glyma.07G20430
+6889074	momilactone biosynthesis	3847	Glyma.01G38600
+6889074	momilactone biosynthesis	3847	Glyma.10G12700
+6889074	momilactone biosynthesis	3847	Glyma.01G38630
+6889074	momilactone biosynthesis	3847	Glyma.11G06690
+6889017	gibberellin biosynthesis II (early C-3 hydroxylation)	3847	Glyma.16G08470
+6889017	gibberellin biosynthesis II (early C-3 hydroxylation)	3847	Glyma.12G03350
+6889017	gibberellin biosynthesis II (early C-3 hydroxylation)	3847	Glyma.01G01170
+6889017	gibberellin biosynthesis II (early C-3 hydroxylation)	3847	Glyma.11G11160
+6888976	IAA biosynthesis I	3847	Glyma.12G09750
+6888976	IAA biosynthesis I	3847	Glyma.07G09500
+6888976	IAA biosynthesis I	3847	Glyma.06G07570
+6888976	IAA biosynthesis I	3847	Glyma.07G18570
+6888976	IAA biosynthesis I	3847	Glyma.20G15480
+6888976	IAA biosynthesis I	3847	Glyma.08G18830
+6888976	IAA biosynthesis I	3847	Glyma.14G20670
+6888976	IAA biosynthesis I	3847	Glyma.15G13430
+6888976	IAA biosynthesis I	3847	Glyma.04G07450
+6888976	IAA biosynthesis I	3847	Glyma.20G28353
+6888976	IAA biosynthesis I	3847	Glyma.08G04310
+6888976	IAA biosynthesis I	3847	Glyma.03G07380
+6888976	IAA biosynthesis I	3847	Glyma.02G13290
+6888976	IAA biosynthesis I	3847	Glyma.17G02260
+6888976	IAA biosynthesis I	3847	Glyma.20G15960
+6888976	IAA biosynthesis I	3847	Glyma.13G30490
+6888976	IAA biosynthesis I	3847	Glyma.20G28360
+6888976	IAA biosynthesis I	3847	Glyma.16G32000
+6888976	IAA biosynthesis I	3847	Glyma.01G29190
+6888976	IAA biosynthesis I	3847	Glyma.02G04270
+6888976	IAA biosynthesis I	3847	Glyma.09G26430
+6888976	IAA biosynthesis I	3847	Glyma.13G06880
+6888976	IAA biosynthesis I	3847	Glyma.16G32010
+6888976	IAA biosynthesis I	3847	Glyma.01G07860
+6888976	IAA biosynthesis I	3847	Glyma.15G06185
+6888976	IAA biosynthesis I	3847	Glyma.11G18620
+6888976	IAA biosynthesis I	3847	Glyma.09G26290
+6888976	IAA biosynthesis I	3847	Glyma.17G25630
+6888976	IAA biosynthesis I	3847	Glyma.04G08440
+6888976	IAA biosynthesis I	3847	Glyma.07G06500
+6888976	IAA biosynthesis I	3847	Glyma.09G02530
+6888976	IAA biosynthesis I	3847	Glyma.20G28346
+6888976	IAA biosynthesis I	3847	Glyma.09G26384
+6888976	IAA biosynthesis I	3847	Glyma.03G32510
+6888976	IAA biosynthesis I	3847	Glyma.06G08560
+6888976	IAA biosynthesis I	3847	Glyma.09G39660
+6888976	IAA biosynthesis I	3847	Glyma.03G07300
+6888976	IAA biosynthesis I	3847	Glyma.18G43460
+6888976	IAA biosynthesis I	3847	Glyma.18G05860
+6888976	IAA biosynthesis I	3847	Glyma.11G31120
+6888976	IAA biosynthesis I	3847	Glyma.14G15820
+6888976	IAA biosynthesis I	3847	Glyma.09G26340
+6888976	IAA biosynthesis I	3847	Glyma.01G03340
+6888976	IAA biosynthesis I	3847	Glyma.11G31151
+6888976	IAA biosynthesis I	3847	Glyma.05G35430
+6888976	IAA biosynthesis I	3847	Glyma.09G32320
+6888976	IAA biosynthesis I	3847	Glyma.13G25030
+6888976	IAA biosynthesis I	3847	Glyma.17G30920
+6888976	IAA biosynthesis I	3847	Glyma.07G31380
+6889104	IAA conjugate biosynthesis I	3847	Glyma.08G11340
+6889104	IAA conjugate biosynthesis I	3847	Glyma.18G00620
+6889104	IAA conjugate biosynthesis I	3847	Glyma.05G28330
+6889104	IAA conjugate biosynthesis I	3847	Glyma.08G11330
+6889104	IAA conjugate biosynthesis I	3847	Glyma.05G28340
+6889131	Calvin cycle	3847	Glyma.07G30110
+6889131	Calvin cycle	3847	Glyma.03G34300
+6889131	Calvin cycle	3847	Glyma.13G20930
+6889131	Calvin cycle	3847	Glyma.08G17610
+6889131	Calvin cycle	3847	Glyma.19G06390
+6889131	Calvin cycle	3847	Glyma.08G22920
+6889131	Calvin cycle	3847	Glyma.14G36850
+6889131	Calvin cycle	3847	Glyma.10G41450
+6889131	Calvin cycle	3847	Glyma.05G00910
+6889131	Calvin cycle	3847	Glyma.13G21540
+6889131	Calvin cycle	3847	Glyma.19G06340
+6889131	Calvin cycle	3847	Glyma.02G07595
+6889131	Calvin cycle	3847	Glyma.13G07610
+6889131	Calvin cycle	3847	Glyma.02G47280
+6889131	Calvin cycle	3847	Glyma.15G41540
+6889131	Calvin cycle	3847	Glyma.14G01470
+6889131	Calvin cycle	3847	Glyma.10G43990
+6889131	Calvin cycle	3847	Glyma.08G07200
+6889131	Calvin cycle	3847	Glyma.03G34950
+6889131	Calvin cycle	3847	Glyma.13G41120
+6889131	Calvin cycle	3847	Glyma.18G39900
+6889131	Calvin cycle	3847	Glyma.16G04940
+6889131	Calvin cycle	3847	Glyma.20G38720
+6889131	Calvin cycle	3847	Glyma.03G03200
+6889131	Calvin cycle	3847	Glyma.11G34900
+6889131	Calvin cycle	3847	Glyma.19G43310
+6889131	Calvin cycle	3847	Glyma.19G28240
+6889131	Calvin cycle	3847	Glyma.15G41550
+6889131	Calvin cycle	3847	Glyma.19G36990
+6889131	Calvin cycle	3847	Glyma.19G25270
+6889131	Calvin cycle	3847	Glyma.10G07710
+6889131	Calvin cycle	3847	Glyma.08G17600
+6889131	Calvin cycle	3847	Glyma.02G38730
+6889131	Calvin cycle	3847	Glyma.18G53430
+6889131	Calvin cycle	3847	Glyma.11G12621
+6889131	Calvin cycle	3847	Glyma.18G03440
+6889131	Calvin cycle	3847	Glyma.10G06740
+6889131	Calvin cycle	3847	Glyma.10G41160
+6889131	Calvin cycle	3847	Glyma.07G17180
+6889131	Calvin cycle	3847	Glyma.14G10171
+6889131	Calvin cycle	3847	Glyma.09G34410
+6889131	Calvin cycle	3847	Glyma.12G24190
+6889131	Calvin cycle	3847	Glyma.16G06360
+6889131	Calvin cycle	3847	Glyma.20G25790
+6889131	Calvin cycle	3847	Glyma.17G10990
+6889131	Calvin cycle	3847	Glyma.15G04290
+6889131	Calvin cycle	3847	Glyma.07G11615
+6889131	Calvin cycle	3847	Glyma.03G40640
+6889131	Calvin cycle	3847	Glyma.18G41940
+6889131	Calvin cycle	3847	Glyma.01G01370
+6889131	Calvin cycle	3847	Glyma.20G26110
+6889131	Calvin cycle	3847	Glyma.15G14460
+6889131	Calvin cycle	3847	Glyma.19G06370
+6888983	gibberellin biosynthesis III (early C-13 hydroxylation)	3847	Glyma.16G08470
+6888983	gibberellin biosynthesis III (early C-13 hydroxylation)	3847	Glyma.12G03350
+6888983	gibberellin biosynthesis III (early C-13 hydroxylation)	3847	Glyma.01G01170
+6888983	gibberellin biosynthesis III (early C-13 hydroxylation)	3847	Glyma.11G11160
+6889059	phytyl-PP biosynthesis	3847	Glyma.17G10890
+6889059	phytyl-PP biosynthesis	3847	Glyma.05G01000
+6889141	xylogalacturonan biosynthesis	3847	Glyma.03G34670
+6889141	xylogalacturonan biosynthesis	3847	Glyma.13G21270
+6889141	xylogalacturonan biosynthesis	3847	Glyma.20G15980
+6889141	xylogalacturonan biosynthesis	3847	Glyma.04G38280
+6889141	xylogalacturonan biosynthesis	3847	Glyma.19G37340
+6889141	xylogalacturonan biosynthesis	3847	Glyma.06G16770
+6889141	xylogalacturonan biosynthesis	3847	Glyma.13G21240
+6889141	xylogalacturonan biosynthesis	3847	Glyma.10G07400
+6889141	xylogalacturonan biosynthesis	3847	Glyma.10G07360
+6889102	lipid-A-precursor biosynthesis	3847	Glyma.02G11180
+6889086	myo-inositol biosynthesis	3847	Glyma.18G02210
+6889086	myo-inositol biosynthesis	3847	Glyma.05G31450
+6889086	myo-inositol biosynthesis	3847	Glyma.08G14670
+6889023	UDP-D-glucuronate biosynthesis (from myo-inositol)	3847	Glyma.05G09130
+6889023	UDP-D-glucuronate biosynthesis (from myo-inositol)	3847	Glyma.06G12430
+6889023	UDP-D-glucuronate biosynthesis (from myo-inositol)	3847	Glyma.07G01660
+6889023	UDP-D-glucuronate biosynthesis (from myo-inositol)	3847	Glyma.04G42370
+6889023	UDP-D-glucuronate biosynthesis (from myo-inositol)	3847	Glyma.08G21300
+6889139	UDP-D-apiose biosynthesis	3847	Glyma.11G19090
+6889139	UDP-D-apiose biosynthesis	3847	Glyma.12G09350
+6889139	UDP-D-apiose biosynthesis	3847	Glyma.17G05440
+6889139	UDP-D-apiose biosynthesis	3847	Glyma.12G27175
+6889139	UDP-D-apiose biosynthesis	3847	Glyma.12G08930
+6889139	UDP-D-apiose biosynthesis	3847	Glyma.12G30490
+6889139	UDP-D-apiose biosynthesis	3847	Glyma.11G19550
+6889076	carotenoid biosynthesis	3847	Glyma.03G28470
+6889076	carotenoid biosynthesis	3847	Glyma.13G21110
+6889076	carotenoid biosynthesis	3847	Glyma.19G44010
+6889076	carotenoid biosynthesis	3847	Glyma.19G31220
+6889076	carotenoid biosynthesis	3847	Glyma.11G05960
+6889076	carotenoid biosynthesis	3847	Glyma.10G07210
+6889076	carotenoid biosynthesis	3847	Glyma.03G41420
+6889076	carotenoid biosynthesis	3847	Glyma.08G15115
+6889076	carotenoid biosynthesis	3847	Glyma.17G20020
+6889076	carotenoid biosynthesis	3847	Glyma.01G39313
+6889076	carotenoid biosynthesis	3847	Glyma.05G31840
+6889076	carotenoid biosynthesis	3847	Glyma.20G37170
+6889076	carotenoid biosynthesis	3847	Glyma.10G30220
+6889077	lactucaxanthin biosynthesis	3847	Glyma.13G21110
+6889077	lactucaxanthin biosynthesis	3847	Glyma.10G07210
+6889033	lysine biosynthesis I	3847	Glyma.19G27500
+6889033	lysine biosynthesis I	3847	Glyma.16G09020
+6889033	lysine biosynthesis I	3847	Glyma.05G28380
+6889033	lysine biosynthesis I	3847	Glyma.18G00600
+6889033	lysine biosynthesis I	3847	Glyma.08G05250
+6889033	lysine biosynthesis I	3847	Glyma.10G06090
+6889033	lysine biosynthesis I	3847	Glyma.03G33830
+6889033	lysine biosynthesis I	3847	Glyma.20G01220
+6889033	lysine biosynthesis I	3847	Glyma.10G38370
+6889033	lysine biosynthesis I	3847	Glyma.05G34420
+6889033	lysine biosynthesis I	3847	Glyma.06G18110
+6889033	lysine biosynthesis I	3847	Glyma.13G20390
+6889033	lysine biosynthesis I	3847	Glyma.06G18120
+6889033	lysine biosynthesis I	3847	Glyma.18G45380
+6889033	lysine biosynthesis I	3847	Glyma.11G37360
+6889033	lysine biosynthesis I	3847	Glyma.07G06610
+6889033	lysine biosynthesis I	3847	Glyma.02G07300
+6889033	lysine biosynthesis I	3847	Glyma.20G29480
+6889033	lysine biosynthesis I	3847	Glyma.19G36580
+6889033	lysine biosynthesis I	3847	Glyma.05G06420
+6889033	lysine biosynthesis I	3847	Glyma.19G22780
+6889033	lysine biosynthesis I	3847	Glyma.16G03180
+6889033	lysine biosynthesis I	3847	Glyma.03G22790
+6889033	lysine biosynthesis I	3847	Glyma.08G11370
+6889033	lysine biosynthesis I	3847	Glyma.04G36870
+6889033	lysine biosynthesis I	3847	Glyma.16G26300
+6889033	lysine biosynthesis I	3847	Glyma.04G36860
+6889033	lysine biosynthesis I	3847	Glyma.07G29630
+6889033	lysine biosynthesis I	3847	Glyma.04G00270
+6889033	lysine biosynthesis I	3847	Glyma.09G40460
+6889033	lysine biosynthesis I	3847	Glyma.18G01330
+6889033	lysine biosynthesis I	3847	Glyma.16G05380
+6889033	lysine biosynthesis I	3847	Glyma.06G00320
+6889099	GDP-L-fucose biosynthesis I (from GDP-D-mannose)	3847	Glyma.02G37020
+6889099	GDP-L-fucose biosynthesis I (from GDP-D-mannose)	3847	Glyma.08G13540
+6889099	GDP-L-fucose biosynthesis I (from GDP-D-mannose)	3847	Glyma.17G07740
+6889099	GDP-L-fucose biosynthesis I (from GDP-D-mannose)	3847	Glyma.05G03830
+6889099	GDP-L-fucose biosynthesis I (from GDP-D-mannose)	3847	Glyma.12G06980
+6889099	GDP-L-fucose biosynthesis I (from GDP-D-mannose)	3847	Glyma.11G08020
+6889099	GDP-L-fucose biosynthesis I (from GDP-D-mannose)	3847	Glyma.01G37270
+6889099	GDP-L-fucose biosynthesis I (from GDP-D-mannose)	3847	Glyma.15G04500
+6889099	GDP-L-fucose biosynthesis I (from GDP-D-mannose)	3847	Glyma.17G14340
+6889099	GDP-L-fucose biosynthesis I (from GDP-D-mannose)	3847	Glyma.01G33650
+6889099	GDP-L-fucose biosynthesis I (from GDP-D-mannose)	3847	Glyma.11G15010
+6889099	GDP-L-fucose biosynthesis I (from GDP-D-mannose)	3847	Glyma.12G36290
+6889099	GDP-L-fucose biosynthesis I (from GDP-D-mannose)	3847	Glyma.05G30410
+6889099	GDP-L-fucose biosynthesis I (from GDP-D-mannose)	3847	Glyma.11G36600
+6889099	GDP-L-fucose biosynthesis I (from GDP-D-mannose)	3847	Glyma.08G11510
+6889099	GDP-L-fucose biosynthesis I (from GDP-D-mannose)	3847	Glyma.09G41650
+6889099	GDP-L-fucose biosynthesis I (from GDP-D-mannose)	3847	Glyma.05G04822
+6889099	GDP-L-fucose biosynthesis I (from GDP-D-mannose)	3847	Glyma.13G33960
+6889099	GDP-L-fucose biosynthesis I (from GDP-D-mannose)	3847	Glyma.08G42270
+6889099	GDP-L-fucose biosynthesis I (from GDP-D-mannose)	3847	Glyma.09G03490
+6889099	GDP-L-fucose biosynthesis I (from GDP-D-mannose)	3847	Glyma.11G15020
+6889099	GDP-L-fucose biosynthesis I (from GDP-D-mannose)	3847	Glyma.03G03180
+6889099	GDP-L-fucose biosynthesis I (from GDP-D-mannose)	3847	Glyma.12G06990
+6889099	GDP-L-fucose biosynthesis I (from GDP-D-mannose)	3847	Glyma.15G27510
+6889099	GDP-L-fucose biosynthesis I (from GDP-D-mannose)	3847	Glyma.08G15680
+6889099	GDP-L-fucose biosynthesis I (from GDP-D-mannose)	3847	Glyma.18G44040
+6889099	GDP-L-fucose biosynthesis I (from GDP-D-mannose)	3847	Glyma.13G40960
+6889099	GDP-L-fucose biosynthesis I (from GDP-D-mannose)	3847	Glyma.18G12660
+6889099	GDP-L-fucose biosynthesis I (from GDP-D-mannose)	3847	Glyma.09G36740
+6889099	GDP-L-fucose biosynthesis I (from GDP-D-mannose)	3847	Glyma.05G28510
+6889099	GDP-L-fucose biosynthesis I (from GDP-D-mannose)	3847	Glyma.18G00505
+6889099	GDP-L-fucose biosynthesis I (from GDP-D-mannose)	3847	Glyma.15G14433
+6889072	ethylene biosynthesis from methionine	3847	Glyma.07G15380
+6889072	ethylene biosynthesis from methionine	3847	Glyma.11G04890
+6889072	ethylene biosynthesis from methionine	3847	Glyma.05G37410
+6889072	ethylene biosynthesis from methionine	3847	Glyma.03G38190
+6889072	ethylene biosynthesis from methionine	3847	Glyma.02G01170
+6889072	ethylene biosynthesis from methionine	3847	Glyma.17G16990
+6889072	ethylene biosynthesis from methionine	3847	Glyma.08G02130
+6889072	ethylene biosynthesis from methionine	3847	Glyma.14G05350
+6889072	ethylene biosynthesis from methionine	3847	Glyma.08G05500
+6889072	ethylene biosynthesis from methionine	3847	Glyma.15G11930
+6889072	ethylene biosynthesis from methionine	3847	Glyma.08G03400
+6889072	ethylene biosynthesis from methionine	3847	Glyma.01G40400
+6889072	ethylene biosynthesis from methionine	3847	Glyma.02G43580
+6889072	ethylene biosynthesis from methionine	3847	Glyma.02G43560
+6889072	ethylene biosynthesis from methionine	3847	Glyma.14G05390
+6889072	ethylene biosynthesis from methionine	3847	Glyma.06G24130
+6889072	ethylene biosynthesis from methionine	3847	Glyma.09G01110
+6889072	ethylene biosynthesis from methionine	3847	Glyma.01G00700
+6889072	ethylene biosynthesis from methionine	3847	Glyma.04G05150
+6889072	ethylene biosynthesis from methionine	3847	Glyma.14G05360
+6889072	ethylene biosynthesis from methionine	3847	Glyma.19G40810
+6889072	ethylene biosynthesis from methionine	3847	Glyma.07G07160
+6889072	ethylene biosynthesis from methionine	3847	Glyma.02G43594
+6889072	ethylene biosynthesis from methionine	3847	Glyma.11G02390
+6889072	ethylene biosynthesis from methionine	3847	Glyma.16G03600
+6889072	ethylene biosynthesis from methionine	3847	Glyma.05G23020
+6889072	ethylene biosynthesis from methionine	3847	Glyma.09G39060
+6889072	ethylene biosynthesis from methionine	3847	Glyma.14G05355
+6889072	ethylene biosynthesis from methionine	3847	Glyma.18G47280
+6889072	ethylene biosynthesis from methionine	3847	Glyma.07G39420
+6889072	ethylene biosynthesis from methionine	3847	Glyma.17G01330
+6889072	ethylene biosynthesis from methionine	3847	Glyma.05G36250
+6889072	ethylene biosynthesis from methionine	3847	Glyma.06G05240
+6889011	UDP-N-acetylgalactosamine biosynthesis	3847	Glyma.20G22760
+6889011	UDP-N-acetylgalactosamine biosynthesis	3847	Glyma.05G26240
+6889011	UDP-N-acetylgalactosamine biosynthesis	3847	Glyma.01G40950
+6889011	UDP-N-acetylgalactosamine biosynthesis	3847	Glyma.08G09170
+6889011	UDP-N-acetylgalactosamine biosynthesis	3847	Glyma.09G38460
+6889011	UDP-N-acetylgalactosamine biosynthesis	3847	Glyma.19G37990
+6889011	UDP-N-acetylgalactosamine biosynthesis	3847	Glyma.16G13610
+6889011	UDP-N-acetylgalactosamine biosynthesis	3847	Glyma.18G47860
+6889011	UDP-N-acetylgalactosamine biosynthesis	3847	Glyma.07G10805
+6889011	UDP-N-acetylgalactosamine biosynthesis	3847	Glyma.03G35360
+6889085	acyl-CoA synthetase pathway	3847	Glyma.20G07280
+6889085	acyl-CoA synthetase pathway	3847	Glyma.13G11700
+6889085	acyl-CoA synthetase pathway	3847	Glyma.06G11860
+6889085	acyl-CoA synthetase pathway	3847	Glyma.13G03280
+6889085	acyl-CoA synthetase pathway	3847	Glyma.20G07060
+6889085	acyl-CoA synthetase pathway	3847	Glyma.14G23676
+6888968	glycolipid desaturation	3847	Glyma.19G32940
+6888968	glycolipid desaturation	3847	Glyma.09G17170
+6888968	glycolipid desaturation	3847	Glyma.02G36460
+6888968	glycolipid desaturation	3847	Glyma.03G07570
+6888968	glycolipid desaturation	3847	Glyma.15G23200
+6888968	glycolipid desaturation	3847	Glyma.20G24530
+6888968	glycolipid desaturation	3847	Glyma.03G30070
+6888968	glycolipid desaturation	3847	Glyma.11G27190
+6888968	glycolipid desaturation	3847	Glyma.19G32930
+6888968	glycolipid desaturation	3847	Glyma.18G06950
+6888968	glycolipid desaturation	3847	Glyma.07G18350
+6888968	glycolipid desaturation	3847	Glyma.18G43210
+6888968	glycolipid desaturation	3847	Glyma.01G29630
+6888968	glycolipid desaturation	3847	Glyma.02G39230
+6888968	glycolipid desaturation	3847	Glyma.14G37350
+6888968	glycolipid desaturation	3847	Glyma.10G42470
+6889020	brassinosteroid biosynthesis II	3847	Glyma.11G35150
+6889020	brassinosteroid biosynthesis II	3847	Glyma.11G07240
+6889020	brassinosteroid biosynthesis II	3847	Glyma.02G42390
+6889020	brassinosteroid biosynthesis II	3847	Glyma.11G01210
+6889020	brassinosteroid biosynthesis II	3847	Glyma.02G08970
+6889020	brassinosteroid biosynthesis II	3847	Glyma.07G17410
+6889020	brassinosteroid biosynthesis II	3847	Glyma.18G03211
+6889020	brassinosteroid biosynthesis II	3847	Glyma.02G08950
+6889020	brassinosteroid biosynthesis II	3847	Glyma.07G01285
+6889020	brassinosteroid biosynthesis II	3847	Glyma.12G04070
+6889020	brassinosteroid biosynthesis II	3847	Glyma.02G06410
+6889020	brassinosteroid biosynthesis II	3847	Glyma.11G11780
+6889020	brassinosteroid biosynthesis II	3847	Glyma.14G06530
+6889020	brassinosteroid biosynthesis II	3847	Glyma.08G20690
+6889020	brassinosteroid biosynthesis II	3847	Glyma.02G44090
+6889020	brassinosteroid biosynthesis II	3847	Glyma.14G04780
+6889020	brassinosteroid biosynthesis II	3847	Glyma.01G38180
+6889117	ent-kaurene biosynthesis	3847	Glyma.03G31080
+6889117	ent-kaurene biosynthesis	3847	Glyma.19G33951
+6889117	ent-kaurene biosynthesis	3847	Glyma.03G31111
+6889042	proline biosynthesis V (from arginine)	3847	Glyma.03G28476
+6889042	proline biosynthesis V (from arginine)	3847	Glyma.04G03276
+6889042	proline biosynthesis V (from arginine)	3847	Glyma.05G27360
+6889042	proline biosynthesis V (from arginine)	3847	Glyma.06G03361
+6889042	proline biosynthesis V (from arginine)	3847	Glyma.19G31230
+6889042	proline biosynthesis V (from arginine)	3847	Glyma.08G10340
+6889096	phenylpropanoid biosynthesis, initial reactions	3847	Glyma.02G40290
+6889096	phenylpropanoid biosynthesis, initial reactions	3847	Glyma.20G32135
+6889096	phenylpropanoid biosynthesis, initial reactions	3847	Glyma.02G47940
+6889096	phenylpropanoid biosynthesis, initial reactions	3847	Glyma.19G36620
+6889096	phenylpropanoid biosynthesis, initial reactions	3847	Glyma.10G35381
+6889096	phenylpropanoid biosynthesis, initial reactions	3847	Glyma.14G38580
+6889096	phenylpropanoid biosynthesis, initial reactions	3847	Glyma.10G06600
+6889096	phenylpropanoid biosynthesis, initial reactions	3847	Glyma.03G33890
+6889096	phenylpropanoid biosynthesis, initial reactions	3847	Glyma.13G20800
+6889096	phenylpropanoid biosynthesis, initial reactions	3847	Glyma.03G33880
+6888993	sulfate activation for sulfonation	3847	Glyma.20G28980
+6888993	sulfate activation for sulfonation	3847	Glyma.19G05020
+6888993	sulfate activation for sulfonation	3847	Glyma.10G38760
+6888993	sulfate activation for sulfonation	3847	Glyma.13G06940
+6889138	Strigolactone signaling	3847	Glyma.06G43000
+6889138	Strigolactone signaling	3847	Glyma.04G06900
+6889138	Strigolactone signaling	3847	Glyma.09G40960
+6889138	Strigolactone signaling	3847	Glyma.17G35360
+6889138	Strigolactone signaling	3847	Glyma.02G40330
+6889138	Strigolactone signaling	3847	Glyma.19G41840
+6889138	Strigolactone signaling	3847	Glyma.13G08480
+6889138	Strigolactone signaling	3847	Glyma.11G05440
+6889138	Strigolactone signaling	3847	Glyma.08G22910
+6889138	Strigolactone signaling	3847	Glyma.19G44230
+6889138	Strigolactone signaling	3847	Glyma.14G38620
+6889138	Strigolactone signaling	3847	Glyma.06G13020
+6889138	Strigolactone signaling	3847	Glyma.17G17890
+6889138	Strigolactone signaling	3847	Glyma.05G22010
+6889138	Strigolactone signaling	3847	Glyma.20G05275
+6889138	Strigolactone signaling	3847	Glyma.0092S00240
+6889138	Strigolactone signaling	3847	Glyma.12G15360
+6889138	Strigolactone signaling	3847	Glyma.04G41750
+6889138	Strigolactone signaling	3847	Glyma.03G39290
+6889138	Strigolactone signaling	3847	Glyma.11G31410
+6889138	Strigolactone signaling	3847	Glyma.18G44850
+6889138	Strigolactone signaling	3847	Glyma.05G21930
+6889138	Strigolactone signaling	3847	Glyma.10G29090
+6889138	Strigolactone signaling	3847	Glyma.18G05770
+6889138	Strigolactone signaling	3847	Glyma.15G00880
+6889138	Strigolactone signaling	3847	Glyma.14G29120
+6889138	Strigolactone signaling	3847	Glyma.03G41630
+6889138	Strigolactone signaling	3847	Glyma.13G44420
+6889138	Strigolactone signaling	3847	Glyma.17G17910
+6889138	Strigolactone signaling	3847	Glyma.20G38230
+6889138	Strigolactone signaling	3847	Glyma.07G03180
+6889138	Strigolactone signaling	3847	Glyma.01G39850
+6889000	abscisic acid biosynthesis	3847	Glyma.08G18801
+6889000	abscisic acid biosynthesis	3847	Glyma.13G27220
+6889000	abscisic acid biosynthesis	3847	Glyma.11G21160
+6889000	abscisic acid biosynthesis	3847	Glyma.08G10190
+6889000	abscisic acid biosynthesis	3847	Glyma.12G36530
+6889000	abscisic acid biosynthesis	3847	Glyma.15G40070
+6889000	abscisic acid biosynthesis	3847	Glyma.11G21180
+6889000	abscisic acid biosynthesis	3847	Glyma.0273S00200
+6889000	abscisic acid biosynthesis	3847	Glyma.05G27250
+6889080	S-methylmethionine cycle	3847	Glyma.08G30150
+6889080	S-methylmethionine cycle	3847	Glyma.19G34120
+6889080	S-methylmethionine cycle	3847	Glyma.03G31281
+6889080	S-methylmethionine cycle	3847	Glyma.20G28720
+6889080	S-methylmethionine cycle	3847	Glyma.16G00210
+6889080	S-methylmethionine cycle	3847	Glyma.12G28490
+6889081	divinyl ether biosynthesis II (13-LOX)	3847	Glyma.13G03790
+6889081	divinyl ether biosynthesis II (13-LOX)	3847	Glyma.12G05840
+6889081	divinyl ether biosynthesis II (13-LOX)	3847	Glyma.20G11600
+6889081	divinyl ether biosynthesis II (13-LOX)	3847	Glyma.03G42500
+6889081	divinyl ether biosynthesis II (13-LOX)	3847	Glyma.11G13880
+6889081	divinyl ether biosynthesis II (13-LOX)	3847	Glyma.07G31660
+6889081	divinyl ether biosynthesis II (13-LOX)	3847	Glyma.13G31280
+6889081	divinyl ether biosynthesis II (13-LOX)	3847	Glyma.19G45280
+6889081	divinyl ether biosynthesis II (13-LOX)	3847	Glyma.20G11610
+6889081	divinyl ether biosynthesis II (13-LOX)	3847	Glyma.16G01070
+6889081	divinyl ether biosynthesis II (13-LOX)	3847	Glyma.20G11680
+6889081	divinyl ether biosynthesis II (13-LOX)	3847	Glyma.02G26160
+6889081	divinyl ether biosynthesis II (13-LOX)	3847	Glyma.07G04480
+6889081	divinyl ether biosynthesis II (13-LOX)	3847	Glyma.11G13870
+6889028	canavanine biosynthesis	3847	Glyma.05G34900
+6889028	canavanine biosynthesis	3847	Glyma.06G10130
+6889028	canavanine biosynthesis	3847	Glyma.05G03190
+6889028	canavanine biosynthesis	3847	Glyma.05G03210
+6889028	canavanine biosynthesis	3847	Glyma.14G02430
+6889028	canavanine biosynthesis	3847	Glyma.08G04815
+6889028	canavanine biosynthesis	3847	Glyma.04G03276
+6889028	canavanine biosynthesis	3847	Glyma.02G46290
+6889028	canavanine biosynthesis	3847	Glyma.06G03361
+6889028	canavanine biosynthesis	3847	Glyma.04G10100
+6889028	canavanine biosynthesis	3847	Glyma.05G26170
+6889028	canavanine biosynthesis	3847	Glyma.17G13790
+6889028	canavanine biosynthesis	3847	Glyma.08G09100
+6889130	tetrapyrrole biosynthesis I	3847	Glyma.12G02385
+6889130	tetrapyrrole biosynthesis I	3847	Glyma.14G40101
+6889130	tetrapyrrole biosynthesis I	3847	Glyma.06G00510
+6889130	tetrapyrrole biosynthesis I	3847	Glyma.06G12110
+6889130	tetrapyrrole biosynthesis I	3847	Glyma.06G04065
+6889130	tetrapyrrole biosynthesis I	3847	Glyma.04G00420
+6889130	tetrapyrrole biosynthesis I	3847	Glyma.04G03940
+6889130	tetrapyrrole biosynthesis I	3847	Glyma.01G43720
+6889130	tetrapyrrole biosynthesis I	3847	Glyma.04G42670
+6889130	tetrapyrrole biosynthesis I	3847	Glyma.11G10040
+6889130	tetrapyrrole biosynthesis I	3847	Glyma.11G01762
+6888981	UDP-D-xylose biosynthesis	3847	Glyma.14G14161
+6888981	UDP-D-xylose biosynthesis	3847	Glyma.18G50000
+6888981	UDP-D-xylose biosynthesis	3847	Glyma.19G03500
+6888981	UDP-D-xylose biosynthesis	3847	Glyma.05G00590
+6888981	UDP-D-xylose biosynthesis	3847	Glyma.12G08930
+6888981	UDP-D-xylose biosynthesis	3847	Glyma.12G30490
+6888981	UDP-D-xylose biosynthesis	3847	Glyma.11G19550
+6888981	UDP-D-xylose biosynthesis	3847	Glyma.17G08491
+6888981	UDP-D-xylose biosynthesis	3847	Glyma.12G06980
+6888981	UDP-D-xylose biosynthesis	3847	Glyma.13G06050
+6888981	UDP-D-xylose biosynthesis	3847	Glyma.15G04500
+6888981	UDP-D-xylose biosynthesis	3847	Glyma.02G12870
+6888981	UDP-D-xylose biosynthesis	3847	Glyma.11G15020
+6888981	UDP-D-xylose biosynthesis	3847	Glyma.17G05440
+6888981	UDP-D-xylose biosynthesis	3847	Glyma.12G09350
+6888981	UDP-D-xylose biosynthesis	3847	Glyma.11G19090
+6888981	UDP-D-xylose biosynthesis	3847	Glyma.12G06990
+6888981	UDP-D-xylose biosynthesis	3847	Glyma.11G15010
+6888981	UDP-D-xylose biosynthesis	3847	Glyma.12G27175
+6888981	UDP-D-xylose biosynthesis	3847	Glyma.08G26520
+6888981	UDP-D-xylose biosynthesis	3847	Glyma.20G03221
+6888981	UDP-D-xylose biosynthesis	3847	Glyma.13G40960
+6888981	UDP-D-xylose biosynthesis	3847	Glyma.01G06970
+6889082	secologanin and strictosidine biosynthesis	3847	Glyma.09G08170
+6889082	secologanin and strictosidine biosynthesis	3847	Glyma.07G06500
+6889082	secologanin and strictosidine biosynthesis	3847	Glyma.09G02530
+6889082	secologanin and strictosidine biosynthesis	3847	Glyma.03G32510
+6889082	secologanin and strictosidine biosynthesis	3847	Glyma.06G46550
+6889082	secologanin and strictosidine biosynthesis	3847	Glyma.12G31680
+6889082	secologanin and strictosidine biosynthesis	3847	Glyma.15G13430
+6889082	secologanin and strictosidine biosynthesis	3847	Glyma.03G28590
+6889082	secologanin and strictosidine biosynthesis	3847	Glyma.08G36350
+6889082	secologanin and strictosidine biosynthesis	3847	Glyma.13G42020
+6889082	secologanin and strictosidine biosynthesis	3847	Glyma.02G04800
+6889082	secologanin and strictosidine biosynthesis	3847	Glyma.15G03370
+6889082	secologanin and strictosidine biosynthesis	3847	Glyma.09G08161
+6889082	secologanin and strictosidine biosynthesis	3847	Glyma.02G04810
+6889082	secologanin and strictosidine biosynthesis	3847	Glyma.13G38740
+6889082	secologanin and strictosidine biosynthesis	3847	Glyma.16G22650
+6889082	secologanin and strictosidine biosynthesis	3847	Glyma.16G12090
+6889002	gibberellin biosynthesis I (non C-3, non C-13 hydroxylation)	3847	Glyma.16G08470
+6889002	gibberellin biosynthesis I (non C-3, non C-13 hydroxylation)	3847	Glyma.12G03350
+6889002	gibberellin biosynthesis I (non C-3, non C-13 hydroxylation)	3847	Glyma.01G01170
+6889002	gibberellin biosynthesis I (non C-3, non C-13 hydroxylation)	3847	Glyma.11G11160
+6889124	resveratrol biosynthesis	3847	Glyma.19G27930
+6889047	pantothenate biosynthesis III	3847	Glyma.18G38038
+6889041	citrulline biosynthesis	3847	Glyma.18G02060
+6889041	citrulline biosynthesis	3847	Glyma.19G05570
+6889041	citrulline biosynthesis	3847	Glyma.04G03276
+6889041	citrulline biosynthesis	3847	Glyma.19G05580
+6889041	citrulline biosynthesis	3847	Glyma.13G07110
+6889041	citrulline biosynthesis	3847	Glyma.17G14040
+6889041	citrulline biosynthesis	3847	Glyma.03G03270
+6889041	citrulline biosynthesis	3847	Glyma.18G03830
+6889041	citrulline biosynthesis	3847	Glyma.07G16510
+6889041	citrulline biosynthesis	3847	Glyma.01G33761
+6889041	citrulline biosynthesis	3847	Glyma.05G32190
+6889041	citrulline biosynthesis	3847	Glyma.02G41850
+6889041	citrulline biosynthesis	3847	Glyma.01G33635
+6889041	citrulline biosynthesis	3847	Glyma.08G28460
+6889041	citrulline biosynthesis	3847	Glyma.05G27360
+6889041	citrulline biosynthesis	3847	Glyma.06G15510
+6889041	citrulline biosynthesis	3847	Glyma.11G38130
+6889041	citrulline biosynthesis	3847	Glyma.01G24530
+6889041	citrulline biosynthesis	3847	Glyma.08G10340
+6889041	citrulline biosynthesis	3847	Glyma.14G07120
+6889041	citrulline biosynthesis	3847	Glyma.18G51400
+6889041	citrulline biosynthesis	3847	Glyma.18G40770
+6889041	citrulline biosynthesis	3847	Glyma.06G03361
+6889041	citrulline biosynthesis	3847	Glyma.04G39390
+6889041	citrulline biosynthesis	3847	Glyma.03G12240
+6889105	putrescine biosynthesis I	3847	Glyma.06G00990
+6889105	putrescine biosynthesis I	3847	Glyma.04G00960
+6889056	phenylalanine biosynthesis I	3847	Glyma.04G06450
+6889056	phenylalanine biosynthesis I	3847	Glyma.06G35585
+6889056	phenylalanine biosynthesis I	3847	Glyma.19G03290
+6889056	phenylalanine biosynthesis I	3847	Glyma.12G26170
+6889056	phenylalanine biosynthesis I	3847	Glyma.11G36190
+6889056	phenylalanine biosynthesis I	3847	Glyma.11G19430
+6889056	phenylalanine biosynthesis I	3847	Glyma.08G14720
+6889056	phenylalanine biosynthesis I	3847	Glyma.17G05290
+6889056	phenylalanine biosynthesis I	3847	Glyma.12G30660
+6889056	phenylalanine biosynthesis I	3847	Glyma.11G15750
+6889056	phenylalanine biosynthesis I	3847	Glyma.05G31490
+6889056	phenylalanine biosynthesis I	3847	Glyma.17G33940
+6889056	phenylalanine biosynthesis I	3847	Glyma.12G33350
+6889056	phenylalanine biosynthesis I	3847	Glyma.06G06491
+6889056	phenylalanine biosynthesis I	3847	Glyma.12G07720
+6889056	phenylalanine biosynthesis I	3847	Glyma.08G26256
+6889056	phenylalanine biosynthesis I	3847	Glyma.02G12603
+6889056	phenylalanine biosynthesis I	3847	Glyma.13G05830
+6889056	phenylalanine biosynthesis I	3847	Glyma.11G36200
+6889056	phenylalanine biosynthesis I	3847	Glyma.01G06660
+6889056	phenylalanine biosynthesis I	3847	Glyma.12G09050
+6889056	phenylalanine biosynthesis I	3847	Glyma.06G35630
+6889056	phenylalanine biosynthesis I	3847	Glyma.14G11870
+6889056	phenylalanine biosynthesis I	3847	Glyma.13G37080
+6888986	flavonoid biosynthesis	3847	Glyma.13G44950
+6888986	flavonoid biosynthesis	3847	Glyma.02G05470
+6888986	flavonoid biosynthesis	3847	Glyma.17G07190
+6888986	flavonoid biosynthesis	3847	Glyma.06G18030
+6888986	flavonoid biosynthesis	3847	Glyma.17G07170
+6888986	flavonoid biosynthesis	3847	Glyma.11G20020
+6888986	flavonoid biosynthesis	3847	Glyma.11G09710
+6888986	flavonoid biosynthesis	3847	Glyma.12G08460
+6888986	flavonoid biosynthesis	3847	Glyma.01G01350
+6888986	flavonoid biosynthesis	3847	Glyma.17G07180
+6888986	flavonoid biosynthesis	3847	Glyma.01G44270
+6888986	flavonoid biosynthesis	3847	Glyma.15G00390
+6888986	flavonoid biosynthesis	3847	Glyma.10G43850
+6888986	flavonoid biosynthesis	3847	Glyma.04G36950
+6888986	flavonoid biosynthesis	3847	Glyma.16G23880
+6888986	flavonoid biosynthesis	3847	Glyma.13G39770
+6888986	flavonoid biosynthesis	3847	Glyma.20G38560
+6888986	flavonoid biosynthesis	3847	Glyma.19G27930
+6888986	flavonoid biosynthesis	3847	Glyma.14G39840
+6888986	flavonoid biosynthesis	3847	Glyma.01G37120
+6888986	flavonoid biosynthesis	3847	Glyma.09G34431
+6888986	flavonoid biosynthesis	3847	Glyma.13G01080
+6888986	flavonoid biosynthesis	3847	Glyma.11G01240
+6888986	flavonoid biosynthesis	3847	Glyma.02G05450
+6888986	flavonoid biosynthesis	3847	Glyma.20G38570
+6888986	flavonoid biosynthesis	3847	Glyma.20G38580
+6888999	GA12 biosynthesis	3847	Glyma.15G00450
+6888999	GA12 biosynthesis	3847	Glyma.15G14330
+6888999	GA12 biosynthesis	3847	Glyma.09G03400
+6888999	GA12 biosynthesis	3847	Glyma.13G44870
+6888962	TCA cycle (plant)	3847	Glyma.06G34190
+6888962	TCA cycle (plant)	3847	Glyma.01G36750
+6888962	TCA cycle (plant)	3847	Glyma.02G10470
+6888962	TCA cycle (plant)	3847	Glyma.07G36040
+6888962	TCA cycle (plant)	3847	Glyma.18G52430
+6888962	TCA cycle (plant)	3847	Glyma.01G38200
+6888962	TCA cycle (plant)	3847	Glyma.16G22640
+6888962	TCA cycle (plant)	3847	Glyma.10G04480
+6888962	TCA cycle (plant)	3847	Glyma.10G06590
+6888962	TCA cycle (plant)	3847	Glyma.20G23200
+6888962	TCA cycle (plant)	3847	Glyma.17G04210
+6888962	TCA cycle (plant)	3847	Glyma.10G02040
+6888962	TCA cycle (plant)	3847	Glyma.08G16770
+6888962	TCA cycle (plant)	3847	Glyma.11G08920
+6888962	TCA cycle (plant)	3847	Glyma.02G01920
+6888962	TCA cycle (plant)	3847	Glyma.16G33870
+6888962	TCA cycle (plant)	3847	Glyma.15G42301
+6888962	TCA cycle (plant)	3847	Glyma.13G20790
+6888962	TCA cycle (plant)	3847	Glyma.02G46200
+6888962	TCA cycle (plant)	3847	Glyma.02G04780
+6888962	TCA cycle (plant)	3847	Glyma.11G07250
+6888962	TCA cycle (plant)	3847	Glyma.12G19520
+6888962	TCA cycle (plant)	3847	Glyma.14G00500
+6888962	TCA cycle (plant)	3847	Glyma.11G08550
+6888962	TCA cycle (plant)	3847	Glyma.14G02530
+6888962	TCA cycle (plant)	3847	Glyma.09G29460
+6888962	TCA cycle (plant)	3847	Glyma.02G06400
+6888962	TCA cycle (plant)	3847	Glyma.13G18730
+6888962	TCA cycle (plant)	3847	Glyma.02G01930
+6888985	pantothenate biosynthesis II	3847	Glyma.11G04870
+6888985	pantothenate biosynthesis II	3847	Glyma.08G06773
+6888985	pantothenate biosynthesis II	3847	Glyma.07G06950
+6888985	pantothenate biosynthesis II	3847	Glyma.08G06766
+6888985	pantothenate biosynthesis II	3847	Glyma.07G30500
+6888985	pantothenate biosynthesis II	3847	Glyma.06G05280
+6888985	pantothenate biosynthesis II	3847	Glyma.01G40420
+6888985	pantothenate biosynthesis II	3847	Glyma.08G06751
+6888985	pantothenate biosynthesis II	3847	Glyma.07G30510
+6888985	pantothenate biosynthesis II	3847	Glyma.09G39030
+6888985	pantothenate biosynthesis II	3847	Glyma.04G05190
+6888985	pantothenate biosynthesis II	3847	Glyma.18G38038
+6888985	pantothenate biosynthesis II	3847	Glyma.18G47310
+6889123	coumarin biosynthesis (via 2-coumarate)	3847	Glyma.09G30910
+6889123	coumarin biosynthesis (via 2-coumarate)	3847	Glyma.07G11310
+6889057	glutathione redox reactions II	3847	Glyma.16G27210
+6889057	glutathione redox reactions II	3847	Glyma.02G16010
+6889057	glutathione redox reactions II	3847	Glyma.10G03740
+6889057	glutathione redox reactions II	3847	Glyma.02G08180
+6889067	cysteine biosynthesis I	3847	Glyma.16G22630
+6889067	cysteine biosynthesis I	3847	Glyma.02G04770
+6889067	cysteine biosynthesis I	3847	Glyma.01G36460
+6889067	cysteine biosynthesis I	3847	Glyma.16G03080
+6889067	cysteine biosynthesis I	3847	Glyma.07G06480
+6889067	cysteine biosynthesis I	3847	Glyma.03G40490
+6889067	cysteine biosynthesis I	3847	Glyma.02G15640
+6889067	cysteine biosynthesis I	3847	Glyma.19G43150
+6889067	cysteine biosynthesis I	3847	Glyma.10G39320
+6889067	cysteine biosynthesis I	3847	Glyma.20G28631
+6889067	cysteine biosynthesis I	3847	Glyma.11G00810
+6889067	cysteine biosynthesis I	3847	Glyma.11G08931
+6889067	cysteine biosynthesis I	3847	Glyma.07G32790
+6888990	arginine biosynthesis II (acetyl cycle)	3847	Glyma.05G34900
+6888990	arginine biosynthesis II (acetyl cycle)	3847	Glyma.06G10130
+6888990	arginine biosynthesis II (acetyl cycle)	3847	Glyma.07G13320
+6888990	arginine biosynthesis II (acetyl cycle)	3847	Glyma.08G04815
+6888990	arginine biosynthesis II (acetyl cycle)	3847	Glyma.04G03276
+6888990	arginine biosynthesis II (acetyl cycle)	3847	Glyma.20G28700
+6888990	arginine biosynthesis II (acetyl cycle)	3847	Glyma.17G13790
+6888990	arginine biosynthesis II (acetyl cycle)	3847	Glyma.20G01220
+6888990	arginine biosynthesis II (acetyl cycle)	3847	Glyma.06G07870
+6888990	arginine biosynthesis II (acetyl cycle)	3847	Glyma.04G07790
+6888990	arginine biosynthesis II (acetyl cycle)	3847	Glyma.05G03190
+6888990	arginine biosynthesis II (acetyl cycle)	3847	Glyma.10G40140
+6888990	arginine biosynthesis II (acetyl cycle)	3847	Glyma.05G03210
+6888990	arginine biosynthesis II (acetyl cycle)	3847	Glyma.07G29630
+6888990	arginine biosynthesis II (acetyl cycle)	3847	Glyma.06G03361
+6888990	arginine biosynthesis II (acetyl cycle)	3847	Glyma.04G10100
+6889103	medicarpin biosynthesis	3847	Glyma.01G37810
+6889103	medicarpin biosynthesis	3847	Glyma.11G07490
+6889103	medicarpin biosynthesis	3847	Glyma.11G07516
+6889103	medicarpin biosynthesis	3847	Glyma.11G07510
+6889103	medicarpin biosynthesis	3847	Glyma.01G37820
+6889103	medicarpin biosynthesis	3847	Glyma.11G07496
+6889103	medicarpin biosynthesis	3847	Glyma.1454S00200
+6889103	medicarpin biosynthesis	3847	Glyma.01G37850
+6889103	medicarpin biosynthesis	3847	Glyma.01G37840
+6889022	stachyose biosynthesis	3847	Glyma.19G40680
+6889022	stachyose biosynthesis	3847	Glyma.20G22700
+6889022	stachyose biosynthesis	3847	Glyma.03G38080
+6889022	stachyose biosynthesis	3847	Glyma.03G29440
+6889022	stachyose biosynthesis	3847	Glyma.03G38910
+6889022	stachyose biosynthesis	3847	Glyma.19G41550
+6889022	stachyose biosynthesis	3847	Glyma.10G28610
+6889051	wighteone and luteone biosynthesis	3847	Glyma.09G01820
+6889051	wighteone and luteone biosynthesis	3847	Glyma.20G11177
+6889051	wighteone and luteone biosynthesis	3847	Glyma.15G12780
+6889019	chorismate biosynthesis	3847	Glyma.17G16110
+6889019	chorismate biosynthesis	3847	Glyma.10G35560
+6889019	chorismate biosynthesis	3847	Glyma.14G36410
+6889019	chorismate biosynthesis	3847	Glyma.08G14980
+6889019	chorismate biosynthesis	3847	Glyma.11G04240
+6889019	chorismate biosynthesis	3847	Glyma.05G05780
+6889019	chorismate biosynthesis	3847	Glyma.05G31730
+6889019	chorismate biosynthesis	3847	Glyma.01G01890
+6889019	chorismate biosynthesis	3847	Glyma.06G10670
+6889019	chorismate biosynthesis	3847	Glyma.14G35370
+6889019	chorismate biosynthesis	3847	Glyma.15G06020
+6889019	chorismate biosynthesis	3847	Glyma.20G31980
+6889019	chorismate biosynthesis	3847	Glyma.11G08350
+6889019	chorismate biosynthesis	3847	Glyma.20G37400
+6889019	chorismate biosynthesis	3847	Glyma.01G20760
+6889019	chorismate biosynthesis	3847	Glyma.01G33660
+6889019	chorismate biosynthesis	3847	Glyma.03G03190
+6889019	chorismate biosynthesis	3847	Glyma.04G39700
+6889019	chorismate biosynthesis	3847	Glyma.16G27060
+6889019	chorismate biosynthesis	3847	Glyma.01G41180
+6889019	chorismate biosynthesis	3847	Glyma.06G15160
+6889019	chorismate biosynthesis	3847	Glyma.0022S00200
+6889019	chorismate biosynthesis	3847	Glyma.02G37080
+6889019	chorismate biosynthesis	3847	Glyma.01G36890
+6889019	chorismate biosynthesis	3847	Glyma.02G08050
+6889019	chorismate biosynthesis	3847	Glyma.10G29970
+6888972	folate polyglutamylation I	3847	Glyma.14G07100
+6888972	folate polyglutamylation I	3847	Glyma.08G37270
+6888972	folate polyglutamylation I	3847	Glyma.18G27710
+6888972	folate polyglutamylation I	3847	Glyma.16G26210
+6888972	folate polyglutamylation I	3847	Glyma.02G07250
+6888972	folate polyglutamylation I	3847	Glyma.08G20050
+6888972	folate polyglutamylation I	3847	Glyma.12G29171
+6888972	folate polyglutamylation I	3847	Glyma.05G37740
+6888972	folate polyglutamylation I	3847	Glyma.06G11300
+6888972	folate polyglutamylation I	3847	Glyma.04G43360
+6888972	folate polyglutamylation I	3847	Glyma.08G01850
+6888972	folate polyglutamylation I	3847	Glyma.05G28490
+6888972	folate polyglutamylation I	3847	Glyma.02G41870
+6888972	folate polyglutamylation I	3847	Glyma.10G13840
+6888972	folate polyglutamylation I	3847	Glyma.18G03820
+6888972	folate polyglutamylation I	3847	Glyma.20G38740
+6888972	folate polyglutamylation I	3847	Glyma.09G33480
+6888972	folate polyglutamylation I	3847	Glyma.10G44010
+6888972	folate polyglutamylation I	3847	Glyma.08G11490
+6888984	pantothenate biosynthesis I	3847	Glyma.11G04870
+6888984	pantothenate biosynthesis I	3847	Glyma.08G06773
+6888984	pantothenate biosynthesis I	3847	Glyma.07G06950
+6888984	pantothenate biosynthesis I	3847	Glyma.08G06766
+6888984	pantothenate biosynthesis I	3847	Glyma.07G30500
+6888984	pantothenate biosynthesis I	3847	Glyma.06G05280
+6888984	pantothenate biosynthesis I	3847	Glyma.01G40420
+6888984	pantothenate biosynthesis I	3847	Glyma.08G06751
+6888984	pantothenate biosynthesis I	3847	Glyma.07G30510
+6888984	pantothenate biosynthesis I	3847	Glyma.09G39030
+6888984	pantothenate biosynthesis I	3847	Glyma.04G05190
+6888984	pantothenate biosynthesis I	3847	Glyma.18G38038
+6888984	pantothenate biosynthesis I	3847	Glyma.18G47310
+6888992	phenylpropanoid biosynthesis	3847	Glyma.11G09710
+6888992	phenylpropanoid biosynthesis	3847	Glyma.13G33830
+6888992	phenylpropanoid biosynthesis	3847	Glyma.12G08460
+6888992	phenylpropanoid biosynthesis	3847	Glyma.02G11530
+6888992	phenylpropanoid biosynthesis	3847	Glyma.01G01350
+6888992	phenylpropanoid biosynthesis	3847	Glyma.09G31820
+6888992	phenylpropanoid biosynthesis	3847	Glyma.03G27740
+6888992	phenylpropanoid biosynthesis	3847	Glyma.11G05800
+6888992	phenylpropanoid biosynthesis	3847	Glyma.10G40870
+6888992	phenylpropanoid biosynthesis	3847	Glyma.08G14880
+6888992	phenylpropanoid biosynthesis	3847	Glyma.13G44700
+6888992	phenylpropanoid biosynthesis	3847	Glyma.19G30600
+6888992	phenylpropanoid biosynthesis	3847	Glyma.07G02690
+6888992	phenylpropanoid biosynthesis	3847	Glyma.07G09900
+6888992	phenylpropanoid biosynthesis	3847	Glyma.07G09970
+6888992	phenylpropanoid biosynthesis	3847	Glyma.09G31840
+6888992	phenylpropanoid biosynthesis	3847	Glyma.14G39840
+6888992	phenylpropanoid biosynthesis	3847	Glyma.08G14890
+6888992	phenylpropanoid biosynthesis	3847	Glyma.08G23310
+6888992	phenylpropanoid biosynthesis	3847	Glyma.20G26440
+6888992	phenylpropanoid biosynthesis	3847	Glyma.15G00490
+6888992	phenylpropanoid biosynthesis	3847	Glyma.13G44950
+6888992	phenylpropanoid biosynthesis	3847	Glyma.17G07190
+6888992	phenylpropanoid biosynthesis	3847	Glyma.09G31810
+6888992	phenylpropanoid biosynthesis	3847	Glyma.06G18030
+6888992	phenylpropanoid biosynthesis	3847	Glyma.17G07170
+6888992	phenylpropanoid biosynthesis	3847	Glyma.11G20020
+6888992	phenylpropanoid biosynthesis	3847	Glyma.05G35200
+6888992	phenylpropanoid biosynthesis	3847	Glyma.17G07180
+6888992	phenylpropanoid biosynthesis	3847	Glyma.16G24341
+6888992	phenylpropanoid biosynthesis	3847	Glyma.09G31850
+6888992	phenylpropanoid biosynthesis	3847	Glyma.13G44830
+6888992	phenylpropanoid biosynthesis	3847	Glyma.19G02150
+6888992	phenylpropanoid biosynthesis	3847	Glyma.01G44270
+6888992	phenylpropanoid biosynthesis	3847	Glyma.15G00390
+6888992	phenylpropanoid biosynthesis	3847	Glyma.01G37430
+6888992	phenylpropanoid biosynthesis	3847	Glyma.07G33780
+6888992	phenylpropanoid biosynthesis	3847	Glyma.15G00600
+6888992	phenylpropanoid biosynthesis	3847	Glyma.17G18800
+6888992	phenylpropanoid biosynthesis	3847	Glyma.01G39460
+6888992	phenylpropanoid biosynthesis	3847	Glyma.07G02460
+6888992	phenylpropanoid biosynthesis	3847	Glyma.05G31650
+6888992	phenylpropanoid biosynthesis	3847	Glyma.04G36950
+6888992	phenylpropanoid biosynthesis	3847	Glyma.13G39770
+6888992	phenylpropanoid biosynthesis	3847	Glyma.08G23560
+6888992	phenylpropanoid biosynthesis	3847	Glyma.09G34431
+6888992	phenylpropanoid biosynthesis	3847	Glyma.13G01080
+6888992	phenylpropanoid biosynthesis	3847	Glyma.07G09960
+6888992	phenylpropanoid biosynthesis	3847	Glyma.11G01240
+6888992	phenylpropanoid biosynthesis	3847	Glyma.08G14900
+6888992	phenylpropanoid biosynthesis	3847	Glyma.15G38540
+6888992	phenylpropanoid biosynthesis	3847	Glyma.11G07850

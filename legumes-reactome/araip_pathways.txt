@@ -1,0 +1,1055 @@
+6855764	anthocyanin biosynthesis (pelargonidin 3-O-glucoside, cyanidin 3-O-glucoside)	130454	Araip.N0Z6R
+6855716	TCA cycle (plant)	130454	Araip.M6J1J
+6855716	TCA cycle (plant)	130454	Araip.R1DVQ
+6855716	TCA cycle (plant)	130454	Araip.HX4H1
+6855716	TCA cycle (plant)	130454	Araip.AT3TF
+6855716	TCA cycle (plant)	130454	Araip.0W7EI
+6855716	TCA cycle (plant)	130454	Araip.E7852
+6855716	TCA cycle (plant)	130454	Araip.3J27X
+6855716	TCA cycle (plant)	130454	Araip.Q71DN
+6855716	TCA cycle (plant)	130454	Araip.1K60N
+6855716	TCA cycle (plant)	130454	Araip.U9LFD
+6855716	TCA cycle (plant)	130454	Araip.A0TQ5
+6855716	TCA cycle (plant)	130454	Araip.RM8Z7
+6855716	TCA cycle (plant)	130454	Araip.XFW1X
+6855716	TCA cycle (plant)	130454	Araip.Q07WN
+6855716	TCA cycle (plant)	130454	Araip.N59F9
+6855716	TCA cycle (plant)	130454	Araip.YIM92
+6855716	TCA cycle (plant)	130454	Araip.E335X
+6855716	TCA cycle (plant)	130454	Araip.ZJ1TJ
+6855716	TCA cycle (plant)	130454	Araip.DC1Z1
+6855716	TCA cycle (plant)	130454	Araip.67ZY4
+6855750	sulfate activation for sulfonation	130454	Araip.J63ZS
+6855753	cholesterol biosynthesis I	130454	Araip.Q799J
+6855753	cholesterol biosynthesis I	130454	Araip.23LJ8
+6855753	cholesterol biosynthesis I	130454	Araip.GT0MC
+6855753	cholesterol biosynthesis I	130454	Araip.MPH2C
+6855753	cholesterol biosynthesis I	130454	Araip.QBI8Q
+6855850	PRPP biosynthesis I	130454	Araip.H0E72
+6855850	PRPP biosynthesis I	130454	Araip.X4PFH
+6855850	PRPP biosynthesis I	130454	Araip.8QP1N
+6855850	PRPP biosynthesis I	130454	Araip.24XA5
+6855831	linear furanocoumarin biosynthesis	130454	Araip.7H6FH
+6855831	linear furanocoumarin biosynthesis	130454	Araip.QA4T6
+6855831	linear furanocoumarin biosynthesis	130454	Araip.M3EG0
+6855831	linear furanocoumarin biosynthesis	130454	Araip.9U7K5
+6855882	resveratrol biosynthesis	130454	Araip.JD11C
+6855774	CMP-KDO biosynthesis II (from D-arabinose 5-phosphate)	130454	Araip.JTN8C
+6855774	CMP-KDO biosynthesis II (from D-arabinose 5-phosphate)	130454	Araip.SR92D
+6855774	CMP-KDO biosynthesis II (from D-arabinose 5-phosphate)	130454	Araip.4XH4K
+6855889	Calvin cycle	130454	Araip.50KT8
+6855889	Calvin cycle	130454	Araip.X8GX1
+6855889	Calvin cycle	130454	Araip.AR1NP
+6855889	Calvin cycle	130454	Araip.QYZ6U
+6855889	Calvin cycle	130454	Araip.805EH
+6855889	Calvin cycle	130454	Araip.D7597
+6855889	Calvin cycle	130454	Araip.J7KW7
+6855889	Calvin cycle	130454	Araip.XS0WA
+6855889	Calvin cycle	130454	Araip.5H15X
+6855889	Calvin cycle	130454	Araip.116MM
+6855889	Calvin cycle	130454	Araip.GTW9X
+6855889	Calvin cycle	130454	Araip.4E8PI
+6855889	Calvin cycle	130454	Araip.P5P82
+6855889	Calvin cycle	130454	Araip.U6VQA
+6855889	Calvin cycle	130454	Araip.8L7QK
+6855889	Calvin cycle	130454	Araip.6H8MY
+6855889	Calvin cycle	130454	Araip.P4F2X
+6855889	Calvin cycle	130454	Araip.F5HRN
+6855889	Calvin cycle	130454	Araip.Q1PLZ
+6855863	medicarpin biosynthesis	130454	Araip.J1HT6
+6855897	Brassinosteroid signaling	130454	Araip.SI5FX
+6855897	Brassinosteroid signaling	130454	Araip.P87L9
+6855897	Brassinosteroid signaling	130454	Araip.UAK9J
+6855897	Brassinosteroid signaling	130454	Araip.43XHM
+6855897	Brassinosteroid signaling	130454	Araip.FB29M
+6855897	Brassinosteroid signaling	130454	Araip.I1NK2
+6855897	Brassinosteroid signaling	130454	Araip.DRA2Q
+6855897	Brassinosteroid signaling	130454	Araip.6G3IU
+6855897	Brassinosteroid signaling	130454	Araip.U6ER1
+6855897	Brassinosteroid signaling	130454	Araip.VD0Z2
+6855897	Brassinosteroid signaling	130454	Araip.JKM82
+6855897	Brassinosteroid signaling	130454	Araip.QBG6Y
+6855897	Brassinosteroid signaling	130454	Araip.K9ABC
+6855897	Brassinosteroid signaling	130454	Araip.VES4J
+6855897	Brassinosteroid signaling	130454	Araip.35C4F
+6855897	Brassinosteroid signaling	130454	Araip.Z6T03
+6855897	Brassinosteroid signaling	130454	Araip.42MZK
+6855897	Brassinosteroid signaling	130454	Araip.RF30U
+6855897	Brassinosteroid signaling	130454	Araip.3FA1A
+6855897	Brassinosteroid signaling	130454	Araip.WT200
+6855888	tetrapyrrole biosynthesis I	130454	Araip.W01F9
+6855888	tetrapyrrole biosynthesis I	130454	Araip.UF36S
+6855888	tetrapyrrole biosynthesis I	130454	Araip.S6NXI
+6855888	tetrapyrrole biosynthesis I	130454	Araip.78UAV
+6855888	tetrapyrrole biosynthesis I	130454	Araip.Q2NMF
+6855770	pyridoxamine anabolism	130454	Araip.L1JCR
+6855744	arginine biosynthesis I	130454	Araip.E629F
+6855744	arginine biosynthesis I	130454	Araip.G8H3T
+6855744	arginine biosynthesis I	130454	Araip.K7ZDH
+6855744	arginine biosynthesis I	130454	Araip.63HA5
+6855744	arginine biosynthesis I	130454	Araip.M7YXX
+6855744	arginine biosynthesis I	130454	Araip.ZW9IU
+6855744	arginine biosynthesis I	130454	Araip.XE7B2
+6855744	arginine biosynthesis I	130454	Araip.0WM4W
+6855744	arginine biosynthesis I	130454	Araip.BK8GH
+6855744	arginine biosynthesis I	130454	Araip.C1RZ2
+6855744	arginine biosynthesis I	130454	Araip.B0R7Q
+6855744	arginine biosynthesis I	130454	Araip.B6F4A
+6855855	anthocyanin biosynthesis (delphinidin 3-O-glucoside)	130454	Araip.N0Z6R
+6855869	hydroxycinnamic acid serotonin amides biosynthesis	130454	Araip.23I46
+6855869	hydroxycinnamic acid serotonin amides biosynthesis	130454	Araip.WJ7SC
+6855869	hydroxycinnamic acid serotonin amides biosynthesis	130454	Araip.HFE2S
+6855869	hydroxycinnamic acid serotonin amides biosynthesis	130454	Araip.13H0V
+6855869	hydroxycinnamic acid serotonin amides biosynthesis	130454	Araip.EI53N
+6855869	hydroxycinnamic acid serotonin amides biosynthesis	130454	Araip.50B5X
+6855869	hydroxycinnamic acid serotonin amides biosynthesis	130454	Araip.88UBN
+6855869	hydroxycinnamic acid serotonin amides biosynthesis	130454	Araip.3F7K7
+6855869	hydroxycinnamic acid serotonin amides biosynthesis	130454	Araip.XWP57
+6855869	hydroxycinnamic acid serotonin amides biosynthesis	130454	Araip.VSW8B
+6855788	starch biosynthesis	130454	Araip.4DN6E
+6855788	starch biosynthesis	130454	Araip.HYG6U
+6855788	starch biosynthesis	130454	Araip.V2S44
+6855788	starch biosynthesis	130454	Araip.MIM63
+6855788	starch biosynthesis	130454	Araip.E514L
+6855788	starch biosynthesis	130454	Araip.7C4C2
+6855788	starch biosynthesis	130454	Araip.T0LEM
+6855788	starch biosynthesis	130454	Araip.EDV8G
+6855788	starch biosynthesis	130454	Araip.59R5M
+6855788	starch biosynthesis	130454	Araip.DDD6V
+6855788	starch biosynthesis	130454	Araip.7YZ85
+6855788	starch biosynthesis	130454	Araip.V919Q
+6855788	starch biosynthesis	130454	Araip.KM2FA
+6855788	starch biosynthesis	130454	Araip.AJZ7U
+6855788	starch biosynthesis	130454	Araip.H7WTN
+6855788	starch biosynthesis	130454	Araip.2D5JR
+6855788	starch biosynthesis	130454	Araip.68K5U
+6855788	starch biosynthesis	130454	Araip.13N2J
+6855788	starch biosynthesis	130454	Araip.HIE89
+6855777	chorismate biosynthesis	130454	Araip.7EN7C
+6855777	chorismate biosynthesis	130454	Araip.F3CZ0
+6855777	chorismate biosynthesis	130454	Araip.8NJ16
+6855777	chorismate biosynthesis	130454	Araip.4I954
+6855777	chorismate biosynthesis	130454	Araip.S4QWE
+6855777	chorismate biosynthesis	130454	Araip.J07QT
+6855777	chorismate biosynthesis	130454	Araip.6K5T9
+6855777	chorismate biosynthesis	130454	Araip.VW2EE
+6855777	chorismate biosynthesis	130454	Araip.UM5IV
+6855777	chorismate biosynthesis	130454	Araip.NQ67T
+6855777	chorismate biosynthesis	130454	Araip.6T3P4
+6855777	chorismate biosynthesis	130454	Araip.JL1D7
+6855777	chorismate biosynthesis	130454	Araip.RVT5N
+6855777	chorismate biosynthesis	130454	Araip.0C8X4
+6855777	chorismate biosynthesis	130454	Araip.AMY2F
+6855724	tetrahydrofolate biosynthesis II	130454	Araip.NG6WE
+6855724	tetrahydrofolate biosynthesis II	130454	Araip.E433Y
+6855724	tetrahydrofolate biosynthesis II	130454	Araip.K4IN7
+6855724	tetrahydrofolate biosynthesis II	130454	Araip.Z58EI
+6855724	tetrahydrofolate biosynthesis II	130454	Araip.9Q4GB
+6855724	tetrahydrofolate biosynthesis II	130454	Araip.Y68AR
+6855724	tetrahydrofolate biosynthesis II	130454	Araip.Z52VV
+6855724	tetrahydrofolate biosynthesis II	130454	Araip.GEE0K
+6855724	tetrahydrofolate biosynthesis II	130454	Araip.253WZ
+6855724	tetrahydrofolate biosynthesis II	130454	Araip.5KD05
+6855724	tetrahydrofolate biosynthesis II	130454	Araip.15P00
+6855724	tetrahydrofolate biosynthesis II	130454	Araip.Y9DNT
+6855724	tetrahydrofolate biosynthesis II	130454	Araip.YA1SW
+6855724	tetrahydrofolate biosynthesis II	130454	Araip.E0UG7
+6855724	tetrahydrofolate biosynthesis II	130454	Araip.13HHI
+6855724	tetrahydrofolate biosynthesis II	130454	Araip.L03GB
+6855840	divinyl ether biosynthesis II (13-LOX)	130454	Araip.VN0A4
+6855840	divinyl ether biosynthesis II (13-LOX)	130454	Araip.HGI2J
+6855840	divinyl ether biosynthesis II (13-LOX)	130454	Araip.D6PZJ
+6855885	Abscisic acid (ABA) mediated signaling	130454	Araip.0P7QZ
+6855885	Abscisic acid (ABA) mediated signaling	130454	Araip.M1IPR
+6855885	Abscisic acid (ABA) mediated signaling	130454	Araip.CC2EP
+6855885	Abscisic acid (ABA) mediated signaling	130454	Araip.99UDU
+6855885	Abscisic acid (ABA) mediated signaling	130454	Araip.3SL7S
+6855885	Abscisic acid (ABA) mediated signaling	130454	Araip.T1IDG
+6855885	Abscisic acid (ABA) mediated signaling	130454	Araip.1D5WV
+6855885	Abscisic acid (ABA) mediated signaling	130454	Araip.D69IY
+6855885	Abscisic acid (ABA) mediated signaling	130454	Araip.V41H0
+6855885	Abscisic acid (ABA) mediated signaling	130454	Araip.WGR7G
+6855885	Abscisic acid (ABA) mediated signaling	130454	Araip.TF5MZ
+6855734	13-LOX and 13-HPL pathway	130454	Araip.VN0A4
+6855734	13-LOX and 13-HPL pathway	130454	Araip.HGI2J
+6855734	13-LOX and 13-HPL pathway	130454	Araip.D6PZJ
+6855870	pyridoxal 5'-phosphate biosynthesis	130454	Araip.NL7BI
+6855870	pyridoxal 5'-phosphate biosynthesis	130454	Araip.337EV
+6855870	pyridoxal 5'-phosphate biosynthesis	130454	Araip.CW1SE
+6855870	pyridoxal 5'-phosphate biosynthesis	130454	Araip.TG88C
+6855727	alanine biosynthesis II	130454	Araip.93XAK
+6855727	alanine biosynthesis II	130454	Araip.10SVB
+6855727	alanine biosynthesis II	130454	Araip.WHJ1H
+6855727	alanine biosynthesis II	130454	Araip.99IZA
+6855727	alanine biosynthesis II	130454	Araip.0Y594
+6855727	alanine biosynthesis II	130454	Araip.PIE3L
+6855773	biotin biosynthesis II	130454	Araip.41W37
+6855773	biotin biosynthesis II	130454	Araip.WEU8D
+6855773	biotin biosynthesis II	130454	Araip.CG0SE
+6855773	biotin biosynthesis II	130454	Araip.1AP9K
+6855773	biotin biosynthesis II	130454	Araip.0WM4W
+6855773	biotin biosynthesis II	130454	Araip.HIG4P
+6855773	biotin biosynthesis II	130454	Araip.58Y3G
+6855773	biotin biosynthesis II	130454	Araip.U7YWR
+6855773	biotin biosynthesis II	130454	Araip.UB685
+6855833	ethylene biosynthesis from methionine	130454	Araip.2S9Y0
+6855833	ethylene biosynthesis from methionine	130454	Araip.ATI1Y
+6855833	ethylene biosynthesis from methionine	130454	Araip.57AWT
+6855833	ethylene biosynthesis from methionine	130454	Araip.XJS45
+6855833	ethylene biosynthesis from methionine	130454	Araip.JB6HG
+6855833	ethylene biosynthesis from methionine	130454	Araip.P6KBN
+6855833	ethylene biosynthesis from methionine	130454	Araip.R525U
+6855833	ethylene biosynthesis from methionine	130454	Araip.FB4F0
+6855833	ethylene biosynthesis from methionine	130454	Araip.WCF75
+6855821	ent-kaurene biosynthesis	130454	Araip.GIQ9Q
+6855821	ent-kaurene biosynthesis	130454	Araip.H9S11
+6855821	ent-kaurene biosynthesis	130454	Araip.D6V1K
+6855821	ent-kaurene biosynthesis	130454	Araip.7D7PZ
+6855821	ent-kaurene biosynthesis	130454	Araip.TYV7G
+6855864	IAA conjugate biosynthesis I	130454	Araip.JFJ1E
+6855864	IAA conjugate biosynthesis I	130454	Araip.PJ8WT
+6855864	IAA conjugate biosynthesis I	130454	Araip.M83DH
+6855864	IAA conjugate biosynthesis I	130454	Araip.LUT50
+6855791	homoserine biosynthesis	130454	Araip.LJ1YI
+6855791	homoserine biosynthesis	130454	Araip.M7YXX
+6855791	homoserine biosynthesis	130454	Araip.2L6KD
+6855791	homoserine biosynthesis	130454	Araip.J6CZK
+6855791	homoserine biosynthesis	130454	Araip.CAI3H
+6855749	mevalonate pathway	130454	Araip.D721W
+6855749	mevalonate pathway	130454	Araip.UMN58
+6855749	mevalonate pathway	130454	Araip.YUE7J
+6855749	mevalonate pathway	130454	Araip.BM7DX
+6855749	mevalonate pathway	130454	Araip.60EAB
+6855749	mevalonate pathway	130454	Araip.ET47Y
+6855749	mevalonate pathway	130454	Araip.2PB8F
+6855749	mevalonate pathway	130454	Araip.SNW0B
+6855803	geranyldiphosphate biosynthesis	130454	Araip.635QE
+6855803	geranyldiphosphate biosynthesis	130454	Araip.5G2GL
+6855778	brassinosteroid biosynthesis II	130454	Araip.JI3K3
+6855778	brassinosteroid biosynthesis II	130454	Araip.T6L7D
+6855778	brassinosteroid biosynthesis II	130454	Araip.DJ3SV
+6855778	brassinosteroid biosynthesis II	130454	Araip.9KL4T
+6855778	brassinosteroid biosynthesis II	130454	Araip.RZ9J2
+6855778	brassinosteroid biosynthesis II	130454	Araip.22S19
+6855778	brassinosteroid biosynthesis II	130454	Araip.LYL3L
+6855778	brassinosteroid biosynthesis II	130454	Araip.55EZJ
+6855862	lipid-A-precursor biosynthesis	130454	Araip.L6WEG
+6855862	lipid-A-precursor biosynthesis	130454	Araip.Z3RIJ
+6855854	phenylpropanoid biosynthesis, initial reactions	130454	Araip.69J63
+6855854	phenylpropanoid biosynthesis, initial reactions	130454	Araip.P78H4
+6855854	phenylpropanoid biosynthesis, initial reactions	130454	Araip.JY2CI
+6855854	phenylpropanoid biosynthesis, initial reactions	130454	Araip.M5K02
+6855800	proline biosynthesis V (from arginine)	130454	Araip.68NP6
+6855800	proline biosynthesis V (from arginine)	130454	Araip.0WM4W
+6855800	proline biosynthesis V (from arginine)	130454	Araip.C1RZ2
+6855800	proline biosynthesis V (from arginine)	130454	Araip.4U8SK
+6855875	chlorophyll a biosynthesis I	130454	Araip.HLE2J
+6855726	folate polyglutamylation I	130454	Araip.Y68AR
+6855726	folate polyglutamylation I	130454	Araip.Z52VV
+6855726	folate polyglutamylation I	130454	Araip.15P00
+6855726	folate polyglutamylation I	130454	Araip.9M15N
+6855726	folate polyglutamylation I	130454	Araip.58Y3G
+6855726	folate polyglutamylation I	130454	Araip.JTL29
+6855726	folate polyglutamylation I	130454	Araip.XPK3R
+6855726	folate polyglutamylation I	130454	Araip.UF6J5
+6855726	folate polyglutamylation I	130454	Araip.L03GB
+6855787	sucrose biosynthesis	130454	Araip.PGB0K
+6855787	sucrose biosynthesis	130454	Araip.E514L
+6855787	sucrose biosynthesis	130454	Araip.3BD5B
+6855787	sucrose biosynthesis	130454	Araip.KW9RM
+6855787	sucrose biosynthesis	130454	Araip.7C4C2
+6855787	sucrose biosynthesis	130454	Araip.TIT4D
+6855787	sucrose biosynthesis	130454	Araip.GD7TV
+6855787	sucrose biosynthesis	130454	Araip.NV5LW
+6855787	sucrose biosynthesis	130454	Araip.51VQE
+6855787	sucrose biosynthesis	130454	Araip.V919Q
+6855895	lysine biosynthesis VI	130454	Araip.NZ168
+6855895	lysine biosynthesis VI	130454	Araip.CD8S3
+6855895	lysine biosynthesis VI	130454	Araip.MD8TF
+6855895	lysine biosynthesis VI	130454	Araip.VD7Y0
+6855895	lysine biosynthesis VI	130454	Araip.2L6KD
+6855895	lysine biosynthesis VI	130454	Araip.J6CZK
+6855895	lysine biosynthesis VI	130454	Araip.CAI3H
+6855895	lysine biosynthesis VI	130454	Araip.RZ21P
+6855895	lysine biosynthesis VI	130454	Araip.Q5FBC
+6855895	lysine biosynthesis VI	130454	Araip.V3FK8
+6855895	lysine biosynthesis VI	130454	Araip.C4FV5
+6855805	pantothenate and coenzyme A biosynthesis III	130454	Araip.W4AEV
+6855805	pantothenate and coenzyme A biosynthesis III	130454	Araip.H80JU
+6855805	pantothenate and coenzyme A biosynthesis III	130454	Araip.62P0G
+6855805	pantothenate and coenzyme A biosynthesis III	130454	Araip.PUJ2N
+6855805	pantothenate and coenzyme A biosynthesis III	130454	Araip.PF5AP
+6855805	pantothenate and coenzyme A biosynthesis III	130454	Araip.48ZZE
+6855805	pantothenate and coenzyme A biosynthesis III	130454	Araip.0PA69
+6855805	pantothenate and coenzyme A biosynthesis III	130454	Araip.LL05Y
+6855805	pantothenate and coenzyme A biosynthesis III	130454	Araip.9T22U
+6855805	pantothenate and coenzyme A biosynthesis III	130454	Araip.4MM7Y
+6855805	pantothenate and coenzyme A biosynthesis III	130454	Araip.46VK5
+6855805	pantothenate and coenzyme A biosynthesis III	130454	Araip.ETX4A
+6855805	pantothenate and coenzyme A biosynthesis III	130454	Araip.ZB1UD
+6855805	pantothenate and coenzyme A biosynthesis III	130454	Araip.X3HIQ
+6855805	pantothenate and coenzyme A biosynthesis III	130454	Araip.WE8XB
+6855805	pantothenate and coenzyme A biosynthesis III	130454	Araip.BLM48
+6855805	pantothenate and coenzyme A biosynthesis III	130454	Araip.U68SV
+6855805	pantothenate and coenzyme A biosynthesis III	130454	Araip.9CV7D
+6855805	pantothenate and coenzyme A biosynthesis III	130454	Araip.V1SDX
+6855805	pantothenate and coenzyme A biosynthesis III	130454	Araip.JS4GC
+6855805	pantothenate and coenzyme A biosynthesis III	130454	Araip.15PP1
+6855805	pantothenate and coenzyme A biosynthesis III	130454	Araip.BQ69A
+6855805	pantothenate and coenzyme A biosynthesis III	130454	Araip.B68IR
+6855805	pantothenate and coenzyme A biosynthesis III	130454	Araip.WHD06
+6855805	pantothenate and coenzyme A biosynthesis III	130454	Araip.D014N
+6855805	pantothenate and coenzyme A biosynthesis III	130454	Araip.LEK47
+6855805	pantothenate and coenzyme A biosynthesis III	130454	Araip.E5HIA
+6855805	pantothenate and coenzyme A biosynthesis III	130454	Araip.Q37BC
+6855805	pantothenate and coenzyme A biosynthesis III	130454	Araip.PC2P2
+6855805	pantothenate and coenzyme A biosynthesis III	130454	Araip.F7L5Y
+6855805	pantothenate and coenzyme A biosynthesis III	130454	Araip.A7SD4
+6855805	pantothenate and coenzyme A biosynthesis III	130454	Araip.39B00
+6855805	pantothenate and coenzyme A biosynthesis III	130454	Araip.M7ZAE
+6855805	pantothenate and coenzyme A biosynthesis III	130454	Araip.QUS0K
+6855805	pantothenate and coenzyme A biosynthesis III	130454	Araip.JB7TM
+6855805	pantothenate and coenzyme A biosynthesis III	130454	Araip.X8ITF
+6855805	pantothenate and coenzyme A biosynthesis III	130454	Araip.9RR7M
+6855805	pantothenate and coenzyme A biosynthesis III	130454	Araip.YEU0M
+6855805	pantothenate and coenzyme A biosynthesis III	130454	Araip.SZB84
+6855805	pantothenate and coenzyme A biosynthesis III	130454	Araip.K29C9
+6855805	pantothenate and coenzyme A biosynthesis III	130454	Araip.09GTQ
+6855805	pantothenate and coenzyme A biosynthesis III	130454	Araip.Z24R2
+6855805	pantothenate and coenzyme A biosynthesis III	130454	Araip.5GJ94
+6855805	pantothenate and coenzyme A biosynthesis III	130454	Araip.DI07C
+6855805	pantothenate and coenzyme A biosynthesis III	130454	Araip.4J5ZZ
+6855805	pantothenate and coenzyme A biosynthesis III	130454	Araip.ST9EM
+6855805	pantothenate and coenzyme A biosynthesis III	130454	Araip.P948U
+6855805	pantothenate and coenzyme A biosynthesis III	130454	Araip.SS8AF
+6855805	pantothenate and coenzyme A biosynthesis III	130454	Araip.AP696
+6855805	pantothenate and coenzyme A biosynthesis III	130454	Araip.G2HZA
+6855805	pantothenate and coenzyme A biosynthesis III	130454	Araip.XP634
+6855805	pantothenate and coenzyme A biosynthesis III	130454	Araip.2DK1S
+6855805	pantothenate and coenzyme A biosynthesis III	130454	Araip.5C6NC
+6855805	pantothenate and coenzyme A biosynthesis III	130454	Araip.X8LEZ
+6855805	pantothenate and coenzyme A biosynthesis III	130454	Araip.F95U7
+6855805	pantothenate and coenzyme A biosynthesis III	130454	Araip.136VL
+6855805	pantothenate and coenzyme A biosynthesis III	130454	Araip.RP235
+6855805	pantothenate and coenzyme A biosynthesis III	130454	Araip.ZB9EL
+6855805	pantothenate and coenzyme A biosynthesis III	130454	Araip.BL29K
+6855805	pantothenate and coenzyme A biosynthesis III	130454	Araip.1V6E1
+6855805	pantothenate and coenzyme A biosynthesis III	130454	Araip.4P920
+6855805	pantothenate and coenzyme A biosynthesis III	130454	Araip.02Z8U
+6855805	pantothenate and coenzyme A biosynthesis III	130454	Araip.QL6CF
+6855805	pantothenate and coenzyme A biosynthesis III	130454	Araip.LA828
+6855805	pantothenate and coenzyme A biosynthesis III	130454	Araip.3M49X
+6855805	pantothenate and coenzyme A biosynthesis III	130454	Araip.4J570
+6855805	pantothenate and coenzyme A biosynthesis III	130454	Araip.G76CQ
+6855805	pantothenate and coenzyme A biosynthesis III	130454	Araip.24K8H
+6855805	pantothenate and coenzyme A biosynthesis III	130454	Araip.85R0G
+6855837	asparagine biosynthesis III	130454	Araip.R6G70
+6855837	asparagine biosynthesis III	130454	Araip.2V2W4
+6855837	asparagine biosynthesis III	130454	Araip.NB6VC
+6855837	asparagine biosynthesis III	130454	Araip.0A9XP
+6855801	UDP-D-glucuronate biosynthesis (from myo-inositol)	130454	Araip.G989A
+6855801	UDP-D-glucuronate biosynthesis (from myo-inositol)	130454	Araip.RX4DL
+6855801	UDP-D-glucuronate biosynthesis (from myo-inositol)	130454	Araip.4P4HG
+6855807	proline biosynthesis I	130454	Araip.68NP6
+6855807	proline biosynthesis I	130454	Araip.AZ4G5
+6855807	proline biosynthesis I	130454	Araip.SH7ZE
+6855807	proline biosynthesis I	130454	Araip.89D00
+6855877	homocysteine biosynthesis	130454	Araip.G56Y8
+6855844	acyl-CoA synthetase pathway	130454	Araip.L85CE
+6855844	acyl-CoA synthetase pathway	130454	Araip.3X7VM
+6855899	UDP-D-apiose biosynthesis	130454	Araip.4U0UR
+6855899	UDP-D-apiose biosynthesis	130454	Araip.KVY6T
+6855771	pyridoxal 5'-phosphate salvage pathway	130454	Araip.L1JCR
+6855771	pyridoxal 5'-phosphate salvage pathway	130454	Araip.CW1SE
+6855771	pyridoxal 5'-phosphate salvage pathway	130454	Araip.TG88C
+6855752	cholesterol biosynthesis III (via desmosterol)	130454	Araip.Q799J
+6855752	cholesterol biosynthesis III (via desmosterol)	130454	Araip.23LJ8
+6855752	cholesterol biosynthesis III (via desmosterol)	130454	Araip.GT0MC
+6855752	cholesterol biosynthesis III (via desmosterol)	130454	Araip.MPH2C
+6855752	cholesterol biosynthesis III (via desmosterol)	130454	Araip.QBI8Q
+6855876	asparagine degradation I	130454	Araip.S985N
+6855876	asparagine degradation I	130454	Araip.W08NK
+6855876	asparagine degradation I	130454	Araip.BWI4H
+6855876	asparagine degradation I	130454	Araip.HIL9C
+6855876	asparagine degradation I	130454	Araip.AW369
+6855876	asparagine degradation I	130454	Araip.A03F3
+6855759	IAA biosynthesis II	130454	Araip.Q4NNC
+6855759	IAA biosynthesis II	130454	Araip.BYN0W
+6855790	lysine biosynthesis II	130454	Araip.NZ168
+6855790	lysine biosynthesis II	130454	Araip.MD8TF
+6855790	lysine biosynthesis II	130454	Araip.M7YXX
+6855790	lysine biosynthesis II	130454	Araip.VD7Y0
+6855790	lysine biosynthesis II	130454	Araip.CAI3H
+6855790	lysine biosynthesis II	130454	Araip.V3FK8
+6855790	lysine biosynthesis II	130454	Araip.4K0TW
+6855790	lysine biosynthesis II	130454	Araip.2L6KD
+6855790	lysine biosynthesis II	130454	Araip.W4V3G
+6855790	lysine biosynthesis II	130454	Araip.J6CZK
+6855790	lysine biosynthesis II	130454	Araip.Q5FBC
+6855790	lysine biosynthesis II	130454	Araip.RZ21P
+6855790	lysine biosynthesis II	130454	Araip.C4FV5
+6855790	lysine biosynthesis II	130454	Araip.781N3
+6855790	lysine biosynthesis II	130454	Araip.TC95B
+6855762	cytokinins 7-N-glucoside biosynthesis	130454	Araip.V2JWX
+6855762	cytokinins 7-N-glucoside biosynthesis	130454	Araip.CSX4W
+6855762	cytokinins 7-N-glucoside biosynthesis	130454	Araip.H41HP
+6855762	cytokinins 7-N-glucoside biosynthesis	130454	Araip.0FY9Y
+6855783	NAD biosynthesis I (from aspartate)	130454	Araip.M02FS
+6855783	NAD biosynthesis I (from aspartate)	130454	Araip.D0YN7
+6855783	NAD biosynthesis I (from aspartate)	130454	Araip.FV8HT
+6855783	NAD biosynthesis I (from aspartate)	130454	Araip.UIW35
+6855741	pantothenate biosynthesis II	130454	Araip.PC2P2
+6855741	pantothenate biosynthesis II	130454	Araip.76LR9
+6855741	pantothenate biosynthesis II	130454	Araip.DQ8EI
+6855741	pantothenate biosynthesis II	130454	Araip.6C4D5
+6855741	pantothenate biosynthesis II	130454	Araip.UV2PE
+6855822	putrescine biosynthesis II	130454	Araip.050BY
+6855822	putrescine biosynthesis II	130454	Araip.AP8LU
+6855822	putrescine biosynthesis II	130454	Araip.RMP9J
+6855822	putrescine biosynthesis II	130454	Araip.47BGG
+6855901	xylogalacturonan biosynthesis	130454	Araip.U0KNB
+6855901	xylogalacturonan biosynthesis	130454	Araip.NZ7RX
+6855754	valine biosynthesis	130454	Araip.7CU0A
+6855754	valine biosynthesis	130454	Araip.76LR9
+6855754	valine biosynthesis	130454	Araip.R3S6C
+6855754	valine biosynthesis	130454	Araip.DQ8EI
+6855754	valine biosynthesis	130454	Araip.W0VC8
+6855754	valine biosynthesis	130454	Araip.K5YKI
+6855754	valine biosynthesis	130454	Araip.23NEF
+6855754	valine biosynthesis	130454	Araip.EQC7X
+6855754	valine biosynthesis	130454	Araip.VKG16
+6855754	valine biosynthesis	130454	Araip.W9HXX
+6855754	valine biosynthesis	130454	Araip.59YT6
+6855802	beta-alanine biosynthesis III	130454	Araip.KB50Q
+6855802	beta-alanine biosynthesis III	130454	Araip.JNK1H
+6855802	beta-alanine biosynthesis III	130454	Araip.E2TIZ
+6855799	citrulline biosynthesis	130454	Araip.B3LJ0
+6855799	citrulline biosynthesis	130454	Araip.AZ4G5
+6855799	citrulline biosynthesis	130454	Araip.W2DXP
+6855799	citrulline biosynthesis	130454	Araip.SH7ZE
+6855799	citrulline biosynthesis	130454	Araip.0WM4W
+6855799	citrulline biosynthesis	130454	Araip.Y6RSY
+6855799	citrulline biosynthesis	130454	Araip.89D00
+6855799	citrulline biosynthesis	130454	Araip.N2HP9
+6855799	citrulline biosynthesis	130454	Araip.38QD4
+6855799	citrulline biosynthesis	130454	Araip.C1RZ2
+6855799	citrulline biosynthesis	130454	Araip.0A9XP
+6855835	aspartate biosynthesis I	130454	Araip.S985N
+6855835	aspartate biosynthesis I	130454	Araip.BWI4H
+6855835	aspartate biosynthesis I	130454	Araip.HIL9C
+6855835	aspartate biosynthesis I	130454	Araip.A03F3
+6855804	geranylgeranyldiphosphate biosynthesis II (plastidic)	130454	Araip.ZD4T4
+6855804	geranylgeranyldiphosphate biosynthesis II (plastidic)	130454	Araip.T2Z8Y
+6855804	geranylgeranyldiphosphate biosynthesis II (plastidic)	130454	Araip.IA76A
+6855804	geranylgeranyldiphosphate biosynthesis II (plastidic)	130454	Araip.635QE
+6855804	geranylgeranyldiphosphate biosynthesis II (plastidic)	130454	Araip.14VDU
+6855804	geranylgeranyldiphosphate biosynthesis II (plastidic)	130454	Araip.5G2GL
+6855893	alanine biosynthesis III	130454	Araip.N2MW3
+6855893	alanine biosynthesis III	130454	Araip.164TB
+6855871	maackiain biosynthesis	130454	Araip.J1HT6
+6855868	trehalose degradation II	130454	Araip.RF6HA
+6855868	trehalose degradation II	130454	Araip.JG9W3
+6855868	trehalose degradation II	130454	Araip.Q9TXG
+6855868	trehalose degradation II	130454	Araip.08Q1S
+6855832	spermine biosynthesis	130454	Araip.L7Y2B
+6855832	spermine biosynthesis	130454	Araip.24S3M
+6855832	spermine biosynthesis	130454	Araip.6VN5N
+6855832	spermine biosynthesis	130454	Araip.PG020
+6855832	spermine biosynthesis	130454	Araip.D20IA
+6855900	Xylan Biosynthesis	130454	Araip.1H31M
+6855900	Xylan Biosynthesis	130454	Araip.Y41TM
+6855900	Xylan Biosynthesis	130454	Araip.E7PK4
+6855900	Xylan Biosynthesis	130454	Araip.CQ7YT
+6855900	Xylan Biosynthesis	130454	Araip.8195A
+6855900	Xylan Biosynthesis	130454	Araip.01SMR
+6855852	beta-alanine biosynthesis II	130454	Araip.4A57R
+6855852	beta-alanine biosynthesis II	130454	Araip.7QP65
+6855852	beta-alanine biosynthesis II	130454	Araip.3TC80
+6855852	beta-alanine biosynthesis II	130454	Araip.5BR7G
+6855852	beta-alanine biosynthesis II	130454	Araip.RG6ZK
+6855852	beta-alanine biosynthesis II	130454	Araip.YL2Q5
+6855828	cysteine biosynthesis I	130454	Araip.H07NM
+6855828	cysteine biosynthesis I	130454	Araip.H8NH2
+6855828	cysteine biosynthesis I	130454	Araip.22DFM
+6855828	cysteine biosynthesis I	130454	Araip.L1QD7
+6855828	cysteine biosynthesis I	130454	Araip.JN8SQ
+6855828	cysteine biosynthesis I	130454	Araip.UT2V4
+6855828	cysteine biosynthesis I	130454	Araip.ZNB8V
+6855883	Plastid glycolysis	130454	Araip.4Z02U
+6855883	Plastid glycolysis	130454	Araip.U6VQA
+6855883	Plastid glycolysis	130454	Araip.116MM
+6855883	Plastid glycolysis	130454	Araip.Q9TXG
+6855775	gibberellin biosynthesis II (early C-3 hydroxylation)	130454	Araip.BEB3B
+6855775	gibberellin biosynthesis II (early C-3 hydroxylation)	130454	Araip.A06C0
+6855842	thiosulfate disproportionation III (rhodanese)	130454	Araip.D44CN
+6855839	S-methylmethionine cycle	130454	Araip.PNY1B
+6855839	S-methylmethionine cycle	130454	Araip.4Q7KQ
+6855839	S-methylmethionine cycle	130454	Araip.87B80
+6855827	threonine biosynthesis from homoserine	130454	Araip.Z30L7
+6855827	threonine biosynthesis from homoserine	130454	Araip.AI3RV
+6855827	threonine biosynthesis from homoserine	130454	Araip.3MU4C
+6855812	pinobanksin biosynthesis	130454	Araip.ML9SJ
+6855812	pinobanksin biosynthesis	130454	Araip.JD11C
+6855886	chlorophyll cycle	130454	Araip.HLE2J
+6855846	lipid-independent phytate biosynthesis	130454	Araip.D5HYW
+6855904	Salicylic acid signaling	130454	Araip.MIR4I
+6855904	Salicylic acid signaling	130454	Araip.VWS8G
+6855904	Salicylic acid signaling	130454	Araip.C70DE
+6855904	Salicylic acid signaling	130454	Araip.27R9P
+6855904	Salicylic acid signaling	130454	Araip.32FLV
+6855904	Salicylic acid signaling	130454	Araip.YRZ98
+6855904	Salicylic acid signaling	130454	Araip.I6LH9
+6855904	Salicylic acid signaling	130454	Araip.7QE9U
+6855904	Salicylic acid signaling	130454	Araip.310T2
+6855904	Salicylic acid signaling	130454	Araip.VEV8X
+6855904	Salicylic acid signaling	130454	Araip.JKM82
+6855904	Salicylic acid signaling	130454	Araip.0301B
+6855904	Salicylic acid signaling	130454	Araip.22TZ8
+6855904	Salicylic acid signaling	130454	Araip.5SR4K
+6855904	Salicylic acid signaling	130454	Araip.TB3VB
+6855904	Salicylic acid signaling	130454	Araip.64KG6
+6855904	Salicylic acid signaling	130454	Araip.D5QVM
+6855904	Salicylic acid signaling	130454	Araip.NZ32C
+6855904	Salicylic acid signaling	130454	Araip.6WQ5P
+6855904	Salicylic acid signaling	130454	Araip.1FG0Z
+6855904	Salicylic acid signaling	130454	Araip.U296L
+6855769	UDP-N-acetylgalactosamine biosynthesis	130454	Araip.B9BSS
+6855769	UDP-N-acetylgalactosamine biosynthesis	130454	Araip.66UUH
+6855769	UDP-N-acetylgalactosamine biosynthesis	130454	Araip.Q8CS4
+6855769	UDP-N-acetylgalactosamine biosynthesis	130454	Araip.Z22W3
+6855866	citrulline-nitric oxide cycle	130454	Araip.XE7B2
+6855866	citrulline-nitric oxide cycle	130454	Araip.ZW9IU
+6855866	citrulline-nitric oxide cycle	130454	Araip.26UP8
+6855747	gamma-glutamyl cycle	130454	Araip.FW6PM
+6855747	gamma-glutamyl cycle	130454	Araip.QTG12
+6855747	gamma-glutamyl cycle	130454	Araip.73AZP
+6855747	gamma-glutamyl cycle	130454	Araip.Z08PZ
+6855847	leucodelphinidin biosynthesis	130454	Araip.NIV47
+6855847	leucodelphinidin biosynthesis	130454	Araip.21BTV
+6855765	polyisoprenoid biosynthesis	130454	Araip.SZE3A
+6855765	polyisoprenoid biosynthesis	130454	Araip.ZD4T4
+6855765	polyisoprenoid biosynthesis	130454	Araip.T2Z8Y
+6855765	polyisoprenoid biosynthesis	130454	Araip.4N7WF
+6855765	polyisoprenoid biosynthesis	130454	Araip.635QE
+6855765	polyisoprenoid biosynthesis	130454	Araip.SNW0B
+6855765	polyisoprenoid biosynthesis	130454	Araip.5G2GL
+6855860	oleoresin sesquiterpene volatiles biosynthesis	130454	Araip.7D7PZ
+6855892	glutamate biosynthesis I	130454	Araip.H6WCB
+6855892	glutamate biosynthesis I	130454	Araip.S6Q95
+6855739	oryzalexin A-F biosynthesis	130454	Araip.7D7PZ
+6855732	cytokinins-O-glucoside biosynthesis	130454	Araip.MB0R5
+6855732	cytokinins-O-glucoside biosynthesis	130454	Araip.V2JWX
+6855732	cytokinins-O-glucoside biosynthesis	130454	Araip.E6A3D
+6855732	cytokinins-O-glucoside biosynthesis	130454	Araip.HES22
+6855732	cytokinins-O-glucoside biosynthesis	130454	Araip.BD09A
+6855732	cytokinins-O-glucoside biosynthesis	130454	Araip.GP5MB
+6855732	cytokinins-O-glucoside biosynthesis	130454	Araip.CSX4W
+6855732	cytokinins-O-glucoside biosynthesis	130454	Araip.H41HP
+6855732	cytokinins-O-glucoside biosynthesis	130454	Araip.0FY9Y
+6855743	cholesterol biosynthesis II (via 24,25-dihydrolanosterol)	130454	Araip.Q799J
+6855743	cholesterol biosynthesis II (via 24,25-dihydrolanosterol)	130454	Araip.23LJ8
+6855743	cholesterol biosynthesis II (via 24,25-dihydrolanosterol)	130454	Araip.GT0MC
+6855743	cholesterol biosynthesis II (via 24,25-dihydrolanosterol)	130454	Araip.MPH2C
+6855743	cholesterol biosynthesis II (via 24,25-dihydrolanosterol)	130454	Araip.QBI8Q
+6855745	ornithine biosynthesis	130454	Araip.E629F
+6855745	ornithine biosynthesis	130454	Araip.M7YXX
+6855745	ornithine biosynthesis	130454	Araip.0WM4W
+6855745	ornithine biosynthesis	130454	Araip.BK8GH
+6855745	ornithine biosynthesis	130454	Araip.B6F4A
+6855720	Cytosolic glycolysis	130454	Araip.W4V3G
+6855720	Cytosolic glycolysis	130454	Araip.F5HRN
+6855720	Cytosolic glycolysis	130454	Araip.4K0TW
+6855874	trehalose biosynthesis I	130454	Araip.3XD6G
+6855874	trehalose biosynthesis I	130454	Araip.US4V4
+6855874	trehalose biosynthesis I	130454	Araip.FER8B
+6855874	trehalose biosynthesis I	130454	Araip.T3TTQ
+6855874	trehalose biosynthesis I	130454	Araip.C6PK9
+6855874	trehalose biosynthesis I	130454	Araip.W2EMV
+6855874	trehalose biosynthesis I	130454	Araip.UK5PE
+6855874	trehalose biosynthesis I	130454	Araip.GGW4P
+6855874	trehalose biosynthesis I	130454	Araip.IXA08
+6855865	putrescine biosynthesis I	130454	Araip.AP8LU
+6855763	methionine salvage pathway	130454	Araip.2S9Y0
+6855763	methionine salvage pathway	130454	Araip.ATI1Y
+6855763	methionine salvage pathway	130454	Araip.207MI
+6855763	methionine salvage pathway	130454	Araip.425B7
+6855763	methionine salvage pathway	130454	Araip.57AWT
+6855763	methionine salvage pathway	130454	Araip.UMR2E
+6855763	methionine salvage pathway	130454	Araip.4F25B
+6855763	methionine salvage pathway	130454	Araip.XJS45
+6855763	methionine salvage pathway	130454	Araip.JB6HG
+6855763	methionine salvage pathway	130454	Araip.R525U
+6855763	methionine salvage pathway	130454	Araip.FB4F0
+6855763	methionine salvage pathway	130454	Araip.WCF75
+6855786	trans,trans-farnesyl diphosphate biosynthesis	130454	Araip.ZD4T4
+6855786	trans,trans-farnesyl diphosphate biosynthesis	130454	Araip.T2Z8Y
+6855786	trans,trans-farnesyl diphosphate biosynthesis	130454	Araip.635QE
+6855786	trans,trans-farnesyl diphosphate biosynthesis	130454	Araip.5G2GL
+6855798	momilactone biosynthesis	130454	Araip.N7X0P
+6855798	momilactone biosynthesis	130454	Araip.7D7PZ
+6855879	cyanate degradation	130454	Araip.H7369
+6855879	cyanate degradation	130454	Araip.RL9T9
+6855879	cyanate degradation	130454	Araip.2T0SC
+6855879	cyanate degradation	130454	Araip.CL739
+6855879	cyanate degradation	130454	Araip.UB7EK
+6855823	lysine degradation I	130454	Araip.24S3M
+6855823	lysine degradation I	130454	Araip.6VN5N
+6855823	lysine degradation I	130454	Araip.PG020
+6855884	Mitochondrial pyruvate metabolism	130454	Araip.Q71DN
+6855730	IAA biosynthesis I	130454	Araip.S175R
+6855730	IAA biosynthesis I	130454	Araip.7YT59
+6855730	IAA biosynthesis I	130454	Araip.W0VC8
+6855730	IAA biosynthesis I	130454	Araip.A2UQA
+6855730	IAA biosynthesis I	130454	Araip.GEY51
+6855730	IAA biosynthesis I	130454	Araip.BJ1LC
+6855730	IAA biosynthesis I	130454	Araip.99IZA
+6855730	IAA biosynthesis I	130454	Araip.FIG1J
+6855730	IAA biosynthesis I	130454	Araip.Q67BG
+6855730	IAA biosynthesis I	130454	Araip.26B5V
+6855730	IAA biosynthesis I	130454	Araip.0Y594
+6855730	IAA biosynthesis I	130454	Araip.23I46
+6855730	IAA biosynthesis I	130454	Araip.4L730
+6855730	IAA biosynthesis I	130454	Araip.10SVB
+6855730	IAA biosynthesis I	130454	Araip.67S5I
+6855730	IAA biosynthesis I	130454	Araip.RIZ14
+6855730	IAA biosynthesis I	130454	Araip.P4FY7
+6855730	IAA biosynthesis I	130454	Araip.K5YKI
+6855730	IAA biosynthesis I	130454	Araip.R5BQR
+6855730	IAA biosynthesis I	130454	Araip.B0BC2
+6855730	IAA biosynthesis I	130454	Araip.WJ4BG
+6855730	IAA biosynthesis I	130454	Araip.Y205N
+6855730	IAA biosynthesis I	130454	Araip.XS6NP
+6855730	IAA biosynthesis I	130454	Araip.PIE3L
+6855890	Ethylene mediated signaling	130454	Araip.4KU76
+6855890	Ethylene mediated signaling	130454	Araip.Y45KL
+6855890	Ethylene mediated signaling	130454	Araip.8F4W7
+6855890	Ethylene mediated signaling	130454	Araip.07W64
+6855890	Ethylene mediated signaling	130454	Araip.WGV8L
+6855890	Ethylene mediated signaling	130454	Araip.D4XY0
+6855890	Ethylene mediated signaling	130454	Araip.5FQ26
+6855890	Ethylene mediated signaling	130454	Araip.B7KGV
+6855890	Ethylene mediated signaling	130454	Araip.B52YR
+6855890	Ethylene mediated signaling	130454	Araip.KKX96
+6855890	Ethylene mediated signaling	130454	Araip.3M2P9
+6855890	Ethylene mediated signaling	130454	Araip.B5DCI
+6855890	Ethylene mediated signaling	130454	Araip.T94IA
+6855890	Ethylene mediated signaling	130454	Araip.00YKD
+6855887	phylloquinone biosynthesis	130454	Araip.BE5FQ
+6855817	glutathione redox reactions I	130454	Araip.8AM62
+6855817	glutathione redox reactions I	130454	Araip.GY43F
+6855817	glutathione redox reactions I	130454	Araip.I53JU
+6855817	glutathione redox reactions I	130454	Araip.11YG0
+6855817	glutathione redox reactions I	130454	Araip.PBK8S
+6855817	glutathione redox reactions I	130454	Araip.N2IYE
+6855817	glutathione redox reactions I	130454	Araip.1U9LQ
+6855814	GDP-mannose metabolism	130454	Araip.8P6VP
+6855814	GDP-mannose metabolism	130454	Araip.JG9W3
+6855814	GDP-mannose metabolism	130454	Araip.7C4C2
+6855814	GDP-mannose metabolism	130454	Araip.6Q39T
+6855814	GDP-mannose metabolism	130454	Araip.VHD9K
+6855814	GDP-mannose metabolism	130454	Araip.08Q1S
+6855845	myo-inositol biosynthesis	130454	Araip.D5HYW
+6855857	GDP-L-fucose biosynthesis I (from GDP-D-mannose)	130454	Araip.RB3WS
+6855857	GDP-L-fucose biosynthesis I (from GDP-D-mannose)	130454	Araip.IV2UH
+6855857	GDP-L-fucose biosynthesis I (from GDP-D-mannose)	130454	Araip.QUX0P
+6855857	GDP-L-fucose biosynthesis I (from GDP-D-mannose)	130454	Araip.V5PPP
+6855857	GDP-L-fucose biosynthesis I (from GDP-D-mannose)	130454	Araip.R83H8
+6855857	GDP-L-fucose biosynthesis I (from GDP-D-mannose)	130454	Araip.EV8CZ
+6855857	GDP-L-fucose biosynthesis I (from GDP-D-mannose)	130454	Araip.965E6
+6855857	GDP-L-fucose biosynthesis I (from GDP-D-mannose)	130454	Araip.RC5I3
+6855857	GDP-L-fucose biosynthesis I (from GDP-D-mannose)	130454	Araip.I2Y83
+6855818	allantoin degradation I	130454	Araip.W0VC8
+6855818	allantoin degradation I	130454	Araip.K5YKI
+6855810	wighteone and luteone biosynthesis	130454	Araip.5G2GL
+6855898	Strigolactone signaling	130454	Araip.JKM82
+6855898	Strigolactone signaling	130454	Araip.75R05
+6855898	Strigolactone signaling	130454	Araip.JT9BC
+6855898	Strigolactone signaling	130454	Araip.776KY
+6855898	Strigolactone signaling	130454	Araip.40IWR
+6855898	Strigolactone signaling	130454	Araip.43XHM
+6855898	Strigolactone signaling	130454	Araip.50H5N
+6855898	Strigolactone signaling	130454	Araip.NI3BX
+6855898	Strigolactone signaling	130454	Araip.S3VSZ
+6855898	Strigolactone signaling	130454	Araip.RF30U
+6855867	thiamine biosynthesis	130454	Araip.NL7BI
+6855867	thiamine biosynthesis	130454	Araip.3HM5S
+6855867	thiamine biosynthesis	130454	Araip.337EV
+6855738	gibberellin biosynthesis III (early C-13 hydroxylation)	130454	Araip.BEB3B
+6855738	gibberellin biosynthesis III (early C-13 hydroxylation)	130454	Araip.A06C0
+6855742	flavonoid biosynthesis	130454	Araip.FWS96
+6855742	flavonoid biosynthesis	130454	Araip.G3TW3
+6855742	flavonoid biosynthesis	130454	Araip.QM7IV
+6855742	flavonoid biosynthesis	130454	Araip.U6BJT
+6855742	flavonoid biosynthesis	130454	Araip.W68C4
+6855742	flavonoid biosynthesis	130454	Araip.F787E
+6855742	flavonoid biosynthesis	130454	Araip.NIV47
+6855742	flavonoid biosynthesis	130454	Araip.PJ0JZ
+6855742	flavonoid biosynthesis	130454	Araip.TT0ZZ
+6855742	flavonoid biosynthesis	130454	Araip.JD11C
+6855742	flavonoid biosynthesis	130454	Araip.MWP7Z
+6855894	glutamate biosynthesis IV	130454	Araip.A7VDE
+6855894	glutamate biosynthesis IV	130454	Araip.XIB07
+6855797	gentiodelphin biosynthesis	130454	Araip.LDX41
+6855797	gentiodelphin biosynthesis	130454	Araip.JFJ1E
+6855797	gentiodelphin biosynthesis	130454	Araip.PJ8WT
+6855797	gentiodelphin biosynthesis	130454	Araip.QC6BH
+6855797	gentiodelphin biosynthesis	130454	Araip.R1VPM
+6855797	gentiodelphin biosynthesis	130454	Araip.M83DH
+6855797	gentiodelphin biosynthesis	130454	Araip.LUT50
+6855792	galactosylcyclitol biosynthesis	130454	Araip.EX9I5
+6855792	galactosylcyclitol biosynthesis	130454	Araip.86PU8
+6855792	galactosylcyclitol biosynthesis	130454	Araip.106SN
+6855792	galactosylcyclitol biosynthesis	130454	Araip.QPC3V
+6855792	galactosylcyclitol biosynthesis	130454	Araip.567RF
+6855792	galactosylcyclitol biosynthesis	130454	Araip.9D3W1
+6855781	tetrahydrofolate biosynthesis I	130454	Araip.E433Y
+6855781	tetrahydrofolate biosynthesis I	130454	Araip.NG6WE
+6855781	tetrahydrofolate biosynthesis I	130454	Araip.WT4L7
+6855781	tetrahydrofolate biosynthesis I	130454	Araip.GEE0K
+6855781	tetrahydrofolate biosynthesis I	130454	Araip.5KD05
+6855781	tetrahydrofolate biosynthesis I	130454	Araip.Y9DNT
+6855781	tetrahydrofolate biosynthesis I	130454	Araip.YA1SW
+6855781	tetrahydrofolate biosynthesis I	130454	Araip.13HHI
+6855781	tetrahydrofolate biosynthesis I	130454	Araip.K4IN7
+6855781	tetrahydrofolate biosynthesis I	130454	Araip.9Q4GB
+6855781	tetrahydrofolate biosynthesis I	130454	Araip.Z58EI
+6855781	tetrahydrofolate biosynthesis I	130454	Araip.253WZ
+6855781	tetrahydrofolate biosynthesis I	130454	Araip.E0UG7
+6855768	chlorophyll a biosynthesis II	130454	Araip.W5IYZ
+6855768	chlorophyll a biosynthesis II	130454	Araip.520RW
+6855856	GDP-D-rhamnose biosynthesis	130454	Araip.RB3WS
+6855856	GDP-D-rhamnose biosynthesis	130454	Araip.IV2UH
+6855856	GDP-D-rhamnose biosynthesis	130454	Araip.QUX0P
+6855856	GDP-D-rhamnose biosynthesis	130454	Araip.V5PPP
+6855856	GDP-D-rhamnose biosynthesis	130454	Araip.R83H8
+6855856	GDP-D-rhamnose biosynthesis	130454	Araip.EV8CZ
+6855856	GDP-D-rhamnose biosynthesis	130454	Araip.965E6
+6855856	GDP-D-rhamnose biosynthesis	130454	Araip.I2Y83
+6855811	fructan biosynthesis	130454	Araip.28YBL
+6855811	fructan biosynthesis	130454	Araip.RKE1H
+6855843	cellulose biosynthesis	130454	Araip.E6Q2M
+6855843	cellulose biosynthesis	130454	Araip.4397U
+6855843	cellulose biosynthesis	130454	Araip.5Y8KI
+6855843	cellulose biosynthesis	130454	Araip.MAE7B
+6855843	cellulose biosynthesis	130454	Araip.HTG9W
+6855843	cellulose biosynthesis	130454	Araip.M7HZK
+6855843	cellulose biosynthesis	130454	Araip.82FZS
+6855843	cellulose biosynthesis	130454	Araip.TP226
+6855793	isoleucine biosynthesis from threonine	130454	Araip.7CU0A
+6855793	isoleucine biosynthesis from threonine	130454	Araip.76LR9
+6855793	isoleucine biosynthesis from threonine	130454	Araip.R3S6C
+6855793	isoleucine biosynthesis from threonine	130454	Araip.DQ8EI
+6855793	isoleucine biosynthesis from threonine	130454	Araip.W0VC8
+6855793	isoleucine biosynthesis from threonine	130454	Araip.K5YKI
+6855793	isoleucine biosynthesis from threonine	130454	Araip.23NEF
+6855793	isoleucine biosynthesis from threonine	130454	Araip.EQC7X
+6855793	isoleucine biosynthesis from threonine	130454	Araip.VKG16
+6855793	isoleucine biosynthesis from threonine	130454	Araip.W9HXX
+6855793	isoleucine biosynthesis from threonine	130454	Araip.59YT6
+6855793	isoleucine biosynthesis from threonine	130454	Araip.HGI6C
+6855796	methylerythritol phosphate pathway	130454	Araip.NL7BI
+6855796	methylerythritol phosphate pathway	130454	Araip.FG41D
+6855796	methylerythritol phosphate pathway	130454	Araip.SQ4TV
+6855796	methylerythritol phosphate pathway	130454	Araip.337EV
+6855796	methylerythritol phosphate pathway	130454	Araip.2B9XL
+6855796	methylerythritol phosphate pathway	130454	Araip.89AKE
+6855796	methylerythritol phosphate pathway	130454	Araip.PF10Q
+6855796	methylerythritol phosphate pathway	130454	Araip.PIY59
+6855796	methylerythritol phosphate pathway	130454	Araip.GAW16
+6855796	methylerythritol phosphate pathway	130454	Araip.4XB1Y
+6855796	methylerythritol phosphate pathway	130454	Araip.5J5X2
+6855796	methylerythritol phosphate pathway	130454	Araip.SNW0B
+6855903	Jasmonic acid signaling	130454	Araip.AR8PA
+6855903	Jasmonic acid signaling	130454	Araip.3U0AJ
+6855903	Jasmonic acid signaling	130454	Araip.D15G9
+6855903	Jasmonic acid signaling	130454	Araip.L5RT4
+6855903	Jasmonic acid signaling	130454	Araip.SDL5P
+6855903	Jasmonic acid signaling	130454	Araip.S5AVW
+6855903	Jasmonic acid signaling	130454	Araip.27R9P
+6855903	Jasmonic acid signaling	130454	Araip.3EM6P
+6855903	Jasmonic acid signaling	130454	Araip.BUP6F
+6855903	Jasmonic acid signaling	130454	Araip.JKM82
+6855903	Jasmonic acid signaling	130454	Araip.H94QL
+6855903	Jasmonic acid signaling	130454	Araip.B7KGV
+6855903	Jasmonic acid signaling	130454	Araip.PKX1N
+6855903	Jasmonic acid signaling	130454	Araip.L4X0W
+6855903	Jasmonic acid signaling	130454	Araip.JS6GC
+6855903	Jasmonic acid signaling	130454	Araip.QB13B
+6855903	Jasmonic acid signaling	130454	Araip.5SR4K
+6855903	Jasmonic acid signaling	130454	Araip.UP4N0
+6855903	Jasmonic acid signaling	130454	Araip.48URM
+6855903	Jasmonic acid signaling	130454	Araip.KK7TK
+6855903	Jasmonic acid signaling	130454	Araip.64KG6
+6855903	Jasmonic acid signaling	130454	Araip.Y22EX
+6855903	Jasmonic acid signaling	130454	Araip.UC4CT
+6855903	Jasmonic acid signaling	130454	Araip.KXH1R
+6855838	asparagine biosynthesis I	130454	Araip.S985N
+6855838	asparagine biosynthesis I	130454	Araip.BWI4H
+6855838	asparagine biosynthesis I	130454	Araip.R6G70
+6855838	asparagine biosynthesis I	130454	Araip.HIL9C
+6855838	asparagine biosynthesis I	130454	Araip.2V2W4
+6855838	asparagine biosynthesis I	130454	Araip.NB6VC
+6855838	asparagine biosynthesis I	130454	Araip.A03F3
+6855838	asparagine biosynthesis I	130454	Araip.0A9XP
+6855761	vitamin E biosynthesis	130454	Araip.Y3ELL
+6855761	vitamin E biosynthesis	130454	Araip.Q75IR
+6855761	vitamin E biosynthesis	130454	Araip.ISI3L
+6855761	vitamin E biosynthesis	130454	Araip.FS9KX
+6855761	vitamin E biosynthesis	130454	Araip.2U0RL
+6855820	phytyl-PP biosynthesis	130454	Araip.W5IYZ
+6855820	phytyl-PP biosynthesis	130454	Araip.520RW
+6855766	carotenoid biosynthesis	130454	Araip.B03KK
+6855766	carotenoid biosynthesis	130454	Araip.P4XMZ
+6855766	carotenoid biosynthesis	130454	Araip.D2YEW
+6855766	carotenoid biosynthesis	130454	Araip.4M6WV
+6855766	carotenoid biosynthesis	130454	Araip.YJ8QA
+6855766	carotenoid biosynthesis	130454	Araip.9J3NW
+6855766	carotenoid biosynthesis	130454	Araip.320GW
+6855766	carotenoid biosynthesis	130454	Araip.64059
+6855896	arginine degradation VI (arginase 2 pathway)	130454	Araip.68NP6
+6855896	arginine degradation VI (arginase 2 pathway)	130454	Araip.0WM4W
+6855896	arginine degradation VI (arginase 2 pathway)	130454	Araip.38QD4
+6855794	histidine biosynthesis I	130454	Araip.AQ4IP
+6855794	histidine biosynthesis I	130454	Araip.S8M2R
+6855794	histidine biosynthesis I	130454	Araip.L07W2
+6855794	histidine biosynthesis I	130454	Araip.F09QG
+6855794	histidine biosynthesis I	130454	Araip.BC99A
+6855794	histidine biosynthesis I	130454	Araip.E9TR2
+6855794	histidine biosynthesis I	130454	Araip.ELW9R
+6855794	histidine biosynthesis I	130454	Araip.JRQ56
+6855826	proanthocyanidin biosynthesis from flavanols	130454	Araip.J1HT6
+6855755	GA12 biosynthesis	130454	Araip.1Y1N6
+6855755	GA12 biosynthesis	130454	Araip.BL4R3
+6855755	GA12 biosynthesis	130454	Araip.447R4
+6855755	GA12 biosynthesis	130454	Araip.5I87W
+6855755	GA12 biosynthesis	130454	Araip.7E4DK
+6855891	Strigolactone Biosynthesis	130454	Araip.M724S
+6855891	Strigolactone Biosynthesis	130454	Araip.QK802
+6855891	Strigolactone Biosynthesis	130454	Araip.MNC08
+6855881	coumarin biosynthesis (via 2-coumarate)	130454	Araip.DY6D7
+6855795	galactose degradation II	130454	Araip.PGB0K
+6855795	galactose degradation II	130454	Araip.3BD5B
+6855795	galactose degradation II	130454	Araip.ZTF9F
+6855795	galactose degradation II	130454	Araip.XG7T5
+6855795	galactose degradation II	130454	Araip.GD7TV
+6855795	galactose degradation II	130454	Araip.NV5LW
+6855795	galactose degradation II	130454	Araip.51VQE
+6855795	galactose degradation II	130454	Araip.Q9BYH
+6855808	leucine biosynthesis	130454	Araip.76LR9
+6855808	leucine biosynthesis	130454	Araip.DQ8EI
+6855808	leucine biosynthesis	130454	Araip.0XA60
+6855808	leucine biosynthesis	130454	Araip.R1DVQ
+6855808	leucine biosynthesis	130454	Araip.RM8Z7
+6855808	leucine biosynthesis	130454	Araip.HX4H1
+6855808	leucine biosynthesis	130454	Araip.Q07WN
+6855808	leucine biosynthesis	130454	Araip.LWG2P
+6855808	leucine biosynthesis	130454	Araip.E335X
+6855808	leucine biosynthesis	130454	Araip.3J27X
+6855808	leucine biosynthesis	130454	Araip.LP8AE
+6855808	leucine biosynthesis	130454	Araip.1K60N
+6855808	leucine biosynthesis	130454	Araip.A0TQ5
+6855816	glutathione redox reactions II	130454	Araip.11YG0
+6855816	glutathione redox reactions II	130454	Araip.N2IYE
+6855813	ascorbate biosynthesis	130454	Araip.0I2ZI
+6855813	ascorbate biosynthesis	130454	Araip.8P6VP
+6855813	ascorbate biosynthesis	130454	Araip.7C4C2
+6855813	ascorbate biosynthesis	130454	Araip.6Q39T
+6855813	ascorbate biosynthesis	130454	Araip.VHD9K
+6855861	peptidoglycan biosynthesis I	130454	Araip.TSQ9A
+6855861	peptidoglycan biosynthesis I	130454	Araip.HKY4A
+6855861	peptidoglycan biosynthesis I	130454	Araip.YQ33B
+6855861	peptidoglycan biosynthesis I	130454	Araip.L03GB
+6855861	peptidoglycan biosynthesis I	130454	Araip.9Q80L
+6855776	dolichyl-diphosphooligosaccharide biosynthesis	130454	Araip.137SM
+6855776	dolichyl-diphosphooligosaccharide biosynthesis	130454	Araip.GX46W
+6855776	dolichyl-diphosphooligosaccharide biosynthesis	130454	Araip.F3LNM
+6855776	dolichyl-diphosphooligosaccharide biosynthesis	130454	Araip.DD1VL
+6855776	dolichyl-diphosphooligosaccharide biosynthesis	130454	Araip.C0HWJ
+6855776	dolichyl-diphosphooligosaccharide biosynthesis	130454	Araip.I4TKF
+6855736	UDP-D-xylose biosynthesis	130454	Araip.QUX0P
+6855736	UDP-D-xylose biosynthesis	130454	Araip.V5PPP
+6855736	UDP-D-xylose biosynthesis	130454	Araip.4U0UR
+6855736	UDP-D-xylose biosynthesis	130454	Araip.KVY6T
+6855736	UDP-D-xylose biosynthesis	130454	Araip.Q9BYH
+6855736	UDP-D-xylose biosynthesis	130454	Araip.I2Y83
+6855782	kievitone biosynthesis	130454	Araip.5G2GL
+6855758	gibberellin biosynthesis I (non C-3, non C-13 hydroxylation)	130454	Araip.BEB3B
+6855758	gibberellin biosynthesis I (non C-3, non C-13 hydroxylation)	130454	Araip.A06C0
+6855873	glycine biosynthesis I	130454	Araip.9M15N
+6855873	glycine biosynthesis I	130454	Araip.58Y3G
+6855873	glycine biosynthesis I	130454	Araip.JTL29
+6855873	glycine biosynthesis I	130454	Araip.XPK3R
+6855873	glycine biosynthesis I	130454	Araip.UF6J5
+6855878	spermidine biosynthesis	130454	Araip.L7Y2B
+6855878	spermidine biosynthesis	130454	Araip.24S3M
+6855878	spermidine biosynthesis	130454	Araip.6VN5N
+6855878	spermidine biosynthesis	130454	Araip.PG020
+6855878	spermidine biosynthesis	130454	Araip.D20IA
+6855836	lactucaxanthin biosynthesis	130454	Araip.64059
+6855748	phenylpropanoid biosynthesis	130454	Araip.TGC2W
+6855748	phenylpropanoid biosynthesis	130454	Araip.G3TW3
+6855748	phenylpropanoid biosynthesis	130454	Araip.RK1ZX
+6855748	phenylpropanoid biosynthesis	130454	Araip.QM7IV
+6855748	phenylpropanoid biosynthesis	130454	Araip.F787E
+6855748	phenylpropanoid biosynthesis	130454	Araip.6SW2U
+6855748	phenylpropanoid biosynthesis	130454	Araip.P73AY
+6855748	phenylpropanoid biosynthesis	130454	Araip.QP8NM
+6855748	phenylpropanoid biosynthesis	130454	Araip.T9LT0
+6855748	phenylpropanoid biosynthesis	130454	Araip.NXK65
+6855748	phenylpropanoid biosynthesis	130454	Araip.TT0ZZ
+6855748	phenylpropanoid biosynthesis	130454	Araip.BRP4U
+6855748	phenylpropanoid biosynthesis	130454	Araip.W68C4
+6855748	phenylpropanoid biosynthesis	130454	Araip.U6BJT
+6855748	phenylpropanoid biosynthesis	130454	Araip.I1474
+6855748	phenylpropanoid biosynthesis	130454	Araip.PJ0JZ
+6855733	jasmonic acid biosynthesis	130454	Araip.VN0A4
+6855733	jasmonic acid biosynthesis	130454	Araip.S5AVW
+6855733	jasmonic acid biosynthesis	130454	Araip.20VGU
+6855733	jasmonic acid biosynthesis	130454	Araip.HGI2J
+6855733	jasmonic acid biosynthesis	130454	Araip.Q0F1R
+6855733	jasmonic acid biosynthesis	130454	Araip.EE8FM
+6855733	jasmonic acid biosynthesis	130454	Araip.673NH
+6855733	jasmonic acid biosynthesis	130454	Araip.D6PZJ
+6855733	jasmonic acid biosynthesis	130454	Araip.V48DY
+6855733	jasmonic acid biosynthesis	130454	Araip.Q7E6I
+6855853	salicylate biosynthesis	130454	Araip.69J63
+6855853	salicylate biosynthesis	130454	Araip.P78H4
+6855841	secologanin and strictosidine biosynthesis	130454	Araip.23I46
+6855841	secologanin and strictosidine biosynthesis	130454	Araip.XK0C1
+6855841	secologanin and strictosidine biosynthesis	130454	Araip.V6CKT
+6855841	secologanin and strictosidine biosynthesis	130454	Araip.NNI43
+6855841	secologanin and strictosidine biosynthesis	130454	Araip.9BQ78
+6855841	secologanin and strictosidine biosynthesis	130454	Araip.ZSN4K
+6855849	flavin biosynthesis	130454	Araip.V7QJP
+6855849	flavin biosynthesis	130454	Araip.L8RA6
+6855849	flavin biosynthesis	130454	Araip.2S1IF
+6855849	flavin biosynthesis	130454	Araip.YQW33
+6855849	flavin biosynthesis	130454	Araip.8H7DJ
+6855849	flavin biosynthesis	130454	Araip.LU2E8
+6855849	flavin biosynthesis	130454	Araip.MGE8C
+6855722	glycolipid desaturation	130454	Araip.WI51C
+6855722	glycolipid desaturation	130454	Araip.D6HPL
+6855722	glycolipid desaturation	130454	Araip.92Q2X
+6855722	glycolipid desaturation	130454	Araip.AML9J
+6855722	glycolipid desaturation	130454	Araip.U63A7
+6855722	glycolipid desaturation	130454	Araip.S3GXY
+6855789	lysine biosynthesis I	130454	Araip.NZ168
+6855789	lysine biosynthesis I	130454	Araip.MD8TF
+6855789	lysine biosynthesis I	130454	Araip.M7YXX
+6855789	lysine biosynthesis I	130454	Araip.VD7Y0
+6855789	lysine biosynthesis I	130454	Araip.CAI3H
+6855789	lysine biosynthesis I	130454	Araip.V3FK8
+6855789	lysine biosynthesis I	130454	Araip.4K0TW
+6855789	lysine biosynthesis I	130454	Araip.2L6KD
+6855789	lysine biosynthesis I	130454	Araip.W4V3G
+6855789	lysine biosynthesis I	130454	Araip.J6CZK
+6855789	lysine biosynthesis I	130454	Araip.Q5FBC
+6855789	lysine biosynthesis I	130454	Araip.RZ21P
+6855789	lysine biosynthesis I	130454	Araip.C4FV5
+6855789	lysine biosynthesis I	130454	Araip.781N3
+6855789	lysine biosynthesis I	130454	Araip.TC95B
+6855756	abscisic acid biosynthesis	130454	Araip.FRJ8B
+6855756	abscisic acid biosynthesis	130454	Araip.N7X0P
+6855756	abscisic acid biosynthesis	130454	Araip.19Q4A
+6855756	abscisic acid biosynthesis	130454	Araip.A2UQA
+6855848	leucopelargonidin and leucocyanidin biosynthesis	130454	Araip.NIV47
+6855848	leucopelargonidin and leucocyanidin biosynthesis	130454	Araip.21BTV
+6855780	stachyose biosynthesis	130454	Araip.LBU7J
+6855780	stachyose biosynthesis	130454	Araip.SRA93
+6855780	stachyose biosynthesis	130454	Araip.KNT6A
+6855780	stachyose biosynthesis	130454	Araip.40N3F
+6855780	stachyose biosynthesis	130454	Araip.EW2ZU
+6855780	stachyose biosynthesis	130454	Araip.87RQD
+6855780	stachyose biosynthesis	130454	Araip.NEM14
+6855780	stachyose biosynthesis	130454	Araip.L3NWH
+6855872	Oryzalexin S biosynthesis	130454	Araip.7D7PZ
+6855779	aminopropanol biosynthesis	130454	Araip.F3EP7
+6855779	aminopropanol biosynthesis	130454	Araip.AEN35
+6855779	aminopropanol biosynthesis	130454	Araip.R00CW
+6855779	aminopropanol biosynthesis	130454	Araip.P3SU7
+6855779	aminopropanol biosynthesis	130454	Araip.KD7KV
+6855779	aminopropanol biosynthesis	130454	Araip.I0RG1
+6855880	glutamine biosynthesis I	130454	Araip.T9T6I
+6855880	glutamine biosynthesis I	130454	Araip.74N1T
+6855825	IAA biosynthesis VI (via indole-3-acetamide)	130454	Araip.43Q6Z
+6855767	folate polyglutamylation II	130454	Araip.Y68AR
+6855767	folate polyglutamylation II	130454	Araip.10TQ4
+6855767	folate polyglutamylation II	130454	Araip.15P00
+6855785	trans-zeatin biosynthesis	130454	Araip.G0H3V
+6855785	trans-zeatin biosynthesis	130454	Araip.7RN1R
+6855785	trans-zeatin biosynthesis	130454	Araip.18CW0
+6855785	trans-zeatin biosynthesis	130454	Araip.IGJ87
+6855858	ammonia assimilation cycle	130454	Araip.T9T6I
+6855858	ammonia assimilation cycle	130454	Araip.74N1T
+6855858	ammonia assimilation cycle	130454	Araip.A7VDE
+6855858	ammonia assimilation cycle	130454	Araip.XIB07
+6855760	cytokinins 9-N-glucoside biosynthesis	130454	Araip.V2JWX
+6855760	cytokinins 9-N-glucoside biosynthesis	130454	Araip.CSX4W
+6855760	cytokinins 9-N-glucoside biosynthesis	130454	Araip.H41HP
+6855760	cytokinins 9-N-glucoside biosynthesis	130454	Araip.0FY9Y
+6855815	phenylalanine biosynthesis I	130454	Araip.EE4U2
+6855815	phenylalanine biosynthesis I	130454	Araip.1MT39
+6855815	phenylalanine biosynthesis I	130454	Araip.738JR
+6855815	phenylalanine biosynthesis I	130454	Araip.HIL9C
+6855815	phenylalanine biosynthesis I	130454	Araip.7F9AX
+6855815	phenylalanine biosynthesis I	130454	Araip.EBH0J
+6855815	phenylalanine biosynthesis I	130454	Araip.3R87M
+6855815	phenylalanine biosynthesis I	130454	Araip.IE0US
+6855815	phenylalanine biosynthesis I	130454	Araip.V4QTU
+6855815	phenylalanine biosynthesis I	130454	Araip.WGE5V
+6855902	Xyloglucan biosynthesis	130454	Araip.L0D82
+6855902	Xyloglucan biosynthesis	130454	Araip.R7UJS
+6855902	Xyloglucan biosynthesis	130454	Araip.F5HBK
+6855902	Xyloglucan biosynthesis	130454	Araip.H2VQG
+6855902	Xyloglucan biosynthesis	130454	Araip.GJ2VW
+6855809	glutathione biosynthesis	130454	Araip.FW6PM
+6855809	glutathione biosynthesis	130454	Araip.73AZP
+6855806	pantothenate biosynthesis III	130454	Araip.PC2P2
+6855740	pantothenate biosynthesis I	130454	Araip.PC2P2
+6855740	pantothenate biosynthesis I	130454	Araip.76LR9
+6855740	pantothenate biosynthesis I	130454	Araip.DQ8EI
+6855740	pantothenate biosynthesis I	130454	Araip.6C4D5
+6855740	pantothenate biosynthesis I	130454	Araip.UV2PE
+6855830	S-adenosyl-L-methionine cycle	130454	Araip.XJS45
+6855830	S-adenosyl-L-methionine cycle	130454	Araip.XM4LL
+6855830	S-adenosyl-L-methionine cycle	130454	Araip.R525U
+6855830	S-adenosyl-L-methionine cycle	130454	Araip.WCF75
+6855830	S-adenosyl-L-methionine cycle	130454	Araip.2LM92
+6855829	methionine biosynthesis II	130454	Araip.AI3RV
+6855829	methionine biosynthesis II	130454	Araip.PNY1B
+6855829	methionine biosynthesis II	130454	Araip.IE0US
+6855829	methionine biosynthesis II	130454	Araip.P8SRT
+6855829	methionine biosynthesis II	130454	Araip.XM4LL
+6855829	methionine biosynthesis II	130454	Araip.WGE5V
+6855829	methionine biosynthesis II	130454	Araip.87B80
+6855829	methionine biosynthesis II	130454	Araip.2LM92
+6855784	canavanine biosynthesis	130454	Araip.K7ZDH
+6855784	canavanine biosynthesis	130454	Araip.ZW9IU
+6855784	canavanine biosynthesis	130454	Araip.XE7B2
+6855784	canavanine biosynthesis	130454	Araip.C1RZ2
+6855737	sterol biosynthesis	130454	Araip.QF1TG
+6855737	sterol biosynthesis	130454	Araip.QJ4MM
+6855737	sterol biosynthesis	130454	Araip.WI7LP
+6855737	sterol biosynthesis	130454	Araip.Q799J
+6855737	sterol biosynthesis	130454	Araip.XEM8X
+6855737	sterol biosynthesis	130454	Araip.23LJ8
+6855737	sterol biosynthesis	130454	Araip.R89HK
+6855737	sterol biosynthesis	130454	Araip.I055V
+6855737	sterol biosynthesis	130454	Araip.4N45L
+6855737	sterol biosynthesis	130454	Araip.K2V89
+6855737	sterol biosynthesis	130454	Araip.QBI8Q
+6855737	sterol biosynthesis	130454	Araip.R6JKD
+6855746	arginine biosynthesis II (acetyl cycle)	130454	Araip.E629F
+6855746	arginine biosynthesis II (acetyl cycle)	130454	Araip.G8H3T
+6855746	arginine biosynthesis II (acetyl cycle)	130454	Araip.63HA5
+6855746	arginine biosynthesis II (acetyl cycle)	130454	Araip.M7YXX
+6855746	arginine biosynthesis II (acetyl cycle)	130454	Araip.ZW9IU
+6855746	arginine biosynthesis II (acetyl cycle)	130454	Araip.XE7B2
+6855746	arginine biosynthesis II (acetyl cycle)	130454	Araip.0WM4W
+6855746	arginine biosynthesis II (acetyl cycle)	130454	Araip.C1RZ2
+6855746	arginine biosynthesis II (acetyl cycle)	130454	Araip.B0R7Q
+6855746	arginine biosynthesis II (acetyl cycle)	130454	Araip.B6F4A
+6855772	phaseic acid biosynthesis	130454	Araip.BYM6A
+6855772	phaseic acid biosynthesis	130454	Araip.FMC77
+6855859	UDP-L-arabinose biosynthesis I (from UDP-xylose)	130454	Araip.IV2UH
+6855859	UDP-L-arabinose biosynthesis I (from UDP-xylose)	130454	Araip.965E6

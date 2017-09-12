@@ -1,0 +1,1049 @@
+6852064	Abscisic acid (ABA) mediated signaling	130453	Aradu.EG2K3
+6852064	Abscisic acid (ABA) mediated signaling	130453	Aradu.E1B6G
+6852064	Abscisic acid (ABA) mediated signaling	130453	Aradu.P431U
+6852064	Abscisic acid (ABA) mediated signaling	130453	Aradu.Z35AI
+6852064	Abscisic acid (ABA) mediated signaling	130453	Aradu.9MN88
+6852064	Abscisic acid (ABA) mediated signaling	130453	Aradu.IIC03
+6852064	Abscisic acid (ABA) mediated signaling	130453	Aradu.GG1IM
+6852064	Abscisic acid (ABA) mediated signaling	130453	Aradu.P4874
+6852064	Abscisic acid (ABA) mediated signaling	130453	Aradu.640E1
+6852064	Abscisic acid (ABA) mediated signaling	130453	Aradu.M5D2I
+6852064	Abscisic acid (ABA) mediated signaling	130453	Aradu.V68II
+6852064	Abscisic acid (ABA) mediated signaling	130453	Aradu.P2C14
+6852054	asparagine degradation I	130453	Aradu.W80F3
+6852054	asparagine degradation I	130453	Aradu.X1Y61
+6852054	asparagine degradation I	130453	Aradu.2W3AB
+6852054	asparagine degradation I	130453	Aradu.GKD3R
+6852054	asparagine degradation I	130453	Aradu.149WS
+6852039	peptidoglycan biosynthesis I	130453	Aradu.36IF7
+6852039	peptidoglycan biosynthesis I	130453	Aradu.33LQY
+6852039	peptidoglycan biosynthesis I	130453	Aradu.38GWR
+6852039	peptidoglycan biosynthesis I	130453	Aradu.V1H1X
+6852039	peptidoglycan biosynthesis I	130453	Aradu.ELK9H
+6851900	glycolipid desaturation	130453	Aradu.UT0N9
+6851900	glycolipid desaturation	130453	Aradu.G1YNF
+6851900	glycolipid desaturation	130453	Aradu.8GP5U
+6851900	glycolipid desaturation	130453	Aradu.AV1HQ
+6851900	glycolipid desaturation	130453	Aradu.7W39T
+6852020	cellulose biosynthesis	130453	Aradu.SCP3X
+6852020	cellulose biosynthesis	130453	Aradu.36EYN
+6852020	cellulose biosynthesis	130453	Aradu.IW3DF
+6852020	cellulose biosynthesis	130453	Aradu.YDW81
+6852020	cellulose biosynthesis	130453	Aradu.B8U1W
+6852020	cellulose biosynthesis	130453	Aradu.KU7WP
+6852020	cellulose biosynthesis	130453	Aradu.LXW3J
+6852020	cellulose biosynthesis	130453	Aradu.GKF95
+6852020	cellulose biosynthesis	130453	Aradu.A050J
+6852020	cellulose biosynthesis	130453	Aradu.8D5LI
+6852031	phenylpropanoid biosynthesis, initial reactions	130453	Aradu.NNP8F
+6852031	phenylpropanoid biosynthesis, initial reactions	130453	Aradu.FZ269
+6852031	phenylpropanoid biosynthesis, initial reactions	130453	Aradu.10WEW
+6852031	phenylpropanoid biosynthesis, initial reactions	130453	Aradu.IM9AT
+6852031	phenylpropanoid biosynthesis, initial reactions	130453	Aradu.G7F8E
+6851928	sulfate activation for sulfonation	130453	Aradu.ZK0JG
+6851948	phaseic acid biosynthesis	130453	Aradu.KNN0Y
+6851948	phaseic acid biosynthesis	130453	Aradu.Q3FM7
+6852050	Oryzalexin S biosynthesis	130453	Aradu.8J9WZ
+6851898	Cytosolic glycolysis	130453	Aradu.7X3HU
+6851898	Cytosolic glycolysis	130453	Aradu.J1AYY
+6851898	Cytosolic glycolysis	130453	Aradu.Y017B
+6851898	Cytosolic glycolysis	130453	Aradu.B07HB
+6851955	stachyose biosynthesis	130453	Aradu.F2QXB
+6851955	stachyose biosynthesis	130453	Aradu.HC115
+6851955	stachyose biosynthesis	130453	Aradu.Z0EIQ
+6851955	stachyose biosynthesis	130453	Aradu.G4PX6
+6851955	stachyose biosynthesis	130453	Aradu.YX91W
+6851955	stachyose biosynthesis	130453	Aradu.9K3NU
+6851955	stachyose biosynthesis	130453	Aradu.EQ3HU
+6851974	momilactone biosynthesis	130453	Aradu.V5NSB
+6851974	momilactone biosynthesis	130453	Aradu.8J9WZ
+6851918	pantothenate biosynthesis I	130453	Aradu.IU67T
+6851918	pantothenate biosynthesis I	130453	Aradu.348PZ
+6851918	pantothenate biosynthesis I	130453	Aradu.76NWV
+6851918	pantothenate biosynthesis I	130453	Aradu.P2KMP
+6851918	pantothenate biosynthesis I	130453	Aradu.48NPB
+6851997	ent-kaurene biosynthesis	130453	Aradu.M98WD
+6851997	ent-kaurene biosynthesis	130453	Aradu.6VT28
+6851997	ent-kaurene biosynthesis	130453	Aradu.8J9WZ
+6851997	ent-kaurene biosynthesis	130453	Aradu.JN944
+6851923	ornithine biosynthesis	130453	Aradu.3C582
+6851923	ornithine biosynthesis	130453	Aradu.YU82F
+6851923	ornithine biosynthesis	130453	Aradu.N7LX6
+6851923	ornithine biosynthesis	130453	Aradu.5IQ6T
+6852030	salicylate biosynthesis	130453	Aradu.NNP8F
+6852030	salicylate biosynthesis	130453	Aradu.FZ269
+6852030	salicylate biosynthesis	130453	Aradu.G7F8E
+6852078	Strigolactone signaling	130453	Aradu.C0FK0
+6852078	Strigolactone signaling	130453	Aradu.8FP0P
+6852078	Strigolactone signaling	130453	Aradu.S9A7Z
+6852078	Strigolactone signaling	130453	Aradu.K6KQ4
+6852078	Strigolactone signaling	130453	Aradu.ZV1K1
+6852078	Strigolactone signaling	130453	Aradu.49WR7
+6852078	Strigolactone signaling	130453	Aradu.R9A82
+6852078	Strigolactone signaling	130453	Aradu.S1T5J
+6852078	Strigolactone signaling	130453	Aradu.DG3NU
+6852078	Strigolactone signaling	130453	Aradu.B1CQK
+6851932	valine biosynthesis	130453	Aradu.F5D10
+6851932	valine biosynthesis	130453	Aradu.TL35C
+6851932	valine biosynthesis	130453	Aradu.17HPD
+6851932	valine biosynthesis	130453	Aradu.348PZ
+6851932	valine biosynthesis	130453	Aradu.H6U2A
+6851932	valine biosynthesis	130453	Aradu.ZL9WR
+6851932	valine biosynthesis	130453	Aradu.SIK9X
+6851932	valine biosynthesis	130453	Aradu.48NPB
+6851932	valine biosynthesis	130453	Aradu.41HRG
+6851932	valine biosynthesis	130453	Aradu.9Z0KG
+6851932	valine biosynthesis	130453	Aradu.3V31S
+6852044	citrulline-nitric oxide cycle	130453	Aradu.VXG8Q
+6852044	citrulline-nitric oxide cycle	130453	Aradu.P7XZK
+6852044	citrulline-nitric oxide cycle	130453	Aradu.2SV86
+6852021	acyl-CoA synthetase pathway	130453	Aradu.I59PP
+6852021	acyl-CoA synthetase pathway	130453	Aradu.IHM71
+6852021	acyl-CoA synthetase pathway	130453	Aradu.D7GNY
+6852029	beta-alanine biosynthesis II	130453	Aradu.6MW2E
+6852029	beta-alanine biosynthesis II	130453	Aradu.XU23G
+6852029	beta-alanine biosynthesis II	130453	Aradu.C02C1
+6852029	beta-alanine biosynthesis II	130453	Aradu.6I85B
+6852029	beta-alanine biosynthesis II	130453	Aradu.S4NDW
+6852055	homocysteine biosynthesis	130453	Aradu.SYE5N
+6852074	glutamate biosynthesis IV	130453	Aradu.Q3X7M
+6852074	glutamate biosynthesis IV	130453	Aradu.02IKD
+6852019	thiosulfate disproportionation III (rhodanese)	130453	Aradu.329DD
+6851987	fructan biosynthesis	130453	Aradu.7N2H0
+6851987	fructan biosynthesis	130453	Aradu.1B80H
+6852042	IAA conjugate biosynthesis I	130453	Aradu.WM4V4
+6852042	IAA conjugate biosynthesis I	130453	Aradu.KU7EH
+6852042	IAA conjugate biosynthesis I	130453	Aradu.VB4ZI
+6852001	IAA biosynthesis VI (via indole-3-acetamide)	130453	Aradu.Q41F1
+6851951	gibberellin biosynthesis II (early C-3 hydroxylation)	130453	Aradu.K84FP
+6851951	gibberellin biosynthesis II (early C-3 hydroxylation)	130453	Aradu.U35FJ
+6852075	lysine biosynthesis VI	130453	Aradu.51556
+6852075	lysine biosynthesis VI	130453	Aradu.TG268
+6852075	lysine biosynthesis VI	130453	Aradu.RKM5L
+6852075	lysine biosynthesis VI	130453	Aradu.PX1XB
+6852075	lysine biosynthesis VI	130453	Aradu.3HF0R
+6852075	lysine biosynthesis VI	130453	Aradu.CMI46
+6852075	lysine biosynthesis VI	130453	Aradu.S8IWK
+6852075	lysine biosynthesis VI	130453	Aradu.FC5JP
+6852075	lysine biosynthesis VI	130453	Aradu.WLL49
+6852075	lysine biosynthesis VI	130453	Aradu.I0KNH
+6851954	aminopropanol biosynthesis	130453	Aradu.M6LMC
+6851954	aminopropanol biosynthesis	130453	Aradu.DH828
+6851954	aminopropanol biosynthesis	130453	Aradu.R72MD
+6851954	aminopropanol biosynthesis	130453	Aradu.X4DG3
+6851954	aminopropanol biosynthesis	130453	Aradu.P0XL9
+6852058	glutamine biosynthesis I	130453	Aradu.51WYZ
+6851946	chlorophyll a biosynthesis II	130453	Aradu.646B6
+6851946	chlorophyll a biosynthesis II	130453	Aradu.7K822
+6851946	chlorophyll a biosynthesis II	130453	Aradu.L6TW0
+6852009	ethylene biosynthesis from methionine	130453	Aradu.Z0LGY
+6852009	ethylene biosynthesis from methionine	130453	Aradu.WQE4S
+6852009	ethylene biosynthesis from methionine	130453	Aradu.H5M4Q
+6852009	ethylene biosynthesis from methionine	130453	Aradu.ILB9Z
+6852009	ethylene biosynthesis from methionine	130453	Aradu.M1ZWV
+6852009	ethylene biosynthesis from methionine	130453	Aradu.55M8P
+6852009	ethylene biosynthesis from methionine	130453	Aradu.DV28N
+6852009	ethylene biosynthesis from methionine	130453	Aradu.X6LF1
+6852009	ethylene biosynthesis from methionine	130453	Aradu.EM688
+6851965	lysine biosynthesis I	130453	Aradu.51556
+6851965	lysine biosynthesis I	130453	Aradu.J1AYY
+6851965	lysine biosynthesis I	130453	Aradu.TG268
+6851965	lysine biosynthesis I	130453	Aradu.PX1XB
+6851965	lysine biosynthesis I	130453	Aradu.IW9VR
+6851965	lysine biosynthesis I	130453	Aradu.3HF0R
+6851965	lysine biosynthesis I	130453	Aradu.WLL49
+6851965	lysine biosynthesis I	130453	Aradu.FC5JP
+6851965	lysine biosynthesis I	130453	Aradu.I0KNH
+6851965	lysine biosynthesis I	130453	Aradu.3C582
+6851965	lysine biosynthesis I	130453	Aradu.7X3HU
+6851965	lysine biosynthesis I	130453	Aradu.RKM5L
+6851965	lysine biosynthesis I	130453	Aradu.C24KQ
+6851965	lysine biosynthesis I	130453	Aradu.Y017B
+6851965	lysine biosynthesis I	130453	Aradu.CMI46
+6851925	gamma-glutamyl cycle	130453	Aradu.SZ91T
+6851925	gamma-glutamyl cycle	130453	Aradu.C4I5E
+6851925	gamma-glutamyl cycle	130453	Aradu.J0PRI
+6851958	kievitone biosynthesis	130453	Aradu.S738B
+6852084	Salicylic acid signaling	130453	Aradu.M9L15
+6852084	Salicylic acid signaling	130453	Aradu.I6GFF
+6852084	Salicylic acid signaling	130453	Aradu.X4R7M
+6852084	Salicylic acid signaling	130453	Aradu.0L89V
+6852084	Salicylic acid signaling	130453	Aradu.P47M2
+6852084	Salicylic acid signaling	130453	Aradu.E5Q6R
+6852084	Salicylic acid signaling	130453	Aradu.L18YW
+6852084	Salicylic acid signaling	130453	Aradu.4X2FZ
+6852084	Salicylic acid signaling	130453	Aradu.8L345
+6852084	Salicylic acid signaling	130453	Aradu.GEA65
+6852084	Salicylic acid signaling	130453	Aradu.CGX1Z
+6852084	Salicylic acid signaling	130453	Aradu.J3B7D
+6852084	Salicylic acid signaling	130453	Aradu.J4IUU
+6852084	Salicylic acid signaling	130453	Aradu.D2K8N
+6852084	Salicylic acid signaling	130453	Aradu.BQ4IU
+6852084	Salicylic acid signaling	130453	Aradu.08UAJ
+6852084	Salicylic acid signaling	130453	Aradu.70DQ7
+6852084	Salicylic acid signaling	130453	Aradu.GUH8G
+6852084	Salicylic acid signaling	130453	Aradu.UXN6T
+6852084	Salicylic acid signaling	130453	Aradu.RF66L
+6852084	Salicylic acid signaling	130453	Aradu.P8P9U
+6852084	Salicylic acid signaling	130453	Aradu.NJQ5G
+6852084	Salicylic acid signaling	130453	Aradu.B1CQK
+6851937	IAA biosynthesis II	130453	Aradu.366M2
+6851937	IAA biosynthesis II	130453	Aradu.KRX9K
+6851937	IAA biosynthesis II	130453	Aradu.ESU02
+6852017	divinyl ether biosynthesis II (13-LOX)	130453	Aradu.KZX2M
+6852017	divinyl ether biosynthesis II (13-LOX)	130453	Aradu.LNK8S
+6852017	divinyl ether biosynthesis II (13-LOX)	130453	Aradu.289WG
+6851942	anthocyanin biosynthesis (pelargonidin 3-O-glucoside, cyanidin 3-O-glucoside)	130453	Aradu.68YSI
+6851967	homoserine biosynthesis	130453	Aradu.3C582
+6851967	homoserine biosynthesis	130453	Aradu.W88FU
+6851967	homoserine biosynthesis	130453	Aradu.RKM5L
+6851967	homoserine biosynthesis	130453	Aradu.PX1XB
+6851967	homoserine biosynthesis	130453	Aradu.3HF0R
+6852022	myo-inositol biosynthesis	130453	Aradu.BF56P
+6852022	myo-inositol biosynthesis	130453	Aradu.32LC7
+6852027	PRPP biosynthesis I	130453	Aradu.72I34
+6852027	PRPP biosynthesis I	130453	Aradu.9CV6N
+6852027	PRPP biosynthesis I	130453	Aradu.83I6G
+6852027	PRPP biosynthesis I	130453	Aradu.6M2AA
+6851969	isoleucine biosynthesis from threonine	130453	Aradu.F5D10
+6851969	isoleucine biosynthesis from threonine	130453	Aradu.TL35C
+6851969	isoleucine biosynthesis from threonine	130453	Aradu.17HPD
+6851969	isoleucine biosynthesis from threonine	130453	Aradu.348PZ
+6851969	isoleucine biosynthesis from threonine	130453	Aradu.H6U2A
+6851969	isoleucine biosynthesis from threonine	130453	Aradu.ZL9WR
+6851969	isoleucine biosynthesis from threonine	130453	Aradu.SIK9X
+6851969	isoleucine biosynthesis from threonine	130453	Aradu.48NPB
+6851969	isoleucine biosynthesis from threonine	130453	Aradu.41HRG
+6851969	isoleucine biosynthesis from threonine	130453	Aradu.9Z0KG
+6851969	isoleucine biosynthesis from threonine	130453	Aradu.3V31S
+6851969	isoleucine biosynthesis from threonine	130453	Aradu.BM9RZ
+6852006	S-adenosyl-L-methionine cycle	130453	Aradu.WQE4S
+6852006	S-adenosyl-L-methionine cycle	130453	Aradu.II7B4
+6852006	S-adenosyl-L-methionine cycle	130453	Aradu.X6LF1
+6852006	S-adenosyl-L-methionine cycle	130453	Aradu.NKE3U
+6851962	trans,trans-farnesyl diphosphate biosynthesis	130453	Aradu.MB9UU
+6851962	trans,trans-farnesyl diphosphate biosynthesis	130453	Aradu.5KK2Q
+6851962	trans,trans-farnesyl diphosphate biosynthesis	130453	Aradu.Z7MCS
+6851962	trans,trans-farnesyl diphosphate biosynthesis	130453	Aradu.S738B
+6851962	trans,trans-farnesyl diphosphate biosynthesis	130453	Aradu.XN88F
+6851999	lysine degradation I	130453	Aradu.S9A1G
+6851999	lysine degradation I	130453	Aradu.A5HRL
+6851999	lysine degradation I	130453	Aradu.B8GCY
+6851915	sterol biosynthesis	130453	Aradu.11KC6
+6851915	sterol biosynthesis	130453	Aradu.RA5XM
+6851915	sterol biosynthesis	130453	Aradu.K8EE3
+6851915	sterol biosynthesis	130453	Aradu.I0JQ8
+6851915	sterol biosynthesis	130453	Aradu.IZ6NY
+6851915	sterol biosynthesis	130453	Aradu.1RR29
+6851915	sterol biosynthesis	130453	Aradu.5UM9W
+6851915	sterol biosynthesis	130453	Aradu.6FT5K
+6851915	sterol biosynthesis	130453	Aradu.M72UM
+6851915	sterol biosynthesis	130453	Aradu.DYG3H
+6851916	gibberellin biosynthesis III (early C-13 hydroxylation)	130453	Aradu.K84FP
+6851916	gibberellin biosynthesis III (early C-13 hydroxylation)	130453	Aradu.U35FJ
+6851911	jasmonic acid biosynthesis	130453	Aradu.65WG6
+6851911	jasmonic acid biosynthesis	130453	Aradu.Q9Y83
+6851911	jasmonic acid biosynthesis	130453	Aradu.VI1R5
+6851911	jasmonic acid biosynthesis	130453	Aradu.64JV5
+6851911	jasmonic acid biosynthesis	130453	Aradu.T8ILN
+6851911	jasmonic acid biosynthesis	130453	Aradu.KZX2M
+6851911	jasmonic acid biosynthesis	130453	Aradu.NAJ16
+6851911	jasmonic acid biosynthesis	130453	Aradu.H2RVW
+6851911	jasmonic acid biosynthesis	130453	Aradu.LNK8S
+6851911	jasmonic acid biosynthesis	130453	Aradu.289WG
+6851904	folate polyglutamylation I	130453	Aradu.B887K
+6851904	folate polyglutamylation I	130453	Aradu.MRR38
+6851904	folate polyglutamylation I	130453	Aradu.Z0VUN
+6851904	folate polyglutamylation I	130453	Aradu.FH7I5
+6851904	folate polyglutamylation I	130453	Aradu.BAW60
+6851904	folate polyglutamylation I	130453	Aradu.V1H1X
+6851904	folate polyglutamylation I	130453	Aradu.MUM0J
+6851904	folate polyglutamylation I	130453	Aradu.HC4I0
+6851904	folate polyglutamylation I	130453	Aradu.X9ETM
+6851904	folate polyglutamylation I	130453	Aradu.02ZTY
+6851904	folate polyglutamylation I	130453	Aradu.ZZ4N0
+6852038	oleoresin sesquiterpene volatiles biosynthesis	130453	Aradu.8J9WZ
+6852015	asparagine biosynthesis I	130453	Aradu.Z4NMT
+6852015	asparagine biosynthesis I	130453	Aradu.W80F3
+6852015	asparagine biosynthesis I	130453	Aradu.Q350M
+6852015	asparagine biosynthesis I	130453	Aradu.X1Y61
+6852015	asparagine biosynthesis I	130453	Aradu.UC2R1
+6852015	asparagine biosynthesis I	130453	Aradu.637TZ
+6852015	asparagine biosynthesis I	130453	Aradu.GKD3R
+6852015	asparagine biosynthesis I	130453	Aradu.149WS
+6852048	pyridoxal 5'-phosphate biosynthesis	130453	Aradu.NY808
+6852048	pyridoxal 5'-phosphate biosynthesis	130453	Aradu.ZK7M3
+6852048	pyridoxal 5'-phosphate biosynthesis	130453	Aradu.TWP4N
+6852048	pyridoxal 5'-phosphate biosynthesis	130453	Aradu.WC1MX
+6852048	pyridoxal 5'-phosphate biosynthesis	130453	Aradu.X0HV8
+6851920	flavonoid biosynthesis	130453	Aradu.99AQ5
+6851920	flavonoid biosynthesis	130453	Aradu.1C9UI
+6851920	flavonoid biosynthesis	130453	Aradu.PIS3G
+6851920	flavonoid biosynthesis	130453	Aradu.U6MQJ
+6851920	flavonoid biosynthesis	130453	Aradu.WK4VE
+6851920	flavonoid biosynthesis	130453	Aradu.X96SI
+6851920	flavonoid biosynthesis	130453	Aradu.0AT27
+6851920	flavonoid biosynthesis	130453	Aradu.MZ0IC
+6851920	flavonoid biosynthesis	130453	Aradu.CV6FA
+6851920	flavonoid biosynthesis	130453	Aradu.C5GQ0
+6851920	flavonoid biosynthesis	130453	Aradu.WB4GB
+6851920	flavonoid biosynthesis	130453	Aradu.Q5M0R
+6851953	brassinosteroid biosynthesis II	130453	Aradu.769H5
+6851953	brassinosteroid biosynthesis II	130453	Aradu.B2V9F
+6851953	brassinosteroid biosynthesis II	130453	Aradu.CTE4G
+6851953	brassinosteroid biosynthesis II	130453	Aradu.G2TPD
+6851953	brassinosteroid biosynthesis II	130453	Aradu.KWF52
+6851953	brassinosteroid biosynthesis II	130453	Aradu.Y2XC4
+6851953	brassinosteroid biosynthesis II	130453	Aradu.JU9J9
+6851953	brassinosteroid biosynthesis II	130453	Aradu.8J509
+6851953	brassinosteroid biosynthesis II	130453	Aradu.C6RS5
+6851973	gentiodelphin biosynthesis	130453	Aradu.WM4V4
+6851973	gentiodelphin biosynthesis	130453	Aradu.KU7EH
+6851973	gentiodelphin biosynthesis	130453	Aradu.ZXR62
+6851973	gentiodelphin biosynthesis	130453	Aradu.VB4ZI
+6851973	gentiodelphin biosynthesis	130453	Aradu.N7TR4
+6851973	gentiodelphin biosynthesis	130453	Aradu.39G9P
+6852045	thiamine biosynthesis	130453	Aradu.R49RV
+6852045	thiamine biosynthesis	130453	Aradu.NY808
+6852045	thiamine biosynthesis	130453	Aradu.TWP4N
+6852045	thiamine biosynthesis	130453	Aradu.WC1MX
+6851931	cholesterol biosynthesis I	130453	Aradu.4R68R
+6851931	cholesterol biosynthesis I	130453	Aradu.IZ6NY
+6851931	cholesterol biosynthesis I	130453	Aradu.5UM9W
+6851931	cholesterol biosynthesis I	130453	Aradu.6FT5K
+6851968	galactosylcyclitol biosynthesis	130453	Aradu.MYL9N
+6851968	galactosylcyclitol biosynthesis	130453	Aradu.D35CW
+6851968	galactosylcyclitol biosynthesis	130453	Aradu.47HWK
+6851968	galactosylcyclitol biosynthesis	130453	Aradu.00NYG
+6851968	galactosylcyclitol biosynthesis	130453	Aradu.N4WED
+6851968	galactosylcyclitol biosynthesis	130453	Aradu.42MPW
+6852083	Jasmonic acid signaling	130453	Aradu.K1J7U
+6852083	Jasmonic acid signaling	130453	Aradu.XUD70
+6852083	Jasmonic acid signaling	130453	Aradu.61RDF
+6852083	Jasmonic acid signaling	130453	Aradu.X4R7M
+6852083	Jasmonic acid signaling	130453	Aradu.58WGM
+6852083	Jasmonic acid signaling	130453	Aradu.L18YW
+6852083	Jasmonic acid signaling	130453	Aradu.VS34U
+6852083	Jasmonic acid signaling	130453	Aradu.NA11G
+6852083	Jasmonic acid signaling	130453	Aradu.J3B7D
+6852083	Jasmonic acid signaling	130453	Aradu.Q9Y83
+6852083	Jasmonic acid signaling	130453	Aradu.J4IUU
+6852083	Jasmonic acid signaling	130453	Aradu.09NV4
+6852083	Jasmonic acid signaling	130453	Aradu.HN9N9
+6852083	Jasmonic acid signaling	130453	Aradu.33VZ6
+6852083	Jasmonic acid signaling	130453	Aradu.61JFB
+6852083	Jasmonic acid signaling	130453	Aradu.G38ML
+6852083	Jasmonic acid signaling	130453	Aradu.J6GHV
+6852083	Jasmonic acid signaling	130453	Aradu.94BIF
+6852083	Jasmonic acid signaling	130453	Aradu.D8TZD
+6852083	Jasmonic acid signaling	130453	Aradu.LBL6B
+6852083	Jasmonic acid signaling	130453	Aradu.N7IXY
+6852083	Jasmonic acid signaling	130453	Aradu.72XAG
+6852083	Jasmonic acid signaling	130453	Aradu.U3SNU
+6852083	Jasmonic acid signaling	130453	Aradu.B1CQK
+6852004	cysteine biosynthesis I	130453	Aradu.2H2I5
+6852004	cysteine biosynthesis I	130453	Aradu.H26ZU
+6852004	cysteine biosynthesis I	130453	Aradu.R65GQ
+6852004	cysteine biosynthesis I	130453	Aradu.51DJW
+6852004	cysteine biosynthesis I	130453	Aradu.E7E3E
+6852004	cysteine biosynthesis I	130453	Aradu.9IX37
+6852004	cysteine biosynthesis I	130453	Aradu.FXQ56
+6852026	flavin biosynthesis	130453	Aradu.X529F
+6852026	flavin biosynthesis	130453	Aradu.JSU3S
+6852026	flavin biosynthesis	130453	Aradu.Z6Z82
+6852026	flavin biosynthesis	130453	Aradu.UC19M
+6852026	flavin biosynthesis	130453	Aradu.22MJZ
+6852026	flavin biosynthesis	130453	Aradu.W4DF8
+6852071	Strigolactone Biosynthesis	130453	Aradu.3LA4T
+6852071	Strigolactone Biosynthesis	130453	Aradu.1TD34
+6852071	Strigolactone Biosynthesis	130453	Aradu.J439W
+6852071	Strigolactone Biosynthesis	130453	Aradu.45I6B
+6852002	proanthocyanidin biosynthesis from flavanols	130453	Aradu.WD8GP
+6851924	arginine biosynthesis II (acetyl cycle)	130453	Aradu.3C582
+6851924	arginine biosynthesis II (acetyl cycle)	130453	Aradu.YU82F
+6851924	arginine biosynthesis II (acetyl cycle)	130453	Aradu.ZHD9S
+6851924	arginine biosynthesis II (acetyl cycle)	130453	Aradu.VXG8Q
+6851924	arginine biosynthesis II (acetyl cycle)	130453	Aradu.P7XZK
+6851924	arginine biosynthesis II (acetyl cycle)	130453	Aradu.B7233
+6851924	arginine biosynthesis II (acetyl cycle)	130453	Aradu.R0QSC
+6851924	arginine biosynthesis II (acetyl cycle)	130453	Aradu.MA8XX
+6851924	arginine biosynthesis II (acetyl cycle)	130453	Aradu.5IQ6T
+6851959	NAD biosynthesis I (from aspartate)	130453	Aradu.FFY3F
+6851959	NAD biosynthesis I (from aspartate)	130453	Aradu.ZHM8Y
+6851959	NAD biosynthesis I (from aspartate)	130453	Aradu.UM7TW
+6851959	NAD biosynthesis I (from aspartate)	130453	Aradu.IRK1D
+6851930	cholesterol biosynthesis III (via desmosterol)	130453	Aradu.4R68R
+6851930	cholesterol biosynthesis III (via desmosterol)	130453	Aradu.IZ6NY
+6851930	cholesterol biosynthesis III (via desmosterol)	130453	Aradu.5UM9W
+6851930	cholesterol biosynthesis III (via desmosterol)	130453	Aradu.6FT5K
+6851977	UDP-D-glucuronate biosynthesis (from myo-inositol)	130453	Aradu.XRA1G
+6851977	UDP-D-glucuronate biosynthesis (from myo-inositol)	130453	Aradu.NU4RC
+6851977	UDP-D-glucuronate biosynthesis (from myo-inositol)	130453	Aradu.GX58B
+6852059	putrescine biosynthesis III	130453	Aradu.7D15Q
+6851939	vitamin E biosynthesis	130453	Aradu.FXP12
+6851939	vitamin E biosynthesis	130453	Aradu.44CZN
+6851939	vitamin E biosynthesis	130453	Aradu.6UD07
+6851939	vitamin E biosynthesis	130453	Aradu.HK1JB
+6851939	vitamin E biosynthesis	130453	Aradu.XR1NY
+6851939	vitamin E biosynthesis	130453	Aradu.R479P
+6852069	Calvin cycle	130453	Aradu.NR4MV
+6852069	Calvin cycle	130453	Aradu.UG27L
+6852069	Calvin cycle	130453	Aradu.F9LPP
+6852069	Calvin cycle	130453	Aradu.L7ESN
+6852069	Calvin cycle	130453	Aradu.DS41E
+6852069	Calvin cycle	130453	Aradu.N8WG9
+6852069	Calvin cycle	130453	Aradu.Z5F9U
+6852069	Calvin cycle	130453	Aradu.4QE7C
+6852069	Calvin cycle	130453	Aradu.IS5YT
+6852069	Calvin cycle	130453	Aradu.GS6JQ
+6852069	Calvin cycle	130453	Aradu.J33DL
+6852069	Calvin cycle	130453	Aradu.3V0K1
+6852069	Calvin cycle	130453	Aradu.EV49X
+6852069	Calvin cycle	130453	Aradu.791RE
+6852069	Calvin cycle	130453	Aradu.N7F34
+6852069	Calvin cycle	130453	Aradu.3S60E
+6852069	Calvin cycle	130453	Aradu.B07HB
+6852069	Calvin cycle	130453	Aradu.R24QW
+6852069	Calvin cycle	130453	Aradu.Y6Z6M
+6852069	Calvin cycle	130453	Aradu.71C1P
+6852066	phylloquinone biosynthesis	130453	Aradu.CQN7Q
+6851944	carotenoid biosynthesis	130453	Aradu.L70AA
+6851944	carotenoid biosynthesis	130453	Aradu.9ID7S
+6851944	carotenoid biosynthesis	130453	Aradu.W8K8D
+6851944	carotenoid biosynthesis	130453	Aradu.C6VT4
+6851944	carotenoid biosynthesis	130453	Aradu.45QUK
+6851944	carotenoid biosynthesis	130453	Aradu.SB00U
+6851944	carotenoid biosynthesis	130453	Aradu.M6LYV
+6851944	carotenoid biosynthesis	130453	Aradu.75D3M
+6852037	UDP-L-arabinose biosynthesis I (from UDP-xylose)	130453	Aradu.M20VL
+6852076	arginine degradation VI (arginase 2 pathway)	130453	Aradu.YU82F
+6852076	arginine degradation VI (arginase 2 pathway)	130453	Aradu.16RQU
+6852076	arginine degradation VI (arginase 2 pathway)	130453	Aradu.W8L28
+6851998	putrescine biosynthesis II	130453	Aradu.GHV9J
+6851998	putrescine biosynthesis II	130453	Aradu.22ZEB
+6851998	putrescine biosynthesis II	130453	Aradu.3N51U
+6851998	putrescine biosynthesis II	130453	Aradu.EH7GR
+6851976	proline biosynthesis V (from arginine)	130453	Aradu.YU82F
+6851976	proline biosynthesis V (from arginine)	130453	Aradu.MA8XX
+6851976	proline biosynthesis V (from arginine)	130453	Aradu.W8L28
+6851990	GDP-mannose metabolism	130453	Aradu.XNJ7V
+6851990	GDP-mannose metabolism	130453	Aradu.2XF2V
+6851990	GDP-mannose metabolism	130453	Aradu.F7LJA
+6851990	GDP-mannose metabolism	130453	Aradu.2J678
+6851990	GDP-mannose metabolism	130453	Aradu.FR5NK
+6851990	GDP-mannose metabolism	130453	Aradu.3D1M6
+6851990	GDP-mannose metabolism	130453	Aradu.ZF53H
+6852005	methionine biosynthesis II	130453	Aradu.JQ7JG
+6852005	methionine biosynthesis II	130453	Aradu.JFD8S
+6852005	methionine biosynthesis II	130453	Aradu.IEK57
+6852005	methionine biosynthesis II	130453	Aradu.X2HBL
+6852005	methionine biosynthesis II	130453	Aradu.II7B4
+6852005	methionine biosynthesis II	130453	Aradu.NKE3U
+6852005	methionine biosynthesis II	130453	Aradu.CKZ6B
+6852007	linear furanocoumarin biosynthesis	130453	Aradu.M0XAT
+6852007	linear furanocoumarin biosynthesis	130453	Aradu.W08R7
+6852007	linear furanocoumarin biosynthesis	130453	Aradu.H71BU
+6852007	linear furanocoumarin biosynthesis	130453	Aradu.SD45B
+6851902	tetrahydrofolate biosynthesis II	130453	Aradu.E7IUF
+6851902	tetrahydrofolate biosynthesis II	130453	Aradu.SP6L7
+6851902	tetrahydrofolate biosynthesis II	130453	Aradu.V1H1X
+6851902	tetrahydrofolate biosynthesis II	130453	Aradu.ZD05E
+6851902	tetrahydrofolate biosynthesis II	130453	Aradu.X9ETM
+6851902	tetrahydrofolate biosynthesis II	130453	Aradu.02ZTY
+6851902	tetrahydrofolate biosynthesis II	130453	Aradu.V2X4P
+6851902	tetrahydrofolate biosynthesis II	130453	Aradu.M1AJQ
+6851902	tetrahydrofolate biosynthesis II	130453	Aradu.B887K
+6851902	tetrahydrofolate biosynthesis II	130453	Aradu.X1BH5
+6851902	tetrahydrofolate biosynthesis II	130453	Aradu.BP1MJ
+6851902	tetrahydrofolate biosynthesis II	130453	Aradu.B4I2A
+6851902	tetrahydrofolate biosynthesis II	130453	Aradu.M57XL
+6851902	tetrahydrofolate biosynthesis II	130453	Aradu.86J72
+6851902	tetrahydrofolate biosynthesis II	130453	Aradu.ZZ4N0
+6852012	aspartate biosynthesis I	130453	Aradu.W80F3
+6852012	aspartate biosynthesis I	130453	Aradu.X1Y61
+6852012	aspartate biosynthesis I	130453	Aradu.GKD3R
+6852012	aspartate biosynthesis I	130453	Aradu.149WS
+6852068	tetrapyrrole biosynthesis I	130453	Aradu.TN0QL
+6852068	tetrapyrrole biosynthesis I	130453	Aradu.QYZ18
+6852068	tetrapyrrole biosynthesis I	130453	Aradu.YGS39
+6852068	tetrapyrrole biosynthesis I	130453	Aradu.JNF3F
+6852068	tetrapyrrole biosynthesis I	130453	Aradu.9XQ5Q
+6852068	tetrapyrrole biosynthesis I	130453	Aradu.L7EUR
+6852081	xylogalacturonan biosynthesis	130453	Aradu.4B9ZF
+6852081	xylogalacturonan biosynthesis	130453	Aradu.ZR5DV
+6852062	Plastid glycolysis	130453	Aradu.3V0K1
+6852062	Plastid glycolysis	130453	Aradu.A3N3V
+6852062	Plastid glycolysis	130453	Aradu.88KLW
+6852062	Plastid glycolysis	130453	Aradu.3S60E
+6851985	glutathione biosynthesis	130453	Aradu.SZ91T
+6851985	glutathione biosynthesis	130453	Aradu.C4I5E
+6851994	allantoin degradation I	130453	Aradu.SIK9X
+6851994	allantoin degradation I	130453	Aradu.9Z0KG
+6851963	sucrose biosynthesis	130453	Aradu.P5UZE
+6851963	sucrose biosynthesis	130453	Aradu.JW82A
+6851963	sucrose biosynthesis	130453	Aradu.MIX60
+6851963	sucrose biosynthesis	130453	Aradu.S7P2G
+6851963	sucrose biosynthesis	130453	Aradu.1I23V
+6851963	sucrose biosynthesis	130453	Aradu.PD37S
+6851963	sucrose biosynthesis	130453	Aradu.5U8HG
+6851963	sucrose biosynthesis	130453	Aradu.810XL
+6851963	sucrose biosynthesis	130453	Aradu.FR5NK
+6851963	sucrose biosynthesis	130453	Aradu.DAS60
+6851963	sucrose biosynthesis	130453	Aradu.ZF53H
+6852061	resveratrol biosynthesis	130453	Aradu.WB4GB
+6851947	UDP-N-acetylgalactosamine biosynthesis	130453	Aradu.PK7XR
+6851947	UDP-N-acetylgalactosamine biosynthesis	130453	Aradu.VCD0R
+6851947	UDP-N-acetylgalactosamine biosynthesis	130453	Aradu.DE8ET
+6851947	UDP-N-acetylgalactosamine biosynthesis	130453	Aradu.S9QGV
+6851936	gibberellin biosynthesis I (non C-3, non C-13 hydroxylation)	130453	Aradu.K84FP
+6851936	gibberellin biosynthesis I (non C-3, non C-13 hydroxylation)	130453	Aradu.U35FJ
+6852003	threonine biosynthesis from homoserine	130453	Aradu.W72XI
+6852003	threonine biosynthesis from homoserine	130453	Aradu.X2HBL
+6852003	threonine biosynthesis from homoserine	130453	Aradu.ZBZ36
+6851972	methylerythritol phosphate pathway	130453	Aradu.VM6LR
+6851972	methylerythritol phosphate pathway	130453	Aradu.Z9YF8
+6851972	methylerythritol phosphate pathway	130453	Aradu.NY808
+6851972	methylerythritol phosphate pathway	130453	Aradu.B7Z5E
+6851972	methylerythritol phosphate pathway	130453	Aradu.MGZ8T
+6851972	methylerythritol phosphate pathway	130453	Aradu.01AIN
+6851972	methylerythritol phosphate pathway	130453	Aradu.TWP4N
+6851972	methylerythritol phosphate pathway	130453	Aradu.WC1MX
+6851972	methylerythritol phosphate pathway	130453	Aradu.RJ582
+6851972	methylerythritol phosphate pathway	130453	Aradu.P16S3
+6851972	methylerythritol phosphate pathway	130453	Aradu.P8M1S
+6851972	methylerythritol phosphate pathway	130453	Aradu.Z7TG8
+6851972	methylerythritol phosphate pathway	130453	Aradu.45B71
+6852082	Xyloglucan biosynthesis	130453	Aradu.405P3
+6852082	Xyloglucan biosynthesis	130453	Aradu.UHK8G
+6852082	Xyloglucan biosynthesis	130453	Aradu.EQT8P
+6852082	Xyloglucan biosynthesis	130453	Aradu.903PW
+6852063	Mitochondrial pyruvate metabolism	130453	Aradu.LF723
+6852080	Xylan Biosynthesis	130453	Aradu.H0BW9
+6852080	Xylan Biosynthesis	130453	Aradu.NF6XD
+6852080	Xylan Biosynthesis	130453	Aradu.88B96
+6852080	Xylan Biosynthesis	130453	Aradu.YU74D
+6852080	Xylan Biosynthesis	130453	Aradu.V8J7V
+6851908	IAA biosynthesis I	130453	Aradu.9PE6P
+6851908	IAA biosynthesis I	130453	Aradu.99WG9
+6851908	IAA biosynthesis I	130453	Aradu.NCJ0H
+6851908	IAA biosynthesis I	130453	Aradu.RCY11
+6851908	IAA biosynthesis I	130453	Aradu.3TT1Y
+6851908	IAA biosynthesis I	130453	Aradu.P2LEZ
+6851908	IAA biosynthesis I	130453	Aradu.WX5TB
+6851908	IAA biosynthesis I	130453	Aradu.VQ37E
+6851908	IAA biosynthesis I	130453	Aradu.7HH6H
+6851908	IAA biosynthesis I	130453	Aradu.9Z0KG
+6851908	IAA biosynthesis I	130453	Aradu.1Z30Z
+6851908	IAA biosynthesis I	130453	Aradu.Y5115
+6851908	IAA biosynthesis I	130453	Aradu.142E0
+6851908	IAA biosynthesis I	130453	Aradu.ZI0DW
+6851908	IAA biosynthesis I	130453	Aradu.M63CN
+6851908	IAA biosynthesis I	130453	Aradu.29ERF
+6851908	IAA biosynthesis I	130453	Aradu.SIK9X
+6851908	IAA biosynthesis I	130453	Aradu.5UB6E
+6851908	IAA biosynthesis I	130453	Aradu.RR8PW
+6851908	IAA biosynthesis I	130453	Aradu.2X14D
+6851908	IAA biosynthesis I	130453	Aradu.R7YA3
+6851908	IAA biosynthesis I	130453	Aradu.YD13K
+6851970	histidine biosynthesis I	130453	Aradu.3D2PD
+6851970	histidine biosynthesis I	130453	Aradu.W74J4
+6851970	histidine biosynthesis I	130453	Aradu.M3LAX
+6851970	histidine biosynthesis I	130453	Aradu.9B3W7
+6851970	histidine biosynthesis I	130453	Aradu.DL5AX
+6851970	histidine biosynthesis I	130453	Aradu.1P7F8
+6851970	histidine biosynthesis I	130453	Aradu.6HM8F
+6851970	histidine biosynthesis I	130453	Aradu.RYC13
+6851970	histidine biosynthesis I	130453	Aradu.G318V
+6851921	cholesterol biosynthesis II (via 24,25-dihydrolanosterol)	130453	Aradu.4R68R
+6851921	cholesterol biosynthesis II (via 24,25-dihydrolanosterol)	130453	Aradu.IZ6NY
+6851921	cholesterol biosynthesis II (via 24,25-dihydrolanosterol)	130453	Aradu.5UM9W
+6851921	cholesterol biosynthesis II (via 24,25-dihydrolanosterol)	130453	Aradu.6FT5K
+6852077	Brassinosteroid signaling	130453	Aradu.UKN3W
+6852077	Brassinosteroid signaling	130453	Aradu.PS85R
+6852077	Brassinosteroid signaling	130453	Aradu.XVI4W
+6852077	Brassinosteroid signaling	130453	Aradu.HP9LA
+6852077	Brassinosteroid signaling	130453	Aradu.94QSA
+6852077	Brassinosteroid signaling	130453	Aradu.T7YJG
+6852077	Brassinosteroid signaling	130453	Aradu.AT3ZW
+6852077	Brassinosteroid signaling	130453	Aradu.N2PLN
+6852077	Brassinosteroid signaling	130453	Aradu.QU0CV
+6852077	Brassinosteroid signaling	130453	Aradu.KM1Q8
+6852077	Brassinosteroid signaling	130453	Aradu.HM9E2
+6852077	Brassinosteroid signaling	130453	Aradu.NG8V7
+6852077	Brassinosteroid signaling	130453	Aradu.K1HGS
+6852077	Brassinosteroid signaling	130453	Aradu.IYZ9W
+6852077	Brassinosteroid signaling	130453	Aradu.B1CQK
+6852077	Brassinosteroid signaling	130453	Aradu.MXV1S
+6852077	Brassinosteroid signaling	130453	Aradu.Q2ZPW
+6852077	Brassinosteroid signaling	130453	Aradu.Q3RYP
+6852077	Brassinosteroid signaling	130453	Aradu.CEP8H
+6852077	Brassinosteroid signaling	130453	Aradu.AHF1D
+6852077	Brassinosteroid signaling	130453	Aradu.JMP75
+6852077	Brassinosteroid signaling	130453	Aradu.C0FK0
+6852077	Brassinosteroid signaling	130453	Aradu.LM21Q
+6852077	Brassinosteroid signaling	130453	Aradu.RAZ0G
+6852077	Brassinosteroid signaling	130453	Aradu.CTE87
+6852077	Brassinosteroid signaling	130453	Aradu.1S2RL
+6852077	Brassinosteroid signaling	130453	Aradu.DG3NU
+6852040	lipid-A-precursor biosynthesis	130453	Aradu.VW9JZ
+6852040	lipid-A-precursor biosynthesis	130453	Aradu.5S4NZ
+6851980	geranylgeranyldiphosphate biosynthesis II (plastidic)	130453	Aradu.MB9UU
+6851980	geranylgeranyldiphosphate biosynthesis II (plastidic)	130453	Aradu.XCU05
+6851980	geranylgeranyldiphosphate biosynthesis II (plastidic)	130453	Aradu.5KK2Q
+6851980	geranylgeranyldiphosphate biosynthesis II (plastidic)	130453	Aradu.J4C77
+6851980	geranylgeranyldiphosphate biosynthesis II (plastidic)	130453	Aradu.Z7MCS
+6851980	geranylgeranyldiphosphate biosynthesis II (plastidic)	130453	Aradu.S738B
+6851980	geranylgeranyldiphosphate biosynthesis II (plastidic)	130453	Aradu.H6FXW
+6851980	geranylgeranyldiphosphate biosynthesis II (plastidic)	130453	Aradu.XN88F
+6852013	lactucaxanthin biosynthesis	130453	Aradu.M6LYV
+6851986	wighteone and luteone biosynthesis	130453	Aradu.S738B
+6851933	GA12 biosynthesis	130453	Aradu.Z6GMH
+6851933	GA12 biosynthesis	130453	Aradu.FF0QL
+6851933	GA12 biosynthesis	130453	Aradu.SE2EU
+6851933	GA12 biosynthesis	130453	Aradu.IL9UG
+6851910	cytokinins-O-glucoside biosynthesis	130453	Aradu.WN46D
+6851910	cytokinins-O-glucoside biosynthesis	130453	Aradu.K93AE
+6851910	cytokinins-O-glucoside biosynthesis	130453	Aradu.Y5G1G
+6851910	cytokinins-O-glucoside biosynthesis	130453	Aradu.ID105
+6851910	cytokinins-O-glucoside biosynthesis	130453	Aradu.IHF7X
+6851910	cytokinins-O-glucoside biosynthesis	130453	Aradu.4XQ87
+6851910	cytokinins-O-glucoside biosynthesis	130453	Aradu.Z7FZQ
+6851910	cytokinins-O-glucoside biosynthesis	130453	Aradu.JFD76
+6851910	cytokinins-O-glucoside biosynthesis	130453	Aradu.HCH1H
+6851910	cytokinins-O-glucoside biosynthesis	130453	Aradu.23I92
+6851910	cytokinins-O-glucoside biosynthesis	130453	Aradu.BW88N
+6851910	cytokinins-O-glucoside biosynthesis	130453	Aradu.VFN3G
+6851991	phenylalanine biosynthesis I	130453	Aradu.IC2R8
+6851991	phenylalanine biosynthesis I	130453	Aradu.JFD8S
+6851991	phenylalanine biosynthesis I	130453	Aradu.M6SLA
+6851991	phenylalanine biosynthesis I	130453	Aradu.IEK57
+6851991	phenylalanine biosynthesis I	130453	Aradu.52DEQ
+6851991	phenylalanine biosynthesis I	130453	Aradu.NY5CH
+6851991	phenylalanine biosynthesis I	130453	Aradu.8479S
+6851991	phenylalanine biosynthesis I	130453	Aradu.149WS
+6851991	phenylalanine biosynthesis I	130453	Aradu.0XA87
+6851960	canavanine biosynthesis	130453	Aradu.VXG8Q
+6851960	canavanine biosynthesis	130453	Aradu.P7XZK
+6851960	canavanine biosynthesis	130453	Aradu.MA8XX
+6851960	canavanine biosynthesis	130453	Aradu.FPV9N
+6852025	leucopelargonidin and leucocyanidin biosynthesis	130453	Aradu.R6QT2
+6852025	leucopelargonidin and leucocyanidin biosynthesis	130453	Aradu.Q5M0R
+6852024	leucodelphinidin biosynthesis	130453	Aradu.R6QT2
+6852024	leucodelphinidin biosynthesis	130453	Aradu.Q5M0R
+6851983	proline biosynthesis I	130453	Aradu.BGK3K
+6851983	proline biosynthesis I	130453	Aradu.F0IZ7
+6851983	proline biosynthesis I	130453	Aradu.W8L28
+6851983	proline biosynthesis I	130453	Aradu.094MD
+6852070	Ethylene mediated signaling	130453	Aradu.U1S9C
+6852070	Ethylene mediated signaling	130453	Aradu.196BE
+6852070	Ethylene mediated signaling	130453	Aradu.LD7BF
+6852070	Ethylene mediated signaling	130453	Aradu.2J9A4
+6852070	Ethylene mediated signaling	130453	Aradu.CZ3TW
+6852070	Ethylene mediated signaling	130453	Aradu.C1X9T
+6852070	Ethylene mediated signaling	130453	Aradu.AS0KA
+6852070	Ethylene mediated signaling	130453	Aradu.H7PBF
+6852070	Ethylene mediated signaling	130453	Aradu.PZ2PD
+6852070	Ethylene mediated signaling	130453	Aradu.TTI87
+6852070	Ethylene mediated signaling	130453	Aradu.PSR3T
+6852070	Ethylene mediated signaling	130453	Aradu.U3SNU
+6852047	hydroxycinnamic acid serotonin amides biosynthesis	130453	Aradu.YXE38
+6852047	hydroxycinnamic acid serotonin amides biosynthesis	130453	Aradu.KQ6NP
+6852047	hydroxycinnamic acid serotonin amides biosynthesis	130453	Aradu.TNI2G
+6852047	hydroxycinnamic acid serotonin amides biosynthesis	130453	Aradu.4B6GH
+6852047	hydroxycinnamic acid serotonin amides biosynthesis	130453	Aradu.32QV2
+6852047	hydroxycinnamic acid serotonin amides biosynthesis	130453	Aradu.RP8T4
+6852047	hydroxycinnamic acid serotonin amides biosynthesis	130453	Aradu.DA245
+6852047	hydroxycinnamic acid serotonin amides biosynthesis	130453	Aradu.HP9JD
+6852047	hydroxycinnamic acid serotonin amides biosynthesis	130453	Aradu.55VHH
+6852047	hydroxycinnamic acid serotonin amides biosynthesis	130453	Aradu.PQW7I
+6852047	hydroxycinnamic acid serotonin amides biosynthesis	130453	Aradu.1WD61
+6852047	hydroxycinnamic acid serotonin amides biosynthesis	130453	Aradu.RR8PW
+6852047	hydroxycinnamic acid serotonin amides biosynthesis	130453	Aradu.LM4BA
+6852035	GDP-L-fucose biosynthesis I (from GDP-D-mannose)	130453	Aradu.HA8V3
+6852035	GDP-L-fucose biosynthesis I (from GDP-D-mannose)	130453	Aradu.V1L1H
+6852035	GDP-L-fucose biosynthesis I (from GDP-D-mannose)	130453	Aradu.7W9JR
+6852035	GDP-L-fucose biosynthesis I (from GDP-D-mannose)	130453	Aradu.X23MZ
+6852035	GDP-L-fucose biosynthesis I (from GDP-D-mannose)	130453	Aradu.UJ5WJ
+6852035	GDP-L-fucose biosynthesis I (from GDP-D-mannose)	130453	Aradu.M20VL
+6851940	cytokinins 7-N-glucoside biosynthesis	130453	Aradu.WN46D
+6851940	cytokinins 7-N-glucoside biosynthesis	130453	Aradu.K93AE
+6851940	cytokinins 7-N-glucoside biosynthesis	130453	Aradu.ID105
+6851940	cytokinins 7-N-glucoside biosynthesis	130453	Aradu.Z7FZQ
+6851940	cytokinins 7-N-glucoside biosynthesis	130453	Aradu.JFD76
+6851940	cytokinins 7-N-glucoside biosynthesis	130453	Aradu.23I92
+6851940	cytokinins 7-N-glucoside biosynthesis	130453	Aradu.VFN3G
+6852043	putrescine biosynthesis I	130453	Aradu.22ZEB
+6851993	glutathione redox reactions I	130453	Aradu.4U4LS
+6851993	glutathione redox reactions I	130453	Aradu.R659W
+6851993	glutathione redox reactions I	130453	Aradu.AXG3B
+6851993	glutathione redox reactions I	130453	Aradu.SDR3Z
+6851993	glutathione redox reactions I	130453	Aradu.6NU8A
+6851993	glutathione redox reactions I	130453	Aradu.0HA70
+6851982	pantothenate biosynthesis III	130453	Aradu.P2KMP
+6851949	biotin biosynthesis II	130453	Aradu.8LV0D
+6851949	biotin biosynthesis II	130453	Aradu.YU82F
+6851949	biotin biosynthesis II	130453	Aradu.Z0VUN
+6851949	biotin biosynthesis II	130453	Aradu.QKR9Q
+6851949	biotin biosynthesis II	130453	Aradu.VW3L1
+6851949	biotin biosynthesis II	130453	Aradu.YG7ID
+6851949	biotin biosynthesis II	130453	Aradu.I4J3Q
+6851949	biotin biosynthesis II	130453	Aradu.P0J2M
+6851949	biotin biosynthesis II	130453	Aradu.H1QS5
+6851917	oryzalexin A-F biosynthesis	130453	Aradu.8J9WZ
+6852072	glutamate biosynthesis I	130453	Aradu.54WNJ
+6852072	glutamate biosynthesis I	130453	Aradu.U8IBL
+6852057	cyanate degradation	130453	Aradu.12EER
+6852057	cyanate degradation	130453	Aradu.6VE9I
+6852057	cyanate degradation	130453	Aradu.88UWV
+6852057	cyanate degradation	130453	Aradu.CQ62P
+6852057	cyanate degradation	130453	Aradu.AEX62
+6852057	cyanate degradation	130453	Aradu.EG8SC
+6851950	CMP-KDO biosynthesis II (from D-arabinose 5-phosphate)	130453	Aradu.U80Z7
+6851950	CMP-KDO biosynthesis II (from D-arabinose 5-phosphate)	130453	Aradu.X6XCU
+6852014	asparagine biosynthesis III	130453	Aradu.Z4NMT
+6852014	asparagine biosynthesis III	130453	Aradu.Q350M
+6852014	asparagine biosynthesis III	130453	Aradu.UC2R1
+6852014	asparagine biosynthesis III	130453	Aradu.637TZ
+6851934	abscisic acid biosynthesis	130453	Aradu.QDT9L
+6851934	abscisic acid biosynthesis	130453	Aradu.V5NSB
+6851934	abscisic acid biosynthesis	130453	Aradu.WF9M3
+6851934	abscisic acid biosynthesis	130453	Aradu.YD13K
+6851938	cytokinins 9-N-glucoside biosynthesis	130453	Aradu.WN46D
+6851938	cytokinins 9-N-glucoside biosynthesis	130453	Aradu.K93AE
+6851938	cytokinins 9-N-glucoside biosynthesis	130453	Aradu.ID105
+6851938	cytokinins 9-N-glucoside biosynthesis	130453	Aradu.Z7FZQ
+6851938	cytokinins 9-N-glucoside biosynthesis	130453	Aradu.JFD76
+6851938	cytokinins 9-N-glucoside biosynthesis	130453	Aradu.23I92
+6851938	cytokinins 9-N-glucoside biosynthesis	130453	Aradu.VFN3G
+6852034	GDP-D-rhamnose biosynthesis	130453	Aradu.V1L1H
+6852034	GDP-D-rhamnose biosynthesis	130453	Aradu.7W9JR
+6852034	GDP-D-rhamnose biosynthesis	130453	Aradu.X23MZ
+6852034	GDP-D-rhamnose biosynthesis	130453	Aradu.UJ5WJ
+6852034	GDP-D-rhamnose biosynthesis	130453	Aradu.M20VL
+6852056	spermidine biosynthesis	130453	Aradu.FH71M
+6852056	spermidine biosynthesis	130453	Aradu.S9A1G
+6852056	spermidine biosynthesis	130453	Aradu.E5KCW
+6852056	spermidine biosynthesis	130453	Aradu.A5HRL
+6852056	spermidine biosynthesis	130453	Aradu.B8GCY
+6851988	pinobanksin biosynthesis	130453	Aradu.F0W17
+6851988	pinobanksin biosynthesis	130453	Aradu.WB4GB
+6851956	tetrahydrofolate biosynthesis I	130453	Aradu.M1AJQ
+6851956	tetrahydrofolate biosynthesis I	130453	Aradu.E7IUF
+6851956	tetrahydrofolate biosynthesis I	130453	Aradu.SP6L7
+6851956	tetrahydrofolate biosynthesis I	130453	Aradu.X1BH5
+6851956	tetrahydrofolate biosynthesis I	130453	Aradu.BP1MJ
+6851956	tetrahydrofolate biosynthesis I	130453	Aradu.ZD05E
+6851956	tetrahydrofolate biosynthesis I	130453	Aradu.B4I2A
+6851956	tetrahydrofolate biosynthesis I	130453	Aradu.M57XL
+6851956	tetrahydrofolate biosynthesis I	130453	Aradu.86J72
+6851956	tetrahydrofolate biosynthesis I	130453	Aradu.81WR9
+6851956	tetrahydrofolate biosynthesis I	130453	Aradu.62RYC
+6851956	tetrahydrofolate biosynthesis I	130453	Aradu.V2X4P
+6851992	glutathione redox reactions II	130453	Aradu.R659W
+6851992	glutathione redox reactions II	130453	Aradu.6NU8A
+6851922	arginine biosynthesis I	130453	Aradu.3C582
+6851922	arginine biosynthesis I	130453	Aradu.YU82F
+6851922	arginine biosynthesis I	130453	Aradu.ZHD9S
+6851922	arginine biosynthesis I	130453	Aradu.VXG8Q
+6851922	arginine biosynthesis I	130453	Aradu.P7XZK
+6851922	arginine biosynthesis I	130453	Aradu.B7233
+6851922	arginine biosynthesis I	130453	Aradu.R0QSC
+6851922	arginine biosynthesis I	130453	Aradu.MA8XX
+6851922	arginine biosynthesis I	130453	Aradu.N7LX6
+6851922	arginine biosynthesis I	130453	Aradu.5IQ6T
+6851922	arginine biosynthesis I	130453	Aradu.FPV9N
+6851905	alanine biosynthesis II	130453	Aradu.9PE6P
+6851905	alanine biosynthesis II	130453	Aradu.4K5XY
+6851905	alanine biosynthesis II	130453	Aradu.D20L9
+6851905	alanine biosynthesis II	130453	Aradu.5UB6E
+6851905	alanine biosynthesis II	130453	Aradu.R7YA3
+6851971	galactose degradation II	130453	Aradu.EUM6N
+6851971	galactose degradation II	130453	Aradu.RZL7M
+6851971	galactose degradation II	130453	Aradu.JW82A
+6851971	galactose degradation II	130453	Aradu.GK89P
+6851971	galactose degradation II	130453	Aradu.1I23V
+6851971	galactose degradation II	130453	Aradu.PD37S
+6851971	galactose degradation II	130453	Aradu.810XL
+6851971	galactose degradation II	130453	Aradu.DAS60
+6851971	galactose degradation II	130453	Aradu.V2YDB
+6852036	ammonia assimilation cycle	130453	Aradu.51WYZ
+6852036	ammonia assimilation cycle	130453	Aradu.Q3X7M
+6852036	ammonia assimilation cycle	130453	Aradu.02IKD
+6851945	folate polyglutamylation II	130453	Aradu.B887K
+6851945	folate polyglutamylation II	130453	Aradu.X9ETM
+6851945	folate polyglutamylation II	130453	Aradu.XL9EY
+6851945	folate polyglutamylation II	130453	Aradu.ZZ4N0
+6851961	trans-zeatin biosynthesis	130453	Aradu.QY2T7
+6851961	trans-zeatin biosynthesis	130453	Aradu.4ME26
+6851961	trans-zeatin biosynthesis	130453	Aradu.4I5UW
+6851926	phenylpropanoid biosynthesis	130453	Aradu.FH10G
+6851926	phenylpropanoid biosynthesis	130453	Aradu.99AQ5
+6851926	phenylpropanoid biosynthesis	130453	Aradu.Y47QS
+6851926	phenylpropanoid biosynthesis	130453	Aradu.U6MQJ
+6851926	phenylpropanoid biosynthesis	130453	Aradu.901JV
+6851926	phenylpropanoid biosynthesis	130453	Aradu.WK4VE
+6851926	phenylpropanoid biosynthesis	130453	Aradu.18W20
+6851926	phenylpropanoid biosynthesis	130453	Aradu.VUQ4V
+6851926	phenylpropanoid biosynthesis	130453	Aradu.36SI6
+6851926	phenylpropanoid biosynthesis	130453	Aradu.GBC91
+6851926	phenylpropanoid biosynthesis	130453	Aradu.X96SI
+6851926	phenylpropanoid biosynthesis	130453	Aradu.0AT27
+6851926	phenylpropanoid biosynthesis	130453	Aradu.NW3U6
+6851926	phenylpropanoid biosynthesis	130453	Aradu.CV6FA
+6851926	phenylpropanoid biosynthesis	130453	Aradu.C5GQ0
+6851926	phenylpropanoid biosynthesis	130453	Aradu.6XW4F
+6851926	phenylpropanoid biosynthesis	130453	Aradu.UQP4Y
+6851926	phenylpropanoid biosynthesis	130453	Aradu.1X6G8
+6851927	mevalonate pathway	130453	Aradu.GPA6U
+6851927	mevalonate pathway	130453	Aradu.R77ZC
+6851927	mevalonate pathway	130453	Aradu.XM9I6
+6851927	mevalonate pathway	130453	Aradu.NR2UV
+6851927	mevalonate pathway	130453	Aradu.82M2C
+6851927	mevalonate pathway	130453	Aradu.U1MJX
+6851927	mevalonate pathway	130453	Aradu.S0IYK
+6851927	mevalonate pathway	130453	Aradu.B0B4N
+6851927	mevalonate pathway	130453	Aradu.P8M1S
+6851927	mevalonate pathway	130453	Aradu.NRG3Y
+6851927	mevalonate pathway	130453	Aradu.W7P1T
+6852008	spermine biosynthesis	130453	Aradu.FH71M
+6852008	spermine biosynthesis	130453	Aradu.S9A1G
+6852008	spermine biosynthesis	130453	Aradu.E5KCW
+6852008	spermine biosynthesis	130453	Aradu.A5HRL
+6852008	spermine biosynthesis	130453	Aradu.B8GCY
+6851978	beta-alanine biosynthesis III	130453	Aradu.MNQ43
+6851978	beta-alanine biosynthesis III	130453	Aradu.1D475
+6851978	beta-alanine biosynthesis III	130453	Aradu.020AG
+6851996	phytyl-PP biosynthesis	130453	Aradu.646B6
+6851996	phytyl-PP biosynthesis	130453	Aradu.7K822
+6851996	phytyl-PP biosynthesis	130453	Aradu.L6TW0
+6851919	pantothenate biosynthesis II	130453	Aradu.IU67T
+6851919	pantothenate biosynthesis II	130453	Aradu.348PZ
+6851919	pantothenate biosynthesis II	130453	Aradu.76NWV
+6851919	pantothenate biosynthesis II	130453	Aradu.P2KMP
+6851919	pantothenate biosynthesis II	130453	Aradu.48NPB
+6851952	chorismate biosynthesis	130453	Aradu.TQB20
+6851952	chorismate biosynthesis	130453	Aradu.Q6P6Q
+6851952	chorismate biosynthesis	130453	Aradu.PP8TF
+6851952	chorismate biosynthesis	130453	Aradu.RK7RG
+6851952	chorismate biosynthesis	130453	Aradu.VQ8JE
+6851952	chorismate biosynthesis	130453	Aradu.NKU3K
+6851952	chorismate biosynthesis	130453	Aradu.KZ4HC
+6851952	chorismate biosynthesis	130453	Aradu.K65B5
+6851952	chorismate biosynthesis	130453	Aradu.G0SZF
+6851952	chorismate biosynthesis	130453	Aradu.SV33Z
+6851952	chorismate biosynthesis	130453	Aradu.EHC6P
+6851952	chorismate biosynthesis	130453	Aradu.QS47N
+6851952	chorismate biosynthesis	130453	Aradu.AP88K
+6851952	chorismate biosynthesis	130453	Aradu.I9RLC
+6851966	lysine biosynthesis II	130453	Aradu.51556
+6851966	lysine biosynthesis II	130453	Aradu.J1AYY
+6851966	lysine biosynthesis II	130453	Aradu.TG268
+6851966	lysine biosynthesis II	130453	Aradu.PX1XB
+6851966	lysine biosynthesis II	130453	Aradu.IW9VR
+6851966	lysine biosynthesis II	130453	Aradu.3HF0R
+6851966	lysine biosynthesis II	130453	Aradu.WLL49
+6851966	lysine biosynthesis II	130453	Aradu.FC5JP
+6851966	lysine biosynthesis II	130453	Aradu.I0KNH
+6851966	lysine biosynthesis II	130453	Aradu.3C582
+6851966	lysine biosynthesis II	130453	Aradu.7X3HU
+6851966	lysine biosynthesis II	130453	Aradu.RKM5L
+6851966	lysine biosynthesis II	130453	Aradu.C24KQ
+6851966	lysine biosynthesis II	130453	Aradu.Y017B
+6851966	lysine biosynthesis II	130453	Aradu.CMI46
+6852073	alanine biosynthesis III	130453	Aradu.X6VZP
+6852073	alanine biosynthesis III	130453	Aradu.AL80D
+6852073	alanine biosynthesis III	130453	Aradu.C674J
+6851984	leucine biosynthesis	130453	Aradu.ZMY0L
+6851984	leucine biosynthesis	130453	Aradu.168ME
+6851984	leucine biosynthesis	130453	Aradu.9BY1S
+6851984	leucine biosynthesis	130453	Aradu.F9JCM
+6851984	leucine biosynthesis	130453	Aradu.SR3CA
+6851984	leucine biosynthesis	130453	Aradu.348PZ
+6851984	leucine biosynthesis	130453	Aradu.2Q562
+6851984	leucine biosynthesis	130453	Aradu.AVD8P
+6851984	leucine biosynthesis	130453	Aradu.48NPB
+6851984	leucine biosynthesis	130453	Aradu.FP3UD
+6851984	leucine biosynthesis	130453	Aradu.A8B4S
+6851984	leucine biosynthesis	130453	Aradu.V8HSY
+6851984	leucine biosynthesis	130453	Aradu.707UY
+6851941	methionine salvage pathway	130453	Aradu.Z0LGY
+6851941	methionine salvage pathway	130453	Aradu.WQE4S
+6851941	methionine salvage pathway	130453	Aradu.60KGU
+6851941	methionine salvage pathway	130453	Aradu.26E0V
+6851941	methionine salvage pathway	130453	Aradu.AE07K
+6851941	methionine salvage pathway	130453	Aradu.H5M4Q
+6851941	methionine salvage pathway	130453	Aradu.M1ZWV
+6851941	methionine salvage pathway	130453	Aradu.55M8P
+6851941	methionine salvage pathway	130453	Aradu.DV28N
+6851941	methionine salvage pathway	130453	Aradu.X6LF1
+6851941	methionine salvage pathway	130453	Aradu.V5ZS1
+6851941	methionine salvage pathway	130453	Aradu.EM688
+6851943	polyisoprenoid biosynthesis	130453	Aradu.MB9UU
+6851943	polyisoprenoid biosynthesis	130453	Aradu.03TSH
+6851943	polyisoprenoid biosynthesis	130453	Aradu.U8TM7
+6851943	polyisoprenoid biosynthesis	130453	Aradu.5KK2Q
+6851943	polyisoprenoid biosynthesis	130453	Aradu.CXJ5P
+6851943	polyisoprenoid biosynthesis	130453	Aradu.Z7MCS
+6851943	polyisoprenoid biosynthesis	130453	Aradu.S738B
+6851943	polyisoprenoid biosynthesis	130453	Aradu.XN88F
+6851943	polyisoprenoid biosynthesis	130453	Aradu.P8M1S
+6851964	starch biosynthesis	130453	Aradu.C6ILJ
+6851964	starch biosynthesis	130453	Aradu.SX71U
+6851964	starch biosynthesis	130453	Aradu.18DC6
+6851964	starch biosynthesis	130453	Aradu.MIX60
+6851964	starch biosynthesis	130453	Aradu.37TWH
+6851964	starch biosynthesis	130453	Aradu.8G93R
+6851964	starch biosynthesis	130453	Aradu.FR5NK
+6851964	starch biosynthesis	130453	Aradu.6W1XZ
+6851964	starch biosynthesis	130453	Aradu.I6169
+6851964	starch biosynthesis	130453	Aradu.A7DR3
+6851964	starch biosynthesis	130453	Aradu.F8ZRN
+6851964	starch biosynthesis	130453	Aradu.A22XE
+6851964	starch biosynthesis	130453	Aradu.SR17F
+6851964	starch biosynthesis	130453	Aradu.ZBI4Y
+6851964	starch biosynthesis	130453	Aradu.C2JFU
+6851964	starch biosynthesis	130453	Aradu.F2JWB
+6851964	starch biosynthesis	130453	Aradu.5U8HG
+6851964	starch biosynthesis	130453	Aradu.BR38W
+6851964	starch biosynthesis	130453	Aradu.M8CZU
+6851964	starch biosynthesis	130453	Aradu.BD60N
+6851964	starch biosynthesis	130453	Aradu.ZF53H
+6851914	UDP-D-xylose biosynthesis	130453	Aradu.GK89P
+6851914	UDP-D-xylose biosynthesis	130453	Aradu.X23MZ
+6851914	UDP-D-xylose biosynthesis	130453	Aradu.NV5LW
+6851914	UDP-D-xylose biosynthesis	130453	Aradu.73JWV
+6852051	glycine biosynthesis I	130453	Aradu.MRR38
+6852051	glycine biosynthesis I	130453	Aradu.Z0VUN
+6852051	glycine biosynthesis I	130453	Aradu.FH7I5
+6852051	glycine biosynthesis I	130453	Aradu.BAW60
+6852051	glycine biosynthesis I	130453	Aradu.MUM0J
+6852051	glycine biosynthesis I	130453	Aradu.HC4I0
+6852018	secologanin and strictosidine biosynthesis	130453	Aradu.EH3DA
+6852018	secologanin and strictosidine biosynthesis	130453	Aradu.A2Q98
+6852018	secologanin and strictosidine biosynthesis	130453	Aradu.DBP4R
+6852018	secologanin and strictosidine biosynthesis	130453	Aradu.I5QWB
+6852018	secologanin and strictosidine biosynthesis	130453	Aradu.PU1U6
+6852018	secologanin and strictosidine biosynthesis	130453	Aradu.RR8PW
+6851989	ascorbate biosynthesis	130453	Aradu.4L1V9
+6851989	ascorbate biosynthesis	130453	Aradu.XNJ7V
+6851989	ascorbate biosynthesis	130453	Aradu.2XF2V
+6851989	ascorbate biosynthesis	130453	Aradu.6WN2X
+6851989	ascorbate biosynthesis	130453	Aradu.FR5NK
+6851989	ascorbate biosynthesis	130453	Aradu.3D1M6
+6851989	ascorbate biosynthesis	130453	Aradu.ZF53H
+6852053	chlorophyll a biosynthesis I	130453	Aradu.6NT7E
+6851894	TCA cycle (plant)	130453	Aradu.W4ZB9
+6851894	TCA cycle (plant)	130453	Aradu.TU79H
+6851894	TCA cycle (plant)	130453	Aradu.9BY1S
+6851894	TCA cycle (plant)	130453	Aradu.YB8YP
+6851894	TCA cycle (plant)	130453	Aradu.52T5J
+6851894	TCA cycle (plant)	130453	Aradu.LF723
+6851894	TCA cycle (plant)	130453	Aradu.P5HY6
+6851894	TCA cycle (plant)	130453	Aradu.A8B4S
+6851894	TCA cycle (plant)	130453	Aradu.FP3UD
+6851894	TCA cycle (plant)	130453	Aradu.1JH0H
+6851894	TCA cycle (plant)	130453	Aradu.S1SNW
+6851894	TCA cycle (plant)	130453	Aradu.M0VKX
+6851894	TCA cycle (plant)	130453	Aradu.FMP57
+6851894	TCA cycle (plant)	130453	Aradu.ZMY0L
+6851894	TCA cycle (plant)	130453	Aradu.QCG9U
+6851894	TCA cycle (plant)	130453	Aradu.C7350
+6851894	TCA cycle (plant)	130453	Aradu.168ME
+6851894	TCA cycle (plant)	130453	Aradu.J16T3
+6851894	TCA cycle (plant)	130453	Aradu.SR3CA
+6851894	TCA cycle (plant)	130453	Aradu.AVD8P
+6852079	UDP-D-apiose biosynthesis	130453	Aradu.NV5LW
+6852079	UDP-D-apiose biosynthesis	130453	Aradu.73JWV
+6851979	geranyldiphosphate biosynthesis	130453	Aradu.MB9UU
+6851979	geranyldiphosphate biosynthesis	130453	Aradu.S738B
+6851979	geranyldiphosphate biosynthesis	130453	Aradu.XN88F
+6852016	S-methylmethionine cycle	130453	Aradu.GQD5X
+6852016	S-methylmethionine cycle	130453	Aradu.CKZ6B
+6852011	dolichyl-diphosphooligosaccharide biosynthesis	130453	Aradu.N9XQ2
+6852011	dolichyl-diphosphooligosaccharide biosynthesis	130453	Aradu.JHF5M
+6852011	dolichyl-diphosphooligosaccharide biosynthesis	130453	Aradu.7V04H
+6852011	dolichyl-diphosphooligosaccharide biosynthesis	130453	Aradu.3H966
+6852011	dolichyl-diphosphooligosaccharide biosynthesis	130453	Aradu.A24N1
+6852011	dolichyl-diphosphooligosaccharide biosynthesis	130453	Aradu.PI5KV
+6852011	dolichyl-diphosphooligosaccharide biosynthesis	130453	Aradu.XS247
+6852033	anthocyanin biosynthesis (delphinidin 3-O-glucoside)	130453	Aradu.68YSI
+6852032	pyridoxal 5'-phosphate salvage pathway	130453	Aradu.ZK7M3
+6852032	pyridoxal 5'-phosphate salvage pathway	130453	Aradu.X0HV8
+6852067	monoterpene biosynthesis	130453	Aradu.4B9ZF
+6851957	oleoresin monoterpene volatiles biosynthesis	130453	Aradu.4B9ZF
+6852041	medicarpin biosynthesis	130453	Aradu.WD8GP
+6852052	trehalose biosynthesis I	130453	Aradu.78JKA
+6852052	trehalose biosynthesis I	130453	Aradu.R1Y6W
+6852052	trehalose biosynthesis I	130453	Aradu.WH0G7
+6852052	trehalose biosynthesis I	130453	Aradu.A7Z3C
+6852052	trehalose biosynthesis I	130453	Aradu.JZT13
+6852052	trehalose biosynthesis I	130453	Aradu.KRY7W
+6852052	trehalose biosynthesis I	130453	Aradu.CHD0U
+6851981	pantothenate and coenzyme A biosynthesis III	130453	Aradu.J4JB7
+6851981	pantothenate and coenzyme A biosynthesis III	130453	Aradu.3KC9W
+6851981	pantothenate and coenzyme A biosynthesis III	130453	Aradu.LKT5N
+6851981	pantothenate and coenzyme A biosynthesis III	130453	Aradu.K0HFM
+6851981	pantothenate and coenzyme A biosynthesis III	130453	Aradu.XHV2S
+6851981	pantothenate and coenzyme A biosynthesis III	130453	Aradu.SKH8G
+6851981	pantothenate and coenzyme A biosynthesis III	130453	Aradu.5UA45
+6851981	pantothenate and coenzyme A biosynthesis III	130453	Aradu.HK60X
+6851981	pantothenate and coenzyme A biosynthesis III	130453	Aradu.ND69W
+6851981	pantothenate and coenzyme A biosynthesis III	130453	Aradu.X25GX
+6851981	pantothenate and coenzyme A biosynthesis III	130453	Aradu.5Q7U7
+6851981	pantothenate and coenzyme A biosynthesis III	130453	Aradu.SP6H0
+6851981	pantothenate and coenzyme A biosynthesis III	130453	Aradu.224D3
+6851981	pantothenate and coenzyme A biosynthesis III	130453	Aradu.L8GUY
+6851981	pantothenate and coenzyme A biosynthesis III	130453	Aradu.VW3S7
+6851981	pantothenate and coenzyme A biosynthesis III	130453	Aradu.ZH02M
+6851981	pantothenate and coenzyme A biosynthesis III	130453	Aradu.J9X9E
+6851981	pantothenate and coenzyme A biosynthesis III	130453	Aradu.N3YJX
+6851981	pantothenate and coenzyme A biosynthesis III	130453	Aradu.ZP4JC
+6851981	pantothenate and coenzyme A biosynthesis III	130453	Aradu.A4FGM
+6851981	pantothenate and coenzyme A biosynthesis III	130453	Aradu.GVA21
+6851981	pantothenate and coenzyme A biosynthesis III	130453	Aradu.46E12
+6851981	pantothenate and coenzyme A biosynthesis III	130453	Aradu.ZG46M
+6851981	pantothenate and coenzyme A biosynthesis III	130453	Aradu.H3QTB
+6851981	pantothenate and coenzyme A biosynthesis III	130453	Aradu.HI72E
+6851981	pantothenate and coenzyme A biosynthesis III	130453	Aradu.V9MYQ
+6851981	pantothenate and coenzyme A biosynthesis III	130453	Aradu.T9X3T
+6851981	pantothenate and coenzyme A biosynthesis III	130453	Aradu.N7MUQ
+6851981	pantothenate and coenzyme A biosynthesis III	130453	Aradu.U54K5
+6851981	pantothenate and coenzyme A biosynthesis III	130453	Aradu.2NG9A
+6851981	pantothenate and coenzyme A biosynthesis III	130453	Aradu.HNV5C
+6851981	pantothenate and coenzyme A biosynthesis III	130453	Aradu.J09QX
+6851981	pantothenate and coenzyme A biosynthesis III	130453	Aradu.JY8JV
+6851981	pantothenate and coenzyme A biosynthesis III	130453	Aradu.54DMZ
+6851981	pantothenate and coenzyme A biosynthesis III	130453	Aradu.T4CIQ
+6851981	pantothenate and coenzyme A biosynthesis III	130453	Aradu.C824H
+6851981	pantothenate and coenzyme A biosynthesis III	130453	Aradu.0J2J8
+6851981	pantothenate and coenzyme A biosynthesis III	130453	Aradu.EF0RS
+6851981	pantothenate and coenzyme A biosynthesis III	130453	Aradu.19RCR
+6851981	pantothenate and coenzyme A biosynthesis III	130453	Aradu.E1H3W
+6851981	pantothenate and coenzyme A biosynthesis III	130453	Aradu.J13GP
+6851981	pantothenate and coenzyme A biosynthesis III	130453	Aradu.B7H15
+6851981	pantothenate and coenzyme A biosynthesis III	130453	Aradu.5Q0IP
+6851981	pantothenate and coenzyme A biosynthesis III	130453	Aradu.P2KMP
+6851981	pantothenate and coenzyme A biosynthesis III	130453	Aradu.8E566
+6852046	trehalose degradation II	130453	Aradu.XIY30
+6852046	trehalose degradation II	130453	Aradu.88KLW
+6852046	trehalose degradation II	130453	Aradu.F7LJA
+6852046	trehalose degradation II	130453	Aradu.2J678
+6852023	lipid-independent phytate biosynthesis	130453	Aradu.BF56P
+6852023	lipid-independent phytate biosynthesis	130453	Aradu.32LC7
+6852060	coumarin biosynthesis (via 2-coumarate)	130453	Aradu.U0QAT
+6851975	citrulline biosynthesis	130453	Aradu.Z4NMT
+6851975	citrulline biosynthesis	130453	Aradu.YU82F
+6851975	citrulline biosynthesis	130453	Aradu.BGK3K
+6851975	citrulline biosynthesis	130453	Aradu.YK06D
+6851975	citrulline biosynthesis	130453	Aradu.F0IZ7
+6851975	citrulline biosynthesis	130453	Aradu.35Z4P
+6851975	citrulline biosynthesis	130453	Aradu.CK4R0
+6851975	citrulline biosynthesis	130453	Aradu.16RQU
+6851975	citrulline biosynthesis	130453	Aradu.MA8XX
+6851975	citrulline biosynthesis	130453	Aradu.D9QX6
+6851975	citrulline biosynthesis	130453	Aradu.094MD
+6852049	maackiain biosynthesis	130453	Aradu.WD8GP
+6851912	13-LOX and 13-HPL pathway	130453	Aradu.KZX2M
+6851912	13-LOX and 13-HPL pathway	130453	Aradu.LNK8S
+6851912	13-LOX and 13-HPL pathway	130453	Aradu.289WG
+6852065	chlorophyll cycle	130453	Aradu.6NT7E

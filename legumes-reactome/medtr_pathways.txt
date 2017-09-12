@@ -1,0 +1,1364 @@
+6882543	oryzalexin A-F biosynthesis	3880	Medtr.3g058160
+6882543	oryzalexin A-F biosynthesis	3880	Medtr.2g064295
+6882677	spermidine biosynthesis	3880	Medtr.7g018310
+6882677	spermidine biosynthesis	3880	Medtr.0076s0020
+6882677	spermidine biosynthesis	3880	Medtr.7g018290
+6882677	spermidine biosynthesis	3880	Medtr.7g018320
+6882677	spermidine biosynthesis	3880	Medtr.8g063940
+6882677	spermidine biosynthesis	3880	Medtr.5g034470
+6882677	spermidine biosynthesis	3880	Medtr.0003s0660
+6882677	spermidine biosynthesis	3880	Medtr.8g069905
+6882677	spermidine biosynthesis	3880	Medtr.1g028360
+6882677	spermidine biosynthesis	3880	Medtr.3g078190
+6882677	spermidine biosynthesis	3880	Medtr.3g091090
+6882578	dolichyl-diphosphooligosaccharide biosynthesis	3880	Medtr.8g040610
+6882578	dolichyl-diphosphooligosaccharide biosynthesis	3880	Medtr.4g129500
+6882578	dolichyl-diphosphooligosaccharide biosynthesis	3880	Medtr.0012s0090
+6882578	dolichyl-diphosphooligosaccharide biosynthesis	3880	Medtr.3g045150
+6882578	dolichyl-diphosphooligosaccharide biosynthesis	3880	Medtr.1g058230
+6882578	dolichyl-diphosphooligosaccharide biosynthesis	3880	Medtr.8g446850
+6882552	phenylpropanoid biosynthesis	3880	Medtr.2g072790
+6882552	phenylpropanoid biosynthesis	3880	Medtr.5g070850
+6882552	phenylpropanoid biosynthesis	3880	Medtr.8g039720
+6882552	phenylpropanoid biosynthesis	3880	Medtr.5g070800
+6882552	phenylpropanoid biosynthesis	3880	Medtr.2g095510
+6882552	phenylpropanoid biosynthesis	3880	Medtr.4g094815
+6882552	phenylpropanoid biosynthesis	3880	Medtr.2g105330
+6882552	phenylpropanoid biosynthesis	3880	Medtr.4g128337
+6882552	phenylpropanoid biosynthesis	3880	Medtr.5g070690
+6882552	phenylpropanoid biosynthesis	3880	Medtr.5g021390
+6882552	phenylpropanoid biosynthesis	3880	Medtr.5g070920
+6882552	phenylpropanoid biosynthesis	3880	Medtr.4g057730
+6882552	phenylpropanoid biosynthesis	3880	Medtr.4g006940
+6882552	phenylpropanoid biosynthesis	3880	Medtr.3g088880
+6882552	phenylpropanoid biosynthesis	3880	Medtr.2g065360
+6882552	phenylpropanoid biosynthesis	3880	Medtr.4g007540
+6882552	phenylpropanoid biosynthesis	3880	Medtr.2g104960
+6882552	phenylpropanoid biosynthesis	3880	Medtr.4g071710
+6882552	phenylpropanoid biosynthesis	3880	Medtr.4g077900
+6882552	phenylpropanoid biosynthesis	3880	Medtr.1g026310
+6882552	phenylpropanoid biosynthesis	3880	Medtr.5g070710
+6882552	phenylpropanoid biosynthesis	3880	Medtr.3g096070
+6882552	phenylpropanoid biosynthesis	3880	Medtr.5g027480
+6882552	phenylpropanoid biosynthesis	3880	Medtr.1g063120
+6882552	phenylpropanoid biosynthesis	3880	Medtr.3g088870
+6882552	phenylpropanoid biosynthesis	3880	Medtr.5g027500
+6882552	phenylpropanoid biosynthesis	3880	Medtr.4g005750
+6882552	phenylpropanoid biosynthesis	3880	Medtr.8g076290
+6882552	phenylpropanoid biosynthesis	3880	Medtr.2g105570
+6882552	phenylpropanoid biosynthesis	3880	Medtr.1g026430
+6882552	phenylpropanoid biosynthesis	3880	Medtr.1g026470
+6882552	phenylpropanoid biosynthesis	3880	Medtr.8g075610
+6882552	phenylpropanoid biosynthesis	3880	Medtr.5g007640
+6882552	phenylpropanoid biosynthesis	3880	Medtr.4g094898
+6882552	phenylpropanoid biosynthesis	3880	Medtr.3g096050
+6882552	phenylpropanoid biosynthesis	3880	Medtr.1g063110
+6882552	phenylpropanoid biosynthesis	3880	Medtr.4g094925
+6882552	phenylpropanoid biosynthesis	3880	Medtr.5g070700
+6882552	phenylpropanoid biosynthesis	3880	Medtr.1g107425
+6882552	phenylpropanoid biosynthesis	3880	Medtr.4g094812
+6882552	phenylpropanoid biosynthesis	3880	Medtr.8g091690
+6882552	phenylpropanoid biosynthesis	3880	Medtr.4g085590
+6882552	phenylpropanoid biosynthesis	3880	Medtr.2g064495
+6882545	pantothenate biosynthesis II	3880	Medtr.4g037305
+6882545	pantothenate biosynthesis II	3880	Medtr.4g037245
+6882545	pantothenate biosynthesis II	3880	Medtr.4g037315
+6882545	pantothenate biosynthesis II	3880	Medtr.7g058920
+6882545	pantothenate biosynthesis II	3880	Medtr.5g014960
+6882545	pantothenate biosynthesis II	3880	Medtr.4g092580
+6882545	pantothenate biosynthesis II	3880	Medtr.8g028555
+6882545	pantothenate biosynthesis II	3880	Medtr.3g103580
+6882545	pantothenate biosynthesis II	3880	Medtr.4g092590
+6882591	sucrose biosynthesis	3880	Medtr.1g040560
+6882591	sucrose biosynthesis	3880	Medtr.1g102010
+6882591	sucrose biosynthesis	3880	Medtr.4g084270
+6882591	sucrose biosynthesis	3880	Medtr.5g076830
+6882591	sucrose biosynthesis	3880	Medtr.8g104540
+6882591	sucrose biosynthesis	3880	Medtr.7g108930
+6882591	sucrose biosynthesis	3880	Medtr.4g115620
+6882591	sucrose biosynthesis	3880	Medtr.1g094980
+6882591	sucrose biosynthesis	3880	Medtr.6g478000
+6882591	sucrose biosynthesis	3880	Medtr.1g088170
+6882591	sucrose biosynthesis	3880	Medtr.1g054980
+6882591	sucrose biosynthesis	3880	Medtr.3g064610
+6882658	GDP-D-rhamnose biosynthesis	3880	Medtr.2g032100
+6882658	GDP-D-rhamnose biosynthesis	3880	Medtr.4g129820
+6882658	GDP-D-rhamnose biosynthesis	3880	Medtr.3g101500
+6882658	GDP-D-rhamnose biosynthesis	3880	Medtr.5g011940
+6882658	GDP-D-rhamnose biosynthesis	3880	Medtr.5g021770
+6882658	GDP-D-rhamnose biosynthesis	3880	Medtr.0354s0040
+6882658	GDP-D-rhamnose biosynthesis	3880	Medtr.2g096660
+6882658	GDP-D-rhamnose biosynthesis	3880	Medtr.4g024600
+6882658	GDP-D-rhamnose biosynthesis	3880	Medtr.4g102270
+6882658	GDP-D-rhamnose biosynthesis	3880	Medtr.8g089180
+6882658	GDP-D-rhamnose biosynthesis	3880	Medtr.0034s0060
+6882658	GDP-D-rhamnose biosynthesis	3880	Medtr.5g021760
+6882658	GDP-D-rhamnose biosynthesis	3880	Medtr.2g073240
+6882658	GDP-D-rhamnose biosynthesis	3880	Medtr.4g063600
+6882658	GDP-D-rhamnose biosynthesis	3880	Medtr.3g084090
+6882682	coumarin biosynthesis (via 2-coumarate)	3880	Medtr.0110s0030
+6882682	coumarin biosynthesis (via 2-coumarate)	3880	Medtr.0110s0040
+6882702	Xyloglucan biosynthesis	3880	Medtr.4g119880
+6882702	Xyloglucan biosynthesis	3880	Medtr.7g098650
+6882702	Xyloglucan biosynthesis	3880	Medtr.3g037560
+6882702	Xyloglucan biosynthesis	3880	Medtr.4g108940
+6882702	Xyloglucan biosynthesis	3880	Medtr.5g015260
+6882702	Xyloglucan biosynthesis	3880	Medtr.7g108675
+6882702	Xyloglucan biosynthesis	3880	Medtr.4g097240
+6882702	Xyloglucan biosynthesis	3880	Medtr.3g037340
+6882702	Xyloglucan biosynthesis	3880	Medtr.4g097230
+6882702	Xyloglucan biosynthesis	3880	Medtr.8g058553
+6882702	Xyloglucan biosynthesis	3880	Medtr.1g069460
+6882702	Xyloglucan biosynthesis	3880	Medtr.4g108780
+6882547	cholesterol biosynthesis II (via 24,25-dihydrolanosterol)	3880	Medtr.6g039970
+6882547	cholesterol biosynthesis II (via 24,25-dihydrolanosterol)	3880	Medtr.8g063210
+6882547	cholesterol biosynthesis II (via 24,25-dihydrolanosterol)	3880	Medtr.5g035190
+6882547	cholesterol biosynthesis II (via 24,25-dihydrolanosterol)	3880	Medtr.4g071520
+6882547	cholesterol biosynthesis II (via 24,25-dihydrolanosterol)	3880	Medtr.6g084920
+6882575	biotin biosynthesis II	3880	Medtr.4g076870
+6882575	biotin biosynthesis II	3880	Medtr.7g115690
+6882575	biotin biosynthesis II	3880	Medtr.1g018970
+6882575	biotin biosynthesis II	3880	Medtr.5g072020
+6882575	biotin biosynthesis II	3880	Medtr.4g128620
+6882575	biotin biosynthesis II	3880	Medtr.7g072420
+6882575	biotin biosynthesis II	3880	Medtr.1g080250
+6882575	biotin biosynthesis II	3880	Medtr.4g076100
+6882575	biotin biosynthesis II	3880	Medtr.3g054030
+6882575	biotin biosynthesis II	3880	Medtr.3g465800
+6882575	biotin biosynthesis II	3880	Medtr.6g033290
+6882669	pyridoxal 5'-phosphate biosynthesis	3880	Medtr.8g068300
+6882669	pyridoxal 5'-phosphate biosynthesis	3880	Medtr.2g020590
+6882669	pyridoxal 5'-phosphate biosynthesis	3880	Medtr.8g068265
+6882669	pyridoxal 5'-phosphate biosynthesis	3880	Medtr.4g007990
+6882669	pyridoxal 5'-phosphate biosynthesis	3880	Medtr.3g100890
+6882669	pyridoxal 5'-phosphate biosynthesis	3880	Medtr.4g118640
+6882669	pyridoxal 5'-phosphate biosynthesis	3880	Medtr.8g027365
+6882541	sterol biosynthesis	3880	Medtr.8g006495
+6882541	sterol biosynthesis	3880	Medtr.4g005450
+6882541	sterol biosynthesis	3880	Medtr.3g114780
+6882541	sterol biosynthesis	3880	Medtr.1g061240
+6882541	sterol biosynthesis	3880	Medtr.8g006450
+6882541	sterol biosynthesis	3880	Medtr.4g094510
+6882541	sterol biosynthesis	3880	Medtr.4g094512
+6882541	sterol biosynthesis	3880	Medtr.4g071520
+6882541	sterol biosynthesis	3880	Medtr.6g084920
+6882541	sterol biosynthesis	3880	Medtr.3g032530
+6882568	polyisoprenoid biosynthesis	3880	Medtr.4g095055
+6882568	polyisoprenoid biosynthesis	3880	Medtr.5g019460
+6882568	polyisoprenoid biosynthesis	3880	Medtr.2g027300
+6882568	polyisoprenoid biosynthesis	3880	Medtr.7g080060
+6882568	polyisoprenoid biosynthesis	3880	Medtr.8g078070
+6882568	polyisoprenoid biosynthesis	3880	Medtr.8g073540
+6882568	polyisoprenoid biosynthesis	3880	Medtr.1g095500
+6882568	polyisoprenoid biosynthesis	3880	Medtr.2g072470
+6882647	lipid-independent phytate biosynthesis	3880	Medtr.8g091320
+6882647	lipid-independent phytate biosynthesis	3880	Medtr.3g087590
+6882596	galactosylcyclitol biosynthesis	3880	Medtr.2g018770
+6882596	galactosylcyclitol biosynthesis	3880	Medtr.3g073370
+6882596	galactosylcyclitol biosynthesis	3880	Medtr.1g012800
+6882549	ornithine biosynthesis	3880	Medtr.1g012540
+6882549	ornithine biosynthesis	3880	Medtr.5g014410
+6882549	ornithine biosynthesis	3880	Medtr.7g451450
+6882549	ornithine biosynthesis	3880	Medtr.3g108460
+6882680	glutamine biosynthesis I	3880	Medtr.5g077950
+6882680	glutamine biosynthesis I	3880	Medtr.6g071070
+6882680	glutamine biosynthesis I	3880	Medtr.3g065250
+6882557	valine biosynthesis	3880	Medtr.2g013120
+6882557	valine biosynthesis	3880	Medtr.5g014960
+6882557	valine biosynthesis	3880	Medtr.7g069500
+6882557	valine biosynthesis	3880	Medtr.2g015560
+6882557	valine biosynthesis	3880	Medtr.3g103580
+6882557	valine biosynthesis	3880	Medtr.2g089340
+6882557	valine biosynthesis	3880	Medtr.4g092590
+6882557	valine biosynthesis	3880	Medtr.8g088600
+6882557	valine biosynthesis	3880	Medtr.4g017200
+6882557	valine biosynthesis	3880	Medtr.3g099190
+6882557	valine biosynthesis	3880	Medtr.5g076080
+6882557	valine biosynthesis	3880	Medtr.2g091205
+6882557	valine biosynthesis	3880	Medtr.4g092580
+6882557	valine biosynthesis	3880	Medtr.4g079780
+6882557	valine biosynthesis	3880	Medtr.5g046610
+6882557	valine biosynthesis	3880	Medtr.2g009330
+6882557	valine biosynthesis	3880	Medtr.2g027220
+6882557	valine biosynthesis	3880	Medtr.7g069540
+6882696	arginine degradation VI (arginase 2 pathway)	3880	Medtr.7g090160
+6882696	arginine degradation VI (arginase 2 pathway)	3880	Medtr.4g024940
+6882670	maackiain biosynthesis	3880	Medtr.5g020740
+6882670	maackiain biosynthesis	3880	Medtr.5g020760
+6882670	maackiain biosynthesis	3880	Medtr.5g020800
+6882566	methionine salvage pathway	3880	Medtr.3g103550
+6882566	methionine salvage pathway	3880	Medtr.4g097540
+6882566	methionine salvage pathway	3880	Medtr.1g107235
+6882566	methionine salvage pathway	3880	Medtr.8g101820
+6882566	methionine salvage pathway	3880	Medtr.8g101750
+6882566	methionine salvage pathway	3880	Medtr.5g015020
+6882566	methionine salvage pathway	3880	Medtr.7g110310
+6882566	methionine salvage pathway	3880	Medtr.8g098930
+6882566	methionine salvage pathway	3880	Medtr.8g028600
+6882566	methionine salvage pathway	3880	Medtr.7g079080
+6882566	methionine salvage pathway	3880	Medtr.2g042450
+6882566	methionine salvage pathway	3880	Medtr.3g117700
+6882566	methionine salvage pathway	3880	Medtr.6g091760
+6882668	trehalose degradation II	3880	Medtr.5g009000
+6882668	trehalose degradation II	3880	Medtr.8g099985
+6882542	gibberellin biosynthesis III (early C-13 hydroxylation)	3880	Medtr.8g102600
+6882542	gibberellin biosynthesis III (early C-13 hydroxylation)	3880	Medtr.4g074130
+6882542	gibberellin biosynthesis III (early C-13 hydroxylation)	3880	Medtr.6g088665
+6882593	lysine biosynthesis I	3880	Medtr.3g084500
+6882593	lysine biosynthesis I	3880	Medtr.3g118430
+6882593	lysine biosynthesis I	3880	Medtr.7g083920
+6882593	lysine biosynthesis I	3880	Medtr.8g028145
+6882593	lysine biosynthesis I	3880	Medtr.7g075090
+6882593	lysine biosynthesis I	3880	Medtr.1g101400
+6882593	lysine biosynthesis I	3880	Medtr.6g033260
+6882593	lysine biosynthesis I	3880	Medtr.2g065470
+6882593	lysine biosynthesis I	3880	Medtr.8g105860
+6882593	lysine biosynthesis I	3880	Medtr.4g103920
+6882593	lysine biosynthesis I	3880	Medtr.6g022630
+6882593	lysine biosynthesis I	3880	Medtr.8g083210
+6882593	lysine biosynthesis I	3880	Medtr.1g012540
+6882593	lysine biosynthesis I	3880	Medtr.1g088775
+6882593	lysine biosynthesis I	3880	Medtr.5g022700
+6882593	lysine biosynthesis I	3880	Medtr.3g085850
+6882588	canavanine biosynthesis	3880	Medtr.5g042880
+6882588	canavanine biosynthesis	3880	Medtr.3g100220
+6882588	canavanine biosynthesis	3880	Medtr.4g096900
+6882588	canavanine biosynthesis	3880	Medtr.3g112050
+6882588	canavanine biosynthesis	3880	Medtr.5g093570
+6882588	canavanine biosynthesis	3880	Medtr.3g088970
+6882588	canavanine biosynthesis	3880	Medtr.4g103680
+6882588	canavanine biosynthesis	3880	Medtr.1g022420
+6882588	canavanine biosynthesis	3880	Medtr.3g088940
+6882686	Abscisic acid (ABA) mediated signaling	3880	Medtr.5g030500
+6882686	Abscisic acid (ABA) mediated signaling	3880	Medtr.8g079560
+6882686	Abscisic acid (ABA) mediated signaling	3880	Medtr.8g027805
+6882686	Abscisic acid (ABA) mediated signaling	3880	Medtr.5g083270
+6882686	Abscisic acid (ABA) mediated signaling	3880	Medtr.3g068200
+6882686	Abscisic acid (ABA) mediated signaling	3880	Medtr.4g101880
+6882686	Abscisic acid (ABA) mediated signaling	3880	Medtr.4g014460
+6882686	Abscisic acid (ABA) mediated signaling	3880	Medtr.1g016480
+6882686	Abscisic acid (ABA) mediated signaling	3880	Medtr.3g071740
+6882686	Abscisic acid (ABA) mediated signaling	3880	Medtr.5g080680
+6882686	Abscisic acid (ABA) mediated signaling	3880	Medtr.1g028380
+6882686	Abscisic acid (ABA) mediated signaling	3880	Medtr.2g019530
+6882686	Abscisic acid (ABA) mediated signaling	3880	Medtr.3g090980
+6882686	Abscisic acid (ABA) mediated signaling	3880	Medtr.5g099240
+6882686	Abscisic acid (ABA) mediated signaling	3880	Medtr.8g446430
+6882686	Abscisic acid (ABA) mediated signaling	3880	Medtr.4g085910
+6882686	Abscisic acid (ABA) mediated signaling	3880	Medtr.5g018050
+6882686	Abscisic acid (ABA) mediated signaling	3880	Medtr.7g070050
+6882612	glutathione biosynthesis	3880	Medtr.5g010230
+6882612	glutathione biosynthesis	3880	Medtr.5g010250
+6882612	glutathione biosynthesis	3880	Medtr.7g113890
+6882612	glutathione biosynthesis	3880	Medtr.7g113880
+6882612	glutathione biosynthesis	3880	Medtr.8g098350
+6882612	glutathione biosynthesis	3880	Medtr.5g010210
+6882632	linear furanocoumarin biosynthesis	3880	Medtr.4g094100
+6882632	linear furanocoumarin biosynthesis	3880	Medtr.7g073970
+6882632	linear furanocoumarin biosynthesis	3880	Medtr.3g111660
+6882632	linear furanocoumarin biosynthesis	3880	Medtr.1g054715
+6882604	proline biosynthesis V (from arginine)	3880	Medtr.3g112050
+6882604	proline biosynthesis V (from arginine)	3880	Medtr.7g090160
+6882604	proline biosynthesis V (from arginine)	3880	Medtr.1g022420
+6882551	gamma-glutamyl cycle	3880	Medtr.5g010230
+6882551	gamma-glutamyl cycle	3880	Medtr.5g010250
+6882551	gamma-glutamyl cycle	3880	Medtr.7g113890
+6882551	gamma-glutamyl cycle	3880	Medtr.7g113880
+6882551	gamma-glutamyl cycle	3880	Medtr.8g098350
+6882551	gamma-glutamyl cycle	3880	Medtr.4g093870
+6882551	gamma-glutamyl cycle	3880	Medtr.5g010210
+6882692	Strigolactone Biosynthesis	3880	Medtr.7g045370
+6882692	Strigolactone Biosynthesis	3880	Medtr.7g063800
+6882692	Strigolactone Biosynthesis	3880	Medtr.1g015860
+6882692	Strigolactone Biosynthesis	3880	Medtr.3g109610
+6882692	Strigolactone Biosynthesis	3880	Medtr.3g104560
+6882525	Cytosolic glycolysis	3880	Medtr.5g069050
+6882525	Cytosolic glycolysis	3880	Medtr.5g065880
+6882525	Cytosolic glycolysis	3880	Medtr.5g069055
+6882525	Cytosolic glycolysis	3880	Medtr.4g103920
+6882525	Cytosolic glycolysis	3880	Medtr.6g022630
+6882525	Cytosolic glycolysis	3880	Medtr.2g066120
+6882525	Cytosolic glycolysis	3880	Medtr.1242s0010
+6882525	Cytosolic glycolysis	3880	Medtr.2g066130
+6882525	Cytosolic glycolysis	3880	Medtr.6g009330
+6882525	Cytosolic glycolysis	3880	Medtr.1g061050
+6882525	Cytosolic glycolysis	3880	Medtr.3g085850
+6882592	starch biosynthesis	3880	Medtr.1g102010
+6882592	starch biosynthesis	3880	Medtr.5g065880
+6882592	starch biosynthesis	3880	Medtr.4g070430
+6882592	starch biosynthesis	3880	Medtr.4g131760
+6882592	starch biosynthesis	3880	Medtr.3g091570
+6882592	starch biosynthesis	3880	Medtr.3g116860
+6882592	starch biosynthesis	3880	Medtr.1g094980
+6882592	starch biosynthesis	3880	Medtr.3g082150
+6882592	starch biosynthesis	3880	Medtr.2g023320
+6882592	starch biosynthesis	3880	Medtr.3g053220
+6882592	starch biosynthesis	3880	Medtr.4g084270
+6882592	starch biosynthesis	3880	Medtr.8g104540
+6882592	starch biosynthesis	3880	Medtr.5g097010
+6882592	starch biosynthesis	3880	Medtr.4g094595
+6882592	starch biosynthesis	3880	Medtr.7g111020
+6882592	starch biosynthesis	3880	Medtr.6g012380
+6882592	starch biosynthesis	3880	Medtr.6g009330
+6882592	starch biosynthesis	3880	Medtr.3g112070
+6882556	cholesterol biosynthesis I	3880	Medtr.6g039970
+6882556	cholesterol biosynthesis I	3880	Medtr.8g063210
+6882556	cholesterol biosynthesis I	3880	Medtr.5g035190
+6882556	cholesterol biosynthesis I	3880	Medtr.4g071520
+6882556	cholesterol biosynthesis I	3880	Medtr.6g084920
+6882678	cyanate degradation	3880	Medtr.1g041795
+6882678	cyanate degradation	3880	Medtr.1g059900
+6882678	cyanate degradation	3880	Medtr.7g102960
+6882678	cyanate degradation	3880	Medtr.2g009500
+6882678	cyanate degradation	3880	Medtr.1g059960
+6882678	cyanate degradation	3880	Medtr.1g062860
+6882678	cyanate degradation	3880	Medtr.6g006990
+6882678	cyanate degradation	3880	Medtr.1g059940
+6882678	cyanate degradation	3880	Medtr.3g077940
+6882678	cyanate degradation	3880	Medtr.1g062880
+6882678	cyanate degradation	3880	Medtr.8g064630
+6882678	cyanate degradation	3880	Medtr.5g034250
+6882678	cyanate degradation	3880	Medtr.0219s0070
+6882678	cyanate degradation	3880	Medtr.5g066060
+6882678	cyanate degradation	3880	Medtr.3g077910
+6882678	cyanate degradation	3880	Medtr.7g090950
+6882690	Calvin cycle	3880	Medtr.7g007120
+6882690	Calvin cycle	3880	Medtr.7g103020
+6882690	Calvin cycle	3880	Medtr.7g007200
+6882690	Calvin cycle	3880	Medtr.7g007220
+6882690	Calvin cycle	3880	Medtr.1g061050
+6882690	Calvin cycle	3880	Medtr.6g018300
+6882690	Calvin cycle	3880	Medtr.7g084800
+6882690	Calvin cycle	3880	Medtr.2g066120
+6882690	Calvin cycle	3880	Medtr.5g059410
+6882690	Calvin cycle	3880	Medtr.3g070100
+6882690	Calvin cycle	3880	Medtr.4g093620
+6882690	Calvin cycle	3880	Medtr.7g066120
+6882690	Calvin cycle	3880	Medtr.7g007230
+6882690	Calvin cycle	3880	Medtr.7g114900
+6882690	Calvin cycle	3880	Medtr.5g069050
+6882690	Calvin cycle	3880	Medtr.2g096940
+6882690	Calvin cycle	3880	Medtr.5g069055
+6882690	Calvin cycle	3880	Medtr.7g029630
+6882690	Calvin cycle	3880	Medtr.4g108800
+6882690	Calvin cycle	3880	Medtr.7g007210
+6882690	Calvin cycle	3880	Medtr.1242s0010
+6882690	Calvin cycle	3880	Medtr.1g109200
+6882690	Calvin cycle	3880	Medtr.5g096670
+6882690	Calvin cycle	3880	Medtr.3g449340
+6882690	Calvin cycle	3880	Medtr.4g024630
+6882690	Calvin cycle	3880	Medtr.2g066130
+6882690	Calvin cycle	3880	Medtr.2g066110
+6882690	Calvin cycle	3880	Medtr.1g108440
+6882690	Calvin cycle	3880	Medtr.2g032540
+6882690	Calvin cycle	3880	Medtr.6g018310
+6882690	Calvin cycle	3880	Medtr.5g027530
+6882690	Calvin cycle	3880	Medtr.1g116120
+6882609	pantothenate biosynthesis III	3880	Medtr.7g058920
+6882597	phytocassane biosynthesis	3880	Medtr.3g058160
+6882597	phytocassane biosynthesis	3880	Medtr.2g064295
+6882698	Strigolactone signaling	3880	Medtr.3g062450
+6882698	Strigolactone signaling	3880	Medtr.1g018320
+6882698	Strigolactone signaling	3880	Medtr.4g095310
+6882698	Strigolactone signaling	3880	Medtr.7g112460
+6882698	Strigolactone signaling	3880	Medtr.1g083700
+6882698	Strigolactone signaling	3880	Medtr.7g116940
+6882698	Strigolactone signaling	3880	Medtr.5g016150
+6882698	Strigolactone signaling	3880	Medtr.4g080020
+6882698	Strigolactone signaling	3880	Medtr.2g104140
+6882698	Strigolactone signaling	3880	Medtr.1g021150
+6882698	Strigolactone signaling	3880	Medtr.5g075580
+6882698	Strigolactone signaling	3880	Medtr.4g009840
+6882698	Strigolactone signaling	3880	Medtr.4g120900
+6882535	IAA biosynthesis I	3880	Medtr.1750s0010
+6882535	IAA biosynthesis I	3880	Medtr.2g029450
+6882535	IAA biosynthesis I	3880	Medtr.4g104610
+6882535	IAA biosynthesis I	3880	Medtr.4g089025
+6882535	IAA biosynthesis I	3880	Medtr.2g029430
+6882535	IAA biosynthesis I	3880	Medtr.2g015560
+6882535	IAA biosynthesis I	3880	Medtr.1g008380
+6882535	IAA biosynthesis I	3880	Medtr.8g073960
+6882535	IAA biosynthesis I	3880	Medtr.4g117670
+6882535	IAA biosynthesis I	3880	Medtr.4g052390
+6882535	IAA biosynthesis I	3880	Medtr.3g467200
+6882535	IAA biosynthesis I	3880	Medtr.7g098700
+6882535	IAA biosynthesis I	3880	Medtr.8g076390
+6882535	IAA biosynthesis I	3880	Medtr.4g104570
+6882535	IAA biosynthesis I	3880	Medtr.1g104590
+6882535	IAA biosynthesis I	3880	Medtr.4g089020
+6882535	IAA biosynthesis I	3880	Medtr.5g033510
+6882535	IAA biosynthesis I	3880	Medtr.4g117610
+6882535	IAA biosynthesis I	3880	Medtr.2g009330
+6882535	IAA biosynthesis I	3880	Medtr.3g109520
+6882535	IAA biosynthesis I	3880	Medtr.1g011630
+6882535	IAA biosynthesis I	3880	Medtr.4g104540
+6882535	IAA biosynthesis I	3880	Medtr.8g028060
+6882535	IAA biosynthesis I	3880	Medtr.4g117660
+6882535	IAA biosynthesis I	3880	Medtr.3g467220
+6882535	IAA biosynthesis I	3880	Medtr.7g069500
+6882535	IAA biosynthesis I	3880	Medtr.7g098730
+6882535	IAA biosynthesis I	3880	Medtr.5g033520
+6882535	IAA biosynthesis I	3880	Medtr.4g017200
+6882535	IAA biosynthesis I	3880	Medtr.4g052380
+6882535	IAA biosynthesis I	3880	Medtr.8g076372
+6882535	IAA biosynthesis I	3880	Medtr.6g086870
+6882535	IAA biosynthesis I	3880	Medtr.4g045887
+6882535	IAA biosynthesis I	3880	Medtr.4g089030
+6882535	IAA biosynthesis I	3880	Medtr.4g104550
+6882535	IAA biosynthesis I	3880	Medtr.4g089055
+6882535	IAA biosynthesis I	3880	Medtr.5g046610
+6882535	IAA biosynthesis I	3880	Medtr.8g073950
+6882535	IAA biosynthesis I	3880	Medtr.3g467290
+6882535	IAA biosynthesis I	3880	Medtr.3g465300
+6882535	IAA biosynthesis I	3880	Medtr.0022s0290
+6882535	IAA biosynthesis I	3880	Medtr.7g069540
+6882671	glycine biosynthesis I	3880	Medtr.2g006570
+6882671	glycine biosynthesis I	3880	Medtr.5g030950
+6882671	glycine biosynthesis I	3880	Medtr.8g081510
+6882671	glycine biosynthesis I	3880	Medtr.3g084310
+6882671	glycine biosynthesis I	3880	Medtr.3g073470
+6882671	glycine biosynthesis I	3880	Medtr.6g033290
+6882559	GA12 biosynthesis	3880	Medtr.2g105360
+6882559	GA12 biosynthesis	3880	Medtr.2g031930
+6882559	GA12 biosynthesis	3880	Medtr.2g031920
+6882610	proline biosynthesis I	3880	Medtr.4g020110
+6882610	proline biosynthesis I	3880	Medtr.7g090160
+6882610	proline biosynthesis I	3880	Medtr.3g069080
+6882610	proline biosynthesis I	3880	Medtr.7g063650
+6882697	Brassinosteroid signaling	3880	Medtr.5g037200
+6882697	Brassinosteroid signaling	3880	Medtr.2g087530
+6882697	Brassinosteroid signaling	3880	Medtr.2g104140
+6882697	Brassinosteroid signaling	3880	Medtr.3g014060
+6882697	Brassinosteroid signaling	3880	Medtr.3g111680
+6882697	Brassinosteroid signaling	3880	Medtr.5g064580
+6882697	Brassinosteroid signaling	3880	Medtr.8g015880
+6882697	Brassinosteroid signaling	3880	Medtr.3g100620
+6882697	Brassinosteroid signaling	3880	Medtr.4g009840
+6882697	Brassinosteroid signaling	3880	Medtr.2g076960
+6882697	Brassinosteroid signaling	3880	Medtr.2g091225
+6882697	Brassinosteroid signaling	3880	Medtr.7g112460
+6882697	Brassinosteroid signaling	3880	Medtr.5g019550
+6882697	Brassinosteroid signaling	3880	Medtr.7g107310
+6882697	Brassinosteroid signaling	3880	Medtr.2g075410
+6882697	Brassinosteroid signaling	3880	Medtr.4g078160
+6882697	Brassinosteroid signaling	3880	Medtr.8g085610
+6882697	Brassinosteroid signaling	3880	Medtr.1g040810
+6882697	Brassinosteroid signaling	3880	Medtr.1g089370
+6882697	Brassinosteroid signaling	3880	Medtr.1g021990
+6882697	Brassinosteroid signaling	3880	Medtr.2g075400
+6882697	Brassinosteroid signaling	3880	Medtr.1g083700
+6882697	Brassinosteroid signaling	3880	Medtr.4g050540
+6882697	Brassinosteroid signaling	3880	Medtr.8g062430
+6882697	Brassinosteroid signaling	3880	Medtr.3g099380
+6882697	Brassinosteroid signaling	3880	Medtr.2g100370
+6882697	Brassinosteroid signaling	3880	Medtr.0137s0020
+6882697	Brassinosteroid signaling	3880	Medtr.4g120900
+6882639	asparagine biosynthesis I	3880	Medtr.3g110065
+6882639	asparagine biosynthesis I	3880	Medtr.8g091280
+6882639	asparagine biosynthesis I	3880	Medtr.4g080130
+6882639	asparagine biosynthesis I	3880	Medtr.4g080140
+6882639	asparagine biosynthesis I	3880	Medtr.7g106830
+6882639	asparagine biosynthesis I	3880	Medtr.1g013050
+6882639	asparagine biosynthesis I	3880	Medtr.3g087220
+6882580	brassinosteroid biosynthesis II	3880	Medtr.3g070380
+6882580	brassinosteroid biosynthesis II	3880	Medtr.8g077810
+6882580	brassinosteroid biosynthesis II	3880	Medtr.5g082520
+6882580	brassinosteroid biosynthesis II	3880	Medtr.4g064025
+6882580	brassinosteroid biosynthesis II	3880	Medtr.8g016180
+6882580	brassinosteroid biosynthesis II	3880	Medtr.6g043740
+6882580	brassinosteroid biosynthesis II	3880	Medtr.7g066760
+6882580	brassinosteroid biosynthesis II	3880	Medtr.5g020020
+6882580	brassinosteroid biosynthesis II	3880	Medtr.5g087590
+6882580	brassinosteroid biosynthesis II	3880	Medtr.4g072070
+6882580	brassinosteroid biosynthesis II	3880	Medtr.6g037340
+6882603	citrulline biosynthesis	3880	Medtr.4g020110
+6882603	citrulline biosynthesis	3880	Medtr.6g016640
+6882603	citrulline biosynthesis	3880	Medtr.7g020820
+6882603	citrulline biosynthesis	3880	Medtr.3g112050
+6882603	citrulline biosynthesis	3880	Medtr.4g103830
+6882603	citrulline biosynthesis	3880	Medtr.3g069080
+6882603	citrulline biosynthesis	3880	Medtr.4g024940
+6882603	citrulline biosynthesis	3880	Medtr.3g095490
+6882603	citrulline biosynthesis	3880	Medtr.3g087220
+6882603	citrulline biosynthesis	3880	Medtr.1g022420
+6882603	citrulline biosynthesis	3880	Medtr.6g016635
+6882603	citrulline biosynthesis	3880	Medtr.7g063650
+6882603	citrulline biosynthesis	3880	Medtr.6g016650
+6882579	chorismate biosynthesis	3880	Medtr.2g009080
+6882579	chorismate biosynthesis	3880	Medtr.5g013690
+6882579	chorismate biosynthesis	3880	Medtr.5g022580
+6882579	chorismate biosynthesis	3880	Medtr.5g029550
+6882579	chorismate biosynthesis	3880	Medtr.4g024620
+6882579	chorismate biosynthesis	3880	Medtr.4g099060
+6882579	chorismate biosynthesis	3880	Medtr.4g090620
+6882579	chorismate biosynthesis	3880	Medtr.1g095250
+6882579	chorismate biosynthesis	3880	Medtr.6g033510
+6882579	chorismate biosynthesis	3880	Medtr.5g064500
+6882636	aspartate biosynthesis I	3880	Medtr.3g110065
+6882636	aspartate biosynthesis I	3880	Medtr.8g091280
+6882636	aspartate biosynthesis I	3880	Medtr.4g080130
+6882636	aspartate biosynthesis I	3880	Medtr.4g080140
+6882636	aspartate biosynthesis I	3880	Medtr.7g106830
+6882636	aspartate biosynthesis I	3880	Medtr.1g013050
+6882634	ethylene biosynthesis from methionine	3880	Medtr.7g110310
+6882634	ethylene biosynthesis from methionine	3880	Medtr.8g098930
+6882634	ethylene biosynthesis from methionine	3880	Medtr.7g079080
+6882634	ethylene biosynthesis from methionine	3880	Medtr.8g028600
+6882634	ethylene biosynthesis from methionine	3880	Medtr.2g025120
+6882634	ethylene biosynthesis from methionine	3880	Medtr.3g103550
+6882634	ethylene biosynthesis from methionine	3880	Medtr.4g132770
+6882634	ethylene biosynthesis from methionine	3880	Medtr.4g097540
+6882634	ethylene biosynthesis from methionine	3880	Medtr.6g091760
+6882634	ethylene biosynthesis from methionine	3880	Medtr.5g085330
+6882634	ethylene biosynthesis from methionine	3880	Medtr.3g083370
+6882634	ethylene biosynthesis from methionine	3880	Medtr.8g101820
+6882634	ethylene biosynthesis from methionine	3880	Medtr.8g101750
+6882634	ethylene biosynthesis from methionine	3880	Medtr.5g015020
+6882565	vitamin E biosynthesis	3880	Medtr.5g090990
+6882565	vitamin E biosynthesis	3880	Medtr.1g014690
+6882565	vitamin E biosynthesis	3880	Medtr.1g076570
+6882565	vitamin E biosynthesis	3880	Medtr.4g127800
+6882565	vitamin E biosynthesis	3880	Medtr.5g091060
+6882565	vitamin E biosynthesis	3880	Medtr.5g090980
+6882565	vitamin E biosynthesis	3880	Medtr.1g071110
+6882565	vitamin E biosynthesis	3880	Medtr.3g110160
+6882565	vitamin E biosynthesis	3880	Medtr.1g022325
+6882564	hydroxycinnamic acid serotonin amides biosynthesis	3880	Medtr.2g029450
+6882564	hydroxycinnamic acid serotonin amides biosynthesis	3880	Medtr.8g028060
+6882564	hydroxycinnamic acid serotonin amides biosynthesis	3880	Medtr.1g049370
+6882564	hydroxycinnamic acid serotonin amides biosynthesis	3880	Medtr.2g029430
+6882564	hydroxycinnamic acid serotonin amides biosynthesis	3880	Medtr.7g098730
+6882564	hydroxycinnamic acid serotonin amides biosynthesis	3880	Medtr.7g098700
+6882663	medicarpin biosynthesis	3880	Medtr.5g020740
+6882663	medicarpin biosynthesis	3880	Medtr.5g020760
+6882663	medicarpin biosynthesis	3880	Medtr.5g020800
+6882651	flavin biosynthesis	3880	Medtr.4g094700
+6882651	flavin biosynthesis	3880	Medtr.4g119220
+6882651	flavin biosynthesis	3880	Medtr.1g114560
+6882651	flavin biosynthesis	3880	Medtr.4g091060
+6882633	spermine biosynthesis	3880	Medtr.7g018310
+6882633	spermine biosynthesis	3880	Medtr.0076s0020
+6882633	spermine biosynthesis	3880	Medtr.7g018290
+6882633	spermine biosynthesis	3880	Medtr.8g063940
+6882633	spermine biosynthesis	3880	Medtr.7g018320
+6882633	spermine biosynthesis	3880	Medtr.5g034470
+6882633	spermine biosynthesis	3880	Medtr.0003s0660
+6882633	spermine biosynthesis	3880	Medtr.1g028360
+6882633	spermine biosynthesis	3880	Medtr.8g069905
+6882633	spermine biosynthesis	3880	Medtr.3g078190
+6882633	spermine biosynthesis	3880	Medtr.3g091090
+6882674	chlorophyll a biosynthesis I	3880	Medtr.7g069210
+6882687	chlorophyll cycle	3880	Medtr.7g069210
+6882673	trehalose biosynthesis I	3880	Medtr.1g032730
+6882673	trehalose biosynthesis I	3880	Medtr.8g105740
+6882673	trehalose biosynthesis I	3880	Medtr.3g008500
+6882673	trehalose biosynthesis I	3880	Medtr.4g101600
+6882673	trehalose biosynthesis I	3880	Medtr.4g036090
+6882673	trehalose biosynthesis I	3880	Medtr.4g036685
+6882673	trehalose biosynthesis I	3880	Medtr.8g087910
+6882638	asparagine biosynthesis III	3880	Medtr.3g087220
+6882626	IAA biosynthesis VI (via indole-3-acetamide)	3880	Medtr.1g082750
+6882584	tetrahydrofolate biosynthesis I	3880	Medtr.2g088720
+6882584	tetrahydrofolate biosynthesis I	3880	Medtr.5g044980
+6882584	tetrahydrofolate biosynthesis I	3880	Medtr.7g106600
+6882584	tetrahydrofolate biosynthesis I	3880	Medtr.7g106580
+6882584	tetrahydrofolate biosynthesis I	3880	Medtr.1g007170
+6882584	tetrahydrofolate biosynthesis I	3880	Medtr.1g108690
+6882584	tetrahydrofolate biosynthesis I	3880	Medtr.3g117080
+6882584	tetrahydrofolate biosynthesis I	3880	Medtr.6g015630
+6882584	tetrahydrofolate biosynthesis I	3880	Medtr.4g070670
+6882614	fructan biosynthesis	3880	Medtr.4g101630
+6882614	fructan biosynthesis	3880	Medtr.3g008530
+6882607	geranylgeranyldiphosphate biosynthesis II (plastidic)	3880	Medtr.4g095055
+6882607	geranylgeranyldiphosphate biosynthesis II (plastidic)	3880	Medtr.5g019460
+6882607	geranylgeranyldiphosphate biosynthesis II (plastidic)	3880	Medtr.2g098650
+6882607	geranylgeranyldiphosphate biosynthesis II (plastidic)	3880	Medtr.2g027300
+6882607	geranylgeranyldiphosphate biosynthesis II (plastidic)	3880	Medtr.8g078070
+6882607	geranylgeranyldiphosphate biosynthesis II (plastidic)	3880	Medtr.6g007165
+6882571	UDP-N-acetylgalactosamine biosynthesis	3880	Medtr.5g013970
+6882571	UDP-N-acetylgalactosamine biosynthesis	3880	Medtr.7g104610
+6882571	UDP-N-acetylgalactosamine biosynthesis	3880	Medtr.7g080270
+6882571	UDP-N-acetylgalactosamine biosynthesis	3880	Medtr.4g094668
+6882629	cysteine biosynthesis I	3880	Medtr.1g103690
+6882629	cysteine biosynthesis I	3880	Medtr.8g028040
+6882629	cysteine biosynthesis I	3880	Medtr.4g087490
+6882629	cysteine biosynthesis I	3880	Medtr.4g087510
+6882629	cysteine biosynthesis I	3880	Medtr.5g023760
+6882629	cysteine biosynthesis I	3880	Medtr.1g081610
+6882629	cysteine biosynthesis I	3880	Medtr.5g006340
+6882629	cysteine biosynthesis I	3880	Medtr.4g087520
+6882595	homoserine biosynthesis	3880	Medtr.6g033260
+6882595	homoserine biosynthesis	3880	Medtr.8g105860
+6882595	homoserine biosynthesis	3880	Medtr.3g084500
+6882595	homoserine biosynthesis	3880	Medtr.3g079330
+6882595	homoserine biosynthesis	3880	Medtr.8g083210
+6882595	homoserine biosynthesis	3880	Medtr.1g012540
+6882595	homoserine biosynthesis	3880	Medtr.7g083920
+6882630	methionine biosynthesis II	3880	Medtr.8g061360
+6882630	methionine biosynthesis II	3880	Medtr.2g090615
+6882630	methionine biosynthesis II	3880	Medtr.1g103290
+6882630	methionine biosynthesis II	3880	Medtr.3g079640
+6882630	methionine biosynthesis II	3880	Medtr.6g027920
+6882630	methionine biosynthesis II	3880	Medtr.1g064320
+6882630	methionine biosynthesis II	3880	Medtr.7g086300
+6882630	methionine biosynthesis II	3880	Medtr.7g095280
+6882630	methionine biosynthesis II	3880	Medtr.5g099180
+6882630	methionine biosynthesis II	3880	Medtr.5g056640
+6882613	wighteone and luteone biosynthesis	3880	Medtr.2g027300
+6882684	Plastid glycolysis	3880	Medtr.7g084800
+6882684	Plastid glycolysis	3880	Medtr.7g103020
+6882684	Plastid glycolysis	3880	Medtr.3g115920
+6882601	methylerythritol phosphate pathway	3880	Medtr.4g134540
+6882601	methylerythritol phosphate pathway	3880	Medtr.3g437340
+6882601	methylerythritol phosphate pathway	3880	Medtr.4g095270
+6882601	methylerythritol phosphate pathway	3880	Medtr.5g016260
+6882601	methylerythritol phosphate pathway	3880	Medtr.7g080060
+6882601	methylerythritol phosphate pathway	3880	Medtr.4g106870
+6882601	methylerythritol phosphate pathway	3880	Medtr.2g094160
+6882601	methylerythritol phosphate pathway	3880	Medtr.8g068300
+6882601	methylerythritol phosphate pathway	3880	Medtr.2g020590
+6882601	methylerythritol phosphate pathway	3880	Medtr.8g012565
+6882601	methylerythritol phosphate pathway	3880	Medtr.4g069030
+6882601	methylerythritol phosphate pathway	3880	Medtr.4g069070
+6882601	methylerythritol phosphate pathway	3880	Medtr.8g068265
+6882601	methylerythritol phosphate pathway	3880	Medtr.4g118640
+6882601	methylerythritol phosphate pathway	3880	Medtr.5g010010
+6882645	acyl-CoA synthetase pathway	3880	Medtr.1g030290
+6882645	acyl-CoA synthetase pathway	3880	Medtr.3g087980
+6882645	acyl-CoA synthetase pathway	3880	Medtr.3g082660
+6882689	tetrapyrrole biosynthesis I	3880	Medtr.3g101350
+6882689	tetrapyrrole biosynthesis I	3880	Medtr.3g088610
+6882689	tetrapyrrole biosynthesis I	3880	Medtr.4g076600
+6882689	tetrapyrrole biosynthesis I	3880	Medtr.3g118070
+6882622	putrescine biosynthesis II	3880	Medtr.2g086600
+6882622	putrescine biosynthesis II	3880	Medtr.4g110140
+6882622	putrescine biosynthesis II	3880	Medtr.4g112810
+6882622	putrescine biosynthesis II	3880	Medtr.4g072020
+6882602	momilactone biosynthesis	3880	Medtr.3g058240
+6882602	momilactone biosynthesis	3880	Medtr.1g035190
+6882602	momilactone biosynthesis	3880	Medtr.5g094570
+6882602	momilactone biosynthesis	3880	Medtr.3g058380
+6882602	momilactone biosynthesis	3880	Medtr.4g133750
+6882602	momilactone biosynthesis	3880	Medtr.3g058110
+6882602	momilactone biosynthesis	3880	Medtr.0059s0170
+6882602	momilactone biosynthesis	3880	Medtr.3g058160
+6882602	momilactone biosynthesis	3880	Medtr.5g094560
+6882602	momilactone biosynthesis	3880	Medtr.5g073230
+6882602	momilactone biosynthesis	3880	Medtr.5g094840
+6882602	momilactone biosynthesis	3880	Medtr.3g057860
+6882602	momilactone biosynthesis	3880	Medtr.5g094460
+6882602	momilactone biosynthesis	3880	Medtr.1g442730
+6882602	momilactone biosynthesis	3880	Medtr.3g058400
+6882602	momilactone biosynthesis	3880	Medtr.3g057980
+6882602	momilactone biosynthesis	3880	Medtr.3g058060
+6882602	momilactone biosynthesis	3880	Medtr.7g011663
+6882602	momilactone biosynthesis	3880	Medtr.5g094520
+6882602	momilactone biosynthesis	3880	Medtr.3g058210
+6882602	momilactone biosynthesis	3880	Medtr.4g048580
+6882602	momilactone biosynthesis	3880	Medtr.5g019010
+6882602	momilactone biosynthesis	3880	Medtr.3g058250
+6882602	momilactone biosynthesis	3880	Medtr.2g010530
+6882602	momilactone biosynthesis	3880	Medtr.6g034965
+6882602	momilactone biosynthesis	3880	Medtr.6g035115
+6882602	momilactone biosynthesis	3880	Medtr.4g133760
+6882602	momilactone biosynthesis	3880	Medtr.3g057910
+6882602	momilactone biosynthesis	3880	Medtr.7g094970
+6882602	momilactone biosynthesis	3880	Medtr.5g095290
+6882602	momilactone biosynthesis	3880	Medtr.5g018990
+6882602	momilactone biosynthesis	3880	Medtr.5g094550
+6882602	momilactone biosynthesis	3880	Medtr.5g094540
+6882602	momilactone biosynthesis	3880	Medtr.5g094660
+6882602	momilactone biosynthesis	3880	Medtr.8g466180
+6882602	momilactone biosynthesis	3880	Medtr.3g057900
+6882602	momilactone biosynthesis	3880	Medtr.5g095220
+6882602	momilactone biosynthesis	3880	Medtr.3g057970
+6882602	momilactone biosynthesis	3880	Medtr.3g058000
+6882602	momilactone biosynthesis	3880	Medtr.2g064295
+6882602	momilactone biosynthesis	3880	Medtr.0554s0020
+6882602	momilactone biosynthesis	3880	Medtr.5g095260
+6882602	momilactone biosynthesis	3880	Medtr.5g018980
+6882602	momilactone biosynthesis	3880	Medtr.5g073320
+6882602	momilactone biosynthesis	3880	Medtr.1g035140
+6882602	momilactone biosynthesis	3880	Medtr.3g058230
+6882602	momilactone biosynthesis	3880	Medtr.6g462640
+6882602	momilactone biosynthesis	3880	Medtr.5g073250
+6882602	momilactone biosynthesis	3880	Medtr.7g011770
+6882602	momilactone biosynthesis	3880	Medtr.3g058390
+6882602	momilactone biosynthesis	3880	Medtr.3g057800
+6882602	momilactone biosynthesis	3880	Medtr.3g058220
+6882602	momilactone biosynthesis	3880	Medtr.6g035100
+6882531	folate polyglutamylation I	3880	Medtr.2g006570
+6882531	folate polyglutamylation I	3880	Medtr.3g069180
+6882531	folate polyglutamylation I	3880	Medtr.5g030950
+6882531	folate polyglutamylation I	3880	Medtr.8g081510
+6882531	folate polyglutamylation I	3880	Medtr.5g059390
+6882531	folate polyglutamylation I	3880	Medtr.3g084310
+6882531	folate polyglutamylation I	3880	Medtr.3g073470
+6882531	folate polyglutamylation I	3880	Medtr.8g098345
+6882531	folate polyglutamylation I	3880	Medtr.5g081250
+6882531	folate polyglutamylation I	3880	Medtr.1g116140
+6882531	folate polyglutamylation I	3880	Medtr.3g069160
+6882531	folate polyglutamylation I	3880	Medtr.6g033290
+6882560	abscisic acid biosynthesis	3880	Medtr.8g037315
+6882560	abscisic acid biosynthesis	3880	Medtr.8g037310
+6882560	abscisic acid biosynthesis	3880	Medtr.8g037275
+6882560	abscisic acid biosynthesis	3880	Medtr.3g020670
+6882560	abscisic acid biosynthesis	3880	Medtr.2g070460
+6882560	abscisic acid biosynthesis	3880	Medtr.8g037290
+6882679	gentiodelphin biosynthesis	3880	Medtr.3g084520
+6882679	gentiodelphin biosynthesis	3880	Medtr.3g084530
+6882679	gentiodelphin biosynthesis	3880	Medtr.8g083290
+6882679	gentiodelphin biosynthesis	3880	Medtr.8g083280
+6882679	gentiodelphin biosynthesis	3880	Medtr.3g084540
+6882548	arginine biosynthesis I	3880	Medtr.4g096900
+6882548	arginine biosynthesis I	3880	Medtr.5g093570
+6882548	arginine biosynthesis I	3880	Medtr.7g451450
+6882548	arginine biosynthesis I	3880	Medtr.5g014410
+6882548	arginine biosynthesis I	3880	Medtr.4g103680
+6882548	arginine biosynthesis I	3880	Medtr.3g108460
+6882548	arginine biosynthesis I	3880	Medtr.5g042880
+6882548	arginine biosynthesis I	3880	Medtr.3g100220
+6882548	arginine biosynthesis I	3880	Medtr.1g012540
+6882548	arginine biosynthesis I	3880	Medtr.3g112050
+6882548	arginine biosynthesis I	3880	Medtr.3g088970
+6882548	arginine biosynthesis I	3880	Medtr.1g022420
+6882548	arginine biosynthesis I	3880	Medtr.3g088940
+6882570	folate polyglutamylation II	3880	Medtr.2g075770
+6882570	folate polyglutamylation II	3880	Medtr.2g075760
+6882570	folate polyglutamylation II	3880	Medtr.3g069180
+6882570	folate polyglutamylation II	3880	Medtr.5g081250
+6882570	folate polyglutamylation II	3880	Medtr.2g075780
+6882570	folate polyglutamylation II	3880	Medtr.3g069160
+6882570	folate polyglutamylation II	3880	Medtr.2g075790
+6882608	pantothenate and coenzyme A biosynthesis III	3880	Medtr.7g075750
+6882608	pantothenate and coenzyme A biosynthesis III	3880	Medtr.7g058920
+6882608	pantothenate and coenzyme A biosynthesis III	3880	Medtr.1g076730
+6882608	pantothenate and coenzyme A biosynthesis III	3880	Medtr.4g103620
+6882608	pantothenate and coenzyme A biosynthesis III	3880	Medtr.7g075710
+6882608	pantothenate and coenzyme A biosynthesis III	3880	Medtr.7g076045
+6882608	pantothenate and coenzyme A biosynthesis III	3880	Medtr.8g035610
+6882608	pantothenate and coenzyme A biosynthesis III	3880	Medtr.1g076720
+6882608	pantothenate and coenzyme A biosynthesis III	3880	Medtr.6g060550
+6882608	pantothenate and coenzyme A biosynthesis III	3880	Medtr.7g075760
+6882608	pantothenate and coenzyme A biosynthesis III	3880	Medtr.7g076050
+6882608	pantothenate and coenzyme A biosynthesis III	3880	Medtr.7g076070
+6882695	lysine biosynthesis VI	3880	Medtr.1g101400
+6882695	lysine biosynthesis VI	3880	Medtr.6g033260
+6882695	lysine biosynthesis VI	3880	Medtr.8g105860
+6882695	lysine biosynthesis VI	3880	Medtr.3g084500
+6882695	lysine biosynthesis VI	3880	Medtr.8g083210
+6882695	lysine biosynthesis VI	3880	Medtr.1g088775
+6882695	lysine biosynthesis VI	3880	Medtr.7g083920
+6882695	lysine biosynthesis VI	3880	Medtr.8g028145
+6882695	lysine biosynthesis VI	3880	Medtr.5g022700
+6882695	lysine biosynthesis VI	3880	Medtr.7g075090
+6882695	lysine biosynthesis VI	3880	Medtr.4g092620
+6882558	mevalonate pathway	3880	Medtr.5g026430
+6882558	mevalonate pathway	3880	Medtr.5g026480
+6882558	mevalonate pathway	3880	Medtr.1g112230
+6882558	mevalonate pathway	3880	Medtr.5g091050
+6882558	mevalonate pathway	3880	Medtr.5g098310
+6882558	mevalonate pathway	3880	Medtr.0449s0040
+6882558	mevalonate pathway	3880	Medtr.7g080060
+6882558	mevalonate pathway	3880	Medtr.5g011040
+6882558	mevalonate pathway	3880	Medtr.5g026450
+6882558	mevalonate pathway	3880	Medtr.5g026460
+6882558	mevalonate pathway	3880	Medtr.8g072640
+6882558	mevalonate pathway	3880	Medtr.7g113660
+6882558	mevalonate pathway	3880	Medtr.5g026500
+6882558	mevalonate pathway	3880	Medtr.5g024880
+6882558	mevalonate pathway	3880	Medtr.5g087550
+6882558	mevalonate pathway	3880	Medtr.4g134090
+6882558	mevalonate pathway	3880	Medtr.6g089570
+6882563	IAA biosynthesis II	3880	Medtr.3g093030
+6882563	IAA biosynthesis II	3880	Medtr.2g097540
+6882563	IAA biosynthesis II	3880	Medtr.8g015510
+6882563	IAA biosynthesis II	3880	Medtr.2g100560
+6882563	IAA biosynthesis II	3880	Medtr.2g097530
+6882563	IAA biosynthesis II	3880	Medtr.3g088590
+6882563	IAA biosynthesis II	3880	Medtr.2g100520
+6882563	IAA biosynthesis II	3880	Medtr.2g100510
+6882652	PRPP biosynthesis I	3880	Medtr.5g033300
+6882652	PRPP biosynthesis I	3880	Medtr.5g075540
+6882652	PRPP biosynthesis I	3880	Medtr.4g098820
+6882576	CMP-KDO biosynthesis II (from D-arabinose 5-phosphate)	3880	Medtr.7g081220
+6882576	CMP-KDO biosynthesis II (from D-arabinose 5-phosphate)	3880	Medtr.1g057850
+6882641	divinyl ether biosynthesis II (13-LOX)	3880	Medtr.4g066170
+6882641	divinyl ether biosynthesis II (13-LOX)	3880	Medtr.3g079420
+6882641	divinyl ether biosynthesis II (13-LOX)	3880	Medtr.3g079450
+6882641	divinyl ether biosynthesis II (13-LOX)	3880	Medtr.4g088810
+6882641	divinyl ether biosynthesis II (13-LOX)	3880	Medtr.3g479460
+6882641	divinyl ether biosynthesis II (13-LOX)	3880	Medtr.7g012030
+6882641	divinyl ether biosynthesis II (13-LOX)	3880	Medtr.8g020970
+6882666	citrulline-nitric oxide cycle	3880	Medtr.2g060420
+6882666	citrulline-nitric oxide cycle	3880	Medtr.5g042880
+6882666	citrulline-nitric oxide cycle	3880	Medtr.3g100220
+6882666	citrulline-nitric oxide cycle	3880	Medtr.3g088970
+6882666	citrulline-nitric oxide cycle	3880	Medtr.4g103680
+6882666	citrulline-nitric oxide cycle	3880	Medtr.3g088940
+6882691	Ethylene mediated signaling	3880	Medtr.1g073840
+6882691	Ethylene mediated signaling	3880	Medtr.0041s0030
+6882691	Ethylene mediated signaling	3880	Medtr.2g035840
+6882691	Ethylene mediated signaling	3880	Medtr.7g116330
+6882691	Ethylene mediated signaling	3880	Medtr.1g044210
+6882691	Ethylene mediated signaling	3880	Medtr.4g114640
+6882691	Ethylene mediated signaling	3880	Medtr.1g061190
+6882691	Ethylene mediated signaling	3880	Medtr.1g050690
+6882691	Ethylene mediated signaling	3880	Medtr.3g107280
+6882691	Ethylene mediated signaling	3880	Medtr.1g016390
+6882691	Ethylene mediated signaling	3880	Medtr.4g100380
+6882691	Ethylene mediated signaling	3880	Medtr.4g094695
+6882691	Ethylene mediated signaling	3880	Medtr.1g079790
+6882691	Ethylene mediated signaling	3880	Medtr.1g012520
+6882691	Ethylene mediated signaling	3880	Medtr.7g109150
+6882691	Ethylene mediated signaling	3880	Medtr.4g114650
+6882649	leucopelargonidin and leucocyanidin biosynthesis	3880	Medtr.3g024520
+6882649	leucopelargonidin and leucocyanidin biosynthesis	3880	Medtr.5g022020
+6882649	leucopelargonidin and leucocyanidin biosynthesis	3880	Medtr.8g075830
+6882649	leucopelargonidin and leucocyanidin biosynthesis	3880	Medtr.3g025260
+6882649	leucopelargonidin and leucocyanidin biosynthesis	3880	Medtr.3g025230
+6882649	leucopelargonidin and leucocyanidin biosynthesis	3880	Medtr.3g058610
+6882649	leucopelargonidin and leucocyanidin biosynthesis	3880	Medtr.3g025250
+6882649	leucopelargonidin and leucocyanidin biosynthesis	3880	Medtr.4g109470
+6882649	leucopelargonidin and leucocyanidin biosynthesis	3880	Medtr.8g075890
+6882616	ascorbate biosynthesis	3880	Medtr.4g133690
+6882616	ascorbate biosynthesis	3880	Medtr.5g065880
+6882616	ascorbate biosynthesis	3880	Medtr.7g007320
+6882616	ascorbate biosynthesis	3880	Medtr.4g084270
+6882616	ascorbate biosynthesis	3880	Medtr.7g076670
+6882616	ascorbate biosynthesis	3880	Medtr.3g069070
+6882616	ascorbate biosynthesis	3880	Medtr.1g094980
+6882616	ascorbate biosynthesis	3880	Medtr.5g080770
+6882616	ascorbate biosynthesis	3880	Medtr.6g009330
+6882648	leucodelphinidin biosynthesis	3880	Medtr.3g024520
+6882648	leucodelphinidin biosynthesis	3880	Medtr.5g022020
+6882648	leucodelphinidin biosynthesis	3880	Medtr.8g075830
+6882648	leucodelphinidin biosynthesis	3880	Medtr.3g025260
+6882648	leucodelphinidin biosynthesis	3880	Medtr.3g025230
+6882648	leucodelphinidin biosynthesis	3880	Medtr.3g058610
+6882648	leucodelphinidin biosynthesis	3880	Medtr.3g025250
+6882648	leucodelphinidin biosynthesis	3880	Medtr.4g109470
+6882648	leucodelphinidin biosynthesis	3880	Medtr.8g075890
+6882675	asparagine degradation I	3880	Medtr.8g031580
+6882675	asparagine degradation I	3880	Medtr.3g110065
+6882675	asparagine degradation I	3880	Medtr.8g091280
+6882675	asparagine degradation I	3880	Medtr.4g080130
+6882675	asparagine degradation I	3880	Medtr.4g109900
+6882675	asparagine degradation I	3880	Medtr.4g109920
+6882675	asparagine degradation I	3880	Medtr.1g018760
+6882675	asparagine degradation I	3880	Medtr.4g080140
+6882675	asparagine degradation I	3880	Medtr.7g106830
+6882675	asparagine degradation I	3880	Medtr.1g013050
+6882675	asparagine degradation I	3880	Medtr.3g008180
+6882675	asparagine degradation I	3880	Medtr.1g094030
+6882675	asparagine degradation I	3880	Medtr.3g102370
+6882605	beta-alanine biosynthesis III	3880	Medtr.5g089200
+6882605	beta-alanine biosynthesis III	3880	Medtr.6g071210
+6882605	beta-alanine biosynthesis III	3880	Medtr.4g093580
+6882605	beta-alanine biosynthesis III	3880	Medtr.4g093570
+6882605	beta-alanine biosynthesis III	3880	Medtr.5g089280
+6882644	cellulose biosynthesis	3880	Medtr.1g069605
+6882644	cellulose biosynthesis	3880	Medtr.3g107520
+6882644	cellulose biosynthesis	3880	Medtr.1g039445
+6882644	cellulose biosynthesis	3880	Medtr.2g016630
+6882644	cellulose biosynthesis	3880	Medtr.7g109200
+6882644	cellulose biosynthesis	3880	Medtr.2g035780
+6882644	cellulose biosynthesis	3880	Medtr.7g116230
+6882644	cellulose biosynthesis	3880	Medtr.2g438220
+6882644	cellulose biosynthesis	3880	Medtr.4g130510
+6882644	cellulose biosynthesis	3880	Medtr.4g077910
+6882644	cellulose biosynthesis	3880	Medtr.8g086600
+6882644	cellulose biosynthesis	3880	Medtr.1g039480
+6882644	cellulose biosynthesis	3880	Medtr.8g037260
+6882644	cellulose biosynthesis	3880	Medtr.3g030040
+6882644	cellulose biosynthesis	3880	Medtr.7g106680
+6882569	carotenoid biosynthesis	3880	Medtr.7g116630
+6882569	carotenoid biosynthesis	3880	Medtr.5g076620
+6882569	carotenoid biosynthesis	3880	Medtr.1g062190
+6882569	carotenoid biosynthesis	3880	Medtr.8g092050
+6882569	carotenoid biosynthesis	3880	Medtr.7g090150
+6882569	carotenoid biosynthesis	3880	Medtr.1g081290
+6882581	aminopropanol biosynthesis	3880	Medtr.6g012160
+6882581	aminopropanol biosynthesis	3880	Medtr.8g095220
+6882581	aminopropanol biosynthesis	3880	Medtr.3g093620
+6882581	aminopropanol biosynthesis	3880	Medtr.2g078520
+6882581	aminopropanol biosynthesis	3880	Medtr.7g034395
+6882581	aminopropanol biosynthesis	3880	Medtr.8g064610
+6882581	aminopropanol biosynthesis	3880	Medtr.4g086400
+6882581	aminopropanol biosynthesis	3880	Medtr.4g086410
+6882581	aminopropanol biosynthesis	3880	Medtr.4g036150
+6882581	aminopropanol biosynthesis	3880	Medtr.6g012170
+6882654	beta-alanine biosynthesis II	3880	Medtr.7g068850
+6882654	beta-alanine biosynthesis II	3880	Medtr.8g090375
+6882654	beta-alanine biosynthesis II	3880	Medtr.3g046330
+6882654	beta-alanine biosynthesis II	3880	Medtr.6g087670
+6882654	beta-alanine biosynthesis II	3880	Medtr.8g010580
+6882685	Mitochondrial pyruvate metabolism	3880	Medtr.4g123070
+6882606	geranyldiphosphate biosynthesis	3880	Medtr.4g095055
+6882606	geranyldiphosphate biosynthesis	3880	Medtr.2g027300
+6882694	alanine biosynthesis III	3880	Medtr.5g014820
+6882694	alanine biosynthesis III	3880	Medtr.3g083980
+6882582	stachyose biosynthesis	3880	Medtr.7g109920
+6882582	stachyose biosynthesis	3880	Medtr.7g111850
+6882582	stachyose biosynthesis	3880	Medtr.4g132185
+6882582	stachyose biosynthesis	3880	Medtr.7g091880
+6882582	stachyose biosynthesis	3880	Medtr.1g052515
+6882582	stachyose biosynthesis	3880	Medtr.1g084660
+6882582	stachyose biosynthesis	3880	Medtr.1g084670
+6882573	pyridoxal 5'-phosphate salvage pathway	3880	Medtr.4g007990
+6882573	pyridoxal 5'-phosphate salvage pathway	3880	Medtr.3g100890
+6882573	pyridoxal 5'-phosphate salvage pathway	3880	Medtr.5g079730
+6882573	pyridoxal 5'-phosphate salvage pathway	3880	Medtr.8g027365
+6882660	UDP-L-arabinose biosynthesis I (from UDP-xylose)	3880	Medtr.2g032100
+6882660	UDP-L-arabinose biosynthesis I (from UDP-xylose)	3880	Medtr.8g089180
+6882657	anthocyanin biosynthesis (delphinidin 3-O-glucoside)	3880	Medtr.5g011250
+6882532	alanine biosynthesis II	3880	Medtr.5g033230
+6882583	UDP-D-glucuronate biosynthesis (from myo-inositol)	3880	Medtr.3g088650
+6882583	UDP-D-glucuronate biosynthesis (from myo-inositol)	3880	Medtr.8g015220
+6882583	UDP-D-glucuronate biosynthesis (from myo-inositol)	3880	Medtr.6g004430
+6882586	kievitone biosynthesis	3880	Medtr.2g027300
+6882703	Jasmonic acid signaling	3880	Medtr.8g037720
+6882703	Jasmonic acid signaling	3880	Medtr.3g065980
+6882703	Jasmonic acid signaling	3880	Medtr.8g027955
+6882703	Jasmonic acid signaling	3880	Medtr.3g100040
+6882703	Jasmonic acid signaling	3880	Medtr.3g032570
+6882703	Jasmonic acid signaling	3880	Medtr.3g070140
+6882703	Jasmonic acid signaling	3880	Medtr.7g096810
+6882703	Jasmonic acid signaling	3880	Medtr.4g125470
+6882703	Jasmonic acid signaling	3880	Medtr.1g069940
+6882703	Jasmonic acid signaling	3880	Medtr.4g093730
+6882703	Jasmonic acid signaling	3880	Medtr.7g094190
+6882703	Jasmonic acid signaling	3880	Medtr.1g069960
+6882703	Jasmonic acid signaling	3880	Medtr.8g027965
+6882703	Jasmonic acid signaling	3880	Medtr.1g069945
+6882703	Jasmonic acid signaling	3880	Medtr.8g027970
+6882703	Jasmonic acid signaling	3880	Medtr.1g047730
+6882703	Jasmonic acid signaling	3880	Medtr.2g438180
+6882703	Jasmonic acid signaling	3880	Medtr.5g081870
+6882703	Jasmonic acid signaling	3880	Medtr.8g070780
+6882703	Jasmonic acid signaling	3880	Medtr.7g117110
+6882703	Jasmonic acid signaling	3880	Medtr.6g087140
+6882703	Jasmonic acid signaling	3880	Medtr.1g074310
+6882703	Jasmonic acid signaling	3880	Medtr.4g054740
+6882703	Jasmonic acid signaling	3880	Medtr.7g112460
+6882703	Jasmonic acid signaling	3880	Medtr.8g027920
+6882703	Jasmonic acid signaling	3880	Medtr.7g096830
+6882703	Jasmonic acid signaling	3880	Medtr.5g030430
+6882703	Jasmonic acid signaling	3880	Medtr.8g070770
+6882703	Jasmonic acid signaling	3880	Medtr.7g096780
+6882703	Jasmonic acid signaling	3880	Medtr.1g083700
+6882703	Jasmonic acid signaling	3880	Medtr.8g070790
+6882703	Jasmonic acid signaling	3880	Medtr.8g067280
+6882703	Jasmonic acid signaling	3880	Medtr.4g120900
+6882590	trans,trans-farnesyl diphosphate biosynthesis	3880	Medtr.4g095055
+6882590	trans,trans-farnesyl diphosphate biosynthesis	3880	Medtr.5g019460
+6882590	trans,trans-farnesyl diphosphate biosynthesis	3880	Medtr.2g027300
+6882590	trans,trans-farnesyl diphosphate biosynthesis	3880	Medtr.8g078070
+6882567	anthocyanin biosynthesis (pelargonidin 3-O-glucoside, cyanidin 3-O-glucoside)	3880	Medtr.5g011250
+6882621	ent-kaurene biosynthesis	3880	Medtr.3g058160
+6882621	ent-kaurene biosynthesis	3880	Medtr.7g011663
+6882621	ent-kaurene biosynthesis	3880	Medtr.2g064295
+6882621	ent-kaurene biosynthesis	3880	Medtr.7g094970
+6882621	ent-kaurene biosynthesis	3880	Medtr.7g011770
+6882700	Xylan Biosynthesis	3880	Medtr.3g111060
+6882700	Xylan Biosynthesis	3880	Medtr.1g019540
+6882700	Xylan Biosynthesis	3880	Medtr.1g019530
+6882700	Xylan Biosynthesis	3880	Medtr.3g110142
+6882655	salicylate biosynthesis	3880	Medtr.5g098720
+6882655	salicylate biosynthesis	3880	Medtr.7g101425
+6882655	salicylate biosynthesis	3880	Medtr.2g094960
+6882655	salicylate biosynthesis	3880	Medtr.1g094780
+6882655	salicylate biosynthesis	3880	Medtr.1g064090
+6882655	salicylate biosynthesis	3880	Medtr.7g101395
+6882676	homocysteine biosynthesis	3880	Medtr.5g020260
+6882676	homocysteine biosynthesis	3880	Medtr.8g077290
+6882676	homocysteine biosynthesis	3880	Medtr.5g020320
+6882676	homocysteine biosynthesis	3880	Medtr.5g020250
+6882537	jasmonic acid biosynthesis	3880	Medtr.1g034320
+6882537	jasmonic acid biosynthesis	3880	Medtr.4g066170
+6882537	jasmonic acid biosynthesis	3880	Medtr.1g021652
+6882537	jasmonic acid biosynthesis	3880	Medtr.6g092790
+6882537	jasmonic acid biosynthesis	3880	Medtr.2g087890
+6882537	jasmonic acid biosynthesis	3880	Medtr.4g088810
+6882537	jasmonic acid biosynthesis	3880	Medtr.6g017165
+6882537	jasmonic acid biosynthesis	3880	Medtr.4g125470
+6882537	jasmonic acid biosynthesis	3880	Medtr.5g053950
+6882537	jasmonic acid biosynthesis	3880	Medtr.3g079420
+6882537	jasmonic acid biosynthesis	3880	Medtr.6g091750
+6882537	jasmonic acid biosynthesis	3880	Medtr.1g026860
+6882537	jasmonic acid biosynthesis	3880	Medtr.3g079450
+6882537	jasmonic acid biosynthesis	3880	Medtr.3g479460
+6882537	jasmonic acid biosynthesis	3880	Medtr.6g091720
+6882537	jasmonic acid biosynthesis	3880	Medtr.4g068550
+6882537	jasmonic acid biosynthesis	3880	Medtr.7g417750
+6882537	jasmonic acid biosynthesis	3880	Medtr.4g069020
+6882537	jasmonic acid biosynthesis	3880	Medtr.6g091700
+6882537	jasmonic acid biosynthesis	3880	Medtr.8g101550
+6882537	jasmonic acid biosynthesis	3880	Medtr.3g111530
+6882537	jasmonic acid biosynthesis	3880	Medtr.8g020970
+6882537	jasmonic acid biosynthesis	3880	Medtr.1g034330
+6882537	jasmonic acid biosynthesis	3880	Medtr.7g012030
+6882537	jasmonic acid biosynthesis	3880	Medtr.6g017155
+6882681	ammonia assimilation cycle	3880	Medtr.5g077950
+6882681	ammonia assimilation cycle	3880	Medtr.6g071070
+6882681	ammonia assimilation cycle	3880	Medtr.3g065250
+6882650	phylloquinone biosynthesis	3880	Medtr.8g469150
+6882650	phylloquinone biosynthesis	3880	Medtr.8g064990
+6882650	phylloquinone biosynthesis	3880	Medtr.7g009330
+6882650	phylloquinone biosynthesis	3880	Medtr.6g011390
+6882642	secologanin and strictosidine biosynthesis	3880	Medtr.7g090310
+6882642	secologanin and strictosidine biosynthesis	3880	Medtr.2g029450
+6882642	secologanin and strictosidine biosynthesis	3880	Medtr.8g028060
+6882642	secologanin and strictosidine biosynthesis	3880	Medtr.2g099030
+6882642	secologanin and strictosidine biosynthesis	3880	Medtr.2g029430
+6882642	secologanin and strictosidine biosynthesis	3880	Medtr.2g042370
+6882642	secologanin and strictosidine biosynthesis	3880	Medtr.8g074210
+6882642	secologanin and strictosidine biosynthesis	3880	Medtr.8g074170
+6882642	secologanin and strictosidine biosynthesis	3880	Medtr.7g098730
+6882642	secologanin and strictosidine biosynthesis	3880	Medtr.7g098700
+6882642	secologanin and strictosidine biosynthesis	3880	Medtr.4g050190
+6882642	secologanin and strictosidine biosynthesis	3880	Medtr.8g074270
+6882642	secologanin and strictosidine biosynthesis	3880	Medtr.2g042420
+6882642	secologanin and strictosidine biosynthesis	3880	Medtr.2g087780
+6882642	secologanin and strictosidine biosynthesis	3880	Medtr.2g042430
+6882642	secologanin and strictosidine biosynthesis	3880	Medtr.7g090320
+6882594	lysine biosynthesis II	3880	Medtr.3g084500
+6882594	lysine biosynthesis II	3880	Medtr.3g118430
+6882594	lysine biosynthesis II	3880	Medtr.7g083920
+6882594	lysine biosynthesis II	3880	Medtr.8g028145
+6882594	lysine biosynthesis II	3880	Medtr.7g075090
+6882594	lysine biosynthesis II	3880	Medtr.1g101400
+6882594	lysine biosynthesis II	3880	Medtr.6g033260
+6882594	lysine biosynthesis II	3880	Medtr.2g065470
+6882594	lysine biosynthesis II	3880	Medtr.8g105860
+6882594	lysine biosynthesis II	3880	Medtr.4g103920
+6882594	lysine biosynthesis II	3880	Medtr.6g022630
+6882594	lysine biosynthesis II	3880	Medtr.8g083210
+6882594	lysine biosynthesis II	3880	Medtr.1g012540
+6882594	lysine biosynthesis II	3880	Medtr.1g088775
+6882594	lysine biosynthesis II	3880	Medtr.5g022700
+6882594	lysine biosynthesis II	3880	Medtr.3g085850
+6882598	isoleucine biosynthesis from threonine	3880	Medtr.2g013120
+6882598	isoleucine biosynthesis from threonine	3880	Medtr.5g014960
+6882598	isoleucine biosynthesis from threonine	3880	Medtr.7g069500
+6882598	isoleucine biosynthesis from threonine	3880	Medtr.2g015560
+6882598	isoleucine biosynthesis from threonine	3880	Medtr.3g103580
+6882598	isoleucine biosynthesis from threonine	3880	Medtr.2g089340
+6882598	isoleucine biosynthesis from threonine	3880	Medtr.4g092590
+6882598	isoleucine biosynthesis from threonine	3880	Medtr.8g088600
+6882598	isoleucine biosynthesis from threonine	3880	Medtr.1g061800
+6882598	isoleucine biosynthesis from threonine	3880	Medtr.4g017200
+6882598	isoleucine biosynthesis from threonine	3880	Medtr.3g099190
+6882598	isoleucine biosynthesis from threonine	3880	Medtr.5g076080
+6882598	isoleucine biosynthesis from threonine	3880	Medtr.2g091205
+6882598	isoleucine biosynthesis from threonine	3880	Medtr.4g092580
+6882598	isoleucine biosynthesis from threonine	3880	Medtr.4g079780
+6882598	isoleucine biosynthesis from threonine	3880	Medtr.5g046610
+6882598	isoleucine biosynthesis from threonine	3880	Medtr.2g009330
+6882598	isoleucine biosynthesis from threonine	3880	Medtr.2g027220
+6882598	isoleucine biosynthesis from threonine	3880	Medtr.7g069540
+6882538	13-LOX and 13-HPL pathway	3880	Medtr.4g066170
+6882538	13-LOX and 13-HPL pathway	3880	Medtr.3g079420
+6882538	13-LOX and 13-HPL pathway	3880	Medtr.3g079450
+6882538	13-LOX and 13-HPL pathway	3880	Medtr.4g088810
+6882538	13-LOX and 13-HPL pathway	3880	Medtr.3g479460
+6882538	13-LOX and 13-HPL pathway	3880	Medtr.7g012030
+6882538	13-LOX and 13-HPL pathway	3880	Medtr.8g020970
+6882683	resveratrol biosynthesis	3880	Medtr.7g084300
+6882615	pinobanksin biosynthesis	3880	Medtr.1g115840
+6882615	pinobanksin biosynthesis	3880	Medtr.1g115890
+6882615	pinobanksin biosynthesis	3880	Medtr.2g072510
+6882615	pinobanksin biosynthesis	3880	Medtr.7g084300
+6882615	pinobanksin biosynthesis	3880	Medtr.1g115850
+6882615	pinobanksin biosynthesis	3880	Medtr.1g115820
+6882615	pinobanksin biosynthesis	3880	Medtr.7g027135
+6882615	pinobanksin biosynthesis	3880	Medtr.1g115870
+6882585	oleoresin monoterpene volatiles biosynthesis	3880	Medtr.4g100730
+6882619	glutathione redox reactions II	3880	Medtr.1g070505
+6882619	glutathione redox reactions II	3880	Medtr.6g033515
+6882600	galactose degradation II	3880	Medtr.8g096880
+6882600	galactose degradation II	3880	Medtr.5g076830
+6882600	galactose degradation II	3880	Medtr.7g108930
+6882600	galactose degradation II	3880	Medtr.6g478000
+6882600	galactose degradation II	3880	Medtr.1g088170
+6882600	galactose degradation II	3880	Medtr.4g134490
+6882600	galactose degradation II	3880	Medtr.5g009170
+6882600	galactose degradation II	3880	Medtr.4g122670
+6882600	galactose degradation II	3880	Medtr.3g064610
+6882600	galactose degradation II	3880	Medtr.8g099535
+6882600	galactose degradation II	3880	Medtr.5g009160
+6882529	tetrahydrofolate biosynthesis II	3880	Medtr.7g106600
+6882529	tetrahydrofolate biosynthesis II	3880	Medtr.7g106580
+6882529	tetrahydrofolate biosynthesis II	3880	Medtr.1g108690
+6882529	tetrahydrofolate biosynthesis II	3880	Medtr.3g117080
+6882529	tetrahydrofolate biosynthesis II	3880	Medtr.2g088720
+6882529	tetrahydrofolate biosynthesis II	3880	Medtr.5g044980
+6882529	tetrahydrofolate biosynthesis II	3880	Medtr.3g069180
+6882529	tetrahydrofolate biosynthesis II	3880	Medtr.5g059390
+6882529	tetrahydrofolate biosynthesis II	3880	Medtr.1g116140
+6882529	tetrahydrofolate biosynthesis II	3880	Medtr.5g081250
+6882529	tetrahydrofolate biosynthesis II	3880	Medtr.8g098345
+6882529	tetrahydrofolate biosynthesis II	3880	Medtr.6g015630
+6882529	tetrahydrofolate biosynthesis II	3880	Medtr.4g070670
+6882529	tetrahydrofolate biosynthesis II	3880	Medtr.3g069160
+6882611	leucine biosynthesis	3880	Medtr.4g011180
+6882611	leucine biosynthesis	3880	Medtr.8g074030
+6882611	leucine biosynthesis	3880	Medtr.5g014960
+6882611	leucine biosynthesis	3880	Medtr.5g022940
+6882611	leucine biosynthesis	3880	Medtr.3g103580
+6882611	leucine biosynthesis	3880	Medtr.1g064070
+6882611	leucine biosynthesis	3880	Medtr.4g092590
+6882611	leucine biosynthesis	3880	Medtr.5g023740
+6882611	leucine biosynthesis	3880	Medtr.1g116500
+6882611	leucine biosynthesis	3880	Medtr.4g092580
+6882611	leucine biosynthesis	3880	Medtr.3g101470
+6882611	leucine biosynthesis	3880	Medtr.1g073200
+6882611	leucine biosynthesis	3880	Medtr.7g033125
+6882611	leucine biosynthesis	3880	Medtr.1g045750
+6882672	fructan degradation	3880	Medtr.1g059700
+6882672	fructan degradation	3880	Medtr.7g105050
+6882544	pantothenate biosynthesis I	3880	Medtr.4g037305
+6882544	pantothenate biosynthesis I	3880	Medtr.4g037245
+6882544	pantothenate biosynthesis I	3880	Medtr.4g037315
+6882544	pantothenate biosynthesis I	3880	Medtr.7g058920
+6882544	pantothenate biosynthesis I	3880	Medtr.5g014960
+6882544	pantothenate biosynthesis I	3880	Medtr.4g092580
+6882544	pantothenate biosynthesis I	3880	Medtr.8g028555
+6882544	pantothenate biosynthesis I	3880	Medtr.3g103580
+6882544	pantothenate biosynthesis I	3880	Medtr.4g092590
+6882618	phenylalanine biosynthesis I	3880	Medtr.3g106000
+6882618	phenylalanine biosynthesis I	3880	Medtr.8g091280
+6882618	phenylalanine biosynthesis I	3880	Medtr.8g061360
+6882618	phenylalanine biosynthesis I	3880	Medtr.2g090615
+6882618	phenylalanine biosynthesis I	3880	Medtr.1g013820
+6882618	phenylalanine biosynthesis I	3880	Medtr.2g084875
+6882618	phenylalanine biosynthesis I	3880	Medtr.4g055310
+6882618	phenylalanine biosynthesis I	3880	Medtr.7g106830
+6882618	phenylalanine biosynthesis I	3880	Medtr.4g061070
+6882618	phenylalanine biosynthesis I	3880	Medtr.5g043210
+6882618	phenylalanine biosynthesis I	3880	Medtr.6g013425
+6882659	GDP-L-fucose biosynthesis I (from GDP-D-mannose)	3880	Medtr.3g101500
+6882659	GDP-L-fucose biosynthesis I (from GDP-D-mannose)	3880	Medtr.4g024600
+6882659	GDP-L-fucose biosynthesis I (from GDP-D-mannose)	3880	Medtr.2g096660
+6882659	GDP-L-fucose biosynthesis I (from GDP-D-mannose)	3880	Medtr.0034s0060
+6882659	GDP-L-fucose biosynthesis I (from GDP-D-mannose)	3880	Medtr.8g089180
+6882659	GDP-L-fucose biosynthesis I (from GDP-D-mannose)	3880	Medtr.2g073240
+6882659	GDP-L-fucose biosynthesis I (from GDP-D-mannose)	3880	Medtr.3g084090
+6882659	GDP-L-fucose biosynthesis I (from GDP-D-mannose)	3880	Medtr.4g063600
+6882659	GDP-L-fucose biosynthesis I (from GDP-D-mannose)	3880	Medtr.4g129820
+6882659	GDP-L-fucose biosynthesis I (from GDP-D-mannose)	3880	Medtr.2g032100
+6882659	GDP-L-fucose biosynthesis I (from GDP-D-mannose)	3880	Medtr.5g011940
+6882659	GDP-L-fucose biosynthesis I (from GDP-D-mannose)	3880	Medtr.5g021770
+6882659	GDP-L-fucose biosynthesis I (from GDP-D-mannose)	3880	Medtr.0354s0040
+6882659	GDP-L-fucose biosynthesis I (from GDP-D-mannose)	3880	Medtr.4g102270
+6882659	GDP-L-fucose biosynthesis I (from GDP-D-mannose)	3880	Medtr.7g108490
+6882659	GDP-L-fucose biosynthesis I (from GDP-D-mannose)	3880	Medtr.5g021760
+6882664	IAA conjugate biosynthesis I	3880	Medtr.3g084520
+6882664	IAA conjugate biosynthesis I	3880	Medtr.3g084530
+6882664	IAA conjugate biosynthesis I	3880	Medtr.8g083290
+6882664	IAA conjugate biosynthesis I	3880	Medtr.8g083280
+6882664	IAA conjugate biosynthesis I	3880	Medtr.3g084540
+6882667	thiamine biosynthesis	3880	Medtr.8g068300
+6882667	thiamine biosynthesis	3880	Medtr.2g020590
+6882667	thiamine biosynthesis	3880	Medtr.2g006350
+6882667	thiamine biosynthesis	3880	Medtr.8g068265
+6882667	thiamine biosynthesis	3880	Medtr.4g118640
+6882540	UDP-D-xylose biosynthesis	3880	Medtr.4g056100
+6882540	UDP-D-xylose biosynthesis	3880	Medtr.1g107455
+6882540	UDP-D-xylose biosynthesis	3880	Medtr.2g041340
+6882540	UDP-D-xylose biosynthesis	3880	Medtr.2g096660
+6882540	UDP-D-xylose biosynthesis	3880	Medtr.4g053420
+6882540	UDP-D-xylose biosynthesis	3880	Medtr.1g108530
+6882540	UDP-D-xylose biosynthesis	3880	Medtr.4g063600
+6882624	lysine degradation I	3880	Medtr.7g018310
+6882624	lysine degradation I	3880	Medtr.0076s0020
+6882624	lysine degradation I	3880	Medtr.7g018290
+6882624	lysine degradation I	3880	Medtr.7g018320
+6882624	lysine degradation I	3880	Medtr.0003s0660
+6882624	lysine degradation I	3880	Medtr.8g069905
+6882693	glutamate biosynthesis I	3880	Medtr.2g070420
+6882527	glycolipid desaturation	3880	Medtr.3g464330
+6882527	glycolipid desaturation	3880	Medtr.2g460790
+6882527	glycolipid desaturation	3880	Medtr.4g015630
+6882527	glycolipid desaturation	3880	Medtr.7g068780
+6882527	glycolipid desaturation	3880	Medtr.5g071170
+6882527	glycolipid desaturation	3880	Medtr.1g111880
+6882527	glycolipid desaturation	3880	Medtr.7g093200
+6882527	glycolipid desaturation	3880	Medtr.1g054035
+6882527	glycolipid desaturation	3880	Medtr.4g130980
+6882574	phaseic acid biosynthesis	3880	Medtr.8g072260
+6882574	phaseic acid biosynthesis	3880	Medtr.4g086040
+6882574	phaseic acid biosynthesis	3880	Medtr.1g019410
+6882574	phaseic acid biosynthesis	3880	Medtr.4g086130
+6882574	phaseic acid biosynthesis	3880	Medtr.5g025610
+6882627	proanthocyanidin biosynthesis from flavanols	3880	Medtr.5g020760
+6882627	proanthocyanidin biosynthesis from flavanols	3880	Medtr.5g020740
+6882627	proanthocyanidin biosynthesis from flavanols	3880	Medtr.5g020800
+6882662	lipid-A-precursor biosynthesis	3880	Medtr.8g012965
+6882701	xylogalacturonan biosynthesis	3880	Medtr.7g103270
+6882701	xylogalacturonan biosynthesis	3880	Medtr.1g061760
+6882701	xylogalacturonan biosynthesis	3880	Medtr.3g081240
+6882701	xylogalacturonan biosynthesis	3880	Medtr.3g097310
+6882701	xylogalacturonan biosynthesis	3880	Medtr.3g080690
+6882701	xylogalacturonan biosynthesis	3880	Medtr.7g103260
+6882665	putrescine biosynthesis I	3880	Medtr.4g072020
+6882577	gibberellin biosynthesis II (early C-3 hydroxylation)	3880	Medtr.8g102600
+6882577	gibberellin biosynthesis II (early C-3 hydroxylation)	3880	Medtr.4g074130
+6882577	gibberellin biosynthesis II (early C-3 hydroxylation)	3880	Medtr.6g088665
+6882555	cholesterol biosynthesis III (via desmosterol)	3880	Medtr.6g039970
+6882555	cholesterol biosynthesis III (via desmosterol)	3880	Medtr.8g063210
+6882555	cholesterol biosynthesis III (via desmosterol)	3880	Medtr.5g035190
+6882555	cholesterol biosynthesis III (via desmosterol)	3880	Medtr.4g071520
+6882555	cholesterol biosynthesis III (via desmosterol)	3880	Medtr.6g084920
+6882688	monoterpene biosynthesis	3880	Medtr.4g100730
+6882661	peptidoglycan biosynthesis I	3880	Medtr.1g080500
+6882661	peptidoglycan biosynthesis I	3880	Medtr.3g096610
+6882661	peptidoglycan biosynthesis I	3880	Medtr.7g071990
+6882661	peptidoglycan biosynthesis I	3880	Medtr.3g115100
+6882661	peptidoglycan biosynthesis I	3880	Medtr.8g098345
+6882631	S-adenosyl-L-methionine cycle	3880	Medtr.7g110310
+6882631	S-adenosyl-L-methionine cycle	3880	Medtr.3g079640
+6882631	S-adenosyl-L-methionine cycle	3880	Medtr.6g027920
+6882631	S-adenosyl-L-methionine cycle	3880	Medtr.8g083090
+6882631	S-adenosyl-L-methionine cycle	3880	Medtr.7g086300
+6882562	gibberellin biosynthesis I (non C-3, non C-13 hydroxylation)	3880	Medtr.8g102600
+6882562	gibberellin biosynthesis I (non C-3, non C-13 hydroxylation)	3880	Medtr.4g074130
+6882562	gibberellin biosynthesis I (non C-3, non C-13 hydroxylation)	3880	Medtr.6g088665
+6882546	flavonoid biosynthesis	3880	Medtr.1g115840
+6882546	flavonoid biosynthesis	3880	Medtr.8g039720
+6882546	flavonoid biosynthesis	3880	Medtr.8g075830
+6882546	flavonoid biosynthesis	3880	Medtr.2g095510
+6882546	flavonoid biosynthesis	3880	Medtr.7g027135
+6882546	flavonoid biosynthesis	3880	Medtr.4g128337
+6882546	flavonoid biosynthesis	3880	Medtr.4g057730
+6882546	flavonoid biosynthesis	3880	Medtr.5g022020
+6882546	flavonoid biosynthesis	3880	Medtr.3g088880
+6882546	flavonoid biosynthesis	3880	Medtr.3g058610
+6882546	flavonoid biosynthesis	3880	Medtr.7g084300
+6882546	flavonoid biosynthesis	3880	Medtr.4g077900
+6882546	flavonoid biosynthesis	3880	Medtr.8g075890
+6882546	flavonoid biosynthesis	3880	Medtr.1g115820
+6882546	flavonoid biosynthesis	3880	Medtr.1g026310
+6882546	flavonoid biosynthesis	3880	Medtr.1g063120
+6882546	flavonoid biosynthesis	3880	Medtr.5g027480
+6882546	flavonoid biosynthesis	3880	Medtr.5g027500
+6882546	flavonoid biosynthesis	3880	Medtr.3g088870
+6882546	flavonoid biosynthesis	3880	Medtr.4g005750
+6882546	flavonoid biosynthesis	3880	Medtr.2g105570
+6882546	flavonoid biosynthesis	3880	Medtr.1g026430
+6882546	flavonoid biosynthesis	3880	Medtr.1g115850
+6882546	flavonoid biosynthesis	3880	Medtr.1g026470
+6882546	flavonoid biosynthesis	3880	Medtr.1g115870
+6882546	flavonoid biosynthesis	3880	Medtr.5g007640
+6882546	flavonoid biosynthesis	3880	Medtr.1g115890
+6882546	flavonoid biosynthesis	3880	Medtr.1g063110
+6882553	sulfate activation for sulfonation	3880	Medtr.6g016325
+6882553	sulfate activation for sulfonation	3880	Medtr.6g016335
+6882637	lactucaxanthin biosynthesis	3880	Medtr.1g062190
+6882628	threonine biosynthesis from homoserine	3880	Medtr.2g099510
+6882628	threonine biosynthesis from homoserine	3880	Medtr.4g125700
+6882628	threonine biosynthesis from homoserine	3880	Medtr.5g099180
+6882617	GDP-mannose metabolism	3880	Medtr.5g009000
+6882617	GDP-mannose metabolism	3880	Medtr.7g007320
+6882617	GDP-mannose metabolism	3880	Medtr.4g084270
+6882617	GDP-mannose metabolism	3880	Medtr.7g076670
+6882617	GDP-mannose metabolism	3880	Medtr.1g094980
+6882521	TCA cycle (plant)	3880	Medtr.5g020050
+6882521	TCA cycle (plant)	3880	Medtr.8g074030
+6882521	TCA cycle (plant)	3880	Medtr.8g463760
+6882521	TCA cycle (plant)	3880	Medtr.5g022940
+6882521	TCA cycle (plant)	3880	Medtr.2g006820
+6882521	TCA cycle (plant)	3880	Medtr.1g492610
+6882521	TCA cycle (plant)	3880	Medtr.1g064070
+6882521	TCA cycle (plant)	3880	Medtr.7g023770
+6882521	TCA cycle (plant)	3880	Medtr.6g077820
+6882521	TCA cycle (plant)	3880	Medtr.5g023740
+6882521	TCA cycle (plant)	3880	Medtr.0018s0260
+6882521	TCA cycle (plant)	3880	Medtr.1g069645
+6882521	TCA cycle (plant)	3880	Medtr.2g061630
+6882521	TCA cycle (plant)	3880	Medtr.1g115340
+6882521	TCA cycle (plant)	3880	Medtr.4g123070
+6882521	TCA cycle (plant)	3880	Medtr.3g101470
+6882521	TCA cycle (plant)	3880	Medtr.1g087900
+6882521	TCA cycle (plant)	3880	Medtr.5g093300
+6882587	NAD biosynthesis I (from aspartate)	3880	Medtr.8g099885
+6882587	NAD biosynthesis I (from aspartate)	3880	Medtr.6g007070
+6882587	NAD biosynthesis I (from aspartate)	3880	Medtr.1g030750
+6882587	NAD biosynthesis I (from aspartate)	3880	Medtr.4g104680
+6882620	glutathione redox reactions I	3880	Medtr.8g105630
+6882620	glutathione redox reactions I	3880	Medtr.1g014210
+6882620	glutathione redox reactions I	3880	Medtr.8g098410
+6882620	glutathione redox reactions I	3880	Medtr.1g070505
+6882620	glutathione redox reactions I	3880	Medtr.7g094600
+6882620	glutathione redox reactions I	3880	Medtr.1g072570
+6882620	glutathione redox reactions I	3880	Medtr.6g033515
+6882699	UDP-D-apiose biosynthesis	3880	Medtr.4g056100
+6882699	UDP-D-apiose biosynthesis	3880	Medtr.1g107455
+6882699	UDP-D-apiose biosynthesis	3880	Medtr.2g041340
+6882699	UDP-D-apiose biosynthesis	3880	Medtr.4g053420
+6882699	UDP-D-apiose biosynthesis	3880	Medtr.1g108530
+6882550	arginine biosynthesis II (acetyl cycle)	3880	Medtr.5g042880
+6882550	arginine biosynthesis II (acetyl cycle)	3880	Medtr.3g100220
+6882550	arginine biosynthesis II (acetyl cycle)	3880	Medtr.1g012540
+6882550	arginine biosynthesis II (acetyl cycle)	3880	Medtr.3g112050
+6882550	arginine biosynthesis II (acetyl cycle)	3880	Medtr.3g088970
+6882550	arginine biosynthesis II (acetyl cycle)	3880	Medtr.4g103680
+6882550	arginine biosynthesis II (acetyl cycle)	3880	Medtr.7g451450
+6882550	arginine biosynthesis II (acetyl cycle)	3880	Medtr.3g108460
+6882550	arginine biosynthesis II (acetyl cycle)	3880	Medtr.1g022420
+6882550	arginine biosynthesis II (acetyl cycle)	3880	Medtr.3g088940
+6882589	trans-zeatin biosynthesis	3880	Medtr.3g019900
+6882589	trans-zeatin biosynthesis	3880	Medtr.6g045293
+6882589	trans-zeatin biosynthesis	3880	Medtr.7g407170
+6882589	trans-zeatin biosynthesis	3880	Medtr.3g011590
+6882589	trans-zeatin biosynthesis	3880	Medtr.2g075100
+6882589	trans-zeatin biosynthesis	3880	Medtr.3g020155
+6882589	trans-zeatin biosynthesis	3880	Medtr.7g028880
+6882589	trans-zeatin biosynthesis	3880	Medtr.3g019820
+6882589	trans-zeatin biosynthesis	3880	Medtr.3g020740
+6882589	trans-zeatin biosynthesis	3880	Medtr.7g024250
+6882589	trans-zeatin biosynthesis	3880	Medtr.6g045287
+6882589	trans-zeatin biosynthesis	3880	Medtr.3g019930
+6882589	trans-zeatin biosynthesis	3880	Medtr.3g020100
+6882589	trans-zeatin biosynthesis	3880	Medtr.1g110590
+6882589	trans-zeatin biosynthesis	3880	Medtr.3g019980
+6882589	trans-zeatin biosynthesis	3880	Medtr.3g020760
+6882646	myo-inositol biosynthesis	3880	Medtr.8g091320
+6882646	myo-inositol biosynthesis	3880	Medtr.3g087590
+6882640	S-methylmethionine cycle	3880	Medtr.1g103290
+6882640	S-methylmethionine cycle	3880	Medtr.2g005110
+6882640	S-methylmethionine cycle	3880	Medtr.7g095280
+6882640	S-methylmethionine cycle	3880	Medtr.5g056640
+6882643	thiosulfate disproportionation III (rhodanese)	3880	Medtr.2g067080
+6882572	pyridoxamine anabolism	3880	Medtr.5g079730
+6882599	histidine biosynthesis I	3880	Medtr.3g117220
+6882599	histidine biosynthesis I	3880	Medtr.2g006040
+6882599	histidine biosynthesis I	3880	Medtr.1g103820
+6882599	histidine biosynthesis I	3880	Medtr.7g084480
+6882599	histidine biosynthesis I	3880	Medtr.6g033540
+6882599	histidine biosynthesis I	3880	Medtr.2g030520
+6882599	histidine biosynthesis I	3880	Medtr.6g033600
+6882599	histidine biosynthesis I	3880	Medtr.2g015010
+6882599	histidine biosynthesis I	3880	Medtr.4g130680
+6882704	Salicylic acid signaling	3880	Medtr.5g090770
+6882704	Salicylic acid signaling	3880	Medtr.7g112460
+6882704	Salicylic acid signaling	3880	Medtr.2g028950
+6882704	Salicylic acid signaling	3880	Medtr.8g040120
+6882704	Salicylic acid signaling	3880	Medtr.4g106810
+6882704	Salicylic acid signaling	3880	Medtr.8g098845
+6882704	Salicylic acid signaling	3880	Medtr.8g028720
+6882704	Salicylic acid signaling	3880	Medtr.5g010030
+6882704	Salicylic acid signaling	3880	Medtr.2g086420
+6882704	Salicylic acid signaling	3880	Medtr.7g078690
+6882704	Salicylic acid signaling	3880	Medtr.1g083700
+6882704	Salicylic acid signaling	3880	Medtr.4g053250
+6882704	Salicylic acid signaling	3880	Medtr.4g124560
+6882704	Salicylic acid signaling	3880	Medtr.7g089800
+6882704	Salicylic acid signaling	3880	Medtr.4g120900
+6882656	phenylpropanoid biosynthesis, initial reactions	3880	Medtr.5g098720
+6882656	phenylpropanoid biosynthesis, initial reactions	3880	Medtr.5g075450
+6882656	phenylpropanoid biosynthesis, initial reactions	3880	Medtr.7g101425
+6882656	phenylpropanoid biosynthesis, initial reactions	3880	Medtr.2g094960
+6882656	phenylpropanoid biosynthesis, initial reactions	3880	Medtr.1g094780
+6882656	phenylpropanoid biosynthesis, initial reactions	3880	Medtr.1g064090
+6882656	phenylpropanoid biosynthesis, initial reactions	3880	Medtr.7g101395

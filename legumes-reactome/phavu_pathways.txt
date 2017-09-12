@@ -1,0 +1,1295 @@
+6860303	ent-kaurene biosynthesis	3885	Phvul.001G151900
+6860303	ent-kaurene biosynthesis	3885	Phvul.001G152100
+6860303	ent-kaurene biosynthesis	3885	Phvul.005G048500
+6860222	flavonoid biosynthesis	3885	Phvul.005G131400
+6860222	flavonoid biosynthesis	3885	Phvul.009G167800
+6860222	flavonoid biosynthesis	3885	Phvul.008G223500
+6860222	flavonoid biosynthesis	3885	Phvul.002G132900
+6860222	flavonoid biosynthesis	3885	Phvul.011G084300
+6860222	flavonoid biosynthesis	3885	Phvul.003G147000
+6860222	flavonoid biosynthesis	3885	Phvul.005G184500
+6860222	flavonoid biosynthesis	3885	Phvul.003G146900
+6860222	flavonoid biosynthesis	3885	Phvul.001G001300
+6860222	flavonoid biosynthesis	3885	Phvul.001G083000
+6860222	flavonoid biosynthesis	3885	Phvul.009G167700
+6860222	flavonoid biosynthesis	3885	Phvul.006G057300
+6860222	flavonoid biosynthesis	3885	Phvul.008G098500
+6860222	flavonoid biosynthesis	3885	Phvul.001G244000
+6860222	flavonoid biosynthesis	3885	Phvul.010G000300
+6860222	flavonoid biosynthesis	3885	Phvul.003G261900
+6860339	GDP-D-rhamnose biosynthesis	3885	Phvul.009G064000
+6860339	GDP-D-rhamnose biosynthesis	3885	Phvul.005G142500
+6860339	GDP-D-rhamnose biosynthesis	3885	Phvul.002G110300
+6860339	GDP-D-rhamnose biosynthesis	3885	Phvul.003G152300
+6860339	GDP-D-rhamnose biosynthesis	3885	Phvul.002G251100
+6860339	GDP-D-rhamnose biosynthesis	3885	Phvul.011G065800
+6860339	GDP-D-rhamnose biosynthesis	3885	Phvul.006G122600
+6860339	GDP-D-rhamnose biosynthesis	3885	Phvul.003G214400
+6860339	GDP-D-rhamnose biosynthesis	3885	Phvul.001G267000
+6860339	GDP-D-rhamnose biosynthesis	3885	Phvul.010G082300
+6860339	GDP-D-rhamnose biosynthesis	3885	Phvul.011G065700
+6860267	canavanine biosynthesis	3885	Phvul.009G036600
+6860267	canavanine biosynthesis	3885	Phvul.009G059600
+6860267	canavanine biosynthesis	3885	Phvul.002G296600
+6860267	canavanine biosynthesis	3885	Phvul.008G270600
+6860267	canavanine biosynthesis	3885	Phvul.003G209800
+6860298	glutathione redox reactions II	3885	Phvul.004G083600
+6860238	gibberellin biosynthesis I (non C-3, non C-13 hydroxylation)	3885	Phvul.002G049000
+6860238	gibberellin biosynthesis I (non C-3, non C-13 hydroxylation)	3885	Phvul.004G170700
+6860238	gibberellin biosynthesis I (non C-3, non C-13 hydroxylation)	3885	Phvul.007G052000
+6860230	sulfate activation for sulfonation	3885	Phvul.004G045400
+6860230	sulfate activation for sulfonation	3885	Phvul.007G062900
+6860389	Salicylic acid signaling	3885	Phvul.006G197300
+6860389	Salicylic acid signaling	3885	Phvul.005G124100
+6860389	Salicylic acid signaling	3885	Phvul.006G197400
+6860389	Salicylic acid signaling	3885	Phvul.001G249300
+6860389	Salicylic acid signaling	3885	Phvul.010G127400
+6860389	Salicylic acid signaling	3885	Phvul.003G129200
+6860389	Salicylic acid signaling	3885	Phvul.010G102800
+6860389	Salicylic acid signaling	3885	Phvul.002G002000
+6860389	Salicylic acid signaling	3885	Phvul.008G169000
+6860389	Salicylic acid signaling	3885	Phvul.009G152900
+6860389	Salicylic acid signaling	3885	Phvul.009G225300
+6860389	Salicylic acid signaling	3885	Phvul.003G197500
+6860389	Salicylic acid signaling	3885	Phvul.006G197200
+6860389	Salicylic acid signaling	3885	Phvul.007G003600
+6860389	Salicylic acid signaling	3885	Phvul.011G093700
+6860389	Salicylic acid signaling	3885	Phvul.003G126800
+6860389	Salicylic acid signaling	3885	Phvul.001G072200
+6860389	Salicylic acid signaling	3885	Phvul.007G067800
+6860389	Salicylic acid signaling	3885	Phvul.007G198900
+6860389	Salicylic acid signaling	3885	Phvul.001G123300
+6860389	Salicylic acid signaling	3885	Phvul.009G152800
+6860389	Salicylic acid signaling	3885	Phvul.009G125900
+6860389	Salicylic acid signaling	3885	Phvul.002G263400
+6860389	Salicylic acid signaling	3885	Phvul.011G203400
+6860389	Salicylic acid signaling	3885	Phvul.006G196900
+6860389	Salicylic acid signaling	3885	Phvul.006G197100
+6860389	Salicylic acid signaling	3885	Phvul.001G227000
+6860389	Salicylic acid signaling	3885	Phvul.002G275000
+6860239	IAA biosynthesis II	3885	Phvul.009G038900
+6860239	IAA biosynthesis II	3885	Phvul.010G142600
+6860239	IAA biosynthesis II	3885	Phvul.009G127200
+6860239	IAA biosynthesis II	3885	Phvul.005G161700
+6860239	IAA biosynthesis II	3885	Phvul.010G142700
+6860244	methionine salvage pathway	3885	Phvul.001G222800
+6860244	methionine salvage pathway	3885	Phvul.001G216700
+6860244	methionine salvage pathway	3885	Phvul.007G040700
+6860244	methionine salvage pathway	3885	Phvul.009G000700
+6860244	methionine salvage pathway	3885	Phvul.007G040800
+6860244	methionine salvage pathway	3885	Phvul.009G000600
+6860244	methionine salvage pathway	3885	Phvul.007G210700
+6860244	methionine salvage pathway	3885	Phvul.009G226400
+6860244	methionine salvage pathway	3885	Phvul.004G172300
+6860244	methionine salvage pathway	3885	Phvul.003G120300
+6860244	methionine salvage pathway	3885	Phvul.003G120000
+6860244	methionine salvage pathway	3885	Phvul.001G216600
+6860244	methionine salvage pathway	3885	Phvul.002G293000
+6860244	methionine salvage pathway	3885	Phvul.002G305000
+6860244	methionine salvage pathway	3885	Phvul.003G232400
+6860206	folate polyglutamylation I	3885	Phvul.002G290300
+6860206	folate polyglutamylation I	3885	Phvul.008G184200
+6860206	folate polyglutamylation I	3885	Phvul.006G216000
+6860206	folate polyglutamylation I	3885	Phvul.001G060700
+6860206	folate polyglutamylation I	3885	Phvul.003G286600
+6860206	folate polyglutamylation I	3885	Phvul.003G051100
+6860206	folate polyglutamylation I	3885	Phvul.007G006400
+6860206	folate polyglutamylation I	3885	Phvul.008G230100
+6860206	folate polyglutamylation I	3885	Phvul.004G071100
+6860206	folate polyglutamylation I	3885	Phvul.001G266600
+6860254	biotin biosynthesis II	3885	Phvul.003G147900
+6860254	biotin biosynthesis II	3885	Phvul.008G087600
+6860254	biotin biosynthesis II	3885	Phvul.002G180400
+6860254	biotin biosynthesis II	3885	Phvul.011G024300
+6860254	biotin biosynthesis II	3885	Phvul.001G024100
+6860254	biotin biosynthesis II	3885	Phvul.006G105400
+6860254	biotin biosynthesis II	3885	Phvul.007G122200
+6860254	biotin biosynthesis II	3885	Phvul.011G023300
+6860254	biotin biosynthesis II	3885	Phvul.004G071100
+6860346	medicarpin biosynthesis	3885	Phvul.011G044500
+6860346	medicarpin biosynthesis	3885	Phvul.009G059000
+6860346	medicarpin biosynthesis	3885	Phvul.011G044700
+6860346	medicarpin biosynthesis	3885	Phvul.002G033200
+6860242	vitamin E biosynthesis	3885	Phvul.007G175500
+6860242	vitamin E biosynthesis	3885	Phvul.011G017200
+6860242	vitamin E biosynthesis	3885	Phvul.008G194300
+6860242	vitamin E biosynthesis	3885	Phvul.009G108200
+6860242	vitamin E biosynthesis	3885	Phvul.011G017100
+6860242	vitamin E biosynthesis	3885	Phvul.007G279000
+6860242	vitamin E biosynthesis	3885	Phvul.003G143900
+6860320	asparagine biosynthesis III	3885	Phvul.002G101900
+6860320	asparagine biosynthesis III	3885	Phvul.001G252200
+6860320	asparagine biosynthesis III	3885	Phvul.006G069300
+6860320	asparagine biosynthesis III	3885	Phvul.008G259900
+6860220	pantothenate biosynthesis I	3885	Phvul.007G209400
+6860220	pantothenate biosynthesis I	3885	Phvul.009G075100
+6860220	pantothenate biosynthesis I	3885	Phvul.002G008700
+6860220	pantothenate biosynthesis I	3885	Phvul.010G104900
+6860220	pantothenate biosynthesis I	3885	Phvul.008G185600
+6860207	alanine biosynthesis II	3885	Phvul.002G150800
+6860207	alanine biosynthesis II	3885	Phvul.010G123200
+6860207	alanine biosynthesis II	3885	Phvul.002G059200
+6860207	alanine biosynthesis II	3885	Phvul.009G175300
+6860207	alanine biosynthesis II	3885	Phvul.003G203500
+6860318	aspartate biosynthesis I	3885	Phvul.001G047000
+6860318	aspartate biosynthesis I	3885	Phvul.001G250600
+6860318	aspartate biosynthesis I	3885	Phvul.011G127800
+6860318	aspartate biosynthesis I	3885	Phvul.009G106800
+6860318	aspartate biosynthesis I	3885	Phvul.002G262100
+6860355	glycine biosynthesis I	3885	Phvul.008G184200
+6860355	glycine biosynthesis I	3885	Phvul.006G216000
+6860355	glycine biosynthesis I	3885	Phvul.003G286600
+6860355	glycine biosynthesis I	3885	Phvul.003G051100
+6860355	glycine biosynthesis I	3885	Phvul.004G071100
+6860355	glycine biosynthesis I	3885	Phvul.001G266600
+6860336	salicylate biosynthesis	3885	Phvul.001G177700
+6860336	salicylate biosynthesis	3885	Phvul.007G150500
+6860336	salicylate biosynthesis	3885	Phvul.007G096300
+6860336	salicylate biosynthesis	3885	Phvul.001G177800
+6860241	hydroxycinnamic acid serotonin amides biosynthesis	3885	Phvul.010G076700
+6860241	hydroxycinnamic acid serotonin amides biosynthesis	3885	Phvul.007G240100
+6860241	hydroxycinnamic acid serotonin amides biosynthesis	3885	Phvul.010G010900
+6860241	hydroxycinnamic acid serotonin amides biosynthesis	3885	Phvul.007G239500
+6860241	hydroxycinnamic acid serotonin amides biosynthesis	3885	Phvul.001G165600
+6860241	hydroxycinnamic acid serotonin amides biosynthesis	3885	Phvul.001G008900
+6860241	hydroxycinnamic acid serotonin amides biosynthesis	3885	Phvul.009G172200
+6860241	hydroxycinnamic acid serotonin amides biosynthesis	3885	Phvul.010G077000
+6860241	hydroxycinnamic acid serotonin amides biosynthesis	3885	Phvul.008G155000
+6860241	hydroxycinnamic acid serotonin amides biosynthesis	3885	Phvul.010G011000
+6860241	hydroxycinnamic acid serotonin amides biosynthesis	3885	Phvul.007G239400
+6860241	hydroxycinnamic acid serotonin amides biosynthesis	3885	Phvul.006G039800
+6860241	hydroxycinnamic acid serotonin amides biosynthesis	3885	Phvul.010G079100
+6860349	citrulline-nitric oxide cycle	3885	Phvul.011G015300
+6860349	citrulline-nitric oxide cycle	3885	Phvul.009G036600
+6860349	citrulline-nitric oxide cycle	3885	Phvul.002G296600
+6860349	citrulline-nitric oxide cycle	3885	Phvul.003G209800
+6860232	cholesterol biosynthesis III (via desmosterol)	3885	Phvul.011G040100
+6860232	cholesterol biosynthesis III (via desmosterol)	3885	Phvul.002G074200
+6860232	cholesterol biosynthesis III (via desmosterol)	3885	Phvul.002G074300
+6860232	cholesterol biosynthesis III (via desmosterol)	3885	Phvul.004G160000
+6860219	oryzalexin A-F biosynthesis	3885	Phvul.005G048500
+6860384	UDP-D-apiose biosynthesis	3885	Phvul.005G128500
+6860384	UDP-D-apiose biosynthesis	3885	Phvul.011G088900
+6860310	threonine biosynthesis from homoserine	3885	Phvul.003G133700
+6860310	threonine biosynthesis from homoserine	3885	Phvul.008G292300
+6860310	threonine biosynthesis from homoserine	3885	Phvul.005G156300
+6860385	Xylan Biosynthesis	3885	Phvul.009G064700
+6860385	Xylan Biosynthesis	3885	Phvul.002G016000
+6860385	Xylan Biosynthesis	3885	Phvul.007G164400
+6860385	Xylan Biosynthesis	3885	Phvul.009G107900
+6860385	Xylan Biosynthesis	3885	Phvul.009G146400
+6860385	Xylan Biosynthesis	3885	Phvul.001G175200
+6860385	Xylan Biosynthesis	3885	Phvul.001G021800
+6860293	fructan biosynthesis	3885	Phvul.003G217900
+6860293	fructan biosynthesis	3885	Phvul.002G061200
+6860380	lysine biosynthesis VI	3885	Phvul.001G177300
+6860380	lysine biosynthesis VI	3885	Phvul.002G217100
+6860380	lysine biosynthesis VI	3885	Phvul.001G003100
+6860380	lysine biosynthesis VI	3885	Phvul.001G170900
+6860380	lysine biosynthesis VI	3885	Phvul.011G012000
+6860380	lysine biosynthesis VI	3885	Phvul.008G075400
+6860380	lysine biosynthesis VI	3885	Phvul.001G265600
+6860380	lysine biosynthesis VI	3885	Phvul.010G108900
+6860380	lysine biosynthesis VI	3885	Phvul.004G070100
+6860380	lysine biosynthesis VI	3885	Phvul.002G323900
+6860380	lysine biosynthesis VI	3885	Phvul.007G066600
+6860312	methionine biosynthesis II	3885	Phvul.001G113800
+6860312	methionine biosynthesis II	3885	Phvul.008G292300
+6860312	methionine biosynthesis II	3885	Phvul.003G036100
+6860312	methionine biosynthesis II	3885	Phvul.011G157500
+6860312	methionine biosynthesis II	3885	Phvul.001G153900
+6860312	methionine biosynthesis II	3885	Phvul.001G125400
+6860312	methionine biosynthesis II	3885	Phvul.004G051600
+6860265	kievitone biosynthesis	3885	Phvul.006G136300
+6860227	gamma-glutamyl cycle	3885	Phvul.006G094600
+6860227	gamma-glutamyl cycle	3885	Phvul.006G094500
+6860227	gamma-glutamyl cycle	3885	Phvul.002G289200
+6860227	gamma-glutamyl cycle	3885	Phvul.006G094700
+6860227	gamma-glutamyl cycle	3885	Phvul.002G211700
+6860383	Strigolactone signaling	3885	Phvul.006G110100
+6860383	Strigolactone signaling	3885	Phvul.008G080800
+6860383	Strigolactone signaling	3885	Phvul.010G157700
+6860383	Strigolactone signaling	3885	Phvul.006G068500
+6860383	Strigolactone signaling	3885	Phvul.007G198900
+6860383	Strigolactone signaling	3885	Phvul.011G129700
+6860383	Strigolactone signaling	3885	Phvul.005G180100
+6860383	Strigolactone signaling	3885	Phvul.001G243900
+6860383	Strigolactone signaling	3885	Phvul.007G261900
+6860383	Strigolactone signaling	3885	Phvul.003G237900
+6860383	Strigolactone signaling	3885	Phvul.008G159300
+6860383	Strigolactone signaling	3885	Phvul.009G136900
+6860383	Strigolactone signaling	3885	Phvul.002G013800
+6860383	Strigolactone signaling	3885	Phvul.008G261000
+6860383	Strigolactone signaling	3885	Phvul.001G227000
+6860383	Strigolactone signaling	3885	Phvul.001G027400
+6860322	S-methylmethionine cycle	3885	Phvul.003G036100
+6860322	S-methylmethionine cycle	3885	Phvul.001G153900
+6860322	S-methylmethionine cycle	3885	Phvul.006G221800
+6860212	cytokinins-O-glucoside biosynthesis	3885	Phvul.002G016400
+6860212	cytokinins-O-glucoside biosynthesis	3885	Phvul.008G175300
+6860212	cytokinins-O-glucoside biosynthesis	3885	Phvul.008G174700
+6860212	cytokinins-O-glucoside biosynthesis	3885	Phvul.001G182600
+6860212	cytokinins-O-glucoside biosynthesis	3885	Phvul.001G182500
+6860212	cytokinins-O-glucoside biosynthesis	3885	Phvul.001G182100
+6860212	cytokinins-O-glucoside biosynthesis	3885	Phvul.001G182200
+6860212	cytokinins-O-glucoside biosynthesis	3885	Phvul.001G183000
+6860212	cytokinins-O-glucoside biosynthesis	3885	Phvul.001G182700
+6860212	cytokinins-O-glucoside biosynthesis	3885	Phvul.008G175600
+6860212	cytokinins-O-glucoside biosynthesis	3885	Phvul.001G182300
+6860212	cytokinins-O-glucoside biosynthesis	3885	Phvul.001G238900
+6860212	cytokinins-O-glucoside biosynthesis	3885	Phvul.001G238800
+6860212	cytokinins-O-glucoside biosynthesis	3885	Phvul.008G175500
+6860212	cytokinins-O-glucoside biosynthesis	3885	Phvul.001G182400
+6860212	cytokinins-O-glucoside biosynthesis	3885	Phvul.002G016500
+6860348	putrescine biosynthesis I	3885	Phvul.009G002500
+6860269	trans,trans-farnesyl diphosphate biosynthesis	3885	Phvul.006G136300
+6860269	trans,trans-farnesyl diphosphate biosynthesis	3885	Phvul.003G251500
+6860269	trans,trans-farnesyl diphosphate biosynthesis	3885	Phvul.002G181400
+6860269	trans,trans-farnesyl diphosphate biosynthesis	3885	Phvul.002G026400
+6860269	trans,trans-farnesyl diphosphate biosynthesis	3885	Phvul.003G239100
+6860290	leucine biosynthesis	3885	Phvul.007G232000
+6860290	leucine biosynthesis	3885	Phvul.010G153800
+6860290	leucine biosynthesis	3885	Phvul.011G103700
+6860290	leucine biosynthesis	3885	Phvul.009G075100
+6860290	leucine biosynthesis	3885	Phvul.003G268900
+6860290	leucine biosynthesis	3885	Phvul.002G008700
+6860290	leucine biosynthesis	3885	Phvul.005G115100
+6860290	leucine biosynthesis	3885	Phvul.007G004600
+6860290	leucine biosynthesis	3885	Phvul.007G150400
+6860290	leucine biosynthesis	3885	Phvul.002G114600
+6860290	leucine biosynthesis	3885	Phvul.008G291500
+6860335	beta-alanine biosynthesis II	3885	Phvul.002G254200
+6860335	beta-alanine biosynthesis II	3885	Phvul.006G022500
+6860335	beta-alanine biosynthesis II	3885	Phvul.010G076000
+6860335	beta-alanine biosynthesis II	3885	Phvul.010G033500
+6860335	beta-alanine biosynthesis II	3885	Phvul.004G164800
+6860262	UDP-D-glucuronate biosynthesis (from myo-inositol)	3885	Phvul.009G130500
+6860262	UDP-D-glucuronate biosynthesis (from myo-inositol)	3885	Phvul.004G004700
+6860262	UDP-D-glucuronate biosynthesis (from myo-inositol)	3885	Phvul.010G143500
+6860360	homocysteine biosynthesis	3885	Phvul.003G254000
+6860316	ethylene biosynthesis from methionine	3885	Phvul.006G144900
+6860316	ethylene biosynthesis from methionine	3885	Phvul.007G210700
+6860316	ethylene biosynthesis from methionine	3885	Phvul.002G326600
+6860316	ethylene biosynthesis from methionine	3885	Phvul.001G222800
+6860316	ethylene biosynthesis from methionine	3885	Phvul.001G216700
+6860316	ethylene biosynthesis from methionine	3885	Phvul.004G172300
+6860316	ethylene biosynthesis from methionine	3885	Phvul.003G120000
+6860316	ethylene biosynthesis from methionine	3885	Phvul.003G120300
+6860316	ethylene biosynthesis from methionine	3885	Phvul.008G214200
+6860316	ethylene biosynthesis from methionine	3885	Phvul.002G293000
+6860316	ethylene biosynthesis from methionine	3885	Phvul.001G216600
+6860316	ethylene biosynthesis from methionine	3885	Phvul.002G305000
+6860316	ethylene biosynthesis from methionine	3885	Phvul.003G082300
+6860316	ethylene biosynthesis from methionine	3885	Phvul.003G232400
+6860288	pantothenate biosynthesis III	3885	Phvul.007G209400
+6860257	dolichyl-diphosphooligosaccharide biosynthesis	3885	Phvul.007G223800
+6860257	dolichyl-diphosphooligosaccharide biosynthesis	3885	Phvul.007G105400
+6860257	dolichyl-diphosphooligosaccharide biosynthesis	3885	Phvul.008G255800
+6860257	dolichyl-diphosphooligosaccharide biosynthesis	3885	Phvul.003G151000
+6860257	dolichyl-diphosphooligosaccharide biosynthesis	3885	Phvul.007G249500
+6860257	dolichyl-diphosphooligosaccharide biosynthesis	3885	Phvul.001G185800
+6860257	dolichyl-diphosphooligosaccharide biosynthesis	3885	Phvul.005G043300
+6860356	fructan degradation	3885	Phvul.001G036800
+6860273	lysine biosynthesis II	3885	Phvul.001G177300
+6860273	lysine biosynthesis II	3885	Phvul.001G003100
+6860273	lysine biosynthesis II	3885	Phvul.011G012000
+6860273	lysine biosynthesis II	3885	Phvul.004G057600
+6860273	lysine biosynthesis II	3885	Phvul.003G012000
+6860273	lysine biosynthesis II	3885	Phvul.002G323900
+6860273	lysine biosynthesis II	3885	Phvul.007G066600
+6860273	lysine biosynthesis II	3885	Phvul.005G059200
+6860273	lysine biosynthesis II	3885	Phvul.006G161600
+6860273	lysine biosynthesis II	3885	Phvul.001G259000
+6860273	lysine biosynthesis II	3885	Phvul.004G057700
+6860273	lysine biosynthesis II	3885	Phvul.009G116200
+6860273	lysine biosynthesis II	3885	Phvul.001G170900
+6860273	lysine biosynthesis II	3885	Phvul.008G075400
+6860273	lysine biosynthesis II	3885	Phvul.001G265600
+6860273	lysine biosynthesis II	3885	Phvul.010G108900
+6860273	lysine biosynthesis II	3885	Phvul.004G070100
+6860328	myo-inositol biosynthesis	3885	Phvul.002G261700
+6860328	myo-inositol biosynthesis	3885	Phvul.001G251000
+6860204	tetrahydrofolate biosynthesis II	3885	Phvul.009G022100
+6860204	tetrahydrofolate biosynthesis II	3885	Phvul.001G060700
+6860204	tetrahydrofolate biosynthesis II	3885	Phvul.011G043000
+6860204	tetrahydrofolate biosynthesis II	3885	Phvul.008G230100
+6860204	tetrahydrofolate biosynthesis II	3885	Phvul.007G035300
+6860204	tetrahydrofolate biosynthesis II	3885	Phvul.007G262100
+6860204	tetrahydrofolate biosynthesis II	3885	Phvul.002G290300
+6860204	tetrahydrofolate biosynthesis II	3885	Phvul.001G197300
+6860204	tetrahydrofolate biosynthesis II	3885	Phvul.008G026000
+6860204	tetrahydrofolate biosynthesis II	3885	Phvul.001G204200
+6860204	tetrahydrofolate biosynthesis II	3885	Phvul.003G084100
+6860204	tetrahydrofolate biosynthesis II	3885	Phvul.007G141400
+6860204	tetrahydrofolate biosynthesis II	3885	Phvul.009G145600
+6860204	tetrahydrofolate biosynthesis II	3885	Phvul.007G006400
+6860370	chlorophyll cycle	3885	Phvul.008G096500
+6860333	PRPP biosynthesis I	3885	Phvul.010G0403002
+6860333	PRPP biosynthesis I	3885	Phvul.006G033400
+6860333	PRPP biosynthesis I	3885	Phvul.002G150900
+6860256	gibberellin biosynthesis II (early C-3 hydroxylation)	3885	Phvul.002G049000
+6860256	gibberellin biosynthesis II (early C-3 hydroxylation)	3885	Phvul.004G170700
+6860256	gibberellin biosynthesis II (early C-3 hydroxylation)	3885	Phvul.007G052000
+6860248	folate polyglutamylation II	3885	Phvul.005G080600
+6860248	folate polyglutamylation II	3885	Phvul.005G080700
+6860248	folate polyglutamylation II	3885	Phvul.001G060700
+6860248	folate polyglutamylation II	3885	Phvul.008G230100
+6860234	valine biosynthesis	3885	Phvul.009G166100
+6860234	valine biosynthesis	3885	Phvul.011G134200
+6860234	valine biosynthesis	3885	Phvul.005G095900
+6860234	valine biosynthesis	3885	Phvul.008G095400
+6860234	valine biosynthesis	3885	Phvul.009G075100
+6860234	valine biosynthesis	3885	Phvul.011G177600
+6860234	valine biosynthesis	3885	Phvul.009G222200
+6860234	valine biosynthesis	3885	Phvul.002G008700
+6860234	valine biosynthesis	3885	Phvul.008G243300
+6860234	valine biosynthesis	3885	Phvul.010G078000
+6860234	valine biosynthesis	3885	Phvul.006G152700
+6860234	valine biosynthesis	3885	Phvul.002G248000
+6860234	valine biosynthesis	3885	Phvul.006G187400
+6860314	linear furanocoumarin biosynthesis	3885	Phvul.008G080300
+6860314	linear furanocoumarin biosynthesis	3885	Phvul.009G192700
+6860314	linear furanocoumarin biosynthesis	3885	Phvul.007G262800
+6860314	linear furanocoumarin biosynthesis	3885	Phvul.001G200100
+6860280	gentiodelphin biosynthesis	3885	Phvul.008G032500
+6860280	gentiodelphin biosynthesis	3885	Phvul.008G032400
+6860280	gentiodelphin biosynthesis	3885	Phvul.004G040100
+6860280	gentiodelphin biosynthesis	3885	Phvul.008G042400
+6860280	gentiodelphin biosynthesis	3885	Phvul.008G032200
+6860280	gentiodelphin biosynthesis	3885	Phvul.004G040700
+6860280	gentiodelphin biosynthesis	3885	Phvul.008G032100
+6860280	gentiodelphin biosynthesis	3885	Phvul.008G029400
+6860280	gentiodelphin biosynthesis	3885	Phvul.005G108800
+6860280	gentiodelphin biosynthesis	3885	Phvul.008G032000
+6860280	gentiodelphin biosynthesis	3885	Phvul.004G040200
+6860280	gentiodelphin biosynthesis	3885	Phvul.001G265400
+6860280	gentiodelphin biosynthesis	3885	Phvul.008G031900
+6860345	lipid-A-precursor biosynthesis	3885	Phvul.003G026900
+6860345	lipid-A-precursor biosynthesis	3885	Phvul.006G045700
+6860357	trehalose biosynthesis I	3885	Phvul.005G008300
+6860357	trehalose biosynthesis I	3885	Phvul.009G180300
+6860357	trehalose biosynthesis I	3885	Phvul.003G053000
+6860357	trehalose biosynthesis I	3885	Phvul.005G076500
+6860357	trehalose biosynthesis I	3885	Phvul.011G006000
+6860357	trehalose biosynthesis I	3885	Phvul.003G016300
+6860357	trehalose biosynthesis I	3885	Phvul.002G243600
+6860357	trehalose biosynthesis I	3885	Phvul.011G127700
+6860357	trehalose biosynthesis I	3885	Phvul.007G031800
+6860357	trehalose biosynthesis I	3885	Phvul.011G170300
+6860357	trehalose biosynthesis I	3885	Phvul.002G102300
+6860357	trehalose biosynthesis I	3885	Phvul.003G150400
+6860369	Abscisic acid (ABA) mediated signaling	3885	Phvul.005G011600
+6860369	Abscisic acid (ABA) mediated signaling	3885	Phvul.003G012300
+6860369	Abscisic acid (ABA) mediated signaling	3885	Phvul.001G101000
+6860369	Abscisic acid (ABA) mediated signaling	3885	Phvul.001G034300
+6860369	Abscisic acid (ABA) mediated signaling	3885	Phvul.003G285500
+6860369	Abscisic acid (ABA) mediated signaling	3885	Phvul.009G079600
+6860369	Abscisic acid (ABA) mediated signaling	3885	Phvul.010G112500
+6860369	Abscisic acid (ABA) mediated signaling	3885	Phvul.006G164300
+6860369	Abscisic acid (ABA) mediated signaling	3885	Phvul.004G102800
+6860369	Abscisic acid (ABA) mediated signaling	3885	Phvul.008G231200
+6860369	Abscisic acid (ABA) mediated signaling	3885	Phvul.004G053300
+6860369	Abscisic acid (ABA) mediated signaling	3885	Phvul.001G045300
+6860369	Abscisic acid (ABA) mediated signaling	3885	Phvul.001G236000
+6860369	Abscisic acid (ABA) mediated signaling	3885	Phvul.003G293600
+6860369	Abscisic acid (ABA) mediated signaling	3885	Phvul.003G291800
+6860369	Abscisic acid (ABA) mediated signaling	3885	Phvul.002G141900
+6860369	Abscisic acid (ABA) mediated signaling	3885	Phvul.008G292500
+6860369	Abscisic acid (ABA) mediated signaling	3885	Phvul.011G186800
+6860369	Abscisic acid (ABA) mediated signaling	3885	Phvul.007G076700
+6860369	Abscisic acid (ABA) mediated signaling	3885	Phvul.011G181800
+6860369	Abscisic acid (ABA) mediated signaling	3885	Phvul.009G065500
+6860369	Abscisic acid (ABA) mediated signaling	3885	Phvul.009G077200
+6860275	galactosylcyclitol biosynthesis	3885	Phvul.003G194900
+6860275	galactosylcyclitol biosynthesis	3885	Phvul.003G071700
+6860275	galactosylcyclitol biosynthesis	3885	Phvul.009G183900
+6860275	galactosylcyclitol biosynthesis	3885	Phvul.006G167800
+6860275	galactosylcyclitol biosynthesis	3885	Phvul.009G026100
+6860275	galactosylcyclitol biosynthesis	3885	Phvul.002G177500
+6860275	galactosylcyclitol biosynthesis	3885	Phvul.001G049900
+6860275	galactosylcyclitol biosynthesis	3885	Phvul.002G079900
+6860275	galactosylcyclitol biosynthesis	3885	Phvul.008G168500
+6860377	glutamate biosynthesis I	3885	Phvul.005G052100
+6860377	glutamate biosynthesis I	3885	Phvul.005G051800
+6860377	glutamate biosynthesis I	3885	Phvul.002G180300
+6860359	asparagine degradation I	3885	Phvul.001G047000
+6860359	asparagine degradation I	3885	Phvul.005G009200
+6860359	asparagine degradation I	3885	Phvul.001G250600
+6860359	asparagine degradation I	3885	Phvul.011G127800
+6860359	asparagine degradation I	3885	Phvul.009G106800
+6860359	asparagine degradation I	3885	Phvul.002G262100
+6860378	alanine biosynthesis III	3885	Phvul.002G008200
+6860378	alanine biosynthesis III	3885	Phvul.006G131100
+6860226	arginine biosynthesis II (acetyl cycle)	3885	Phvul.009G036600
+6860226	arginine biosynthesis II (acetyl cycle)	3885	Phvul.006G002000
+6860226	arginine biosynthesis II (acetyl cycle)	3885	Phvul.002G180400
+6860226	arginine biosynthesis II (acetyl cycle)	3885	Phvul.009G099600
+6860226	arginine biosynthesis II (acetyl cycle)	3885	Phvul.009G059600
+6860226	arginine biosynthesis II (acetyl cycle)	3885	Phvul.002G296600
+6860226	arginine biosynthesis II (acetyl cycle)	3885	Phvul.003G012000
+6860226	arginine biosynthesis II (acetyl cycle)	3885	Phvul.003G209800
+6860226	arginine biosynthesis II (acetyl cycle)	3885	Phvul.005G137400
+6860379	glutamate biosynthesis IV	3885	Phvul.001G076400
+6860235	GA12 biosynthesis	3885	Phvul.006G123500
+6860235	GA12 biosynthesis	3885	Phvul.002G005900
+6860235	GA12 biosynthesis	3885	Phvul.006G123600
+6860235	GA12 biosynthesis	3885	Phvul.005G183600
+6860268	trans-zeatin biosynthesis	3885	Phvul.008G005300
+6860268	trans-zeatin biosynthesis	3885	Phvul.001G149400
+6860268	trans-zeatin biosynthesis	3885	Phvul.008G005600
+6860268	trans-zeatin biosynthesis	3885	Phvul.007G028100
+6860268	trans-zeatin biosynthesis	3885	Phvul.004G064600
+6860268	trans-zeatin biosynthesis	3885	Phvul.011G091500
+6860326	cellulose biosynthesis	3885	Phvul.011G211500
+6860326	cellulose biosynthesis	3885	Phvul.001G211000
+6860326	cellulose biosynthesis	3885	Phvul.003G023000
+6860326	cellulose biosynthesis	3885	Phvul.005G022100
+6860326	cellulose biosynthesis	3885	Phvul.002G240200
+6860326	cellulose biosynthesis	3885	Phvul.009G094200
+6860326	cellulose biosynthesis	3885	Phvul.009G242700
+6860326	cellulose biosynthesis	3885	Phvul.002G040200
+6860326	cellulose biosynthesis	3885	Phvul.009G090100
+6860326	cellulose biosynthesis	3885	Phvul.008G193000
+6860326	cellulose biosynthesis	3885	Phvul.011G020100
+6860326	cellulose biosynthesis	3885	Phvul.002G188600
+6860323	divinyl ether biosynthesis II (13-LOX)	3885	Phvul.009G262900
+6860323	divinyl ether biosynthesis II (13-LOX)	3885	Phvul.010G128800
+6860323	divinyl ether biosynthesis II (13-LOX)	3885	Phvul.006G017100
+6860323	divinyl ether biosynthesis II (13-LOX)	3885	Phvul.006G016900
+6860364	putrescine biosynthesis III	3885	Phvul.009G020400
+6860364	putrescine biosynthesis III	3885	Phvul.009G020500
+6860229	mevalonate pathway	3885	Phvul.002G153600
+6860229	mevalonate pathway	3885	Phvul.002G118900
+6860229	mevalonate pathway	3885	Phvul.009G055300
+6860229	mevalonate pathway	3885	Phvul.003G271800
+6860229	mevalonate pathway	3885	Phvul.L002800
+6860229	mevalonate pathway	3885	Phvul.008G208900
+6860229	mevalonate pathway	3885	Phvul.006G008200
+6860229	mevalonate pathway	3885	Phvul.006G092900
+6860229	mevalonate pathway	3885	Phvul.007G021200
+6860229	mevalonate pathway	3885	Phvul.003G087600
+6860229	mevalonate pathway	3885	Phvul.008G288400
+6860229	mevalonate pathway	3885	Phvul.003G213200
+6860362	cyanate degradation	3885	Phvul.006G202600
+6860362	cyanate degradation	3885	Phvul.007G151500
+6860362	cyanate degradation	3885	Phvul.011G081900
+6860362	cyanate degradation	3885	Phvul.007G275000
+6860362	cyanate degradation	3885	Phvul.007G151300
+6860362	cyanate degradation	3885	Phvul.005G133000
+6860362	cyanate degradation	3885	Phvul.007G152600
+6860354	Oryzalexin S biosynthesis	3885	Phvul.005G048500
+6860281	momilactone biosynthesis	3885	Phvul.001G193400
+6860281	momilactone biosynthesis	3885	Phvul.005G048500
+6860281	momilactone biosynthesis	3885	Phvul.005G031600
+6860281	momilactone biosynthesis	3885	Phvul.005G031500
+6860307	IAA biosynthesis VI (via indole-3-acetamide)	3885	Phvul.007G180900
+6860251	pyridoxamine anabolism	3885	Phvul.001G232200
+6860382	Brassinosteroid signaling	3885	Phvul.002G235400
+6860382	Brassinosteroid signaling	3885	Phvul.001G021300
+6860382	Brassinosteroid signaling	3885	Phvul.002G088400
+6860382	Brassinosteroid signaling	3885	Phvul.010G157700
+6860382	Brassinosteroid signaling	3885	Phvul.002G026800
+6860382	Brassinosteroid signaling	3885	Phvul.001G016100
+6860382	Brassinosteroid signaling	3885	Phvul.009G064300
+6860382	Brassinosteroid signaling	3885	Phvul.011G018600
+6860382	Brassinosteroid signaling	3885	Phvul.009G056400
+6860382	Brassinosteroid signaling	3885	Phvul.006G028500
+6860382	Brassinosteroid signaling	3885	Phvul.005G079400
+6860382	Brassinosteroid signaling	3885	Phvul.011G099600
+6860382	Brassinosteroid signaling	3885	Phvul.004G027700
+6860382	Brassinosteroid signaling	3885	Phvul.008G196800
+6860382	Brassinosteroid signaling	3885	Phvul.003G067500
+6860382	Brassinosteroid signaling	3885	Phvul.010G141300
+6860382	Brassinosteroid signaling	3885	Phvul.008G004300
+6860382	Brassinosteroid signaling	3885	Phvul.007G198900
+6860382	Brassinosteroid signaling	3885	Phvul.001G200300
+6860382	Brassinosteroid signaling	3885	Phvul.007G156200
+6860382	Brassinosteroid signaling	3885	Phvul.007G167400
+6860382	Brassinosteroid signaling	3885	Phvul.007G262200
+6860382	Brassinosteroid signaling	3885	Phvul.008G041800
+6860382	Brassinosteroid signaling	3885	Phvul.005G180100
+6860382	Brassinosteroid signaling	3885	Phvul.009G189200
+6860382	Brassinosteroid signaling	3885	Phvul.005G118700
+6860382	Brassinosteroid signaling	3885	Phvul.002G078800
+6860382	Brassinosteroid signaling	3885	Phvul.005G161000
+6860382	Brassinosteroid signaling	3885	Phvul.001G168700
+6860382	Brassinosteroid signaling	3885	Phvul.003G072600
+6860382	Brassinosteroid signaling	3885	Phvul.001G227000
+6860353	maackiain biosynthesis	3885	Phvul.011G044500
+6860353	maackiain biosynthesis	3885	Phvul.009G059000
+6860353	maackiain biosynthesis	3885	Phvul.011G044700
+6860353	maackiain biosynthesis	3885	Phvul.002G033200
+6860374	Calvin cycle	3885	Phvul.007G006600
+6860374	Calvin cycle	3885	Phvul.007G033800
+6860374	Calvin cycle	3885	Phvul.011G039100
+6860374	Calvin cycle	3885	Phvul.001G240200
+6860374	Calvin cycle	3885	Phvul.006G100600
+6860374	Calvin cycle	3885	Phvul.002G133100
+6860374	Calvin cycle	3885	Phvul.004G073400
+6860374	Calvin cycle	3885	Phvul.005G050800
+6860374	Calvin cycle	3885	Phvul.004G150100
+6860374	Calvin cycle	3885	Phvul.006G122300
+6860374	Calvin cycle	3885	Phvul.004G064800
+6860374	Calvin cycle	3885	Phvul.008G112000
+6860374	Calvin cycle	3885	Phvul.002G213400
+6860374	Calvin cycle	3885	Phvul.001G181000
+6860374	Calvin cycle	3885	Phvul.007G222900
+6860374	Calvin cycle	3885	Phvul.004G064900
+6860374	Calvin cycle	3885	Phvul.003G037400
+6860374	Calvin cycle	3885	Phvul.008G282000
+6860374	Calvin cycle	3885	Phvul.001G098100
+6860374	Calvin cycle	3885	Phvul.003G188800
+6860374	Calvin cycle	3885	Phvul.008G189200
+6860315	spermine biosynthesis	3885	Phvul.003G097900
+6860315	spermine biosynthesis	3885	Phvul.008G022100
+6860315	spermine biosynthesis	3885	Phvul.002G072200
+6860315	spermine biosynthesis	3885	Phvul.009G054800
+6860315	spermine biosynthesis	3885	Phvul.003G052600
+6860315	spermine biosynthesis	3885	Phvul.003G044200
+6860309	proanthocyanidin biosynthesis from flavanols	3885	Phvul.011G044500
+6860309	proanthocyanidin biosynthesis from flavanols	3885	Phvul.009G059000
+6860309	proanthocyanidin biosynthesis from flavanols	3885	Phvul.011G044700
+6860309	proanthocyanidin biosynthesis from flavanols	3885	Phvul.002G033200
+6860210	IAA biosynthesis I	3885	Phvul.004G118800
+6860210	IAA biosynthesis I	3885	Phvul.011G096700
+6860210	IAA biosynthesis I	3885	Phvul.002G059200
+6860210	IAA biosynthesis I	3885	Phvul.006G078900
+6860210	IAA biosynthesis I	3885	Phvul.006G079200
+6860210	IAA biosynthesis I	3885	Phvul.008G209900
+6860210	IAA biosynthesis I	3885	Phvul.006G002300
+6860210	IAA biosynthesis I	3885	Phvul.006G078800
+6860210	IAA biosynthesis I	3885	Phvul.003G040500
+6860210	IAA biosynthesis I	3885	Phvul.003G106200
+6860210	IAA biosynthesis I	3885	Phvul.009G172000
+6860210	IAA biosynthesis I	3885	Phvul.002G226700
+6860210	IAA biosynthesis I	3885	Phvul.010G076800
+6860210	IAA biosynthesis I	3885	Phvul.004G119300
+6860210	IAA biosynthesis I	3885	Phvul.007G056500
+6860210	IAA biosynthesis I	3885	Phvul.008G210000
+6860210	IAA biosynthesis I	3885	Phvul.003G203500
+6860210	IAA biosynthesis I	3885	Phvul.001G165600
+6860210	IAA biosynthesis I	3885	Phvul.008G095400
+6860210	IAA biosynthesis I	3885	Phvul.009G175300
+6860210	IAA biosynthesis I	3885	Phvul.004G119200
+6860210	IAA biosynthesis I	3885	Phvul.007G056200
+6860210	IAA biosynthesis I	3885	Phvul.009G172100
+6860210	IAA biosynthesis I	3885	Phvul.006G079100
+6860210	IAA biosynthesis I	3885	Phvul.004G118700
+6860210	IAA biosynthesis I	3885	Phvul.010G078000
+6860210	IAA biosynthesis I	3885	Phvul.007G056400
+6860210	IAA biosynthesis I	3885	Phvul.004G118900
+6860372	monoterpene biosynthesis	3885	Phvul.003G222300
+6860372	monoterpene biosynthesis	3885	Phvul.003G169900
+6860372	monoterpene biosynthesis	3885	Phvul.003G169800
+6860372	monoterpene biosynthesis	3885	Phvul.001G184500
+6860372	monoterpene biosynthesis	3885	Phvul.003G169700
+6860372	monoterpene biosynthesis	3885	Phvul.003G169600
+6860372	monoterpene biosynthesis	3885	Phvul.007G225300
+6860341	ammonia assimilation cycle	3885	Phvul.001G076400
+6860341	ammonia assimilation cycle	3885	Phvul.004G148300
+6860341	ammonia assimilation cycle	3885	Phvul.008G237500
+6860341	ammonia assimilation cycle	3885	Phvul.008G237400
+6860341	ammonia assimilation cycle	3885	Phvul.001G229500
+6860245	anthocyanin biosynthesis (pelargonidin 3-O-glucoside, cyanidin 3-O-glucoside)	3885	Phvul.008G166000
+6860245	anthocyanin biosynthesis (pelargonidin 3-O-glucoside, cyanidin 3-O-glucoside)	3885	Phvul.002G152700
+6860304	putrescine biosynthesis II	3885	Phvul.009G002500
+6860304	putrescine biosynthesis II	3885	Phvul.003G180900
+6860304	putrescine biosynthesis II	3885	Phvul.005G123100
+6860196	TCA cycle (plant)	3885	Phvul.008G014400
+6860196	TCA cycle (plant)	3885	Phvul.003G253200
+6860196	TCA cycle (plant)	3885	Phvul.007G217700
+6860196	TCA cycle (plant)	3885	Phvul.007G011400
+6860196	TCA cycle (plant)	3885	Phvul.007G217600
+6860196	TCA cycle (plant)	3885	Phvul.003G118800
+6860196	TCA cycle (plant)	3885	Phvul.008G291500
+6860196	TCA cycle (plant)	3885	Phvul.007G150400
+6860196	TCA cycle (plant)	3885	Phvul.002G029800
+6860196	TCA cycle (plant)	3885	Phvul.007G190800
+6860196	TCA cycle (plant)	3885	Phvul.011G103700
+6860196	TCA cycle (plant)	3885	Phvul.004G139300
+6860196	TCA cycle (plant)	3885	Phvul.008G269300
+6860196	TCA cycle (plant)	3885	Phvul.003G268900
+6860196	TCA cycle (plant)	3885	Phvul.005G041600
+6860196	TCA cycle (plant)	3885	Phvul.011G159000
+6860196	TCA cycle (plant)	3885	Phvul.005G115100
+6860196	TCA cycle (plant)	3885	Phvul.002G114600
+6860276	isoleucine biosynthesis from threonine	3885	Phvul.009G166100
+6860276	isoleucine biosynthesis from threonine	3885	Phvul.011G134200
+6860276	isoleucine biosynthesis from threonine	3885	Phvul.005G095900
+6860276	isoleucine biosynthesis from threonine	3885	Phvul.008G095400
+6860276	isoleucine biosynthesis from threonine	3885	Phvul.009G075100
+6860276	isoleucine biosynthesis from threonine	3885	Phvul.011G177600
+6860276	isoleucine biosynthesis from threonine	3885	Phvul.009G222200
+6860276	isoleucine biosynthesis from threonine	3885	Phvul.007G225400
+6860276	isoleucine biosynthesis from threonine	3885	Phvul.002G008700
+6860276	isoleucine biosynthesis from threonine	3885	Phvul.008G243300
+6860276	isoleucine biosynthesis from threonine	3885	Phvul.010G078000
+6860276	isoleucine biosynthesis from threonine	3885	Phvul.006G152700
+6860276	isoleucine biosynthesis from threonine	3885	Phvul.002G248000
+6860276	isoleucine biosynthesis from threonine	3885	Phvul.006G187400
+6860218	gibberellin biosynthesis III (early C-13 hydroxylation)	3885	Phvul.002G049000
+6860218	gibberellin biosynthesis III (early C-13 hydroxylation)	3885	Phvul.004G170700
+6860218	gibberellin biosynthesis III (early C-13 hydroxylation)	3885	Phvul.007G052000
+6860261	stachyose biosynthesis	3885	Phvul.001G214300
+6860261	stachyose biosynthesis	3885	Phvul.004G007100
+6860261	stachyose biosynthesis	3885	Phvul.007G253200
+6860261	stachyose biosynthesis	3885	Phvul.001G215300
+6860261	stachyose biosynthesis	3885	Phvul.001G135200
+6860261	stachyose biosynthesis	3885	Phvul.007G203400
+6860261	stachyose biosynthesis	3885	Phvul.001G223700
+6860261	stachyose biosynthesis	3885	Phvul.008G282600
+6860261	stachyose biosynthesis	3885	Phvul.009G175400
+6860331	leucopelargonidin and leucocyanidin biosynthesis	3885	Phvul.006G015400
+6860331	leucopelargonidin and leucocyanidin biosynthesis	3885	Phvul.006G018800
+6860331	leucopelargonidin and leucocyanidin biosynthesis	3885	Phvul.003G185500
+6860331	leucopelargonidin and leucocyanidin biosynthesis	3885	Phvul.009G192400
+6860331	leucopelargonidin and leucocyanidin biosynthesis	3885	Phvul.003G261900
+6860330	leucodelphinidin biosynthesis	3885	Phvul.006G015400
+6860330	leucodelphinidin biosynthesis	3885	Phvul.006G018800
+6860330	leucodelphinidin biosynthesis	3885	Phvul.003G185500
+6860330	leucodelphinidin biosynthesis	3885	Phvul.009G192400
+6860330	leucodelphinidin biosynthesis	3885	Phvul.003G261900
+6860279	methylerythritol phosphate pathway	3885	Phvul.006G019500
+6860279	methylerythritol phosphate pathway	3885	Phvul.003G200300
+6860279	methylerythritol phosphate pathway	3885	Phvul.006G159900
+6860279	methylerythritol phosphate pathway	3885	Phvul.003G099600
+6860279	methylerythritol phosphate pathway	3885	Phvul.L002800
+6860279	methylerythritol phosphate pathway	3885	Phvul.011G047900
+6860279	methylerythritol phosphate pathway	3885	Phvul.005G135800
+6860279	methylerythritol phosphate pathway	3885	Phvul.002G014200
+6860279	methylerythritol phosphate pathway	3885	Phvul.003G090900
+6860279	methylerythritol phosphate pathway	3885	Phvul.003G238400
+6860279	methylerythritol phosphate pathway	3885	Phvul.009G095900
+6860279	methylerythritol phosphate pathway	3885	Phvul.002G159900
+6860260	aminopropanol biosynthesis	3885	Phvul.005G069200
+6860260	aminopropanol biosynthesis	3885	Phvul.011G002500
+6860260	aminopropanol biosynthesis	3885	Phvul.008G132800
+6860260	aminopropanol biosynthesis	3885	Phvul.009G041600
+6860260	aminopropanol biosynthesis	3885	Phvul.002G277900
+6860260	aminopropanol biosynthesis	3885	Phvul.003G060300
+6860260	aminopropanol biosynthesis	3885	Phvul.011G002400
+6860260	aminopropanol biosynthesis	3885	Phvul.003G295600
+6860260	aminopropanol biosynthesis	3885	Phvul.008G132900
+6860236	abscisic acid biosynthesis	3885	Phvul.001G193400
+6860236	abscisic acid biosynthesis	3885	Phvul.005G051600
+6860236	abscisic acid biosynthesis	3885	Phvul.007G198800
+6860236	abscisic acid biosynthesis	3885	Phvul.008G209900
+6860236	abscisic acid biosynthesis	3885	Phvul.011G211200
+6860236	abscisic acid biosynthesis	3885	Phvul.005G031600
+6860236	abscisic acid biosynthesis	3885	Phvul.005G031500
+6860236	abscisic acid biosynthesis	3885	Phvul.008G210000
+6860233	cholesterol biosynthesis I	3885	Phvul.011G040100
+6860233	cholesterol biosynthesis I	3885	Phvul.002G074200
+6860233	cholesterol biosynthesis I	3885	Phvul.002G074300
+6860233	cholesterol biosynthesis I	3885	Phvul.004G160000
+6860347	IAA conjugate biosynthesis I	3885	Phvul.001G265400
+6860286	geranylgeranyldiphosphate biosynthesis II (plastidic)	3885	Phvul.006G136300
+6860286	geranylgeranyldiphosphate biosynthesis II (plastidic)	3885	Phvul.005G152400
+6860286	geranylgeranyldiphosphate biosynthesis II (plastidic)	3885	Phvul.004G014500
+6860286	geranylgeranyldiphosphate biosynthesis II (plastidic)	3885	Phvul.003G251500
+6860286	geranylgeranyldiphosphate biosynthesis II (plastidic)	3885	Phvul.002G181400
+6860286	geranylgeranyldiphosphate biosynthesis II (plastidic)	3885	Phvul.002G026400
+6860286	geranylgeranyldiphosphate biosynthesis II (plastidic)	3885	Phvul.003G239100
+6860324	secologanin and strictosidine biosynthesis	3885	Phvul.001G165600
+6860324	secologanin and strictosidine biosynthesis	3885	Phvul.003G268700
+6860324	secologanin and strictosidine biosynthesis	3885	Phvul.001G126000
+6860324	secologanin and strictosidine biosynthesis	3885	Phvul.005G153700
+6860324	secologanin and strictosidine biosynthesis	3885	Phvul.011G100400
+6860324	secologanin and strictosidine biosynthesis	3885	Phvul.010G019400
+6860375	Ethylene mediated signaling	3885	Phvul.007G271700
+6860375	Ethylene mediated signaling	3885	Phvul.006G106400
+6860375	Ethylene mediated signaling	3885	Phvul.001G051300
+6860375	Ethylene mediated signaling	3885	Phvul.002G055700
+6860375	Ethylene mediated signaling	3885	Phvul.005G012200
+6860375	Ethylene mediated signaling	3885	Phvul.007G129500
+6860375	Ethylene mediated signaling	3885	Phvul.006G106300
+6860375	Ethylene mediated signaling	3885	Phvul.001G210200
+6860375	Ethylene mediated signaling	3885	Phvul.006G011300
+6860375	Ethylene mediated signaling	3885	Phvul.001G186600
+6860375	Ethylene mediated signaling	3885	Phvul.001G177500
+6860375	Ethylene mediated signaling	3885	Phvul.007G150600
+6860375	Ethylene mediated signaling	3885	Phvul.008G207000
+6860375	Ethylene mediated signaling	3885	Phvul.009G207300
+6860375	Ethylene mediated signaling	3885	Phvul.006G011200
+6860375	Ethylene mediated signaling	3885	Phvul.009G241800
+6860375	Ethylene mediated signaling	3885	Phvul.002G190000
+6860375	Ethylene mediated signaling	3885	Phvul.003G165500
+6860375	Ethylene mediated signaling	3885	Phvul.001G034800
+6860375	Ethylene mediated signaling	3885	Phvul.009G093200
+6860375	Ethylene mediated signaling	3885	Phvul.009G080700
+6860375	Ethylene mediated signaling	3885	Phvul.005G150100
+6860375	Ethylene mediated signaling	3885	Phvul.007G223500
+6860274	homoserine biosynthesis	3885	Phvul.006G009000
+6860274	homoserine biosynthesis	3885	Phvul.011G012000
+6860274	homoserine biosynthesis	3885	Phvul.001G265600
+6860274	homoserine biosynthesis	3885	Phvul.004G070100
+6860274	homoserine biosynthesis	3885	Phvul.003G012000
+6860274	homoserine biosynthesis	3885	Phvul.002G323900
+6860240	cytokinins 9-N-glucoside biosynthesis	3885	Phvul.002G016400
+6860240	cytokinins 9-N-glucoside biosynthesis	3885	Phvul.001G182300
+6860240	cytokinins 9-N-glucoside biosynthesis	3885	Phvul.001G238900
+6860240	cytokinins 9-N-glucoside biosynthesis	3885	Phvul.001G182600
+6860240	cytokinins 9-N-glucoside biosynthesis	3885	Phvul.001G182100
+6860240	cytokinins 9-N-glucoside biosynthesis	3885	Phvul.001G182200
+6860240	cytokinins 9-N-glucoside biosynthesis	3885	Phvul.001G182500
+6860240	cytokinins 9-N-glucoside biosynthesis	3885	Phvul.001G238800
+6860240	cytokinins 9-N-glucoside biosynthesis	3885	Phvul.001G182700
+6860240	cytokinins 9-N-glucoside biosynthesis	3885	Phvul.001G183000
+6860240	cytokinins 9-N-glucoside biosynthesis	3885	Phvul.001G182400
+6860240	cytokinins 9-N-glucoside biosynthesis	3885	Phvul.002G016500
+6860289	proline biosynthesis I	3885	Phvul.010G015400
+6860289	proline biosynthesis I	3885	Phvul.008G230300
+6860289	proline biosynthesis I	3885	Phvul.001G124300
+6860289	proline biosynthesis I	3885	Phvul.001G236900
+6860202	glycolipid desaturation	3885	Phvul.008G098100
+6860202	glycolipid desaturation	3885	Phvul.003G156600
+6860202	glycolipid desaturation	3885	Phvul.010G076200
+6860202	glycolipid desaturation	3885	Phvul.001G142100
+6860202	glycolipid desaturation	3885	Phvul.007G023400
+6860202	glycolipid desaturation	3885	Phvul.007G259500
+6860285	geranyldiphosphate biosynthesis	3885	Phvul.006G136300
+6860285	geranyldiphosphate biosynthesis	3885	Phvul.003G239100
+6860217	sterol biosynthesis	3885	Phvul.011G011800
+6860217	sterol biosynthesis	3885	Phvul.005G023700
+6860217	sterol biosynthesis	3885	Phvul.011G040100
+6860217	sterol biosynthesis	3885	Phvul.007G223700
+6860217	sterol biosynthesis	3885	Phvul.009G020000
+6860217	sterol biosynthesis	3885	Phvul.004G160000
+6860217	sterol biosynthesis	3885	Phvul.009G167500
+6860217	sterol biosynthesis	3885	Phvul.010G053100
+6860366	resveratrol biosynthesis	3885	Phvul.001G083000
+6860302	phytyl-PP biosynthesis	3885	Phvul.008G208000
+6860302	phytyl-PP biosynthesis	3885	Phvul.003G189600
+6860343	oleoresin sesquiterpene volatiles biosynthesis	3885	Phvul.005G048500
+6860344	peptidoglycan biosynthesis I	3885	Phvul.002G290300
+6860344	peptidoglycan biosynthesis I	3885	Phvul.007G101500
+6860344	peptidoglycan biosynthesis I	3885	Phvul.007G188800
+6860344	peptidoglycan biosynthesis I	3885	Phvul.008G089700
+6860344	peptidoglycan biosynthesis I	3885	Phvul.002G139300
+6860253	phaseic acid biosynthesis	3885	Phvul.001G022100
+6860253	phaseic acid biosynthesis	3885	Phvul.003G292200
+6860363	glutamine biosynthesis I	3885	Phvul.004G148300
+6860363	glutamine biosynthesis I	3885	Phvul.008G237500
+6860363	glutamine biosynthesis I	3885	Phvul.008G237400
+6860363	glutamine biosynthesis I	3885	Phvul.001G229500
+6860325	thiosulfate disproportionation III (rhodanese)	3885	Phvul.005G050400
+6860271	starch biosynthesis	3885	Phvul.008G284000
+6860271	starch biosynthesis	3885	Phvul.003G076500
+6860271	starch biosynthesis	3885	Phvul.007G094900
+6860271	starch biosynthesis	3885	Phvul.003G078800
+6860271	starch biosynthesis	3885	Phvul.009G023100
+6860271	starch biosynthesis	3885	Phvul.011G151400
+6860271	starch biosynthesis	3885	Phvul.002G096000
+6860271	starch biosynthesis	3885	Phvul.001G187600
+6860271	starch biosynthesis	3885	Phvul.006G047000
+6860271	starch biosynthesis	3885	Phvul.008G036600
+6860271	starch biosynthesis	3885	Phvul.007G064900
+6860271	starch biosynthesis	3885	Phvul.009G052100
+6860271	starch biosynthesis	3885	Phvul.009G011000
+6860271	starch biosynthesis	3885	Phvul.004G029100
+6860271	starch biosynthesis	3885	Phvul.002G318400
+6860271	starch biosynthesis	3885	Phvul.011G044000
+6860271	starch biosynthesis	3885	Phvul.001G012500
+6860271	starch biosynthesis	3885	Phvul.009G059800
+6860271	starch biosynthesis	3885	Phvul.001G219900
+6860271	starch biosynthesis	3885	Phvul.002G196600
+6860350	thiamine biosynthesis	3885	Phvul.006G159900
+6860350	thiamine biosynthesis	3885	Phvul.003G099600
+6860350	thiamine biosynthesis	3885	Phvul.006G216300
+6860350	thiamine biosynthesis	3885	Phvul.009G095900
+6860327	acyl-CoA synthetase pathway	3885	Phvul.008G163100
+6860327	acyl-CoA synthetase pathway	3885	Phvul.009G124800
+6860327	acyl-CoA synthetase pathway	3885	Phvul.006G005400
+6860327	acyl-CoA synthetase pathway	3885	Phvul.006G005500
+6860387	Xyloglucan biosynthesis	3885	Phvul.009G185700
+6860387	Xyloglucan biosynthesis	3885	Phvul.010G162100
+6860387	Xyloglucan biosynthesis	3885	Phvul.009G248100
+6860387	Xyloglucan biosynthesis	3885	Phvul.007G153600
+6860387	Xyloglucan biosynthesis	3885	Phvul.001G206000
+6860387	Xyloglucan biosynthesis	3885	Phvul.003G188200
+6860387	Xyloglucan biosynthesis	3885	Phvul.010G162000
+6860387	Xyloglucan biosynthesis	3885	Phvul.002G009900
+6860259	brassinosteroid biosynthesis II	3885	Phvul.011G038300
+6860259	brassinosteroid biosynthesis II	3885	Phvul.008G224600
+6860259	brassinosteroid biosynthesis II	3885	Phvul.008G208700
+6860259	brassinosteroid biosynthesis II	3885	Phvul.002G029700
+6860259	brassinosteroid biosynthesis II	3885	Phvul.008G108600
+6860259	brassinosteroid biosynthesis II	3885	Phvul.003G253100
+6860259	brassinosteroid biosynthesis II	3885	Phvul.004G094100
+6860259	brassinosteroid biosynthesis II	3885	Phvul.004G094000
+6860259	brassinosteroid biosynthesis II	3885	Phvul.001G242200
+6860295	ascorbate biosynthesis	3885	Phvul.008G230600
+6860295	ascorbate biosynthesis	3885	Phvul.007G094900
+6860295	ascorbate biosynthesis	3885	Phvul.002G096000
+6860295	ascorbate biosynthesis	3885	Phvul.008G068100
+6860295	ascorbate biosynthesis	3885	Phvul.008G006200
+6860308	calystegine biosynthesis	3885	Phvul.011G177300
+6860216	UDP-D-xylose biosynthesis	3885	Phvul.005G142500
+6860216	UDP-D-xylose biosynthesis	3885	Phvul.002G102900
+6860216	UDP-D-xylose biosynthesis	3885	Phvul.005G128500
+6860216	UDP-D-xylose biosynthesis	3885	Phvul.008G034900
+6860216	UDP-D-xylose biosynthesis	3885	Phvul.004G034500
+6860216	UDP-D-xylose biosynthesis	3885	Phvul.011G088900
+6860216	UDP-D-xylose biosynthesis	3885	Phvul.011G065800
+6860216	UDP-D-xylose biosynthesis	3885	Phvul.011G065700
+6860294	pinobanksin biosynthesis	3885	Phvul.005G064600
+6860294	pinobanksin biosynthesis	3885	Phvul.001G083000
+6860294	pinobanksin biosynthesis	3885	Phvul.005G064500
+6860313	S-adenosyl-L-methionine cycle	3885	Phvul.007G210700
+6860313	S-adenosyl-L-methionine cycle	3885	Phvul.001G222800
+6860313	S-adenosyl-L-methionine cycle	3885	Phvul.001G216700
+6860313	S-adenosyl-L-methionine cycle	3885	Phvul.001G113800
+6860313	S-adenosyl-L-methionine cycle	3885	Phvul.003G120000
+6860313	S-adenosyl-L-methionine cycle	3885	Phvul.003G120300
+6860313	S-adenosyl-L-methionine cycle	3885	Phvul.001G216600
+6860313	S-adenosyl-L-methionine cycle	3885	Phvul.004G051600
+6860305	lysine degradation I	3885	Phvul.008G022100
+6860305	lysine degradation I	3885	Phvul.003G044200
+6860278	galactose degradation II	3885	Phvul.003G127500
+6860278	galactose degradation II	3885	Phvul.002G286800
+6860278	galactose degradation II	3885	Phvul.002G102900
+6860278	galactose degradation II	3885	Phvul.008G240600
+6860278	galactose degradation II	3885	Phvul.008G034900
+6860278	galactose degradation II	3885	Phvul.003G090500
+6860278	galactose degradation II	3885	Phvul.004G034500
+6860278	galactose degradation II	3885	Phvul.009G223800
+6860278	galactose degradation II	3885	Phvul.003G116700
+6860278	galactose degradation II	3885	Phvul.001G209600
+6860278	galactose degradation II	3885	Phvul.004G142800
+6860225	ornithine biosynthesis	3885	Phvul.002G007200
+6860225	ornithine biosynthesis	3885	Phvul.006G002000
+6860225	ornithine biosynthesis	3885	Phvul.002G180400
+6860225	ornithine biosynthesis	3885	Phvul.009G099600
+6860225	ornithine biosynthesis	3885	Phvul.003G012000
+6860332	flavin biosynthesis	3885	Phvul.002G222300
+6860332	flavin biosynthesis	3885	Phvul.010G097500
+6860332	flavin biosynthesis	3885	Phvul.007G014500
+6860332	flavin biosynthesis	3885	Phvul.002G189800
+6860332	flavin biosynthesis	3885	Phvul.005G095600
+6860297	phenylalanine biosynthesis I	3885	Phvul.003G079600
+6860297	phenylalanine biosynthesis I	3885	Phvul.001G250600
+6860297	phenylalanine biosynthesis I	3885	Phvul.009G087200
+6860297	phenylalanine biosynthesis I	3885	Phvul.004G032900
+6860297	phenylalanine biosynthesis I	3885	Phvul.001G041900
+6860297	phenylalanine biosynthesis I	3885	Phvul.011G071800
+6860297	phenylalanine biosynthesis I	3885	Phvul.011G157500
+6860297	phenylalanine biosynthesis I	3885	Phvul.002G262100
+6860297	phenylalanine biosynthesis I	3885	Phvul.011G090400
+6860297	phenylalanine biosynthesis I	3885	Phvul.005G127100
+6860367	Plastid glycolysis	3885	Phvul.001G181000
+6860367	Plastid glycolysis	3885	Phvul.009G006600
+6860367	Plastid glycolysis	3885	Phvul.001G007000
+6860367	Plastid glycolysis	3885	Phvul.001G098100
+6860213	jasmonic acid biosynthesis	3885	Phvul.003G131600
+6860213	jasmonic acid biosynthesis	3885	Phvul.003G131500
+6860213	jasmonic acid biosynthesis	3885	Phvul.005G074400
+6860213	jasmonic acid biosynthesis	3885	Phvul.003G111500
+6860213	jasmonic acid biosynthesis	3885	Phvul.006G017100
+6860213	jasmonic acid biosynthesis	3885	Phvul.008G020200
+6860213	jasmonic acid biosynthesis	3885	Phvul.009G262900
+6860213	jasmonic acid biosynthesis	3885	Phvul.004G072000
+6860213	jasmonic acid biosynthesis	3885	Phvul.004G172400
+6860213	jasmonic acid biosynthesis	3885	Phvul.005G116800
+6860213	jasmonic acid biosynthesis	3885	Phvul.010G128800
+6860213	jasmonic acid biosynthesis	3885	Phvul.004G177100
+6860213	jasmonic acid biosynthesis	3885	Phvul.006G016900
+6860213	jasmonic acid biosynthesis	3885	Phvul.011G049600
+6860337	phenylpropanoid biosynthesis, initial reactions	3885	Phvul.001G177700
+6860337	phenylpropanoid biosynthesis, initial reactions	3885	Phvul.007G150500
+6860337	phenylpropanoid biosynthesis, initial reactions	3885	Phvul.006G079700
+6860337	phenylpropanoid biosynthesis, initial reactions	3885	Phvul.008G247400
+6860337	phenylpropanoid biosynthesis, initial reactions	3885	Phvul.007G096300
+6860337	phenylpropanoid biosynthesis, initial reactions	3885	Phvul.001G177800
+6860243	cytokinins 7-N-glucoside biosynthesis	3885	Phvul.002G016400
+6860243	cytokinins 7-N-glucoside biosynthesis	3885	Phvul.001G182300
+6860243	cytokinins 7-N-glucoside biosynthesis	3885	Phvul.001G238900
+6860243	cytokinins 7-N-glucoside biosynthesis	3885	Phvul.001G182600
+6860243	cytokinins 7-N-glucoside biosynthesis	3885	Phvul.001G182100
+6860243	cytokinins 7-N-glucoside biosynthesis	3885	Phvul.001G182200
+6860243	cytokinins 7-N-glucoside biosynthesis	3885	Phvul.001G182500
+6860243	cytokinins 7-N-glucoside biosynthesis	3885	Phvul.001G238800
+6860243	cytokinins 7-N-glucoside biosynthesis	3885	Phvul.001G182700
+6860243	cytokinins 7-N-glucoside biosynthesis	3885	Phvul.001G183000
+6860243	cytokinins 7-N-glucoside biosynthesis	3885	Phvul.001G182400
+6860243	cytokinins 7-N-glucoside biosynthesis	3885	Phvul.002G016500
+6860250	UDP-N-acetylgalactosamine biosynthesis	3885	Phvul.008G053200
+6860250	UDP-N-acetylgalactosamine biosynthesis	3885	Phvul.001G189800
+6860250	UDP-N-acetylgalactosamine biosynthesis	3885	Phvul.002G190700
+6860250	UDP-N-acetylgalactosamine biosynthesis	3885	Phvul.002G003600
+6860340	GDP-L-fucose biosynthesis I (from GDP-D-mannose)	3885	Phvul.009G064000
+6860340	GDP-L-fucose biosynthesis I (from GDP-D-mannose)	3885	Phvul.005G142500
+6860340	GDP-L-fucose biosynthesis I (from GDP-D-mannose)	3885	Phvul.002G110300
+6860340	GDP-L-fucose biosynthesis I (from GDP-D-mannose)	3885	Phvul.003G152300
+6860340	GDP-L-fucose biosynthesis I (from GDP-D-mannose)	3885	Phvul.008G090200
+6860340	GDP-L-fucose biosynthesis I (from GDP-D-mannose)	3885	Phvul.002G251100
+6860340	GDP-L-fucose biosynthesis I (from GDP-D-mannose)	3885	Phvul.011G065800
+6860340	GDP-L-fucose biosynthesis I (from GDP-D-mannose)	3885	Phvul.006G122600
+6860340	GDP-L-fucose biosynthesis I (from GDP-D-mannose)	3885	Phvul.003G214400
+6860340	GDP-L-fucose biosynthesis I (from GDP-D-mannose)	3885	Phvul.001G267000
+6860340	GDP-L-fucose biosynthesis I (from GDP-D-mannose)	3885	Phvul.010G082300
+6860340	GDP-L-fucose biosynthesis I (from GDP-D-mannose)	3885	Phvul.011G065700
+6860292	wighteone and luteone biosynthesis	3885	Phvul.006G136300
+6860258	chorismate biosynthesis	3885	Phvul.003G035000
+6860258	chorismate biosynthesis	3885	Phvul.002G002700
+6860258	chorismate biosynthesis	3885	Phvul.003G227200
+6860258	chorismate biosynthesis	3885	Phvul.009G032300
+6860258	chorismate biosynthesis	3885	Phvul.004G081400
+6860258	chorismate biosynthesis	3885	Phvul.002G227400
+6860258	chorismate biosynthesis	3885	Phvul.008G176200
+6860258	chorismate biosynthesis	3885	Phvul.007G094200
+6860258	chorismate biosynthesis	3885	Phvul.002G264800
+6860258	chorismate biosynthesis	3885	Phvul.002G137400
+6860258	chorismate biosynthesis	3885	Phvul.002G106700
+6860258	chorismate biosynthesis	3885	Phvul.010G082200
+6860258	chorismate biosynthesis	3885	Phvul.006G205200
+6860368	Mitochondrial pyruvate metabolism	3885	Phvul.003G118800
+6860329	lipid-independent phytate biosynthesis	3885	Phvul.002G261700
+6860329	lipid-independent phytate biosynthesis	3885	Phvul.001G251000
+6860283	proline biosynthesis V (from arginine)	3885	Phvul.001G124300
+6860283	proline biosynthesis V (from arginine)	3885	Phvul.002G180400
+6860283	proline biosynthesis V (from arginine)	3885	Phvul.009G059600
+6860342	UDP-L-arabinose biosynthesis I (from UDP-xylose)	3885	Phvul.002G251100
+6860342	UDP-L-arabinose biosynthesis I (from UDP-xylose)	3885	Phvul.006G122600
+6860200	Cytosolic glycolysis	3885	Phvul.001G259000
+6860200	Cytosolic glycolysis	3885	Phvul.004G057700
+6860200	Cytosolic glycolysis	3885	Phvul.004G057600
+6860200	Cytosolic glycolysis	3885	Phvul.005G050800
+6860264	oleoresin monoterpene volatiles biosynthesis	3885	Phvul.003G222300
+6860264	oleoresin monoterpene volatiles biosynthesis	3885	Phvul.003G169900
+6860264	oleoresin monoterpene volatiles biosynthesis	3885	Phvul.003G169800
+6860264	oleoresin monoterpene volatiles biosynthesis	3885	Phvul.001G184500
+6860264	oleoresin monoterpene volatiles biosynthesis	3885	Phvul.003G169700
+6860264	oleoresin monoterpene volatiles biosynthesis	3885	Phvul.003G169600
+6860264	oleoresin monoterpene volatiles biosynthesis	3885	Phvul.007G225300
+6860365	coumarin biosynthesis (via 2-coumarate)	3885	Phvul.004G151800
+6860223	cholesterol biosynthesis II (via 24,25-dihydrolanosterol)	3885	Phvul.011G040100
+6860223	cholesterol biosynthesis II (via 24,25-dihydrolanosterol)	3885	Phvul.002G074200
+6860223	cholesterol biosynthesis II (via 24,25-dihydrolanosterol)	3885	Phvul.002G074300
+6860223	cholesterol biosynthesis II (via 24,25-dihydrolanosterol)	3885	Phvul.004G160000
+6860287	pantothenate and coenzyme A biosynthesis III	3885	Phvul.008G138800
+6860287	pantothenate and coenzyme A biosynthesis III	3885	Phvul.003G123800
+6860287	pantothenate and coenzyme A biosynthesis III	3885	Phvul.003G200700
+6860287	pantothenate and coenzyme A biosynthesis III	3885	Phvul.004G036400
+6860287	pantothenate and coenzyme A biosynthesis III	3885	Phvul.008G127900
+6860287	pantothenate and coenzyme A biosynthesis III	3885	Phvul.008G129700
+6860287	pantothenate and coenzyme A biosynthesis III	3885	Phvul.011G108100
+6860287	pantothenate and coenzyme A biosynthesis III	3885	Phvul.004G096100
+6860287	pantothenate and coenzyme A biosynthesis III	3885	Phvul.003G209900
+6860287	pantothenate and coenzyme A biosynthesis III	3885	Phvul.011G155500
+6860287	pantothenate and coenzyme A biosynthesis III	3885	Phvul.004G016100
+6860287	pantothenate and coenzyme A biosynthesis III	3885	Phvul.004G117200
+6860287	pantothenate and coenzyme A biosynthesis III	3885	Phvul.007G209400
+6860287	pantothenate and coenzyme A biosynthesis III	3885	Phvul.004G016200
+6860287	pantothenate and coenzyme A biosynthesis III	3885	Phvul.004G118400
+6860287	pantothenate and coenzyme A biosynthesis III	3885	Phvul.005G062900
+6860287	pantothenate and coenzyme A biosynthesis III	3885	Phvul.004G117700
+6860287	pantothenate and coenzyme A biosynthesis III	3885	Phvul.009G214300
+6860287	pantothenate and coenzyme A biosynthesis III	3885	Phvul.004G015000
+6860287	pantothenate and coenzyme A biosynthesis III	3885	Phvul.004G106500
+6860287	pantothenate and coenzyme A biosynthesis III	3885	Phvul.004G015100
+6860287	pantothenate and coenzyme A biosynthesis III	3885	Phvul.004G118500
+6860287	pantothenate and coenzyme A biosynthesis III	3885	Phvul.004G036500
+6860287	pantothenate and coenzyme A biosynthesis III	3885	Phvul.008G124700
+6860287	pantothenate and coenzyme A biosynthesis III	3885	Phvul.001G017300
+6860287	pantothenate and coenzyme A biosynthesis III	3885	Phvul.009G213900
+6860287	pantothenate and coenzyme A biosynthesis III	3885	Phvul.005G071600
+6860287	pantothenate and coenzyme A biosynthesis III	3885	Phvul.008G272300
+6860287	pantothenate and coenzyme A biosynthesis III	3885	Phvul.004G016300
+6860287	pantothenate and coenzyme A biosynthesis III	3885	Phvul.004G016400
+6860287	pantothenate and coenzyme A biosynthesis III	3885	Phvul.004G016600
+6860287	pantothenate and coenzyme A biosynthesis III	3885	Phvul.004G015500
+6860287	pantothenate and coenzyme A biosynthesis III	3885	Phvul.009G178200
+6860287	pantothenate and coenzyme A biosynthesis III	3885	Phvul.009G214100
+6860287	pantothenate and coenzyme A biosynthesis III	3885	Phvul.003G210100
+6860287	pantothenate and coenzyme A biosynthesis III	3885	Phvul.009G214000
+6860287	pantothenate and coenzyme A biosynthesis III	3885	Phvul.008G127700
+6860287	pantothenate and coenzyme A biosynthesis III	3885	Phvul.008G131800
+6860287	pantothenate and coenzyme A biosynthesis III	3885	Phvul.004G127600
+6860287	pantothenate and coenzyme A biosynthesis III	3885	Phvul.001G114500
+6860287	pantothenate and coenzyme A biosynthesis III	3885	Phvul.008G128500
+6860287	pantothenate and coenzyme A biosynthesis III	3885	Phvul.011G078500
+6860287	pantothenate and coenzyme A biosynthesis III	3885	Phvul.008G124500
+6860287	pantothenate and coenzyme A biosynthesis III	3885	Phvul.010G096900
+6860287	pantothenate and coenzyme A biosynthesis III	3885	Phvul.004G015200
+6860287	pantothenate and coenzyme A biosynthesis III	3885	Phvul.008G124400
+6860287	pantothenate and coenzyme A biosynthesis III	3885	Phvul.006G192000
+6860287	pantothenate and coenzyme A biosynthesis III	3885	Phvul.010G138000
+6860287	pantothenate and coenzyme A biosynthesis III	3885	Phvul.004G015400
+6860287	pantothenate and coenzyme A biosynthesis III	3885	Phvul.010G096600
+6860287	pantothenate and coenzyme A biosynthesis III	3885	Phvul.003G044500
+6860287	pantothenate and coenzyme A biosynthesis III	3885	Phvul.003G068100
+6860287	pantothenate and coenzyme A biosynthesis III	3885	Phvul.005G069400
+6860287	pantothenate and coenzyme A biosynthesis III	3885	Phvul.004G118300
+6860287	pantothenate and coenzyme A biosynthesis III	3885	Phvul.004G032700
+6860287	pantothenate and coenzyme A biosynthesis III	3885	Phvul.008G131600
+6860287	pantothenate and coenzyme A biosynthesis III	3885	Phvul.004G018800
+6860287	pantothenate and coenzyme A biosynthesis III	3885	Phvul.008G129800
+6860287	pantothenate and coenzyme A biosynthesis III	3885	Phvul.007G111800
+6860287	pantothenate and coenzyme A biosynthesis III	3885	Phvul.008G272100
+6860287	pantothenate and coenzyme A biosynthesis III	3885	Phvul.008G272200
+6860287	pantothenate and coenzyme A biosynthesis III	3885	Phvul.010G086000
+6860287	pantothenate and coenzyme A biosynthesis III	3885	Phvul.008G265200
+6860255	CMP-KDO biosynthesis II (from D-arabinose 5-phosphate)	3885	Phvul.011G157900
+6860255	CMP-KDO biosynthesis II (from D-arabinose 5-phosphate)	3885	Phvul.008G049000
+6860319	lactucaxanthin biosynthesis	3885	Phvul.007G226500
+6860263	tetrahydrofolate biosynthesis I	3885	Phvul.009G022100
+6860263	tetrahydrofolate biosynthesis I	3885	Phvul.001G115300
+6860263	tetrahydrofolate biosynthesis I	3885	Phvul.001G197300
+6860263	tetrahydrofolate biosynthesis I	3885	Phvul.008G026000
+6860263	tetrahydrofolate biosynthesis I	3885	Phvul.011G043000
+6860263	tetrahydrofolate biosynthesis I	3885	Phvul.001G204200
+6860263	tetrahydrofolate biosynthesis I	3885	Phvul.003G084100
+6860263	tetrahydrofolate biosynthesis I	3885	Phvul.007G141400
+6860263	tetrahydrofolate biosynthesis I	3885	Phvul.009G145600
+6860263	tetrahydrofolate biosynthesis I	3885	Phvul.007G035300
+6860263	tetrahydrofolate biosynthesis I	3885	Phvul.007G262100
+6860371	phylloquinone biosynthesis	3885	Phvul.010G011700
+6860224	arginine biosynthesis I	3885	Phvul.002G007200
+6860224	arginine biosynthesis I	3885	Phvul.009G036600
+6860224	arginine biosynthesis I	3885	Phvul.006G002000
+6860224	arginine biosynthesis I	3885	Phvul.009G059600
+6860224	arginine biosynthesis I	3885	Phvul.002G180400
+6860224	arginine biosynthesis I	3885	Phvul.009G099600
+6860224	arginine biosynthesis I	3885	Phvul.002G296600
+6860224	arginine biosynthesis I	3885	Phvul.003G012000
+6860224	arginine biosynthesis I	3885	Phvul.008G270600
+6860224	arginine biosynthesis I	3885	Phvul.003G209800
+6860224	arginine biosynthesis I	3885	Phvul.005G137400
+6860388	Jasmonic acid signaling	3885	Phvul.008G226500
+6860388	Jasmonic acid signaling	3885	Phvul.001G230500
+6860388	Jasmonic acid signaling	3885	Phvul.008G254600
+6860388	Jasmonic acid signaling	3885	Phvul.002G213800
+6860388	Jasmonic acid signaling	3885	Phvul.003G291500
+6860388	Jasmonic acid signaling	3885	Phvul.002G285800
+6860388	Jasmonic acid signaling	3885	Phvul.003G285700
+6860388	Jasmonic acid signaling	3885	Phvul.003G125700
+6860388	Jasmonic acid signaling	3885	Phvul.007G193900
+6860388	Jasmonic acid signaling	3885	Phvul.009G240900
+6860388	Jasmonic acid signaling	3885	Phvul.009G221800
+6860388	Jasmonic acid signaling	3885	Phvul.008G032900
+6860388	Jasmonic acid signaling	3885	Phvul.010G127400
+6860388	Jasmonic acid signaling	3885	Phvul.003G129200
+6860388	Jasmonic acid signaling	3885	Phvul.002G002000
+6860388	Jasmonic acid signaling	3885	Phvul.004G169100
+6860388	Jasmonic acid signaling	3885	Phvul.003G282500
+6860388	Jasmonic acid signaling	3885	Phvul.009G225300
+6860388	Jasmonic acid signaling	3885	Phvul.001G160400
+6860388	Jasmonic acid signaling	3885	Phvul.008G235500
+6860388	Jasmonic acid signaling	3885	Phvul.009G035300
+6860388	Jasmonic acid signaling	3885	Phvul.006G011200
+6860388	Jasmonic acid signaling	3885	Phvul.003G282400
+6860388	Jasmonic acid signaling	3885	Phvul.001G160100
+6860388	Jasmonic acid signaling	3885	Phvul.010G111400
+6860388	Jasmonic acid signaling	3885	Phvul.005G150100
+6860388	Jasmonic acid signaling	3885	Phvul.003G131600
+6860388	Jasmonic acid signaling	3885	Phvul.001G147300
+6860388	Jasmonic acid signaling	3885	Phvul.003G131500
+6860388	Jasmonic acid signaling	3885	Phvul.005G012200
+6860388	Jasmonic acid signaling	3885	Phvul.002G319600
+6860388	Jasmonic acid signaling	3885	Phvul.003G021000
+6860388	Jasmonic acid signaling	3885	Phvul.007G198900
+6860388	Jasmonic acid signaling	3885	Phvul.001G240400
+6860388	Jasmonic acid signaling	3885	Phvul.006G011300
+6860388	Jasmonic acid signaling	3885	Phvul.004G149500
+6860388	Jasmonic acid signaling	3885	Phvul.001G157600
+6860388	Jasmonic acid signaling	3885	Phvul.008G207000
+6860388	Jasmonic acid signaling	3885	Phvul.006G110900
+6860388	Jasmonic acid signaling	3885	Phvul.002G141500
+6860388	Jasmonic acid signaling	3885	Phvul.001G116900
+6860388	Jasmonic acid signaling	3885	Phvul.003G042000
+6860388	Jasmonic acid signaling	3885	Phvul.001G227000
+6860291	glutathione biosynthesis	3885	Phvul.006G094600
+6860291	glutathione biosynthesis	3885	Phvul.006G094500
+6860291	glutathione biosynthesis	3885	Phvul.002G289200
+6860291	glutathione biosynthesis	3885	Phvul.006G094700
+6860272	lysine biosynthesis I	3885	Phvul.001G177300
+6860272	lysine biosynthesis I	3885	Phvul.001G003100
+6860272	lysine biosynthesis I	3885	Phvul.011G012000
+6860272	lysine biosynthesis I	3885	Phvul.004G057600
+6860272	lysine biosynthesis I	3885	Phvul.003G012000
+6860272	lysine biosynthesis I	3885	Phvul.002G323900
+6860272	lysine biosynthesis I	3885	Phvul.007G066600
+6860272	lysine biosynthesis I	3885	Phvul.005G059200
+6860272	lysine biosynthesis I	3885	Phvul.006G161600
+6860272	lysine biosynthesis I	3885	Phvul.001G259000
+6860272	lysine biosynthesis I	3885	Phvul.004G057700
+6860272	lysine biosynthesis I	3885	Phvul.009G116200
+6860272	lysine biosynthesis I	3885	Phvul.001G170900
+6860272	lysine biosynthesis I	3885	Phvul.008G075400
+6860272	lysine biosynthesis I	3885	Phvul.001G265600
+6860272	lysine biosynthesis I	3885	Phvul.010G108900
+6860272	lysine biosynthesis I	3885	Phvul.004G070100
+6860338	anthocyanin biosynthesis (delphinidin 3-O-glucoside)	3885	Phvul.008G166000
+6860338	anthocyanin biosynthesis (delphinidin 3-O-glucoside)	3885	Phvul.002G152700
+6860311	cysteine biosynthesis I	3885	Phvul.003G269000
+6860311	cysteine biosynthesis I	3885	Phvul.010G110600
+6860311	cysteine biosynthesis I	3885	Phvul.002G045200
+6860311	cysteine biosynthesis I	3885	Phvul.001G170600
+6860311	cysteine biosynthesis I	3885	Phvul.003G060200
+6860311	cysteine biosynthesis I	3885	Phvul.006G055200
+6860311	cysteine biosynthesis I	3885	Phvul.006G099100
+6860311	cysteine biosynthesis I	3885	Phvul.008G277800
+6860311	cysteine biosynthesis I	3885	Phvul.002G114700
+6860311	cysteine biosynthesis I	3885	Phvul.007G057600
+6860221	pantothenate biosynthesis II	3885	Phvul.007G209400
+6860221	pantothenate biosynthesis II	3885	Phvul.009G075100
+6860221	pantothenate biosynthesis II	3885	Phvul.002G008700
+6860221	pantothenate biosynthesis II	3885	Phvul.010G104900
+6860221	pantothenate biosynthesis II	3885	Phvul.008G185600
+6860277	histidine biosynthesis I	3885	Phvul.007G057200
+6860277	histidine biosynthesis I	3885	Phvul.004G083900
+6860277	histidine biosynthesis I	3885	Phvul.006G218100
+6860277	histidine biosynthesis I	3885	Phvul.007G275100
+6860277	histidine biosynthesis I	3885	Phvul.009G005100
+6860277	histidine biosynthesis I	3885	Phvul.001G082700
+6860277	histidine biosynthesis I	3885	Phvul.002G198300
+6860277	histidine biosynthesis I	3885	Phvul.006G126900
+6860214	13-LOX and 13-HPL pathway	3885	Phvul.009G262900
+6860214	13-LOX and 13-HPL pathway	3885	Phvul.010G128800
+6860214	13-LOX and 13-HPL pathway	3885	Phvul.006G017100
+6860214	13-LOX and 13-HPL pathway	3885	Phvul.006G016900
+6860249	chlorophyll a biosynthesis II	3885	Phvul.008G208000
+6860249	chlorophyll a biosynthesis II	3885	Phvul.003G189600
+6860361	spermidine biosynthesis	3885	Phvul.003G097900
+6860361	spermidine biosynthesis	3885	Phvul.008G022100
+6860361	spermidine biosynthesis	3885	Phvul.002G072200
+6860361	spermidine biosynthesis	3885	Phvul.009G054800
+6860361	spermidine biosynthesis	3885	Phvul.003G052600
+6860361	spermidine biosynthesis	3885	Phvul.003G044200
+6860266	NAD biosynthesis I (from aspartate)	3885	Phvul.003G023500
+6860266	NAD biosynthesis I (from aspartate)	3885	Phvul.004G013800
+6860266	NAD biosynthesis I (from aspartate)	3885	Phvul.002G328900
+6860266	NAD biosynthesis I (from aspartate)	3885	Phvul.003G202900
+6860351	trehalose degradation II	3885	Phvul.011G023700
+6860351	trehalose degradation II	3885	Phvul.002G034000
+6860351	trehalose degradation II	3885	Phvul.001G007000
+6860351	trehalose degradation II	3885	Phvul.002G301500
+6860358	chlorophyll a biosynthesis I	3885	Phvul.008G096500
+6860300	allantoin degradation I	3885	Phvul.008G095400
+6860300	allantoin degradation I	3885	Phvul.010G078000
+6860373	tetrapyrrole biosynthesis I	3885	Phvul.009G118500
+6860373	tetrapyrrole biosynthesis I	3885	Phvul.009G127100
+6860373	tetrapyrrole biosynthesis I	3885	Phvul.011G177100
+6860373	tetrapyrrole biosynthesis I	3885	Phvul.002G034500
+6860373	tetrapyrrole biosynthesis I	3885	Phvul.009G063100
+6860247	carotenoid biosynthesis	3885	Phvul.002G018700
+6860247	carotenoid biosynthesis	3885	Phvul.001G124400
+6860247	carotenoid biosynthesis	3885	Phvul.007G226500
+6860247	carotenoid biosynthesis	3885	Phvul.007G186000
+6860247	carotenoid biosynthesis	3885	Phvul.008G241500
+6860247	carotenoid biosynthesis	3885	Phvul.006G108200
+6860247	carotenoid biosynthesis	3885	Phvul.003G243800
+6860247	carotenoid biosynthesis	3885	Phvul.002G265800
+6860381	arginine degradation VI (arginase 2 pathway)	3885	Phvul.001G124300
+6860381	arginine degradation VI (arginase 2 pathway)	3885	Phvul.010G081600
+6860381	arginine degradation VI (arginase 2 pathway)	3885	Phvul.002G180400
+6860296	GDP-mannose metabolism	3885	Phvul.011G023700
+6860296	GDP-mannose metabolism	3885	Phvul.007G094900
+6860296	GDP-mannose metabolism	3885	Phvul.002G034000
+6860296	GDP-mannose metabolism	3885	Phvul.002G096000
+6860296	GDP-mannose metabolism	3885	Phvul.008G068100
+6860296	GDP-mannose metabolism	3885	Phvul.008G006200
+6860376	Strigolactone Biosynthesis	3885	Phvul.001G037100
+6860376	Strigolactone Biosynthesis	3885	Phvul.009G109700
+6860376	Strigolactone Biosynthesis	3885	Phvul.008G141600
+6860376	Strigolactone Biosynthesis	3885	Phvul.009G078400
+6860321	asparagine biosynthesis I	3885	Phvul.001G047000
+6860321	asparagine biosynthesis I	3885	Phvul.001G250600
+6860321	asparagine biosynthesis I	3885	Phvul.011G127800
+6860321	asparagine biosynthesis I	3885	Phvul.002G101900
+6860321	asparagine biosynthesis I	3885	Phvul.009G106800
+6860321	asparagine biosynthesis I	3885	Phvul.001G252200
+6860321	asparagine biosynthesis I	3885	Phvul.006G069300
+6860321	asparagine biosynthesis I	3885	Phvul.008G259900
+6860321	asparagine biosynthesis I	3885	Phvul.002G262100
+6860282	citrulline biosynthesis	3885	Phvul.010G015400
+6860282	citrulline biosynthesis	3885	Phvul.008G230300
+6860282	citrulline biosynthesis	3885	Phvul.002G300800
+6860282	citrulline biosynthesis	3885	Phvul.002G180400
+6860282	citrulline biosynthesis	3885	Phvul.010G081600
+6860282	citrulline biosynthesis	3885	Phvul.001G252200
+6860282	citrulline biosynthesis	3885	Phvul.009G059600
+6860282	citrulline biosynthesis	3885	Phvul.006G069300
+6860282	citrulline biosynthesis	3885	Phvul.008G022000
+6860282	citrulline biosynthesis	3885	Phvul.008G259900
+6860282	citrulline biosynthesis	3885	Phvul.004G047900
+6860282	citrulline biosynthesis	3885	Phvul.009G147600
+6860282	citrulline biosynthesis	3885	Phvul.001G236900
+6860352	pyridoxal 5'-phosphate biosynthesis	3885	Phvul.006G159900
+6860352	pyridoxal 5'-phosphate biosynthesis	3885	Phvul.003G099600
+6860352	pyridoxal 5'-phosphate biosynthesis	3885	Phvul.010G115400
+6860352	pyridoxal 5'-phosphate biosynthesis	3885	Phvul.009G037700
+6860352	pyridoxal 5'-phosphate biosynthesis	3885	Phvul.009G095900
+6860252	pyridoxal 5'-phosphate salvage pathway	3885	Phvul.001G232200
+6860252	pyridoxal 5'-phosphate salvage pathway	3885	Phvul.010G115400
+6860252	pyridoxal 5'-phosphate salvage pathway	3885	Phvul.009G037700
+6860299	glutathione redox reactions I	3885	Phvul.001G149000
+6860299	glutathione redox reactions I	3885	Phvul.001G041100
+6860299	glutathione redox reactions I	3885	Phvul.002G288700
+6860299	glutathione redox reactions I	3885	Phvul.002G322400
+6860299	glutathione redox reactions I	3885	Phvul.004G083600
+6860228	phenylpropanoid biosynthesis	3885	Phvul.005G131400
+6860228	phenylpropanoid biosynthesis	3885	Phvul.009G259000
+6860228	phenylpropanoid biosynthesis	3885	Phvul.010G160700
+6860228	phenylpropanoid biosynthesis	3885	Phvul.003G259200
+6860228	phenylpropanoid biosynthesis	3885	Phvul.001G117900
+6860228	phenylpropanoid biosynthesis	3885	Phvul.002G111900
+6860228	phenylpropanoid biosynthesis	3885	Phvul.005G070300
+6860228	phenylpropanoid biosynthesis	3885	Phvul.009G258700
+6860228	phenylpropanoid biosynthesis	3885	Phvul.003G047900
+6860228	phenylpropanoid biosynthesis	3885	Phvul.010G162700
+6860228	phenylpropanoid biosynthesis	3885	Phvul.L008600
+6860228	phenylpropanoid biosynthesis	3885	Phvul.009G259200
+6860228	phenylpropanoid biosynthesis	3885	Phvul.009G167700
+6860228	phenylpropanoid biosynthesis	3885	Phvul.006G057300
+6860228	phenylpropanoid biosynthesis	3885	Phvul.009G258600
+6860228	phenylpropanoid biosynthesis	3885	Phvul.003G259100
+6860228	phenylpropanoid biosynthesis	3885	Phvul.009G167800
+6860228	phenylpropanoid biosynthesis	3885	Phvul.009G258800
+6860228	phenylpropanoid biosynthesis	3885	Phvul.009G258900
+6860228	phenylpropanoid biosynthesis	3885	Phvul.011G084300
+6860228	phenylpropanoid biosynthesis	3885	Phvul.003G147000
+6860228	phenylpropanoid biosynthesis	3885	Phvul.002G132900
+6860228	phenylpropanoid biosynthesis	3885	Phvul.005G184500
+6860228	phenylpropanoid biosynthesis	3885	Phvul.009G259300
+6860228	phenylpropanoid biosynthesis	3885	Phvul.003G146900
+6860228	phenylpropanoid biosynthesis	3885	Phvul.001G001300
+6860228	phenylpropanoid biosynthesis	3885	Phvul.009G259500
+6860228	phenylpropanoid biosynthesis	3885	Phvul.009G259100
+6860228	phenylpropanoid biosynthesis	3885	Phvul.005G182100
+6860228	phenylpropanoid biosynthesis	3885	Phvul.007G039800
+6860228	phenylpropanoid biosynthesis	3885	Phvul.005G183200
+6860270	sucrose biosynthesis	3885	Phvul.007G094900
+6860270	sucrose biosynthesis	3885	Phvul.005G002600
+6860270	sucrose biosynthesis	3885	Phvul.002G096000
+6860270	sucrose biosynthesis	3885	Phvul.001G209600
+6860270	sucrose biosynthesis	3885	Phvul.003G127500
+6860270	sucrose biosynthesis	3885	Phvul.007G064900
+6860270	sucrose biosynthesis	3885	Phvul.008G240600
+6860270	sucrose biosynthesis	3885	Phvul.002G318400
+6860270	sucrose biosynthesis	3885	Phvul.009G223800
+6860270	sucrose biosynthesis	3885	Phvul.007G265500
+6860270	sucrose biosynthesis	3885	Phvul.003G170100
+6860270	sucrose biosynthesis	3885	Phvul.006G031700
+6860270	sucrose biosynthesis	3885	Phvul.004G142800
+6860270	sucrose biosynthesis	3885	Phvul.007G233700
+6860284	beta-alanine biosynthesis III	3885	Phvul.006G204400
+6860284	beta-alanine biosynthesis III	3885	Phvul.008G202200
+6860284	beta-alanine biosynthesis III	3885	Phvul.004G148000
+6860284	beta-alanine biosynthesis III	3885	Phvul.002G213100
+6860386	xylogalacturonan biosynthesis	3885	Phvul.003G222300
+6860386	xylogalacturonan biosynthesis	3885	Phvul.005G114700
+6860386	xylogalacturonan biosynthesis	3885	Phvul.003G169900
+6860386	xylogalacturonan biosynthesis	3885	Phvul.003G169800
+6860386	xylogalacturonan biosynthesis	3885	Phvul.001G184500
+6860386	xylogalacturonan biosynthesis	3885	Phvul.003G169700
+6860386	xylogalacturonan biosynthesis	3885	Phvul.003G169600
+6860386	xylogalacturonan biosynthesis	3885	Phvul.007G225300
+6860246	polyisoprenoid biosynthesis	3885	Phvul.006G136300
+6860246	polyisoprenoid biosynthesis	3885	Phvul.L002800
+6860246	polyisoprenoid biosynthesis	3885	Phvul.003G251500
+6860246	polyisoprenoid biosynthesis	3885	Phvul.003G269600
+6860246	polyisoprenoid biosynthesis	3885	Phvul.002G181400
+6860246	polyisoprenoid biosynthesis	3885	Phvul.002G026400
+6860246	polyisoprenoid biosynthesis	3885	Phvul.003G239100
+6860246	polyisoprenoid biosynthesis	3885	Phvul.005G064200
