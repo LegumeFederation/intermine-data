@@ -1,12 +1,14 @@
 # this is a standard expression file to be read by InterMine source legfed-expression	
 #
-# 1. source name, PMID, geo, bioProject, sra-study
-RNA-Seq Atlas of Glycine max: a guide to the soybean transcriptome. (Gene IDs converted from v1 to v2.)	20687943.000		PRJNA208048	SRP025919
-# 2. expression unit
-TPM
-# 3. number of samples
-14
-# 4. Sample number, name and description in same order as the columns
+ID	GlycineAtlas
+Description	RNA-Seq Atlas of Glycine max: a guide to the soybean transcriptome. (Gene IDs converted from v1 to v2.)
+PMID	20687943
+BioProject	PRJNA208048
+SRA	SRP025919
+Unit	TPM
+URL	https://www.soybase.org/soyseq/	
+# Number of samples: sample records follow immediately
+Samples	14
 1	young_leaf	Young Leaf: 0.4 Leaflets unfurled (SOY:0000252)
 2	flower	Flower: F0.4 Open flower (SOY:0001277)
 3	one_cm_pod	One cm pod: 7 DAF: F0.7 Small size pod (SOY:0001280)
@@ -21,7 +23,7 @@ TPM
 12	seed_42DAF	Seed: 42 DAF: S1.09 Mid seed maturity (SOY:0001293)
 13	root	Root: Root structures (SOY:0001183)
 14	nodule	Nodule: Bacterial root nodule (SOY:0001301)
-# 5. expression data with Gene or mRNA identifiers (gene will have .1 appended)
+# Gene	[expression in order of samples above]
 Glyma.20G056700	0.000	0.000	0.000	0.000	0.000	0.000	0.000	0.000	0.000	0.000	0.000	0.000	0.000	0.000
 Glyma.20G056600	4.318	5.015	5.022	5.133	2.858	12.124	3.965	3.834	3.769	0.000	0.000	0.000	4.812	2.054
 Glyma.08G264000	0.000	0.000	0.000	0.000	0.000	0.000	0.000	0.000	0.000	0.000	0.000	0.000	0.000	0.000
