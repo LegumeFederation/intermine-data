@@ -1,6 +1,8 @@
 # SoyBase markers, compiled from v2 BARCSOYSSR markers and v1 Satt* markers placed on v2 via corresponding BARCSOYSSR v1 positions
 #
-#primaryIdentifier	secondaryIdentifier	TYPE	Chromosome	 Start    	 End      	Motif
+TaxonID	3847
+Variety	Williams82
+#primaryIdentifier	secondaryIdentifier	TYPE	Chromosome	Start	End	Motif
 Sat_332	BARCSOYSSR_01_0019	SSR	Gm01	355597	355646	(AT)25
 Satt184	BARCSOYSSR_01_0088	SSR	Gm01	1473634	1473690	(ATT)14(TTG)5
 Satt531	BARCSOYSSR_01_0206	SSR	Gm01	3779170	3779211	(ATT)14
