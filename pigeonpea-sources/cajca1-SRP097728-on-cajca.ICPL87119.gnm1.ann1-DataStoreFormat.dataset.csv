@@ -1,0 +1,32 @@
+#	#DATASET	
+#	#SECTION: For DataStore and LIS database	
+#	#	
+#	#accession_no	
+	ACCESSION_NO	cajca1
+#	#Name:Title	
+	NAME	Pigeonpea gene expression atlas from germination to senescence in genotype Asha(ICPL87119)
+#	#Shortname: For label in website	
+	SHORTNAME	Pigeonpea expression atlas
+#	#As in DataStore Expected to be the same in LIS Chado)	
+	GENOME	cajca.ICPL87119.gnm1.ann1
+#	#Description for LIS	
+	DESCRIPTION	 A gene expression atlas of Cajanus cajan has been developed in this study using 30 samples from Asha genotype (ICPL 87119), representing different developmental stages from germination to senescence. This dataset at LIS uses reads mapped to the ICPL87119 pigeonpea reference genome ICPL87119.gnm1.ann1.
+#	#Date data analysed	
+	ANALYSIS_DATE	2017 NOV
+#	#????Only after loading OR should be in database auto-updated. **Think and change	
+	LOAD_DATE	
+#	#	
+#		
+#		
+#	#SECTION: For G/Jbrowse	
+#	#	
+#	#Browser dir name:  **Is DATASET_SHORTNAME in scripts	
+	BROW_DIRNAME	
+#	#	
+#	#Browser dataset name: May use SHORTNAME.  **Is DATASET_LONGNAME in scripts	
+#	#Browser genome version: Is  GENOME_VERSION in scripts	
+	BROW_GENOME_VER	Cc1.0
+#	#Browser LG_ABBREVIATION: Pseudomolecule abbreviation in GBrowse. Ex: Pv or Ca or Cc, etc.	
+	 LG_ABBREVIATION	
+#	#Local working dir: Location of data and file processing	
+	LOCAL_WORKING_DIR	cajca1-SRP097728

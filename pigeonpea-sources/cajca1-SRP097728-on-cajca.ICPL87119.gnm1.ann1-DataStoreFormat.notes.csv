@@ -1,0 +1,71 @@
+	Notes about this file (Not used for loading)																										
+																											
+																											
+	Pasted straight from SraRunTable.txt:																										
+	AvgSpotLen_l	BioSample_s	Experiment_s	Instrument_s	Library_Name_s	MBases_l	MBytes_l	Run_s	SRA_Sample_s	Sample_Name_s	dev_stage_s	tissue_s	Assay_Type_s	BioProject_s	BioSampleModel_s	Consent_s	InsertSize_l	LibraryLayout_s	LibrarySelection_s	LibrarySource_s	LoadDate_s	Organism_s	Platform_s	ReleaseDate_s	SRA_Study_s	cultivar_s	geo_loc_name_s
+	190	SAMN06264156	SRX2514527	Illumina HiSeq 2500	GEA_PP_30	4010	2668	SRR5199304	SRS1937936	GEA_PP_30	Reproductive stage	Mature seed	RNA-Seq	PRJNA354681	Plant	public	0	PAIRED	RANDOM	TRANSCRIPTOMIC	1/25/2017	Cajanus cajan	ILLUMINA	7/31/2017	SRP097728	Asha (ICPL 87119)	India
+	189	SAMN06264155	SRX2514528	Illumina HiSeq 2500	GEA_PP_29	4793	3215	SRR5199305	SRS1937937	GEA_PP_29	Reproductive stage	Immature seed	RNA-Seq	PRJNA354681	Plant	public	0	PAIRED	RANDOM	TRANSCRIPTOMIC	1/25/2017	Cajanus cajan	ILLUMINA	7/31/2017	SRP097728	Asha (ICPL 87119)	India
+	198	SAMN06264154	SRX2514529	Illumina HiSeq 2500	GEA_PP_28	6104	4315	SRR5199306	SRS1937938	GEA_PP_28	Reproductive stage	Mature pod	RNA-Seq	PRJNA354681	Plant	public	0	PAIRED	RANDOM	TRANSCRIPTOMIC	1/25/2017	Cajanus cajan	ILLUMINA	7/31/2017	SRP097728	Asha (ICPL 87119)	India
+	198	SAMN06264153	SRX2514530	Illumina HiSeq 2500	GEA_PP_27	5268	3712	SRR5199307	SRS1937939	GEA_PP_27	Reproductive stage	Shoot apical meristem	RNA-Seq	PRJNA354681	Plant	public	0	PAIRED	RANDOM	TRANSCRIPTOMIC	1/25/2017	Cajanus cajan	ILLUMINA	7/31/2017	SRP097728	Asha (ICPL 87119)	India
+	198	SAMN06264152	SRX2514531	Illumina HiSeq 2500	GEA_PP_26	7274	5132	SRR5199308	SRS1937940	GEA_PP_26	Reproductive stage	Sepal	RNA-Seq	PRJNA354681	Plant	public	0	PAIRED	RANDOM	TRANSCRIPTOMIC	1/25/2017	Cajanus cajan	ILLUMINA	7/31/2017	SRP097728	Asha (ICPL 87119)	India
+	198	SAMN06264151	SRX2514532	Illumina HiSeq 2500	GEA_PP_25	6164	4344	SRR5199309	SRS1937941	GEA_PP_25	Reproductive stage	Petal	RNA-Seq	PRJNA354681	Plant	public	0	PAIRED	RANDOM	TRANSCRIPTOMIC	1/25/2017	Cajanus cajan	ILLUMINA	7/31/2017	SRP097728	Asha (ICPL 87119)	India
+	198	SAMN06264150	SRX2514533	Illumina HiSeq 2500	GEA_PP_24	6587	4655	SRR5199310	SRS1937942	GEA_PP_24	Senescence stage	Root	RNA-Seq	PRJNA354681	Plant	public	0	PAIRED	RANDOM	TRANSCRIPTOMIC	1/25/2017	Cajanus cajan	ILLUMINA	7/31/2017	SRP097728	Asha (ICPL 87119)	India
+	199	SAMN06264149	SRX2514534	Illumina HiSeq 2500	GEA_PP_23	7430	5106	SRR5199311	SRS1937943	GEA_PP_23	Senescence stage	Leaf	RNA-Seq	PRJNA354681	Plant	public	0	PAIRED	RANDOM	TRANSCRIPTOMIC	1/25/2017	Cajanus cajan	ILLUMINA	7/31/2017	SRP097728	Asha (ICPL 87119)	India
+	199	SAMN06264148	SRX2514535	Illumina HiSeq 2500	GEA_PP_22	6758	4653	SRR5199312	SRS1937944	GEA_PP_22	Senescence stage	Petiole	RNA-Seq	PRJNA354681	Plant	public	0	PAIRED	RANDOM	TRANSCRIPTOMIC	1/25/2017	Cajanus cajan	ILLUMINA	7/31/2017	SRP097728	Asha (ICPL 87119)	India
+	199	SAMN06264147	SRX2514536	Illumina HiSeq 2500	GEA_PP_21	6636	4565	SRR5199313	SRS1937945	GEA_PP_21	Reproductive stage	Petiole	RNA-Seq	PRJNA354681	Plant	public	0	PAIRED	RANDOM	TRANSCRIPTOMIC	1/25/2017	Cajanus cajan	ILLUMINA	7/31/2017	SRP097728	Asha (ICPL 87119)	India
+	200	SAMN06264146	SRX2514537	Illumina HiSeq 2000	GEA_PP_20	2599	1504	SRR5199314	SRS1937946	GEA_PP_20	Senescence stage	Stem	RNA-Seq	PRJNA354681	Plant	public	0	PAIRED	RANDOM	TRANSCRIPTOMIC	1/25/2017	Cajanus cajan	ILLUMINA	7/31/2017	SRP097728	Asha (ICPL 87119)	India
+	200	SAMN06264145	SRX2514538	Illumina HiSeq 2000	GEA_PP_19	3005	1760	SRR5199315	SRS1937947	GEA_PP_19	Reproductive stage	Stem	RNA-Seq	PRJNA354681	Plant	public	0	PAIRED	RANDOM	TRANSCRIPTOMIC	1/25/2017	Cajanus cajan	ILLUMINA	7/31/2017	SRP097728	Asha (ICPL 87119)	India
+	200	SAMN06264144	SRX2514539	Illumina HiSeq 2000	GEA_PP_18	2689	1747	SRR5199316	SRS1937948	GEA_PP_18	Reproductive stage	Immature pod	RNA-Seq	PRJNA354681	Plant	public	0	PAIRED	RANDOM	TRANSCRIPTOMIC	1/25/2017	Cajanus cajan	ILLUMINA	7/31/2017	SRP097728	Asha (ICPL 87119)	India
+	200	SAMN06264143	SRX2514540	Illumina HiSeq 2000	GEA_PP_17	2948	1919	SRR5199317	SRS1937949	GEA_PP_17	Reproductive stage	Nodule	RNA-Seq	PRJNA354681	Plant	public	0	PAIRED	RANDOM	TRANSCRIPTOMIC	1/25/2017	Cajanus cajan	ILLUMINA	7/31/2017	SRP097728	Asha (ICPL 87119)	India
+	199	SAMN06264142	SRX2514541	Illumina HiSeq 2000	GEA_PP_16	3294	2141	SRR5199318	SRS1937950	GEA_PP_16	Reproductive stage	Root	RNA-Seq	PRJNA354681	Plant	public	0	PAIRED	RANDOM	TRANSCRIPTOMIC	1/25/2017	Cajanus cajan	ILLUMINA	7/31/2017	SRP097728	Asha (ICPL 87119)	India
+	199	SAMN06264141	SRX2514542	Illumina HiSeq 2000	GEA_PP_15	2602	1687	SRR5199319	SRS1937951	GEA_PP_15	Reproductive stage	Pistil	RNA-Seq	PRJNA354681	Plant	public	0	PAIRED	RANDOM	TRANSCRIPTOMIC	1/25/2017	Cajanus cajan	ILLUMINA	7/31/2017	SRP097728	Asha (ICPL 87119)	India
+	199	SAMN06264140	SRX2514543	Illumina HiSeq 2000	GEA_PP_14	2499	1636	SRR5199320	SRS1937952	GEA_PP_14	Reproductive stage	Stamen	RNA-Seq	PRJNA354681	Plant	public	0	PAIRED	RANDOM	TRANSCRIPTOMIC	1/25/2017	Cajanus cajan	ILLUMINA	7/31/2017	SRP097728	Asha (ICPL 87119)	India
+	200	SAMN06264139	SRX2514544	Illumina HiSeq 2000	GEA_PP_13	3120	1804	SRR5199321	SRS1937953	GEA_PP_13	Reproductive stage	Flower	RNA-Seq	PRJNA354681	Plant	public	0	PAIRED	RANDOM	TRANSCRIPTOMIC	1/25/2017	Cajanus cajan	ILLUMINA	7/31/2017	SRP097728	Asha (ICPL 87119)	India
+	199	SAMN06264138	SRX2514545	Illumina HiSeq 2000	GEA_PP_12	2436	1582	SRR5199322	SRS1937954	GEA_PP_12	Reproductive stage	Bud	RNA-Seq	PRJNA354681	Plant	public	0	PAIRED	RANDOM	TRANSCRIPTOMIC	1/25/2017	Cajanus cajan	ILLUMINA	7/31/2017	SRP097728	Asha (ICPL 87119)	India
+	199	SAMN06264137	SRX2514546	Illumina HiSeq 2000	GEA_PP_11	2831	1836	SRR5199323	SRS1937955	GEA_PP_11	Reproductive stage	Leaf	RNA-Seq	PRJNA354681	Plant	public	0	PAIRED	RANDOM	TRANSCRIPTOMIC	1/25/2017	Cajanus cajan	ILLUMINA	7/31/2017	SRP097728	Asha (ICPL 87119)	India
+	199	SAMN06264136	SRX2514547	Illumina HiSeq 2000	GEA_PP_10	1845	1209	SRR5199324	SRS1937956	GEA_PP_10	Vegetative stage	Leaf	RNA-Seq	PRJNA354681	Plant	public	0	PAIRED	RANDOM	TRANSCRIPTOMIC	1/25/2017	Cajanus cajan	ILLUMINA	7/31/2017	SRP097728	Asha (ICPL 87119)	India
+	199	SAMN06264135	SRX2514548	Illumina HiSeq 2000	GEA_PP_09	1570	1021	SRR5199325	SRS1937957	GEA_PP_09	Vegetative stage	Root	RNA-Seq	PRJNA354681	Plant	public	0	PAIRED	RANDOM	TRANSCRIPTOMIC	1/25/2017	Cajanus cajan	ILLUMINA	7/31/2017	SRP097728	Asha (ICPL 87119)	India
+	199	SAMN06264134	SRX2514549	Illumina HiSeq 2000	GEA_PP_08	2406	1554	SRR5199326	SRS1937958	GEA_PP_08	Vegetative stage	Nodule	RNA-Seq	PRJNA354681	Plant	public	0	PAIRED	RANDOM	TRANSCRIPTOMIC	1/25/2017	Cajanus cajan	ILLUMINA	7/31/2017	SRP097728	Asha (ICPL 87119)	India
+	198	SAMN06264133	SRX2514550	Illumina HiSeq 2000	GEA_PP_07	2329	1675	SRR5199327	SRS1937959	GEA_PP_07	Vegetative stage	Shoot apical meristem	RNA-Seq	PRJNA354681	Plant	public	0	PAIRED	RANDOM	TRANSCRIPTOMIC	1/25/2017	Cajanus cajan	ILLUMINA	7/31/2017	SRP097728	Asha (ICPL 87119)	India
+	199	SAMN06264132	SRX2514551	Illumina HiSeq 2000	GEA_PP_06	2370	1553	SRR5199328	SRS1937960	GEA_PP_06	Seedling stage	Root	RNA-Seq	PRJNA354681	Plant	public	0	PAIRED	RANDOM	TRANSCRIPTOMIC	1/25/2017	Cajanus cajan	ILLUMINA	7/31/2017	SRP097728	Asha (ICPL 87119)	India
+	200	SAMN06264131	SRX2514552	Illumina HiSeq 2000	GEA_PP_05	1920	1244	SRR5199329	SRS1937961	GEA_PP_05	Seedling stage	Shoot	RNA-Seq	PRJNA354681	Plant	public	0	PAIRED	RANDOM	TRANSCRIPTOMIC	1/25/2017	Cajanus cajan	ILLUMINA	7/31/2017	SRP097728	Asha (ICPL 87119)	India
+	200	SAMN06264130	SRX2514553	Illumina HiSeq 2000	GEA_PP_04	1626	1046	SRR5199330	SRS1937962	GEA_PP_04	Germinal stage	Embryo	RNA-Seq	PRJNA354681	Plant	public	0	PAIRED	RANDOM	TRANSCRIPTOMIC	1/25/2017	Cajanus cajan	ILLUMINA	7/31/2017	SRP097728	Asha (ICPL 87119)	India
+	200	SAMN06264129	SRX2514554	Illumina HiSeq 2000	GEA_PP_03	3295	1914	SRR5199331	SRS1937963	GEA_PP_03	Germinal stage	Hypocotyl	RNA-Seq	PRJNA354681	Plant	public	0	PAIRED	RANDOM	TRANSCRIPTOMIC	1/25/2017	Cajanus cajan	ILLUMINA	7/31/2017	SRP097728	Asha (ICPL 87119)	India
+	200	SAMN06264128	SRX2514555	Illumina HiSeq 2000	GEA_PP_02	2188	1413	SRR5199332	SRS1937964	GEA_PP_02	Germinal stage	Radical	RNA-Seq	PRJNA354681	Plant	public	0	PAIRED	RANDOM	TRANSCRIPTOMIC	1/25/2017	Cajanus cajan	ILLUMINA	7/31/2017	SRP097728	Asha (ICPL 87119)	India
+	198	SAMN06264127	SRX2514556	Illumina HiSeq 2000	GEA_PP_01	3302	2364	SRR5199333	SRS1937965	GEA_PP_01	Germinal stage	Cotyledons	RNA-Seq	PRJNA354681	Plant	public	0	PAIRED	RANDOM	TRANSCRIPTOMIC	1/25/2017	Cajanus cajan	ILLUMINA	7/31/2017	SRP097728	Asha (ICPL 87119)	India
+																											
+																											
+																											
+																											
+	CONSTRUCTS:																										
+																											
+	Reproductive stage	Mature seed	at	reprod	SRR5199304	Mature seed at reprod	Mature seed at Reproductive stage	Mature seed at reprod (SRR5199304)	Mature seed at Reproductive stage (SRR5199304)																		
+	Reproductive stage	Immature seed	at	reprod	SRR5199305	Immature seed at reprod	Immature seed at Reproductive stage	Immature seed at reprod (SRR5199305)	Immature seed at Reproductive stage (SRR5199305)																		
+	Reproductive stage	Mature pod	at	reprod	SRR5199306	Mature pod at reprod	Mature pod at Reproductive stage	Mature pod at reprod (SRR5199306)	Mature pod at Reproductive stage (SRR5199306)																		
+	Reproductive stage	Shoot apical meristem	at	reprod	SRR5199307	Shoot apical meristem at reprod	Shoot apical meristem at Reproductive stage	Shoot apical meristem at reprod (SRR5199307)	Shoot apical meristem at Reproductive stage (SRR5199307)																		
+	Reproductive stage	Sepal	at	reprod	SRR5199308	Sepal at reprod	Sepal at Reproductive stage	Sepal at reprod (SRR5199308)	Sepal at Reproductive stage (SRR5199308)																		
+	Reproductive stage	Petal	at	reprod	SRR5199309	Petal at reprod	Petal at Reproductive stage	Petal at reprod (SRR5199309)	Petal at Reproductive stage (SRR5199309)																		
+	Senescence stage	Root	at	senesc	SRR5199310	Root at senesc	Root at Senescence stage	Root at senesc (SRR5199310)	Root at Senescence stage (SRR5199310)																		
+	Senescence stage	Leaf	at	senesc	SRR5199311	Leaf at senesc	Leaf at Senescence stage	Leaf at senesc (SRR5199311)	Leaf at Senescence stage (SRR5199311)																		
+	Senescence stage	Petiole	at	senesc	SRR5199312	Petiole at senesc	Petiole at Senescence stage	Petiole at senesc (SRR5199312)	Petiole at Senescence stage (SRR5199312)																		
+	Reproductive stage	Petiole	at	reprod	SRR5199313	Petiole at reprod	Petiole at Reproductive stage	Petiole at reprod (SRR5199313)	Petiole at Reproductive stage (SRR5199313)																		
+	Senescence stage	Stem	at	senesc	SRR5199314	Stem at senesc	Stem at Senescence stage	Stem at senesc (SRR5199314)	Stem at Senescence stage (SRR5199314)																		
+	Reproductive stage	Stem	at	reprod	SRR5199315	Stem at reprod	Stem at Reproductive stage	Stem at reprod (SRR5199315)	Stem at Reproductive stage (SRR5199315)																		
+	Reproductive stage	Immature pod	at	reprod	SRR5199316	Immature pod at reprod	Immature pod at Reproductive stage	Immature pod at reprod (SRR5199316)	Immature pod at Reproductive stage (SRR5199316)																		
+	Reproductive stage	Nodule	at	reprod	SRR5199317	Nodule at reprod	Nodule at Reproductive stage	Nodule at reprod (SRR5199317)	Nodule at Reproductive stage (SRR5199317)																		
+	Reproductive stage	Root	at	reprod	SRR5199318	Root at reprod	Root at Reproductive stage	Root at reprod (SRR5199318)	Root at Reproductive stage (SRR5199318)																		
+	Reproductive stage	Pistil	at	reprod	SRR5199319	Pistil at reprod	Pistil at Reproductive stage	Pistil at reprod (SRR5199319)	Pistil at Reproductive stage (SRR5199319)																		
+	Reproductive stage	Stamen	at	reprod	SRR5199320	Stamen at reprod	Stamen at Reproductive stage	Stamen at reprod (SRR5199320)	Stamen at Reproductive stage (SRR5199320)																		
+	Reproductive stage	Flower	at	reprod	SRR5199321	Flower at reprod	Flower at Reproductive stage	Flower at reprod (SRR5199321)	Flower at Reproductive stage (SRR5199321)																		
+	Reproductive stage	Bud	at	reprod	SRR5199322	Bud at reprod	Bud at Reproductive stage	Bud at reprod (SRR5199322)	Bud at Reproductive stage (SRR5199322)																		
+	Reproductive stage	Leaf	at	reprod	SRR5199323	Leaf at reprod	Leaf at Reproductive stage	Leaf at reprod (SRR5199323)	Leaf at Reproductive stage (SRR5199323)																		
+	Vegetative stage	Leaf	at	veg	SRR5199324	Leaf at veg	Leaf at Vegetative stage	Leaf at veg (SRR5199324)	Leaf at Vegetative stage (SRR5199324)																		
+	Vegetative stage	Root	at	veg	SRR5199325	Root at veg	Root at Vegetative stage	Root at veg (SRR5199325)	Root at Vegetative stage (SRR5199325)																		
+	Vegetative stage	Nodule	at	veg	SRR5199326	Nodule at veg	Nodule at Vegetative stage	Nodule at veg (SRR5199326)	Nodule at Vegetative stage (SRR5199326)																		
+	Vegetative stage	Shoot apical meristem	at	veg	SRR5199327	Shoot apical meristem at veg	Shoot apical meristem at Vegetative stage	Shoot apical meristem at veg (SRR5199327)	Shoot apical meristem at Vegetative stage (SRR5199327)																		
+	Seedling stage	Root	at	seedl	SRR5199328	Root at seedl	Root at Seedling stage	Root at seedl (SRR5199328)	Root at Seedling stage (SRR5199328)																		
+	Seedling stage	Shoot	at	seedl	SRR5199329	Shoot at seedl	Shoot at Seedling stage	Shoot at seedl (SRR5199329)	Shoot at Seedling stage (SRR5199329)																		
+	Germinal stage	Embryo	at	germ	SRR5199330	Embryo at germ	Embryo at Germinal stage	Embryo at germ (SRR5199330)	Embryo at Germinal stage (SRR5199330)																		
+	Germinal stage	Hypocotyl	at	germ	SRR5199331	Hypocotyl at germ	Hypocotyl at Germinal stage	Hypocotyl at germ (SRR5199331)	Hypocotyl at Germinal stage (SRR5199331)																		
+	Germinal stage	Radicle	at	germ	SRR5199332	Radicle at germ	Radicle at Germinal stage	Radicle at germ (SRR5199332)	Radicle at Germinal stage (SRR5199332)																		
+	Germinal stage	Cotyledons	at	germ	SRR5199333	Cotyledons at germ	Cotyledons at Germinal stage	Cotyledons at germ (SRR5199333)	Cotyledons at Germinal stage (SRR5199333)																		

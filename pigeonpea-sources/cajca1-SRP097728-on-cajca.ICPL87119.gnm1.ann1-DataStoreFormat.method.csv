@@ -1,0 +1,13 @@
+#METHOD		
+#	#Name:Title	
+	NAME	TPM values per gene from HTSeq raw read counts on exons
+#	#Shortname: For label in website	
+	SHORTNAME	TPM from HTSeq Count
+#	#Version if any	
+	VERSION	
+#	#Description: for LIS website	
+	DESCRIPTION	TPM values calculated from HTSeq read counts mapped to exons only per gene.  
+#	#Details:	
+	DETAILS	Reads were mapped to reference genome using GSNAP.  HTSeq counts were generated from read alignments only to exons aggregated over a gene. TPM was calculated from these exonic read counts.
+#	#Notes: For curation, private	
+	NOTES	**Provide later: GSNAP parameters and ref. HTSeq count parameters and ref. Refine description and details. TPM explain and reference.

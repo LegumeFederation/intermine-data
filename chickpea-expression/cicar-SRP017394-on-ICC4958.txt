@@ -2,16 +2,15 @@
 # cicar-SRP017394-on-ICC4958.gnm2.ann1_combinedSamplesTpm_uniquenameGene.tsv
 #
 # 1. source name, PMID, geo, bioProject, sra
-Chickpea Transcriptome Atlas - I	23551980	GSE42679	PRJNA182724	SRP017394
-# 2. URL
-http://onlinelibrary.wiley.com/doi/10.1111/pbi.12059/full
-# 3. description
-In this study, the authors aimed to present a global view of transcriptome dynamics during flower development in chickpea. They generated around 234 million high-quality reads for eight flower development stages (ranging from 16 to 40 million reads for each stage) and 91 million high-quality reads from three vegetative tissues using Illumina high-throughput sequencing GAII platform. The genotype used was chickpea desi ICC4958. LIS mapped the reads to the ICC4958 genome for presentation on LegumeInfo.org and LegFed mines.
-# 4. expression unit
-TPM
-# 5. number of samples
-11
-# 6. Sample number, name and description in same order as the columns (adjusted from buggy version on site)
+ID	Chickpea Transcriptome Atlas - I
+PMID	23551980
+GEO 	GSE42679
+BioProject	PRJNA182724
+SRA	SRP017394
+URL	http://onlinelibrary.wiley.com/doi/10.1111/pbi.12059/full
+Description	In this study, the authors aimed to present a global view of transcriptome dynamics during flower development in chickpea. They generated around 234 million high-quality reads for eight flower development stages (ranging from 16 to 40 million reads for each stage) and 91 million high-quality reads from three vegetative tissues using Illumina high-throughput sequencing GAII platform. The genotype used was chickpea desi ICC4958. LIS mapped the reads to the ICC4958 genome for presentation on LegumeInfo.org and LegFed mines.
+Unit	TPM
+Samples	11
 1	GS	SRS377931:Germinating seedling
 2	YL	SRS377932:Young leaves
 3	SAM	SRS377933:Shoot apical meristem

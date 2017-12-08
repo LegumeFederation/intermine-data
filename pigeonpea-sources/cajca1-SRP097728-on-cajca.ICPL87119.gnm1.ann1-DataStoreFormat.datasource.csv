@@ -1,0 +1,26 @@
+#	#DATASOURCE	
+#	#	
+#	#Name, descriptive (max 250 char)	
+	NAME	Gene expression atlas of pigeonpea Asha(ICPL87119)
+#	#Shortname: max 64 char	
+	SHORTNAME	Pigeonpea gene expression atlas
+#	#Origin: ex. SRA, GEO, A labname, etc.	
+	ORIGIN	SRA
+# 	#Description: our description if needed	
+	DESCRIPTION	To be able to link the genome sequence information to the phenotype, especially those related to developmental processes, a gene expression atlas of Cajanus cajan (CcGEA) have been developed. In this study,  30 samples from Asha genotype (ICPL 87119) have been used, representing different developmental stages from germination to senescence. It provides a valuable resource for pigeonpea to identify candidate genes involved in specific developmental processes and to understand the well-orchestrated growth and developmental process in this resilient crop. Platform: Illumina HiSeq 2500.
+#	#NCBI BioProj acc, PRJNA num	
+	BIOPROJ_ACC	PRJNA354681
+#	#NCBI BioProj Title	
+	BIOPROJ_TITLE	Gene expression atlas of pigeonpea
+#	#NCBI BioProj description/ abstract(?)	
+	BIOPROJ_DESCRIPTION	Pigeonpea (Cajanus cajan) is an important grain legume of the semi-arid tropics, mainly used for its protein rich seeds. To be able to link the genome sequence information to the phenotype, especially those related to developmental processes, a gene expression atlas of Cajanus cajan (CcGEA) have been developed. In this study, we have used 30 samples from Asha genotype (ICPL 87119), representing different developmental stages from germination to senescence. CcGEA provides a valuable resource for pigeonpea to identify candidate genes involved in specific developmental processes and to understand the well-orchestrated growth and developmental process in this resilient crop. Platform: Illumina HiSeq 2500.
+#	#NCBI SRP number	
+	SRA_PROJ_ACC	SRP097728
+#	# GEO series if exists	
+	GEO_SERIES	
+#	#Associated publication at NCBI	
+	BIOPROJ_PUBLICATION	Pazhamala, L. T., Purohit, S., Saxena, R. K., Garg, V., Krishnamurthy, L., Verdier, J., & Varshney, R. K. (2017). Gene expression atlas of pigeonpea and its application to gain insights into genes associated with pollen fertility implicated in seed formation. Journal of Experimental Botany, 68(8), 2037–2054. http://doi.org/10.1093/jxb/erx010
+#	#Link to Pub	
+	PUB_LINK	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5429002/
+#	#Link to full publication	
+	PUB_FULLLINK	https://academic.oup.com/jxb/article/68/8/2037/3051749/Gene-expression-atlas-of-pigeonpea-and-its

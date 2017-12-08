@@ -1,10 +1,9 @@
-PMID	22691139
-MappingPopulation	Sanzi_x_Vita7
-#Marker	QTL	Trait	TOTerms
-1_1013	Hls	Hastate leaf shape	TO:0000492
-1_0910	Hls	Hastate leaf shape	TO:0000492
-1_0992	Hls	Hastate leaf shape	TO:0000492
-1_0083	Hls	Hastate leaf shape	TO:0000492
-1_0349	Hls	Hastate leaf shape	TO:0000492
-1_0417	Hls	Hastate leaf shape	TO:0000492
-
+TaxonID	3920
+Variety	IT97K-499-35
+#Marker	QTL			
+1_1013	Hls			
+1_0910	Hls			
+1_0992	Hls			
+1_0083	Hls			
+1_0349	Hls			
+1_0417	Hls			
