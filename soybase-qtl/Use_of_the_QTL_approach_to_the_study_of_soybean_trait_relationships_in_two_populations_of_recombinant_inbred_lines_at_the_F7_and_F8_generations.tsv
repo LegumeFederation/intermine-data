@@ -1,7 +1,8 @@
-TaxonID	3847
+TaxonID	3920
 Variety	Williams82
-Parent_1	BARC-8
-Parent_2	Garimpo
+MappingPopulation	BARC-8_x_Garimpo
+Parent	BARC-8
+Parent	Garimpo
 Title	Use of the QTL approach to the study of soybean trait relationships in two populations of recombinant inbred lines at the F7 and F8 generations
 Leaflet area 2-1	Leaflet area
 Leaflet area 2-2	Leaflet area

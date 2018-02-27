@@ -1,7 +1,8 @@
-TaxonID	3847
+TaxonID	3920
 Variety	Williams82
-Parent_1	Essex
-Parent_2	Essex
+MappingPopulation	Essex_x_Essex
+Parent	Essex
+Parent	Essex
 Journal	Euphytica
 Year	2003
 Volume	129

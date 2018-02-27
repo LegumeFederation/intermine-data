@@ -1,7 +1,8 @@
-TaxonID	3847
+TaxonID	3920
 Variety	Williams82
-Parent_1	Kottman
-Parent_2	PI391589B
+MappingPopulation	Kottman_x_PI391589B
+Parent	Kottman
+Parent	PI391589B
 Title	Genetic mapping of QTLs underlying partial resistance to Sclerotinia sclerotiorum in Soybean PI 391589A and PI 391589B
 Sclero 9-1	Reaction to Sclerotinia sclerotiorum infection
 Sclero 9-2	Reaction to Sclerotinia sclerotiorum infection

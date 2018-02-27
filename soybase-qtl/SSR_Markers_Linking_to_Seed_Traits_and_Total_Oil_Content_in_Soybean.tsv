@@ -1,7 +1,8 @@
-TaxonID	3847
+TaxonID	3920
 Variety	Williams82
-Parent_1	Pak Chong 2
-Parent_2	Laos 7122
+MappingPopulation	PakChong2_x_Laos7122
+Parent	Pak Chong 2
+Parent	Laos 7122
 Title	SSR Markers Linking to Seed Traits and Total Oil Content in Soybean
 Node number 5-1	Root nodule number
 Seed length 3-1	Seed width

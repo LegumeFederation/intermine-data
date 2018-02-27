@@ -1,0 +1,24 @@
+TaxonID	3920
+Variety	IT97K-499-35
+DOI     10.1101/202044
+MappingPopulation	IT99K-573-1-1_x_TVNu-1158
+Parent	IT99K-573-1-1
+Parent	TVNu-1158
+DOI	10.1101/202044
+#QTL	Trait
+CSw1	100 seeds weight
+CSw6	100 seeds weight
+CSw8	100 seeds weight
+CFt5	Days to flowering
+CFt9	Days to flowering
+CFcol7	Flower color
+CLl8	Leaf length
+CLw1	Leaf width
+CLw8	Leaf width
+CSp5	Number of seeds per pod
+CSp9	Number of seeds per pod
+CPedl5	Peduncle length
+CPodl3	Pod length
+CPodl8	Pod length
+CPshat3	Pod shattering
+CPshat5	Pod shattering

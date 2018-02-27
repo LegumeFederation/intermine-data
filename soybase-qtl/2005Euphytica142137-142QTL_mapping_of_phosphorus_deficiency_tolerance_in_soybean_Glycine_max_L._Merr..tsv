@@ -1,7 +1,8 @@
-TaxonID	3847
+TaxonID	3920
 Variety	Williams82
-Parent_1	Kenfeng No1
-Parent_2	Nannong
+MappingPopulation	KenfengNo1_x_Nannong
+Parent	Kenfeng No1
+Parent	Nannong
 Journal	Euphytica
 Year	2005
 Volume	142

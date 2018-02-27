@@ -1,7 +1,8 @@
-TaxonID	3847
+TaxonID	3920
 Variety	Williams82
-Parent_1	PI96354
-Parent_2	Bossier
+MappingPopulation	PI96354_x_Bossier
+Parent	PI96354
+Parent	Bossier
 Journal	Theoretical and Applied Genetics
 Year	2001
 Volume	103

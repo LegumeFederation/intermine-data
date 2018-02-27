@@ -1,5 +1,12 @@
-10.1111.pbi.12639.txt		SNP marker-QTL associations for two QTLS for pod length.
-10.1007.s00122-015-2611-0.tsv
-10.1007.s00122-016-2823-y.tsv
-10.1007.s11032-015-0254-0.tsv
+These files simply hold two-column relations between markers and QTLs. They contain TaxonID and Variety in the header since QTLs often do not have distinct names, but
+we'll require that they have unique names per organism+variety.
 
+# TaxonID and Variety required to resolve merge ambiguity
+TaxonID 3920
+Variety IT97K-499-35
+#Marker	QTL
+1_0749	Stem diameter (manual)
+1_0749	Stem diameter (DIRT)
+1_0540	Stem diameter (DIRT)
+1_0540	Stem diameter (manual)
+1_0113	Stem diameter (manual)

@@ -1,7 +1,8 @@
-TaxonID	3847
+TaxonID	3920
 Variety	Williams82
-Parent_1	Charleston
-Parent_2	Dongnong 594
+MappingPopulation	Charleston_x_Dongnong594
+Parent	Charleston
+Parent	Dongnong 594
 Year	2007
 Volume	6
 Pages	399-405

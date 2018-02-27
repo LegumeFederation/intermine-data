@@ -1,7 +1,8 @@
-TaxonID	3847
+TaxonID	3920
 Variety	Williams82
-Parent_1	Williams 82
-Parent_2	PI 366121
+MappingPopulation	Williams82_x_PI366121
+Parent	Williams 82
+Parent	PI 366121
 Journal	Theoretical and Applied Genetics
 Title	Detection of novel QTLs for foxglove aphid resistance in soybean
 Foxglove aphid, primary damage, choice 1-1	Reaction to Aulacorthum solani, choice

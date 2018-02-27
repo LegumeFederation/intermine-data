@@ -1,7 +1,8 @@
-TaxonID	3847
+TaxonID	3920
 Variety	Williams82
-Parent_1	Peking
-Parent_2	Tamahomare
+MappingPopulation	Peking_x_Tamahomare
+Parent	Peking
+Parent	Tamahomare
 Title	QTL analysis of seed-flooding tolerance in soybean (Glycine max [L.] Merr.)
 Flood tolerance 7-1	Flooding Tolerance
 Flood tolerance 7-2	Flooding Tolerance

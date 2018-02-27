@@ -1,7 +1,8 @@
-TaxonID	3847
+TaxonID	3920
 Variety	Williams82
-Parent_1	Peking
-Parent_2	Keburi
+MappingPopulation	Peking_x_Keburi
+Parent	Peking
+Parent	Keburi
 Title	Identification of QTL underlying somatic embryogenesis capacity of immaure embryos in soybean (Glycine max (L.) Merr.)
 Somatic emb per explant 1-1	Somatic embryos per explant
 Somatic emb per explant 1-2	Somatic embryos per explant

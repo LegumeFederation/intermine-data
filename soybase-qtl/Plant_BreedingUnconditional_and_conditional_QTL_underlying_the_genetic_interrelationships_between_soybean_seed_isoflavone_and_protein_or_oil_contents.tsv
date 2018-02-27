@@ -1,7 +1,8 @@
-TaxonID	3847
+TaxonID	3920
 Variety	Williams82
-Parent_1	Zhongdou 27
-Parent_2	Jiunong 20
+MappingPopulation	Zhongdou27_x_Jiunong20
+Parent	Zhongdou 27
+Parent	Jiunong 20
 Journal	Plant Breeding
 Title	Unconditional and conditional QTL underlying the genetic interrelationships between soybean seed isoflavone, and protein or oil contents
 Seed daidzein 13-1	Seed daidzein content

@@ -1,0 +1,5 @@
+TaxonId	3920
+Variety	IT00K-1263
+Description	IT00K-1263 is high yielding and stays green under drought in Mozambique and Nigeria, with dark-brown seed.
+URL	http://www.iita.org/cowpea
+Country	Nigeria

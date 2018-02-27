@@ -1,7 +1,8 @@
-TaxonID	3847
+TaxonID	3920
 Variety	Williams82
-Parent_1	IA2008
-Parent_2	PI 468916
+MappingPopulation	IA2008_x_PI468916
+Parent	IA2008
+Parent	PI 468916
 Journal	Theoretical and Applied Genetics
 Year	2004
 Volume	108

@@ -1,7 +1,8 @@
-TaxonID	3847
+TaxonID	3920
 Variety	Williams82
-Parent_1	S-100
-Parent_2	Tokyo
+MappingPopulation	S-100_x_Tokyo
+Parent	S-100
+Parent	Tokyo
 Journal	Theoretical and Applied Genetics
 Year	2004
 Volume	109

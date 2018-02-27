@@ -1,7 +1,8 @@
-TaxonID	3847
+TaxonID	3920
 Variety	Williams82
-Parent_1	Zhongdou 32
-Parent_2	Zhongdou 29
+MappingPopulation	Zhongdou32_x_Zhongdou29
+Parent	Zhongdou 32
+Parent	Zhongdou 29
 Title	Quantitative trait loci analysis of stem strength and related traits in soybean
 Stem strength, main 1-1	Stem strength
 Stem strength, main 1-2	Stem strength

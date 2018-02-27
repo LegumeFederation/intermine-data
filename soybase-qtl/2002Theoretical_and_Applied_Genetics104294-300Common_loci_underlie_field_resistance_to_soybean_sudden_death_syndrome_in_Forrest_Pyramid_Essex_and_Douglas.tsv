@@ -1,7 +1,8 @@
-TaxonID	3847
+TaxonID	3920
 Variety	Williams82
-Parent_1	Douglas
-Parent_2	Pyramid
+MappingPopulation	Douglas_x_Pyramid
+Parent	Douglas
+Parent	Pyramid
 Journal	Theoretical and Applied Genetics
 Year	2002
 Volume	104

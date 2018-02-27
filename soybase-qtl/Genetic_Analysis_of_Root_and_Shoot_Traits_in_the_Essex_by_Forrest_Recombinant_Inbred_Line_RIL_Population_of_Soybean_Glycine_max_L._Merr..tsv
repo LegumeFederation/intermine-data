@@ -1,7 +1,8 @@
-TaxonID	3847
+TaxonID	3920
 Variety	Williams82
-Parent_1	Essex
-Parent_2	Forrest
+MappingPopulation	Essex_x_Forrest
+Parent	Essex
+Parent	Forrest
 Title	Genetic Analysis of Root and Shoot Traits in the 'Essex' by 'Forrest' Recombinant Inbred Line (RIL) Population of Soybean [Glycine max (L.) Merr.]
 Root density, lateral 1-1	Lateral root number
 Root length, primary 2-1	Primary Root Length

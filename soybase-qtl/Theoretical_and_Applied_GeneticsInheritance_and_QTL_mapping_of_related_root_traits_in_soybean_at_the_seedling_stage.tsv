@@ -1,7 +1,8 @@
-TaxonID	3847
+TaxonID	3920
 Variety	Williams82
-Parent_1	Jingdou23
-Parent_2	ZDD2315
+MappingPopulation	Jingdou23_x_ZDD2315
+Parent	Jingdou23
+Parent	ZDD2315
 Journal	Theoretical and Applied Genetics
 Title	Inheritance and QTL mapping of related root traits in soybean at the seedling stage
 Hypocotyl length 3-1	Hypocotyl Length

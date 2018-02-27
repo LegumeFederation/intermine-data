@@ -1,7 +1,8 @@
-TaxonID	3847
+TaxonID	3920
 Variety	Williams82
-Parent_1	Conrad
-Parent_2	Sloan
+MappingPopulation	Conrad_x_Sloan
+Parent	Conrad
+Parent	Sloan
 Journal	BMC Genomics
 Title	Dissection of two soybean QTL conferring partial resistance to Phytophthora sojae through sequence and gene expression analysis
 Phytoph 15-1	Reaction to Phytophthora sojae infection

@@ -1,7 +1,8 @@
-TaxonID	3847
+TaxonID	3920
 Variety	Williams82
-Parent_1	MFS-553
-Parent_2	PI 243545
+MappingPopulation	MFS-553_x_PI243545
+Parent	MFS-553
+Parent	PI 243545
 Journal	Crop Science
 Title	Identification of Quantitative Trait Loci for Sucrose Content in Soybean Seed
 Seed sucrose 4-1	Seed sucrose content

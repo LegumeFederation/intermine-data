@@ -1,7 +1,8 @@
-TaxonID	3847
+TaxonID	3920
 Variety	Williams82
-Parent_1	A81356022
-Parent_2	PI468916
+MappingPopulation	A81356022_x_PI468916
+Parent	A81356022
+Parent	PI468916
 Journal	J. Plant Nutr.
 Year	1992
 Volume	15

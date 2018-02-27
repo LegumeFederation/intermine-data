@@ -1,7 +1,8 @@
-TaxonID	3847
+TaxonID	3920
 Variety	Williams82
-Parent_1	KS4895
-Parent_2	Jackson
+MappingPopulation	KS4895_x_Jackson
+Parent	KS4895
+Parent	Jackson
 Journal	Euphytica
 Title	Genetics and mapping of quantitative traits for nodule number, weight, and size in soybean (Glycine max L.[Merr.])
 Nodule number 2-1	Root nodule number

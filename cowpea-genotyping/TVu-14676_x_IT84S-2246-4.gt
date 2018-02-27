@@ -1,6 +1,11 @@
 TaxonID	3920
-Parents	TVu-14676	IT84S-2246-4
+MappingPopulation	TVu-14676_x_IT84S-2246-4
+Description	In this study, we identified three QTL, Hbs-1, Hbs-2 and Hbs-3, associated with heat-induced browning of seed coats using the cowpea RIL populations IT93K-503-1 x CB46 and IT84S-2246 x TVu14676. SNP markers were identified which co-segregated with the heat-induced browning of seed coats phenotype in the Hbs-1 and Hbs-3 loci, and could be used for indirect selection in breeding a higher quality cowpea grain. Additionally, ethylene forming enzymes were identified as a cowpea candidate gene for the Hbs-1 locus and an ACC synthase 1 gene was identified as a cowpea candidate gene for the Hbs-3 locus.
+MatrixNotes	A = Parent A, B = Parent B. Lower case: genotype calls reversed based on parental alleles.
+Parent	TVu-14676
+Parent	IT84S-2246-4
 PMID	24885083
+MarkerType	SNP
 Lines	SR-1	SR-100	SR-101	SR-102	SR-103	SR-105	SR-106	SR-107	SR-108	SR-109	SR-11	SR-110	SR-111	SR-112	SR-113	SR-114	SR-115	SR-116	SR-117	SR-118	SR-119	SR-12	SR-120	SR-121	SR-123	SR-125	SR-126	SR-128	SR-129	SR-13	SR-130	SR-131	SR-132	SR-133	SR-134	SR-135	SR-137	SR-138	SR-139	SR-14	SR-140	SR-141	SR-143	SR-144	SR-145	SR-146	SR-148	SR-149	SR-15	SR-150	SR-151	SR-154	SR-155	SR-156	SR-157	SR-158	SR-159	SR-160	SR-17	SR-18	SR-19	SR-2	SR-20	SR-21	SR-22	SR-23	SR-24	SR-25	SR-26	SR-27	SR-28	SR-29	SR-32	SR-33	SR-35	SR-36	SR-37	SR-38	SR-39	SR-4	SR-41	SR-42	SR-44	SR-45	SR-46	SR-47	SR-48	SR-49	SR-5	SR-50	SR-51	SR-52	SR-53	SR-55	SR-57	SR-59	SR-6	SR-60	SR-61	SR-63	SR-64	SR-65	SR-66	SR-67	SR-68	SR-69	SR-7	SR-70	SR-71	SR-72	SR-73	SR-74	SR-75	SR-76	SR-77	SR-79	SR-8	SR-80	SR-81	SR-82	SR-83	SR-84	SR-85	SR-86	SR-87	SR-9	SR-90	SR-91	SR-92	SR-93	SR-94	SR-95	SR-96	SR-97	SR-99
 2_07153	a	b	b	a	b	a	a	b	a	a	a	b	a	b	b	b	a	a	a	a	b	a	a	b	b	a	a	a	a	a	a	b	b	a	b	b	a	a	a	a	a	a	a	b	b	a	b	b	a	a	b	b	a	a	a	a	a	a	b	a	a	a	a	b	b	b	a	b	a	a	a	a	a	a	a	a	a	a	b	b	a	a	b	b	a	b	b	b	b	b	a	b	a	a	a	a	b	b	b	a	b	a	a	a	b	b	b	b	a	b	a	b	b	b	a	a	a	b	b	a	b	a	b	b	a	a	a	a	a	a	a	a	b	b	a
 2_16296	A	B	B	A	B	A	A	B	A	A	A	B	A	B	B	B	A	A	A	A	B	A	A	B	B	A	A	A	A	A	A	B	B	A	B	B	A	A	A	A	A	A	A	B	B	A	B	B	A	A	B	B	A	A	A	A	A	A	B	A	A	A	A	B	B	B	A	B	A	A	A	A	A	A	A	A	A	A	B	B	A	A	B	B	A	B	B	B	B	B	A	B	A	A	A	A	B	B	B	A	B	A	A	A	B	B	B	B	A	B	A	B	B	B	A	A	A	B	B	A	B	A	B	B	A	A	A	A	A	A	A	A	B	B	A

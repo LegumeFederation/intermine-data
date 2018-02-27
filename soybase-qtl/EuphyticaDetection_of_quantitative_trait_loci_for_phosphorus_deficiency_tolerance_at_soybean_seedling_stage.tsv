@@ -1,7 +1,8 @@
-TaxonID	3847
+TaxonID	3920
 Variety	Williams82
-Parent_1	Nannong94-156
-Parent_2	Bogao
+MappingPopulation	Nannong94-156_x_Bogao
+Parent	Nannong94-156
+Parent	Bogao
 Journal	Euphytica
 Title	Detection of quantitative trait loci for phosphorus deficiency tolerance at soybean seedling stage
 Plant P 3-1	Phosphorus content

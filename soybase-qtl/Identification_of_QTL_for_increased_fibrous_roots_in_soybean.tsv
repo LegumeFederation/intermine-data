@@ -1,7 +1,8 @@
-TaxonID	3847
+TaxonID	3920
 Variety	Williams82
-Parent_1	Benning (PI 595645)
-Parent_2	PI 416937
+MappingPopulation	Benning(PI595645)_x_PI416937
+Parent	Benning (PI 595645)
+Parent	PI 416937
 Title	Identification of QTL for increased fibrous roots in soybean
 Root morphology 1-1	Root Morphology
 Root morphology 1-2	Root Morphology

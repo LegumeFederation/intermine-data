@@ -1,6 +1,7 @@
-TaxonID	3847
+TaxonID	3920
 Variety	Williams82
-Parent_1	Conrad
-Parent_2	OX760-6-1
+MappingPopulation	Conrad_x_OX760-6-1
+Parent	Conrad
+Parent	OX760-6-1
 Title	A quantitative trait locus influencing tolerance in Phytophthora root rot in the soybean cultivar 'Conrad'
 Phytoph 7-1	Reaction to Phytophthora sojae infection

@@ -1,7 +1,8 @@
-TaxonID	3847
+TaxonID	3920
 Variety	Williams82
-Parent_1	JWS156-1
-Parent_2	Jackson
+MappingPopulation	JWS156-1_x_Jackson
+Parent	JWS156-1
+Parent	Jackson
 Title	Identification of a major QTL allele from wild soybean (Glycine soja Sieb. & Zucc.) for increasing alkaline salt tolerance in soybean
 pH sensitivity 1-1	Reaction to Alkalinity
 pH sensitivity 1-2	Reaction to Alkalinity

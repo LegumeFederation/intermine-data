@@ -1,7 +1,8 @@
-TaxonID	3847
+TaxonID	3920
 Variety	Williams82
-Parent_1	PI483463
-Parent_2	Hutcheson
+MappingPopulation	PI483463_x_Hutcheson
+Parent	PI483463
+Parent	Hutcheson
 Journal	Theoretical and Applied Genetics
 Title	Identification of quantitative trait loci controlling linolenic acid concentration in PI483463 (Glycine soja).
 Seed linolenic 12-10	Seed linolenic acid content

@@ -1,7 +1,8 @@
-TaxonID	3847
+TaxonID	3920
 Variety	Williams82
-Parent_1	FT-Abyara (PI628838)
-Parent_2	C01
+MappingPopulation	FT-Abyara(PI628838)_x_C01
+Parent	FT-Abyara (PI628838)
+Parent	C01
 Title	Identification and validation of a major QTL for salt tolerance in soybean
 Salt tolerance 3-1	Sodium ion sensitivity
 Salt tolerance 3-2	Sodium ion sensitivity

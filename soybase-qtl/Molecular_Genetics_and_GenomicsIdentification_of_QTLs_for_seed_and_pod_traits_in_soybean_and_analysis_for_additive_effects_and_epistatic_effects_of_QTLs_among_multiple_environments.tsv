@@ -1,7 +1,8 @@
-TaxonID	3847
+TaxonID	3920
 Variety	Williams82
-Parent_1	Charleston
-Parent_2	DongNong594
+MappingPopulation	Charleston_x_DongNong594
+Parent	Charleston
+Parent	DongNong594
 Journal	Molecular Genetics and Genomics
 Title	Identification of QTLs for seed and pod traits in soybean and analysis for additive effects and epistatic effects of QTLs among multiple environments
 Pod number 10-1	Pods per plant

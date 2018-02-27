@@ -1,0 +1,9 @@
+TaxonID	3920
+Variety	IT93K-503-1
+Description	IT93K-503-1, a breeding  line from the International Institute of Tropical Agriculture (IITA) breeding nursery in Nigeria, is draught tolerant and resistant to root-knot nematodes, M. phaseolina and Fusarium wilt.
+URL	http://www.iita.org/cowpea
+Country	Nigeria
+PMID	19130034
+PMID	26450274
+PMID	21208448
+PMID	22860000

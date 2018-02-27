@@ -1,7 +1,8 @@
-TaxonID	3847
+TaxonID	3920
 Variety	Williams82
-Parent_1	PI438489B
-Parent_2	Hamilton
+MappingPopulation	PI438489B_x_Hamilton
+Parent	PI438489B
+Parent	Hamilton
 Title	Genetic analysis of yield components in the PI 438489B by 'Hamilton' recombinant inbred line (RIL) population of soybean [Glycine max (L.) Merr.]
 Days to germination 1-1	Germination Time
 Days to germination 1-2	Germination Time

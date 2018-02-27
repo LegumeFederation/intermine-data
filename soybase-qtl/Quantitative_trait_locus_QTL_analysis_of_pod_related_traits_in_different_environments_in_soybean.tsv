@@ -1,7 +1,8 @@
-TaxonID	3847
+TaxonID	3920
 Variety	Williams82
-Parent_1	Charleston
-Parent_2	Dongong 594
+MappingPopulation	Charleston_x_Dongong594
+Parent	Charleston
+Parent	Dongong 594
 Title	Quantitative trait locus (QTL) analysis of pod related traits in different environments in soybean
 Pod wall to Pod weight ratio 1-1	Pod weight ratio
 Pod wall to Pod weight ratio 1-2	Pod weight ratio

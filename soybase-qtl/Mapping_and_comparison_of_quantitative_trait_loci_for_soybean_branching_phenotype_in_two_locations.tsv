@@ -1,7 +1,8 @@
-TaxonID	3847
+TaxonID	3920
 Variety	Williams82
-Parent_1	Tokei 758
-Parent_2	To-8E
+MappingPopulation	Tokei758_x_To-8E
+Parent	Tokei 758
+Parent	To-8E
 Title	Mapping and comparison of quantitative trait loci for soybean branching phenotype in two locations
 Branching 3-1	Branching
 Branching 3-2	Branching

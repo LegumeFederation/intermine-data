@@ -1,7 +1,8 @@
-TaxonID	3847
+TaxonID	3920
 Variety	Williams82
-Parent_1	Uzuramame
-Parent_2	L67-3469
+MappingPopulation	Uzuramame_x_L67-3469
+Parent	Uzuramame
+Parent	L67-3469
 Title	QTL analysis of net-like cracking in soybean seed coats
 First flower 23-1	First flower
 Seed coat cracking 2-1	Seed coat cracking

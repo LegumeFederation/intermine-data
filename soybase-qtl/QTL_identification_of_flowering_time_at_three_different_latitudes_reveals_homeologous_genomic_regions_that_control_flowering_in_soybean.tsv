@@ -1,7 +1,8 @@
-TaxonID	3847
+TaxonID	3920
 Variety	Williams82
-Parent_1	Jinpumkong
-Parent_2	SS2-2
+MappingPopulation	Jinpumkong_x_SS2-2
+Parent	Jinpumkong
+Parent	SS2-2
 Title	QTL identification of flowering time at three different latitudes reveals homeologous genomic regions that control flowering in soybean
 Photoperiod insensitivity 5-1	Photoperiod sensitivity
 Photoperiod insensitivity 5-2	Photoperiod sensitivity

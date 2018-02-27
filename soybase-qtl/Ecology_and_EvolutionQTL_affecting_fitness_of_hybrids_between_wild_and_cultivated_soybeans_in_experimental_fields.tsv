@@ -1,7 +1,8 @@
-TaxonID	3847
+TaxonID	3920
 Variety	Williams82
-Parent_1	JP036034
-Parent_2	Ryuhou
+MappingPopulation	JP036034_x_Ryuhou
+Parent	JP036034
+Parent	Ryuhou
 Journal	Ecology and Evolution
 Title	QTL affecting fitness of hybrids between wild and cultivated soybeans in experimental fields
 First flower 24-1	First flower

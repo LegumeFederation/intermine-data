@@ -1,6 +1,7 @@
-TaxonID	3847
+TaxonID	3920
 Variety	Williams82
-Parent_1	Hayahikari
-Parent_2	Toyomusume
+MappingPopulation	Hayahikari_x_Toyomusume
+Parent	Hayahikari
+Parent	Toyomusume
 Title	Simple sequence repeat markers linked to a major QTL controlling pod shattering in soybean
 Pod dehiscence 2-1	Shattering

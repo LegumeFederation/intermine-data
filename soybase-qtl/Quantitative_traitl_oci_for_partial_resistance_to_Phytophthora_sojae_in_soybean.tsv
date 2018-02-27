@@ -1,7 +1,8 @@
-TaxonID	3847
+TaxonID	3920
 Variety	Williams82
-Parent_1	Conrad
-Parent_2	Harosoy
+MappingPopulation	Conrad_x_Harosoy
+Parent	Conrad
+Parent	Harosoy
 Title	Quantitative traitl oci for partial resistance to Phytophthora sojae in soybean
 Phytoph 1-1	Reaction to Phytophthora sojae infection
 Phytoph 1-2	Reaction to Phytophthora sojae infection

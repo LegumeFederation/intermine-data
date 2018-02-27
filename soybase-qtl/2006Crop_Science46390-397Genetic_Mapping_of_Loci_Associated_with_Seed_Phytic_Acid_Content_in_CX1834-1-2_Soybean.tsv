@@ -1,7 +1,8 @@
-TaxonID	3847
+TaxonID	3920
 Variety	Williams82
-Parent_1	AGS Boggs-RR
-Parent_2	CX1834-1-2
+MappingPopulation	AGSBoggs-RR_x_CX1834-1-2
+Parent	AGS Boggs-RR
+Parent	CX1834-1-2
 Journal	Crop Science
 Year	2006
 Volume	46

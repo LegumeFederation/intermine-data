@@ -1,7 +1,8 @@
-TaxonID	3847
+TaxonID	3920
 Variety	Williams82
-Parent_1	Pride B216
-Parent_2	A15
+MappingPopulation	PrideB216_x_A15
+Parent	Pride B216
+Parent	A15
 Journal	Molecular Breeding
 Year	1997
 Volume	3

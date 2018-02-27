@@ -1,7 +1,8 @@
-TaxonID	3847
+TaxonID	3920
 Variety	Williams82
-Parent_1	PI171451
-Parent_2	Hwaeomputkong
+MappingPopulation	PI171451_x_Hwaeomputkong
+Parent	PI171451
+Parent	Hwaeomputkong
 Title	QTL Mapping for Major Agronomic Traits across Two Years in Soybean (Glycine max L. Merr.)
 Branching 2-1	Branching
 Plant height 31-1	Plant Height

@@ -1,0 +1,12 @@
+TaxonID	3920
+Variety	IT97K-499-35
+MappingPopulation	MAGIC-2017
+PMID	29356213
+#QTL			Trait
+MAGIC-2017.ft.ld	Flowering time under long daylength at UCR-CES
+MAGIC-2017.ft.sd	Flowering time under short daylength at CVARS
+MAGIC-2017.gh.ld	Growth habit under long daylength at UCR-CES
+MAGIC-2017.gh.sd	Growth habit under short daylength at CVARS
+MAGIC-2017.seedsize.sd	Seed size at CVARS (short daylength)
+MAGIC-2017.mat.ni	Maturity at CVARS under normal irrigation
+MAGIC-2017.mat.ri	Maturity at CVARS under restricted irrigation

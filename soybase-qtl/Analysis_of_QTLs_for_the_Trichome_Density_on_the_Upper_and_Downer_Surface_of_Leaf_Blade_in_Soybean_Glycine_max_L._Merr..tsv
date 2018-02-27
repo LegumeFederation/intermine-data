@@ -1,7 +1,8 @@
-TaxonID	3847
+TaxonID	3920
 Variety	Williams82
-Parent_1	Kefeng 1
-Parent_2	Nannong 1138-2
+MappingPopulation	Kefeng1_x_Nannong1138-2
+Parent	Kefeng 1
+Parent	Nannong 1138-2
 Title	Analysis of QTLs for the Trichome Density on the Upper and Downer Surface of Leaf Blade in Soybean [Glycine max (L.) Merr.]
 Pubescence density 2-1	Pubescence Density
 Pubescence density 2-10	Pubescence Density

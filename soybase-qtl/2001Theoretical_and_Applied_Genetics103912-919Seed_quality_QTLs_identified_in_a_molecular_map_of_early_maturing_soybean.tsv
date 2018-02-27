@@ -1,7 +1,8 @@
-TaxonID	3847
+TaxonID	3920
 Variety	Williams82
-Parent_1	Ma.Belle
-Parent_2	Proto
+MappingPopulation	Ma.Belle_x_Proto
+Parent	Ma.Belle
+Parent	Proto
 Journal	Theoretical and Applied Genetics
 Year	2001
 Volume	103

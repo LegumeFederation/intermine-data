@@ -1,10 +1,13 @@
-Files in this directory hold QTL and trait names on a per-publication, per-mapping population basis.
-Each file specifies the publication and optional mapping population and then lists the QTLs and traits. For example:
+Files in this directory hold QTL and trait names on a per-publication, per-mapping population(s) basis.
+Each file specifies the publication and optional mapping population(s) and then lists the QTLs and traits. 
+Parent entries must come AFTER MappingPopulation so they are associated with it.
 
+# example qtl-file
 TaxonID	3920
 Variety	IT97K-499-35
-Parent_1	Sanzi
-Parent_2	Vita7
+MappingPopulation	Sanzi_x_Vita7
+Parent	Sanzi
+Parent	Vita7
 PMID	22691139
 #QTL	TraitName
 Hls	Hastate leaf shape

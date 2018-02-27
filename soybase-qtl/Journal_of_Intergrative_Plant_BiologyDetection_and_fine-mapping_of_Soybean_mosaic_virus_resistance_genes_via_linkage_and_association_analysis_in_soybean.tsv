@@ -1,7 +1,8 @@
-TaxonID	3847
+TaxonID	3920
 Variety	Williams82
-Parent_1	Kefeng No.1
-Parent_2	Nannong1138-2
+MappingPopulation	KefengNo.1_x_Nannong1138-2
+Parent	Kefeng No.1
+Parent	Nannong1138-2
 Journal	Journal of Intergrative Plant Biology
 Title	Detection and fine-mapping of Soybean mosaic virus resistance genes via linkage and association analysis in soybean
 Soybean mosaic virus 1-1	Reaction to Soybean Mosaic Virus Infection (SMV)

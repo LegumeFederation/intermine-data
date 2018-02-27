@@ -1,7 +1,8 @@
-TaxonID	3847
+TaxonID	3920
 Variety	Williams82
-Parent_1	Keunolkong
-Parent_2	Shinpaldalkong
+MappingPopulation	Keunolkong_x_Shinpaldalkong
+Parent	Keunolkong
+Parent	Shinpaldalkong
 Title	Analysis of quantitative trait loci associated with leaflet types in two recombinant inbred lines of soybean
 Leaflet length 6-1	Leaflet Length
 Leaflet length 6-2	Leaflet Length

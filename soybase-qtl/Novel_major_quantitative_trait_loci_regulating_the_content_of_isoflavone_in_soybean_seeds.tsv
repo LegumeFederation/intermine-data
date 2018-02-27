@@ -1,7 +1,8 @@
-TaxonID	3847
+TaxonID	3920
 Variety	Williams82
-Parent_1	Hwangkeum
-Parent_2	IT182932
+MappingPopulation	Hwangkeum_x_IT182932
+Parent	Hwangkeum
+Parent	IT182932
 Title	Novel major quantitative trait loci regulating the content of isoflavone in soybean seeds
 Seed daidzein 9-1	Seed daidzein content
 Seed daidzein 9-2	Seed daidzein content

@@ -1,7 +1,10 @@
-taxonId	3920
-variety	IT82E-18
-alternatVarietyName	Big Buff
-description	Register of Australian grain legume cultivars: Vigna unguiculata L. (cowpea) cv. Big Buff: reg. no. ARGL 94-3, registered 14 December 1994.
-patentNumber	ARGL 94-3
-url	http://agris.fao.org/aos/records/US201301510728
-country	Australia
+TaxonId	3920
+Variety	IT82E-18
+AlternateVarietyName	Big Buff
+Description	Register of Australian grain legume cultivars: Vigna unguiculata L. (cowpea) cv. Big Buff: reg. no. ARGL 94-3, registered 14 December 1994.
+PatentNumber	ARGL 94-3
+URL	http://agris.fao.org/aos/records/US201301510728
+Country	Australia
+PMID	25852699
+PMID	24659904
+PMID	11213169

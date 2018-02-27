@@ -1,7 +1,8 @@
-TaxonID	3847
+TaxonID	3920
 Variety	Williams82
-Parent_1	ZDD09454
-Parent_2	Yudou12
+MappingPopulation	ZDD09454_x_Yudou12
+Parent	ZDD09454
+Parent	Yudou12
 Title	Identification of the quantitative trait loci (QTL) underlying water soluble protein content in soybean
 Seed protein 34-1	Seed protein content
 Seed protein 34-10	Seed protein content

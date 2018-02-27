@@ -1,7 +1,8 @@
-TaxonID	3847
+TaxonID	3920
 Variety	Williams82
-Parent_1	Kitakomachi
-Parent_2	Koganejiro
+MappingPopulation	Kitakomachi_x_Koganejiro
+Parent	Kitakomachi
+Parent	Koganejiro
 Title	QTL Analysis of Low Temperature-Induced Browning in Soybean Seed Coats
 First flower 22-1	First flower
 First flower 22-2	First flower

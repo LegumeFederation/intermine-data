@@ -1,7 +1,8 @@
-TaxonID	3847
+TaxonID	3920
 Variety	Williams82
-Parent_1	Pioneer 9071
-Parent_2	Line 8902
+MappingPopulation	Pioneer9071_x_Line8902
+Parent	Pioneer 9071
+Parent	Line 8902
 Title	Validation of mega-environment universal and specific QTL associated with seed yield and agronomic traits in soybeans
 Lodging 23-1	Lodging
 Plant height 28-1	Plant Height

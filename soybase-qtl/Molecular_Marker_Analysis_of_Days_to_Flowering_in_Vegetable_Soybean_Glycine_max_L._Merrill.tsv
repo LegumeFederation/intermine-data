@@ -1,7 +1,8 @@
-TaxonID	3847
+TaxonID	3920
 Variety	Williams82
-Parent_1	AGS292
-Parent_2	K3
+MappingPopulation	AGS292_x_K3
+Parent	AGS292
+Parent	K3
 Title	Molecular Marker Analysis of Days to Flowering in Vegetable Soybean (Glycine max (L.) Merrill)
 First flower 13-1	First flower
 First flower 13-10	First flower

@@ -1,7 +1,8 @@
-TaxonID	3847
+TaxonID	3920
 Variety	Williams82
-Parent_1	PI437654
-Parent_2	BSR101
+MappingPopulation	PI437654_x_BSR101
+Parent	PI437654
+Parent	BSR101
 Journal	Theor. Appl. Genet.
 Year	1995
 Volume	91

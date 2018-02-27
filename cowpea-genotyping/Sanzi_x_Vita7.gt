@@ -1,6 +1,11 @@
 TaxonID	3920
-Parents	Sanzi	Vita7
+MappingPopulation	Sanzi_x_Vita7
+Description	In this study, we analyzed the genetics of leaf morphology in a segregating cowpea RIL population, Sanzi (sub-globose) x Vita7 (hastate). A QTL was identified for the “hastate leaf shape” locus, Hls, which was positioned on the cowpea consensus genetic map and cowpea physical map. A candidate gene was identified using syntenic relationships between cowpea, soybean and Medicago. In addition, a SNP marker was found which co-segregated with the leaf morphology genotypes and phenotype, which could be used as a molecular marker for breeding purposes.
+MatrixNotes	A = Parent A, B = Parent B. Lower case: genotype calls reversed based on parental alleles.
+Parent	Sanzi
+Parent	Vita7
 PMID	22691139
+MarkerType	SNP
 Lines	THA-1	THA-10	THA-101	THA-102	THA-104	THA-107	THA-109	THA-11	THA-110	THA-111	THA-113	THA-115	THA-116	THA-117	THA-118	THA-119	THA-12	THA-120	THA-121	THA-122	THA-123	THA-124	THA-125	THA-126	THA-127	THA-128	THA-129	THA-13	THA-130	THA-131	THA-132	THA-133	THA-134	THA-135	THA-137	THA-138	THA-142	THA-143	THA-145	THA-146	THA-147	THA-148	THA-149	THA-15	THA-150	THA-17	THA-18	THA-19	THA-2	THA-20	THA-21	THA-22	THA-23	THA-24	THA-25	THA-26	THA-27	THA-28	THA-3	THA-30	THA-31	THA-32	THA-33	THA-34	THA-35	THA-37	THA-38	THA-39	THA-4	THA-41	THA-43	THA-45	THA-46	THA-47	THA-48	THA-49	THA-50	THA-51	THA-52	THA-53	THA-54	THA-55	THA-56	THA-57	THA-58	THA-59	THA-6	THA-61	THA-62	THA-63	THA-65	THA-66	THA-67	THA-68	THA-69	THA-70	THA-71	THA-72	THA-73	THA-74	THA-75	THA-76	THA-77	THA-78	THA-79	THA-8	THA-80	THA-81	THA-82	THA-85	THA-86	THA-87	THA-89	THA-90	THA-93	THA-94	THA-95	THA-96	THA-97	THA-98	THA-99
 2_30247	B	A	A	B	A	B	B	A	A	A	B	B	A	A	A	B	B	A	B	A	A	B	B	A	B	A	A	B	A	B	A	B	A	A	A	B	A	A	A	A	A	A	B	A	B	A	A	A	A	B	B	A	B	A	B	A	A	B	B	A	A	B	B	B	A	A	A	A	A	A	A	B	A	B	B	A	A	B	A	A	B	A	B	B	A	A	B	A	B	A	A	A	A	B	A	B	A	B	A	A	A	A	A	B	A	A	A	B	A	A	A	B	B	A	A	B	A	A	A	B	B
 2_52445	b	a	a	b	a	b	b	a	a	a	b	b	a	a	a	b	b	a	b	a	a	b	b	a	b	a	a	b	a	b	a	b	a	a	a	b	a	a	a	a	a	a	b	a	b	a	a	a	a	b	b	a	b	a	b	a	a	b	b	a	a	b	b	b	a	a	a	a	a	a	a	b	a	b	b	a	a	b	a	a	b	a	b	b	a	a	b	a	b	a	a	a	a	b	a	b	a	b	a	a	a	a	a	b	a	a	a	b	a	a	a	b	b	a	a	b	a	a	a	b	b

@@ -1,7 +1,4 @@
-taxonId	138955
-variety	Zhijiang282
-alternateVarietyName
-description	Zhijiang 282 is a commercial asparagus bean cultivar in China, which is highly susceptible to powdery mildew.
-patentNumber
-url
-country	China
+TaxonId	138955
+Variety	Zhijiang282
+Description	Zhijiang 282 is a commercial asparagus bean cultivar in China, which is highly susceptible to powdery mildew.
+Country	China

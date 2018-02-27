@@ -1,7 +1,8 @@
-TaxonID	3847
+TaxonID	3920
 Variety	Williams82
-Parent_1	Kefeng No. 1
-Parent_2	NN1138-2
+MappingPopulation	KefengNo.1_x_NN1138-2
+Parent	Kefeng No. 1
+Parent	NN1138-2
 Title	Genetic components and major QTL confer resistance to bean pyralid (Lamprosema indicata Fabricius) under multiple environments in four RIL populations of soybean
 Bean pyralid 1-1	Reaction to Lamprosema indicata
 Bean pyralid 1-2	Reaction to Lamprosema indicata

@@ -1,7 +1,8 @@
-TaxonID	3847
+TaxonID	3920
 Variety	Williams82
-Parent_1	Peking
-Parent_2	Essex
+MappingPopulation	Peking_x_Essex
+Parent	Peking
+Parent	Essex
 Journal	Breeding Science
 Year	1995
 Volume	45

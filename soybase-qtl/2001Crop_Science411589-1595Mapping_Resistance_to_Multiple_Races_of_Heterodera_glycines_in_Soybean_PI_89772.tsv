@@ -1,7 +1,8 @@
-TaxonID	3847
+TaxonID	3920
 Variety	Williams82
-Parent_1	PI89772
-Parent_2	Hamilton
+MappingPopulation	PI89772_x_Hamilton
+Parent	PI89772
+Parent	Hamilton
 Journal	Crop Science
 Year	2001
 Volume	41

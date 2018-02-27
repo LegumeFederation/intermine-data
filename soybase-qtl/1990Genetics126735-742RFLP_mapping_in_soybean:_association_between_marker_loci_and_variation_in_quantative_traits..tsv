@@ -1,7 +1,8 @@
-TaxonID	3847
+TaxonID	3920
 Variety	Williams82
-Parent_1	A81356022
-Parent_2	A81356022
+MappingPopulation	A81356022_x_A81356022
+Parent	A81356022
+Parent	A81356022
 Journal	Genetics
 Year	1990
 Volume	126

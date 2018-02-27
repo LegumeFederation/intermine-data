@@ -1,7 +1,8 @@
-TaxonID	3847
+TaxonID	3920
 Variety	Williams82
-Parent_1	Essex
-Parent_2	Williams
+MappingPopulation	Essex_x_Williams
+Parent	Essex
+Parent	Williams
 Journal	Theoretical and Applied Genetics
 Year	2004
 Volume	109

@@ -1,7 +1,8 @@
-TaxonID	3847
+TaxonID	3920
 Variety	Williams82
-Parent_1	Toyoharuka
-Parent_2	Toyomusume
+MappingPopulation	Toyoharuka_x_Toyomusume
+Parent	Toyoharuka
+Parent	Toyomusume
 Title	Variation of GmIRCHS (Glycine max inverted-repeat CHS pseudogene) is related to tolerance of low temperature-induced seed coat discoloration in yellow soybean
 Seed coat color 2-1	Seed coat color
 Seed coat color 2-2	Seed coat color

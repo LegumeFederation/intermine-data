@@ -1,7 +1,8 @@
-TaxonID	3847
+TaxonID	3920
 Variety	Williams82
-Parent_1	Nasushirome
-Parent_2	Enrei
+MappingPopulation	Nasushirome_x_Enrei
+Parent	Nasushirome
+Parent	Enrei
 Title	QTL Analysis of Seed Coat Cracking in Soybean
 Seed coat cracking 1-1	Seed coat cracking
 Seed coat cracking 1-2	Seed coat cracking

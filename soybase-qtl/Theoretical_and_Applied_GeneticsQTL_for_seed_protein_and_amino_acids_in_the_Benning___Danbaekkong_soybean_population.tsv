@@ -1,7 +1,8 @@
-TaxonID	3847
+TaxonID	3920
 Variety	Williams82
-Parent_1	Benning (PI595645)
-Parent_2	Danbaekkong (PI619083)
+MappingPopulation	Benning(PI595645)_x_Danbaekkong(PI619083)
+Parent	Benning (PI595645)
+Parent	Danbaekkong (PI619083)
 Journal	Theoretical and Applied Genetics
 Title	QTL for seed protein and amino acids in the Benning _ Danbaekkong soybean population
 Seed Cys 4-1	Seed cysteine content

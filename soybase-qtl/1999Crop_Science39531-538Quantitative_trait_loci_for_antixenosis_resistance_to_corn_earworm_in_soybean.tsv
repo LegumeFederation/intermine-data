@@ -1,7 +1,8 @@
-TaxonID	3847
+TaxonID	3920
 Variety	Williams82
-Parent_1	Cobb
-Parent_2	PI171451
+MappingPopulation	Cobb_x_PI171451
+Parent	Cobb
+Parent	PI171451
 Journal	Crop Science
 Year	1999
 Volume	39

@@ -1,7 +1,8 @@
-TaxonID	3847
+TaxonID	3920
 Variety	Williams82
-Parent_1	Essex
-Parent_2	Forrest
+MappingPopulation	Essex_x_Forrest
+Parent	Essex
+Parent	Forrest
 Journal	Plant and Soil
 Year	2004
 Volume	260

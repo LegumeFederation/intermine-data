@@ -1,7 +1,8 @@
-TaxonID	3847
+TaxonID	3920
 Variety	Williams82
-Parent_1	Noir 1
-Parent_2	Minsoy
+MappingPopulation	Noir1_x_Minsoy
+Parent	Noir 1
+Parent	Minsoy
 Journal	Crop Science
 Year	1996
 Volume	36

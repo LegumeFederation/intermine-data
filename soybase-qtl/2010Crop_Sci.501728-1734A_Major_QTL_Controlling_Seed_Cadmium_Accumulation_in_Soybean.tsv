@@ -1,7 +1,8 @@
-TaxonID	3847
+TaxonID	3920
 Variety	Williams82
-Parent_1	Harosoy
-Parent_2	Fukuyutaka
+MappingPopulation	Harosoy_x_Fukuyutaka
+Parent	Harosoy
+Parent	Fukuyutaka
 Journal	Crop Sci.
 Year	2010
 Volume	50

@@ -1,7 +1,8 @@
-TaxonID	3847
+TaxonID	3920
 Variety	Williams82
-Parent_1	Zhongdou 27
-Parent_2	Jiunong 20
+MappingPopulation	Zhongdou27_x_Jiunong20
+Parent	Zhongdou 27
+Parent	Jiunong 20
 Title	Identification of QTL underlying isoflavone contents in soybean seeds among multiple environments
 Seed daidzein 3-1	Seed daidzein content
 Seed daidzein 3-2	Seed daidzein content

@@ -1,7 +1,8 @@
-TaxonID	3847
+TaxonID	3920
 Variety	Williams82
-Parent_1	OX20-8
-Parent_2	PI 398841
+MappingPopulation	OX20-8_x_PI398841
+Parent	OX20-8
+Parent	PI 398841
 Title	Novel quantitative trait loci for partial resistance to Phytophthora sojae in soybean PI 398841
 Phytoph 14-1	Reaction to Phytophthora sojae infection
 Phytoph 14-10	Reaction to Phytophthora sojae infection

@@ -1,7 +1,8 @@
-TaxonID	3847
+TaxonID	3920
 Variety	Williams82
-Parent_1	Bell
-Parent_2	Colfax
+MappingPopulation	Bell_x_Colfax
+Parent	Bell
+Parent	Colfax
 Journal	Crop Science
 Year	2004
 Volume	44

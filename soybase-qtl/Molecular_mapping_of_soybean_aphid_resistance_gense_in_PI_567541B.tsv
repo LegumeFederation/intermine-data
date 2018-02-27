@@ -1,7 +1,8 @@
-TaxonID	3847
+TaxonID	3920
 Variety	Williams82
-Parent_1	PI 567541B
-Parent_2	Skylla
+MappingPopulation	PI567541B_x_Skylla
+Parent	PI 567541B
+Parent	Skylla
 Title	Molecular mapping of soybean aphid resistance gense in PI 567541B
 Rag 3-1	Reaction to Aphis glycines
 Rag 3-2	Reaction to Aphis glycines

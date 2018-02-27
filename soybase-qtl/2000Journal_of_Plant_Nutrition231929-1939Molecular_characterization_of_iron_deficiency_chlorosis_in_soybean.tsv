@@ -1,7 +1,8 @@
-TaxonID	3847
+TaxonID	3920
 Variety	Williams82
-Parent_1	Pride
-Parent_2	A15
+MappingPopulation	Pride_x_A15
+Parent	Pride
+Parent	A15
 Journal	Journal of Plant Nutrition
 Year	2000
 Volume	23

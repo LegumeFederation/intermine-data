@@ -1,7 +1,8 @@
-TaxonID	3847
+TaxonID	3920
 Variety	Williams82
-Parent_1	Conrad
-Parent_2	OX760-6-1
+MappingPopulation	Conrad_x_OX760-6-1
+Parent	Conrad
+Parent	OX760-6-1
 Title	Mapping QTL tolerance to Phytophthora root rot in soybean using microsatellite and RAPD/SCAR derived markers
 Phytoph 10-1	Reaction to Phytophthora sojae infection
 Phytoph 10-2	Reaction to Phytophthora sojae infection

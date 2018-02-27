@@ -1,7 +1,8 @@
-TaxonID	3847
+TaxonID	3920
 Variety	Williams82
-Parent_1	A5403
-Parent_2	Archer
+MappingPopulation	A5403_x_Archer
+Parent	A5403
+Parent	Archer
 Title	Identification of QTLs underlying water-logging tolerance in soybean
 Flood tolerance 3-1	Flooding Tolerance
 Flood tolerance 3-2	Flooding Tolerance

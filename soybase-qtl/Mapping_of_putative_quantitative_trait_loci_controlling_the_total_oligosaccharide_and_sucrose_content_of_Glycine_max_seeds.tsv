@@ -1,7 +1,8 @@
-TaxonID	3847
+TaxonID	3920
 Variety	Williams82
-Parent_1	Keunolkong
-Parent_2	Shinpaldalkong
+MappingPopulation	Keunolkong_x_Shinpaldalkong
+Parent	Keunolkong
+Parent	Shinpaldalkong
 Title	Mapping of putative quantitative trait loci controlling the total oligosaccharide and sucrose content of Glycine max seeds
 Seed oligosaccharide 2-1	Seed soluble oligosaccharides
 Seed oligosaccharide 2-2	Seed soluble oligosaccharides

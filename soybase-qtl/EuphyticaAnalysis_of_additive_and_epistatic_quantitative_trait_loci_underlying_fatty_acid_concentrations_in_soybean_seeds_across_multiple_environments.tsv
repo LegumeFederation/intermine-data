@@ -1,7 +1,8 @@
-TaxonID	3847
+TaxonID	3920
 Variety	Williams82
-Parent_1	Luheidou2
-Parent_2	Nanhuizao
+MappingPopulation	Luheidou2_x_Nanhuizao
+Parent	Luheidou2
+Parent	Nanhuizao
 Journal	Euphytica
 Title	Analysis of additive and epistatic quantitative trait loci underlying fatty acid concentrations in soybean seeds across multiple environments
 Seed linoleic 10-1	Seed linoleic acid content

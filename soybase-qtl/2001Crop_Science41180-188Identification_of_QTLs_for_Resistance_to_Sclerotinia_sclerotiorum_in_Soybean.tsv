@@ -1,7 +1,8 @@
-TaxonID	3847
+TaxonID	3920
 Variety	Williams82
-Parent_1	Corsoy79
-Parent_2	Williams82
+MappingPopulation	Corsoy79_x_Williams82
+Parent	Corsoy79
+Parent	Williams82
 Journal	Crop Science
 Year	2001
 Volume	41

@@ -1,7 +1,8 @@
-TaxonID	3847
+TaxonID	3920
 Variety	Williams82
-Parent_1	Charleston
-Parent_2	Dongnong
+MappingPopulation	Charleston_x_Dongnong
+Parent	Charleston
+Parent	Dongnong
 Title	Soybean oil content QTL mapping and integrating with meta-analysis method for mining genes
 Seed oil 24-1	Seed oil content
 Seed oil 24-10	Seed oil content

@@ -1,7 +1,8 @@
-TaxonID	3847
+TaxonID	3920
 Variety	Williams82
-Parent_1	Hartwig
-Parent_2	Y23
+MappingPopulation	Hartwig_x_Y23
+Parent	Hartwig
+Parent	Y23
 Title	QTL for resistance to soybean cyst nematode races 3, 9, and 14 in cultivar Hartwig
 SCN 40-1	Reaction to Heterodera glycines
 SCN 40-2	Reaction to Heterodera glycines

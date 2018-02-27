@@ -1,7 +1,8 @@
-TaxonID	3847
+TaxonID	3920
 Variety	Williams82
-Parent_1	Jindou 23
-Parent_2	Huibuzhi
+MappingPopulation	Jindou23_x_Huibuzhi
+Parent	Jindou 23
+Parent	Huibuzhi
 Title	QTL Mapping of Isoflavone, Oil and Protein Contents in Soybean (Glycine max L. Merr.)
 Seed isoflavone 4-1	Seed isoflavone content
 Seed isoflavone 4-2	Seed isoflavone content

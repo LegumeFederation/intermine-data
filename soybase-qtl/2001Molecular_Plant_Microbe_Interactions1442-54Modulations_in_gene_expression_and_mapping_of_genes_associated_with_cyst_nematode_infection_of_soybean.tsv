@@ -1,7 +1,8 @@
-TaxonID	3847
+TaxonID	3920
 Variety	Williams82
-Parent_1	PI88287
-Parent_2	PI89008
+MappingPopulation	PI88287_x_PI89008
+Parent	PI88287
+Parent	PI89008
 Journal	Molecular Plant Microbe Interactions
 Year	2001
 Volume	14

@@ -1,7 +1,8 @@
-TaxonID	3847
+TaxonID	3920
 Variety	Williams82
-Parent_1	S99-2281
-Parent_2	PI 408105A
+MappingPopulation	S99-2281_x_PI408105A
+Parent	S99-2281
+Parent	PI 408105A
 Title	Mapping of quantitative trait loci associated with resistance to Phytophthora sojae and flooding tolerance in soybean
 Flooding yield index 1-1	Flooding yield index
 Flooding yield index 1-2	Flooding yield index

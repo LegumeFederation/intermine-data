@@ -1,7 +1,8 @@
-TaxonID	3847
+TaxonID	3920
 Variety	Williams82
-Parent_1	Sakamotowase
-Parent_2	Harosoy-e3
+MappingPopulation	Sakamotowase_x_Harosoy-e3
+Parent	Sakamotowase
+Parent	Harosoy-e3
 Title	QTL Mapping for Photoperiod Insensitivity of a Japanese Soybean Landrace Sakamotowase
 Photoperiod insensitivity 3-1	Photoperiod sensitivity
 Photoperiod insensitivity 3-2	Photoperiod sensitivity

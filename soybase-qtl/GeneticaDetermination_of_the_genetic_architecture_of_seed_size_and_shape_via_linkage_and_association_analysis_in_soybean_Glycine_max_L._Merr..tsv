@@ -1,7 +1,8 @@
-TaxonID	3847
+TaxonID	3920
 Variety	Williams82
-Parent_1	Kenjian4
-Parent_2	Fengshou24
+MappingPopulation	Kenjian4_x_Fengshou24
+Parent	Kenjian4
+Parent	Fengshou24
 Journal	Genetica
 Title	Determination of the genetic architecture of seed size and shape via linkage and association analysis in soybean (Glycine max L. Merr.)
 Leaflet chlorophyll 2-1	Leaflet chlorophyll content

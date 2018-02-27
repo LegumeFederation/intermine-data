@@ -1,7 +1,8 @@
-TaxonID	3847
+TaxonID	3920
 Variety	Williams82
-Parent_1	Young
-Parent_2	PI416937
+MappingPopulation	Young_x_PI416937
+Parent	Young
+Parent	PI416937
 Journal	Crop Science
 Year	1998
 Volume	38

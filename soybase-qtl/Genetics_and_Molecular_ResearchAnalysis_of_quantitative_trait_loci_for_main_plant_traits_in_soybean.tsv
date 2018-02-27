@@ -1,7 +1,8 @@
-TaxonID	3847
+TaxonID	3920
 Variety	Williams82
-Parent_1	Jiyu 50
-Parent_2	Jinong 18
+MappingPopulation	Jiyu50_x_Jinong18
+Parent	Jiyu 50
+Parent	Jinong 18
 Journal	Genetics and Molecular Research
 Title	Analysis of quantitative trait loci for main plant traits in soybean
 Branching 4-1	Branching

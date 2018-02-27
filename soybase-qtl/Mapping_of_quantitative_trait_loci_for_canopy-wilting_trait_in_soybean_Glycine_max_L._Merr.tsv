@@ -1,7 +1,8 @@
-TaxonID	3847
+TaxonID	3920
 Variety	Williams82
-Parent_1	Benning
-Parent_2	PI416937
+MappingPopulation	Benning_x_PI416937
+Parent	Benning
+Parent	PI416937
 Title	Mapping of quantitative trait loci for canopy-wilting trait in soybean (Glycine max L. Merr)
 Canopy wilt 2-1	Canopy wilt
 Canopy wilt 2-2	Canopy wilt

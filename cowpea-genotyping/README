@@ -1,4 +1,20 @@
 The files in this directory contain genotyping data: matrices of mapping lines (columns) and markers (rows).
 
-The file name contains metadata and is of the form: ParentA_x_ParentB_taxonID.gt
+The header contains information about the experiment, for example:
 
+TaxonID 3920
+MappingPopulation	CB27_x_IT82E-18
+Parent	CB27
+Parent	IT82E-18
+PMID	24659904
+Lines   CB27/BB-001     CB27/BB-003     CB27/BB-004     CB27/BB-005     CB27/BB-007     CB27/BB-008     CB27/BB-009     CB27/BB-010     CB27/BB-012     CB27/BB-013     CB27/BB-014     CB27/BB-015     CB27/BB-016     CB27/BB-017     CB27/BB-018     CB27/BB-019     CB27/BB-020     CB27/BB-021     CB27/BB-022     CB27/BB-024     CB27/BB-025     CB27/BB-026     CB27/BB-029     CB27/BB-030     CB27/BB-031     CB27/BB-032     CB27/BB-033     CB27/BB-034     CB27/BB-035     CB27/BB-036     CB27/BB-037     CB27/BB-038     CB27/BB-040     CB27/BB-041     CB27/BB-042     CB27/BB-044     CB27/BB-046     CB27/BB-047     CB27/BB-048     CB27/BB-050     CB27/BB-051     CB27/BB-052     CB27/BB-053     CB27/BB-054     CB27/BB-055     CB27/BB-057
+     CB27/BB-058     CB27/BB-060     CB27/BB-062     CB27/BB-063     CB27/BB-064     CB27/BB-065a    CB27/BB-066     CB27/BB-067     CB27/BB-068     CB27/BB-072     CB27/BB-073     CB27/BB-074     CB27/BB-075     CB27/BB-076     CB27/BB-078     CB27/BB-079     CB27/BB-080     CB27/BB-081     CB27/BB-082     CB27/BB-083     CB27/BB-085     CB27/BB-087     CB27/BB-088
+     CB27/BB-088-2   CB27/BB-090F8   CB27/BB-091(b)  CB27/BB-091a    CB27/BB-092     CB27/BB-093     CB27/BB-096     CB27/BB-097     CB27/BB-098     CB27/BB-100     CB27/BB-101     CB27/BB-103     CB27/BB-104     CB27/BB-105     CB27/BB-106     CB27/BB-107     CB27/BB-108     CB27/BB-109     CB27/BB-110     CB27/BB-111F9   CB27/BB-112     CB27/BB-113F9   CB27/BB-114
+     CB27/BB-115F9   CB27/BB-150
+
+The rows contain the marker ID followed by the genotypes, for example:
+
+2_15811 A       A       B       A       A       B       A       B       B       A       A       B       B       A       A       B       A       A       A       B       A       A       A       B       A       B       B       B       B       A       B       B       B       B       B       B       A       A       A       A       A       A       A       B       B       B
+       A       A       A       B       A       B       B       A       B       B       B       B       A       B       A       A       A       B       B       A       A       A       A
+       A       A       B       B       B       A       A       A       A       A       A       A       B       A       B       B       B       B       A       B       B       B       B
+       B       B

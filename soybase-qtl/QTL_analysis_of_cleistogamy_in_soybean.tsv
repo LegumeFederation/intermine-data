@@ -1,7 +1,8 @@
-TaxonID	3847
+TaxonID	3920
 Variety	Williams82
-Parent_1	Karafuto-1
-Parent_2	Toyosuzu
+MappingPopulation	Karafuto-1_x_Toyosuzu
+Parent	Karafuto-1
+Parent	Toyosuzu
 Title	QTL analysis of cleistogamy in soybean
 First flower 16-1	First flower
 First flower 16-2	First flower

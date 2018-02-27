@@ -1,7 +1,8 @@
-TaxonID	3847
+TaxonID	3920
 Variety	Williams82
-Parent_1	S08-80
-Parent_2	PI 464925B
+MappingPopulation	S08-80_x_PI464925B
+Parent	S08-80
+Parent	PI 464925B
 Title	QTL associated with horizontal resistance to soybean cyst nematode in Glycine soja PI464925B
 SCN 34-1	Reaction to Heterodera glycines
 SCN 34-2	Reaction to Heterodera glycines

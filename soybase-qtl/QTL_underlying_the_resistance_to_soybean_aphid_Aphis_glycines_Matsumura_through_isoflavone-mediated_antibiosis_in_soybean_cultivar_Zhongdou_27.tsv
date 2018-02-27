@@ -1,7 +1,8 @@
-TaxonID	3847
+TaxonID	3920
 Variety	Williams82
-Parent_1	Zhongdou 27
-Parent_2	Jiunong 20
+MappingPopulation	Zhongdou27_x_Jiunong20
+Parent	Zhongdou 27
+Parent	Jiunong 20
 Title	QTL underlying the resistance to soybean aphid (Aphis glycines Matsumura) through isoflavone-mediated antibiosis in soybean cultivar 'Zhongdou 27'
 Rag 2-1	Reaction to Aphis glycines
 Rag 2-2	Reaction to Aphis glycines

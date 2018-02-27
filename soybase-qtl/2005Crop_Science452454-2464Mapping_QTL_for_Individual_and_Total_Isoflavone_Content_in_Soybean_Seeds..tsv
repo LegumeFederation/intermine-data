@@ -1,7 +1,8 @@
-TaxonID	3847
+TaxonID	3920
 Variety	Williams82
-Parent_1	AC756
-Parent_2	RCAT Angora
+MappingPopulation	AC756_x_RCATAngora
+Parent	AC756
+Parent	RCAT Angora
 Journal	Crop Science
 Year	2005
 Volume	45

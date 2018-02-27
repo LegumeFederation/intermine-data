@@ -1,7 +1,8 @@
-TaxonID	3847
+TaxonID	3920
 Variety	Williams82
-Parent_1	Anoka
-Parent_2	A7
+MappingPopulation	Anoka_x_A7
+Parent	Anoka
+Parent	A7
 Journal	Journal of Plant Nutrition
 Year	2000
 Volume	23

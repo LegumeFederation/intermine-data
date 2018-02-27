@@ -1,7 +1,8 @@
-TaxonID	3847
+TaxonID	3920
 Variety	Williams82
-Parent_1	Jidou 12
-Parent_2	ZYD2738
+MappingPopulation	Jidou12_x_ZYD2738
+Parent	Jidou 12
+Parent	ZYD2738
 Journal	Plant Breeding
 Title	Identification and validation of an over-dominant QTL controlling soybean weight using populations derived from Glycine max x Glycine soja
 Seed weight 44-1	Seed weight per plant

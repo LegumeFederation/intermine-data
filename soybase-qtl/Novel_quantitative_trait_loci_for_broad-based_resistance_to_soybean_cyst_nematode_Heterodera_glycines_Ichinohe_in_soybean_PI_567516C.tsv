@@ -1,7 +1,8 @@
-TaxonID	3847
+TaxonID	3920
 Variety	Williams82
-Parent_1	Magellan
-Parent_2	PI 567516C
+MappingPopulation	Magellan_x_PI567516C
+Parent	Magellan
+Parent	PI 567516C
 Title	Novel quantitative trait loci for broad-based resistance to soybean cyst nematode (Heterodera glycines Ichinohe) in soybean PI 567516C
 SCN 37-1	Reaction to Heterodera glycines
 SCN 37-2	Reaction to Heterodera glycines

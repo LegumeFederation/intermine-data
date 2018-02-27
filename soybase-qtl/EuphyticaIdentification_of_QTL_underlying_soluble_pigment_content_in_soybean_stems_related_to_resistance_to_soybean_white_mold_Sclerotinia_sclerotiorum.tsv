@@ -1,7 +1,8 @@
-TaxonID	3847
+TaxonID	3920
 Variety	Williams82
-Parent_1	Hefeng 25
-Parent_2	Maple Arrow
+MappingPopulation	Hefeng25_x_MapleArrow
+Parent	Hefeng 25
+Parent	Maple Arrow
 Journal	Euphytica
 Title	Identification of QTL underlying soluble pigment content in soybean stems related to resistance to soybean white mold (Sclerotinia sclerotiorum)
 First flower 27-1	First flower

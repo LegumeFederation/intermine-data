@@ -1,7 +1,8 @@
-TaxonID	3847
+TaxonID	3920
 Variety	Williams82
-Parent_1	KS4303sp
-Parent_2	PI 407818 B
+MappingPopulation	KS4303sp_x_PI407818B
+Parent	KS4303sp
+Parent	PI 407818 B
 Journal	Crop Science
 Title	Identification and Confirmation of Quantitative Trait Loci Associated with Soybean Seed Hardness
 Seed hardness 2-1	Seed hardness

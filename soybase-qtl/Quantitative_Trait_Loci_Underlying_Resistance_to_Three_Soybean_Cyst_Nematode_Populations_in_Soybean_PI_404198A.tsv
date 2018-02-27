@@ -1,7 +1,8 @@
-TaxonID	3847
+TaxonID	3920
 Variety	Williams82
-Parent_1	Magellan
-Parent_2	PI 404198A
+MappingPopulation	Magellan_x_PI404198A
+Parent	Magellan
+Parent	PI 404198A
 Title	Quantitative Trait Loci Underlying Resistance to Three Soybean Cyst Nematode Populations in Soybean PI 404198A
 SCN 33-1	Reaction to Heterodera glycines
 SCN 33-2	Reaction to Heterodera glycines

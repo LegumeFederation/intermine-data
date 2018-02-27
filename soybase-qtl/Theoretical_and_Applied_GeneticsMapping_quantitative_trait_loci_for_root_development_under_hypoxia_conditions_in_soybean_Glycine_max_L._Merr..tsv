@@ -1,7 +1,8 @@
-TaxonID	3847
+TaxonID	3920
 Variety	Williams82
-Parent_1	Iyodaizu
-Parent_2	Tachinagaha
+MappingPopulation	Iyodaizu_x_Tachinagaha
+Parent	Iyodaizu
+Parent	Tachinagaha
 Journal	Theoretical and Applied Genetics
 Title	Mapping quantitative trait loci for root development under hypoxia conditions in soybean (Glycine max L. Merr.)
 Root area 2-1	Root Morphology

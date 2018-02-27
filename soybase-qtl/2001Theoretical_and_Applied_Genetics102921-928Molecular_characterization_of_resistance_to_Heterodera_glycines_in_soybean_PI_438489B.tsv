@@ -1,7 +1,8 @@
-TaxonID	3847
+TaxonID	3920
 Variety	Williams82
-Parent_1	PI438489B
-Parent_2	Hamilton
+MappingPopulation	PI438489B_x_Hamilton
+Parent	PI438489B
+Parent	Hamilton
 Journal	Theoretical and Applied Genetics
 Year	2001
 Volume	102

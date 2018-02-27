@@ -1,7 +1,8 @@
-TaxonID	3847
+TaxonID	3920
 Variety	Williams82
-Parent_1	Peking
-Parent_2	Tamahomare
+MappingPopulation	Peking_x_Tamahomare
+Parent	Peking
+Parent	Tamahomare
 Title	Transgressive segregation of isoflavone contents under the control of four QTLs in a cross between distantly related soybean varieties
 Seed daidzein 8-1	Seed daidzein content
 Seed daidzein 8-2	Seed daidzein content

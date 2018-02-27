@@ -1,7 +1,8 @@
-TaxonID	3847
+TaxonID	3920
 Variety	Williams82
-Parent_1	PI200538
-Parent_2	CNS
+MappingPopulation	PI200538_x_CNS
+Parent	PI200538
+Parent	CNS
 Journal	Theoretical and Applied Genetics
 Year	1997
 Volume	95

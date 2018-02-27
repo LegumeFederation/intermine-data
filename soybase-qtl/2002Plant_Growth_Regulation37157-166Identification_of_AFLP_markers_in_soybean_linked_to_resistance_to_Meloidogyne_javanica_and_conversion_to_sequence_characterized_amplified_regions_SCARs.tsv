@@ -1,7 +1,8 @@
-TaxonID	3847
+TaxonID	3920
 Variety	Williams82
-Parent_1	Gazelle
-Parent_2	Prima
+MappingPopulation	Gazelle_x_Prima
+Parent	Gazelle
+Parent	Prima
 Journal	Plant Growth Regulation
 Year	2002
 Volume	37

@@ -1,6 +1,7 @@
-TaxonID	3847
+TaxonID	3920
 Variety	Williams82
-Parent_1	Wilis
-Parent_2	Toyokomachi
+MappingPopulation	Wilis_x_Toyokomachi
+Parent	Wilis
+Parent	Toyokomachi
 Title	QTL analysis for resistance to Soybean dwarf virus in Indonesian soybean cultivar Wilis
 Indo soy dwarf virus 1-1	Reaction to Indonesian Soybean Dwarf Virus Infection (ISDV)

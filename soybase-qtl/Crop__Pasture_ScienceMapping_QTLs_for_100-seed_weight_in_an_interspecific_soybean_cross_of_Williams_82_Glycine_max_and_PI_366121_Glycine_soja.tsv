@@ -1,7 +1,8 @@
-TaxonID	3847
+TaxonID	3920
 Variety	Williams82
-Parent_1	Wiliams 82
-Parent_2	PI 366121
+MappingPopulation	Wiliams82_x_PI366121
+Parent	Wiliams 82
+Parent	PI 366121
 Journal	Crop & Pasture Science
 Title	Mapping QTLs for 100-seed weight in an interspecific soybean cross of Williams 82 (Glycine max) and PI 366121 (Glycine soja)
 Seed weight 52-1	Seed weight per plant

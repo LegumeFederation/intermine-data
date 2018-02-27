@@ -1,7 +1,8 @@
-TaxonID	3847
+TaxonID	3920
 Variety	Williams82
-Parent_1	Essex
-Parent_2	PI437654
+MappingPopulation	Essex_x_PI437654
+Parent	Essex
+Parent	PI437654
 Title	Genetic control of soybean seed isoflavone content: importance of statistical model and epistasis in complex traits
 Seed daidzein 7-1	Seed daidzein content
 Seed daidzein 7-2	Seed daidzein content

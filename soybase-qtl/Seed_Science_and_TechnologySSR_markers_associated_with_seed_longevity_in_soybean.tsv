@@ -1,7 +1,8 @@
-TaxonID	3847
+TaxonID	3920
 Variety	Williams82
-Parent_1	Birsa soya-1
-Parent_2	JS 71-05
+MappingPopulation	Birsasoya-1_x_JS71-05
+Parent	Birsa soya-1
+Parent	JS 71-05
 Journal	Seed Science and Technology
 Title	SSR markers associated with seed longevity in soybean
 Seed viability 1-1	Seed viability

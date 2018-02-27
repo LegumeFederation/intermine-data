@@ -1,7 +1,8 @@
-TaxonID	3847
+TaxonID	3920
 Variety	Williams82
-Parent_1	
-Parent_2	
+MappingPopulation	_x_
+Parent	
+Parent	
 Journal	Euphytica
 Title	An Integrated Quantitative Trait Locus Map of Oil Content in Soybean, Glycine max (L.) Merr., Generated Using a Meta-Analysis Method for Mining Genes
 mqSeed Oil-001	Seed oil content

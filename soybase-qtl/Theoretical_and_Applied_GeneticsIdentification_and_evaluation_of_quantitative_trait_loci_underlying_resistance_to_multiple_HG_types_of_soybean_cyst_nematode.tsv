@@ -1,7 +1,8 @@
-TaxonID	3847
+TaxonID	3920
 Variety	Williams82
-Parent_1	Hutcheson
-Parent_2	PI 437655
+MappingPopulation	Hutcheson_x_PI437655
+Parent	Hutcheson
+Parent	PI 437655
 Journal	Theoretical and Applied Genetics
 Title	Identification and evaluation of quantitative trait loci underlying resistance to multiple HG types of soybean cyst nematode
 SCN 43-1	Reaction to Heterodera glycines

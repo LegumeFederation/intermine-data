@@ -1,7 +1,8 @@
-TaxonID	3847
+TaxonID	3920
 Variety	Williams82
-Parent_1	CNS
-Parent_2	PI230977
+MappingPopulation	CNS_x_PI230977
+Parent	CNS
+Parent	PI230977
 Journal	Crop Science
 Year	1997
 Volume	37

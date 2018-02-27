@@ -1,6 +1,7 @@
-TaxonID	3847
+TaxonID	3920
 Variety	Williams82
-Parent_1	Anoka
-Parent_2	A7
+MappingPopulation	Anoka_x_A7
+Parent	Anoka
+Parent	A7
 Title	Identification of candidate genes underlying an iron efficiency quantitative trait locus in soybean
 Fe effic 14-1	Iron Efficiency

@@ -1,7 +1,8 @@
-TaxonID	3847
+TaxonID	3920
 Variety	Williams82
-Parent_1	
-Parent_2	
+MappingPopulation	_x_
+Parent	
+Parent	
 Journal	Molecular Breeding
 Title	Identification of new QTLs for seed mineral, cysteine, and methionine concentrations in soybean
 Seed cadmium 2-1	Seed cadmium concentration

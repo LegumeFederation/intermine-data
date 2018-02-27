@@ -1,7 +1,8 @@
-TaxonID	3847
+TaxonID	3920
 Variety	Williams82
-Parent_1	Misuzudaizu
-Parent_2	Moshidou Gong 503 (MG503)
+MappingPopulation	Misuzudaizu_x_MoshidouGong503(MG503)
+Parent	Misuzudaizu
+Parent	Moshidou Gong 503 (MG503)
 Title	QTL analysis of flooding tolerance in soybean at an early vegetative growth stage
 Flood tolerance 4-1	Flooding Tolerance
 Flood tolerance 4-10	Flooding Tolerance

@@ -1,7 +1,8 @@
-TaxonID	3847
+TaxonID	3920
 Variety	Williams82
-Parent_1	OAC Bayfield
-Parent_2	Hefeng 25
+MappingPopulation	OACBayfield_x_Hefeng25
+Parent	OAC Bayfield
+Parent	Hefeng 25
 Title	Identification of QTL underlying vitamin E contents in soybean seed among multiple environments
 Seed tocopherol, alpha 1-1	Seed alpha-tocopherol content
 Seed tocopherol, alpha 1-2	Seed alpha-tocopherol content

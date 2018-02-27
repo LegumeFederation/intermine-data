@@ -1,7 +1,8 @@
-TaxonID	3847
+TaxonID	3920
 Variety	Williams82
-Parent_1	TK780
-Parent_2	Hidaka 4
+MappingPopulation	TK780_x_Hidaka4
+Parent	TK780
+Parent	Hidaka 4
 Title	Genetic relationship between lipid content and linolenic acid concentration in soybean seeds
 Seed linolenic 9-1	Seed linolenic acid content
 Seed linolenic 9-2	Seed linolenic acid content

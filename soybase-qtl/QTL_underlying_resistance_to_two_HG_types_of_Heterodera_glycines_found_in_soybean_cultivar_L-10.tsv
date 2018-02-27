@@ -1,7 +1,8 @@
-TaxonID	3847
+TaxonID	3920
 Variety	Williams82
-Parent_1	L-10
-Parent_2	Heinong 37
+MappingPopulation	L-10_x_Heinong37
+Parent	L-10
+Parent	Heinong 37
 Title	QTL underlying resistance to two HG types of Heterodera glycines found in soybean cultivar 'L-10'
 SCN 38-1	Reaction to Heterodera glycines
 SCN 38-2	Reaction to Heterodera glycines

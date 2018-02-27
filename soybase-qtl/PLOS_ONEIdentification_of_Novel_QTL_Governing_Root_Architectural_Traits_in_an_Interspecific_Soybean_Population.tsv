@@ -1,7 +1,8 @@
-TaxonID	3847
+TaxonID	3920
 Variety	Williams82
-Parent_1	Dunbar (PI 552538)
-Parent_2	G. soja (PI 326582A)
+MappingPopulation	Dunbar(PI552538)_x_G.soja(PI326582A)
+Parent	Dunbar (PI 552538)
+Parent	G. soja (PI 326582A)
 Journal	PLOS ONE
 Title	Identification of Novel QTL Governing Root Architectural Traits in an Interspecific Soybean Population
 Root density, lateral 3-1	Lateral root number

@@ -1,7 +1,8 @@
-TaxonID	3847
+TaxonID	3920
 Variety	Williams82
-Parent_1	Hartwig
-Parent_2	BR92-31983
+MappingPopulation	Hartwig_x_BR92-31983
+Parent	Hartwig
+Parent	BR92-31983
 Journal	Theoretical and Applied Genetics
 Year	2001
 Volume	102

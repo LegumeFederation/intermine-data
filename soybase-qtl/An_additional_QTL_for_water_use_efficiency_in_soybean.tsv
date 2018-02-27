@@ -1,7 +1,8 @@
-TaxonID	3847
+TaxonID	3920
 Variety	Williams82
-Parent_1	S100
-Parent_2	Tokyo
+MappingPopulation	S100_x_Tokyo
+Parent	S100
+Parent	Tokyo
 Title	An additional QTL for water use efficiency in soybean
 WUE 2-1	Water Use Efficiency
 WUE 2-2	Water Use Efficiency

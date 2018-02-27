@@ -1,7 +1,8 @@
-TaxonID	3847
+TaxonID	3920
 Variety	Williams82
-Parent_1	PI97100
-Parent_2	Coker237
+MappingPopulation	PI97100_x_Coker237
+Parent	PI97100
+Parent	Coker237
 Journal	Theoretical and Applied Genetics
 Year	1996
 Volume	92

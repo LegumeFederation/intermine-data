@@ -1,7 +1,8 @@
-TaxonID	3847
+TaxonID	3920
 Variety	Williams82
-Parent_1	N87-984-16
-Parent_2	TN93-99
+MappingPopulation	N87-984-16_x_TN93-99
+Parent	N87-984-16
+Parent	TN93-99
 Title	Genomic regions associated with amino acid composition in soybean
 Seed Ala 1-1	Seed alanine content
 Seed Ala 1-2	Seed alanine content

@@ -1,7 +1,8 @@
-TaxonID	3847
+TaxonID	3920
 Variety	Williams82
-Parent_1	BD2
-Parent_2	BX10
+MappingPopulation	BD2_x_BX10
+Parent	BD2
+Parent	BX10
 Title	QTL analysis of root traits as related to phosphorus efficiency in soybean
 Plant P 1-1	Phosphorus content
 Plant P 1-2	Phosphorus content

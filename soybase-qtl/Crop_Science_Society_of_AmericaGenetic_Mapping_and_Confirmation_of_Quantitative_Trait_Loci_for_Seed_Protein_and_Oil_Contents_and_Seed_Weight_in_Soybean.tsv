@@ -1,7 +1,8 @@
-TaxonID	3847
+TaxonID	3920
 Variety	Williams82
-Parent_1	Magellan
-Parent_2	Pi 438489B
+MappingPopulation	Magellan_x_Pi438489B
+Parent	Magellan
+Parent	Pi 438489B
 Journal	Crop Science Society of America
 Title	Genetic Mapping and Confirmation of Quantitative Trait Loci for Seed Protein and Oil Contents and Seed Weight in Soybean
 cqSeed oil-005	Seed oil content

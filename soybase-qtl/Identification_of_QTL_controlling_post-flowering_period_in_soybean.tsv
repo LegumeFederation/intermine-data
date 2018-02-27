@@ -1,7 +1,8 @@
-TaxonID	3847
+TaxonID	3920
 Variety	Williams82
-Parent_1	Ippon-Sangoh
-Parent_2	Fukuyutaka
+MappingPopulation	Ippon-Sangoh_x_Fukuyutaka
+Parent	Ippon-Sangoh
+Parent	Fukuyutaka
 Title	Identification of QTL controlling post-flowering period in soybean
 Reproductive stage length 8-1	Reproductive stage length
 Reproductive stage length 8-2	Reproductive stage length

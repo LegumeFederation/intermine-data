@@ -1,7 +1,8 @@
-TaxonID	3847
+TaxonID	3920
 Variety	Williams82
-Parent_1	Toyomusume
-Parent_2	Harosoy
+MappingPopulation	Toyomusume_x_Harosoy
+Parent	Toyomusume
+Parent	Harosoy
 Title	A major QTL, qPDH1, is commonly involved in shattering resistance of soybean cultivars
 Pod dehiscence 4-1	Shattering
 Pod dehiscence 4-2	Shattering
