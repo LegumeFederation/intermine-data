@@ -6,32 +6,32 @@ id: CO_340:ROOT
 name: Cowpea
 
 [Term]
-id: CO_340:Quality traits
+id: CO_340:Quality%20traits
 name: Quality traits
 is_a: CO_340:ROOT
 
 [Term]
-id: CO_340:Phenological traits
+id: CO_340:Phenological%20traits
 name: Phenological traits
 is_a: CO_340:ROOT
 
 [Term]
-id: CO_340:Morphological traits
+id: CO_340:Morphological%20traits
 name: Morphological traits
 is_a: CO_340:ROOT
 
 [Term]
-id: CO_340:Biotic stress traits
+id: CO_340:Biotic%20stress%20traits
 name: Biotic stress traits
 is_a: CO_340:ROOT
 
 [Term]
-id: CO_340:Agronomical traits
+id: CO_340:Agronomical%20traits
 name: Agronomical traits
 is_a: CO_340:ROOT
 
 [Term]
-id: CO_340:Abiotic stress traits
+id: CO_340:Abiotic%20stress%20traits
 name: Abiotic stress traits
 is_a: CO_340:ROOT
 
@@ -41,7 +41,7 @@ name: Floral abscision
 namespace: CowpeaTrait
 def: "Floral abscision" []
 synonym: "DTFLWRAB" EXACT []
-is_a: CO_340:Abiotic stress traits
+is_a: CO_340:Abiotic%20stress%20traits
 
 [Term]
 id: CO_340:0006644
@@ -49,7 +49,7 @@ name: Biomass at Maturity
 namespace: CowpeaTrait
 def: "Fodder biomass i.e., above ground biomass excluding the pods, at 90% maturity" []
 synonym: "FODMAT" EXACT []
-is_a: CO_340:Agronomical traits
+is_a: CO_340:Agronomical%20traits
 
 [Term]
 id: CO_340:0005643
@@ -57,7 +57,7 @@ name: Seed weight
 namespace: CowpeaTrait
 def: "Weight of seeds" []
 synonym: "SdWt" EXACT []
-is_a: CO_340:Agronomical traits
+is_a: CO_340:Agronomical%20traits
 
 [Term]
 id: CO_340:0004642
@@ -65,7 +65,7 @@ name: Fodder biomass at Flowering
 namespace: CowpeaTrait
 def: "Fodder biomass i.e., above ground biomass excluding the pods, at 50% Flowering" []
 synonym: "FODMID" EXACT []
-is_a: CO_340:Agronomical traits
+is_a: CO_340:Agronomical%20traits
 
 [Term]
 id: CO_340:0003641
@@ -73,7 +73,7 @@ name: Pod yield
 namespace: CowpeaTrait
 def: "Weight of harvested pods" []
 synonym: "PODWT" EXACT []
-is_a: CO_340:Agronomical traits
+is_a: CO_340:Agronomical%20traits
 
 [Term]
 id: CO_340:0002640
@@ -81,7 +81,7 @@ name: Bacterial blight (X. vignicola) severity
 namespace: CowpeaTrait
 def: "Severity of the bacteria blight symptoms caused by X. vignicola" []
 synonym: "BCTBLT" EXACT []
-is_a: CO_340:Biotic stress traits
+is_a: CO_340:Biotic%20stress%20traits
 
 [Term]
 id: CO_340:0000999
@@ -968,7 +968,7 @@ name: Iron concentration
 namespace: CowpeaTrait
 def: "Iron concentration in the leaf" []
 synonym: "ICONC" EXACT []
-is_a: CO_340:Quality traits
+is_a: CO_340:Quality%20traits
 
 [Term]
 id: CO_340:0000879
@@ -976,7 +976,7 @@ name: Zinc concentration
 namespace: CowpeaTrait
 def: "Zinc concentration in the leaf" []
 synonym: "ZNCONC" EXACT []
-is_a: CO_340:Quality traits
+is_a: CO_340:Quality%20traits
 
 [Term]
 id: CO_340:0000878
@@ -997,7 +997,7 @@ name: Leaf protein content
 namespace: CowpeaTrait
 def: "Protein content of the leaf" []
 synonym: "PROTEIN" EXACT []
-is_a: CO_340:Quality traits
+is_a: CO_340:Quality%20traits
 
 [Term]
 id: CO_340:0000874
@@ -3676,7 +3676,7 @@ name: Branching density
 namespace: CowpeaTrait
 def: "Number of 1st order lateral roots whithout counting basal region roots" []
 synonym: "BrnchDen" EXACT []
-is_a: CO_340:Morphological traits
+is_a: CO_340:Morphological%20traits
 
 [Term]
 id: CO_340:0000708
@@ -3684,7 +3684,7 @@ name: Tap root diameter
 namespace: CowpeaTrait
 def: "tap root diameter" []
 synonym: "RtDiam" EXACT []
-is_a: CO_340:Morphological traits
+is_a: CO_340:Morphological%20traits
 
 [Term]
 id: CO_340:0000706
@@ -3692,14 +3692,14 @@ name: 3rd order branching density
 namespace: CowpeaTrait
 def: "3 order branching density" []
 synonym: "3BD" EXACT []
-is_a: CO_340:Morphological traits
+is_a: CO_340:Morphological%20traits
 
 [Term]
 id: CO_340:0000705
 name: number of tap laterals
 namespace: CowpeaTrait
 def: "number of roots in 5-10cm below soil surface region with a diameter greater than 1.5mm at 2cm from hypocotyl that are perpendicular to the tap root" []
-is_a: CO_340:Morphological traits
+is_a: CO_340:Morphological%20traits
 
 [Term]
 id: CO_340:0000704
@@ -3707,7 +3707,7 @@ name: number of basal region roots
 namespace: CowpeaTrait
 def: "number of adventitious roots" []
 synonym: "AdvNo" EXACT []
-is_a: CO_340:Morphological traits
+is_a: CO_340:Morphological%20traits
 
 [Term]
 id: CO_340:0000703
@@ -3715,7 +3715,7 @@ name: number of adventitious roots
 namespace: CowpeaTrait
 def: "number of basal region roots" []
 synonym: "BasRtNo" EXACT []
-is_a: CO_340:Morphological traits
+is_a: CO_340:Morphological%20traits
 
 [Term]
 id: CO_340:0000702
@@ -3723,7 +3723,7 @@ name: branching density 10-15
 namespace: CowpeaTrait
 def: "number of 1st order lateral roots between 10 and 15cm below soil surface" []
 synonym: "BD15" EXACT []
-is_a: CO_340:Morphological traits
+is_a: CO_340:Morphological%20traits
 
 [Term]
 id: CO_340:0000701
@@ -3731,7 +3731,7 @@ name: branching density 5-10
 namespace: CowpeaTrait
 def: "number of 1st order lateral roots (not counting basal region roots) between 5 and 10 cm or from just below basal region to 10cm below soil level" []
 synonym: "BD10" EXACT []
-is_a: CO_340:Morphological traits
+is_a: CO_340:Morphological%20traits
 
 [Term]
 id: CO_340:0000700
@@ -3739,7 +3739,7 @@ name: number of adventitious roots
 namespace: CowpeaTrait
 def: "number of adventitious roots" []
 synonym: "AdvNo" EXACT []
-is_a: CO_340:Morphological traits
+is_a: CO_340:Morphological%20traits
 
 [Term]
 id: CO_340:0000699
@@ -3747,7 +3747,7 @@ name: number of basal region roots
 namespace: CowpeaTrait
 def: "number of basal region roots" []
 synonym: "BasRtNo" EXACT []
-is_a: CO_340:Morphological traits
+is_a: CO_340:Morphological%20traits
 
 [Term]
 id: CO_340:0000698
@@ -3755,7 +3755,7 @@ name: tap root diameter at 15
 namespace: CowpeaTrait
 def: "tap diameter 15cm below soil surface" []
 synonym: "TD15" EXACT []
-is_a: CO_340:Morphological traits
+is_a: CO_340:Morphological%20traits
 
 [Term]
 id: CO_340:0000697
@@ -3763,7 +3763,7 @@ name: tap root diameter at 10
 namespace: CowpeaTrait
 def: "tap diameter 10 below soil surface" []
 synonym: "TD10" EXACT []
-is_a: CO_340:Morphological traits
+is_a: CO_340:Morphological%20traits
 
 [Term]
 id: CO_340:0000696
@@ -3771,7 +3771,7 @@ name: tap root diameter at 5
 namespace: CowpeaTrait
 def: "tap diameter 5cm below soil surface or just below basal region" []
 synonym: "TD5" EXACT []
-is_a: CO_340:Morphological traits
+is_a: CO_340:Morphological%20traits
 
 [Term]
 id: CO_340:0000695
@@ -3779,7 +3779,7 @@ name: stem diameter
 namespace: CowpeaTrait
 def: "stem diameter" []
 synonym: "stemD" EXACT []
-is_a: CO_340:Morphological traits
+is_a: CO_340:Morphological%20traits
 
 [Term]
 id: CO_340:0000694
@@ -3787,7 +3787,7 @@ name: basal root growth angle
 namespace: CowpeaTrait
 def: "Angle of basal region roots" []
 synonym: "ang bas" EXACT []
-is_a: CO_340:Morphological traits
+is_a: CO_340:Morphological%20traits
 
 [Term]
 id: CO_340:0000693
@@ -3795,7 +3795,7 @@ name: adventitous root growth angle
 namespace: CowpeaTrait
 def: "Angle of adventitious roots" []
 synonym: "ang_ad" EXACT []
-is_a: CO_340:Morphological traits
+is_a: CO_340:Morphological%20traits
 
 [Term]
 id: CO_340:0000692
@@ -3803,7 +3803,7 @@ name: Attachment of testa
 namespace: CowpeaTrait
 def: "Attachment of the testa to the seed" []
 synonym: "AttTes" EXACT []
-is_a: CO_340:Morphological traits
+is_a: CO_340:Morphological%20traits
 
 [Term]
 id: CO_340:0000691
@@ -3811,7 +3811,7 @@ name: Splitting of testa
 namespace: CowpeaTrait
 def: "Splitting of the testa" []
 synonym: "SplTes" EXACT []
-is_a: CO_340:Morphological traits
+is_a: CO_340:Morphological%20traits
 
 [Term]
 id: CO_340:0000690
@@ -3820,7 +3820,7 @@ namespace: CowpeaTrait
 def: "Seed crowding or compression, indicating the spacing within the pod" []
 synonym: "Seed compression" EXACT []
 synonym: "SeeCro" EXACT []
-is_a: CO_340:Agronomical traits
+is_a: CO_340:Agronomical%20traits
 
 [Term]
 id: CO_340:0000689
@@ -3828,7 +3828,7 @@ name: Seed thickness
 namespace: CowpeaTrait
 def: "Tickness of the seed" []
 synonym: "SeeThi" EXACT []
-is_a: CO_340:Morphological traits
+is_a: CO_340:Morphological%20traits
 
 [Term]
 id: CO_340:0000688
@@ -3836,7 +3836,7 @@ name: Seed width
 namespace: CowpeaTrait
 def: "Average width of seeds" []
 synonym: "SeeWdt" EXACT []
-is_a: CO_340:Morphological traits
+is_a: CO_340:Morphological%20traits
 
 [Term]
 id: CO_340:0000687
@@ -3844,7 +3844,7 @@ name: Seed length
 namespace: CowpeaTrait
 def: "Average length of seeds" []
 synonym: "SeeLen" EXACT []
-is_a: CO_340:Morphological traits
+is_a: CO_340:Morphological%20traits
 
 [Term]
 id: CO_340:0000686
@@ -3852,7 +3852,7 @@ name: Pod colour
 namespace: CowpeaTrait
 def: "Colour of the pod" []
 synonym: "PodCol" EXACT []
-is_a: CO_340:Morphological traits
+is_a: CO_340:Morphological%20traits
 
 [Term]
 id: CO_340:0000685
@@ -3860,7 +3860,7 @@ name: Pod wall thickness
 namespace: CowpeaTrait
 def: "Tickness of pod wall" []
 synonym: "PodWaiTh" EXACT []
-is_a: CO_340:Morphological traits
+is_a: CO_340:Morphological%20traits
 
 [Term]
 id: CO_340:0000684
@@ -3868,7 +3868,7 @@ name: Pod width
 namespace: CowpeaTrait
 def: "Width of pods" []
 synonym: "PodWdt" EXACT []
-is_a: CO_340:Morphological traits
+is_a: CO_340:Morphological%20traits
 
 [Term]
 id: CO_340:0000683
@@ -3876,7 +3876,7 @@ name: Number of racemes
 namespace: CowpeaTrait
 def: "Number of racemes" []
 synonym: "NumRacPla" EXACT []
-is_a: CO_340:Agronomical traits
+is_a: CO_340:Agronomical%20traits
 
 [Term]
 id: CO_340:0000682
@@ -3884,7 +3884,7 @@ name: Calyx lobe length
 namespace: CowpeaTrait
 def: "Flower calyx lobe length" []
 synonym: "CaLobLen" EXACT []
-is_a: CO_340:Morphological traits
+is_a: CO_340:Morphological%20traits
 
 [Term]
 id: CO_340:0000681
@@ -3893,7 +3893,7 @@ namespace: CowpeaTrait
 def: "Length of flowers" []
 synonym: "Standard length" EXACT []
 synonym: "StaLen" EXACT []
-is_a: CO_340:Morphological traits
+is_a: CO_340:Morphological%20traits
 
 [Term]
 id: CO_340:0000680
@@ -3901,7 +3901,7 @@ name: Flowering pigment pattern
 namespace: CowpeaTrait
 def: "Pigmentation pattern of newly opened flowers" []
 synonym: "FloPigPat" EXACT []
-is_a: CO_340:Morphological traits
+is_a: CO_340:Morphological%20traits
 
 [Term]
 id: CO_340:0000679
@@ -3909,7 +3909,7 @@ name: Dry matter digestibility
 namespace: CowpeaTrait
 def: "Digestibility of green fodder" []
 synonym: "DMDig" EXACT []
-is_a: CO_340:Quality traits
+is_a: CO_340:Quality%20traits
 
 [Term]
 id: CO_340:0000678
@@ -3917,7 +3917,7 @@ name: Capacity for re-growth
 namespace: CowpeaTrait
 def: "Weight of green matter in grams at 50% flowering after the accession has been cut at six week stage" []
 synonym: "CapReGro" EXACT []
-is_a: CO_340:Agronomical traits
+is_a: CO_340:Agronomical%20traits
 
 [Term]
 id: CO_340:0000677
@@ -3926,7 +3926,7 @@ namespace: CowpeaTrait
 def: "Total above ground fresh biomass" []
 synonym: "Yield of green matter" EXACT []
 synonym: "FBMFlw" EXACT []
-is_a: CO_340:Agronomical traits
+is_a: CO_340:Agronomical%20traits
 
 [Term]
 id: CO_340:0000676
@@ -3934,7 +3934,7 @@ name: Plant dry weight content
 namespace: CowpeaTrait
 def: "Plant matter content" []
 synonym: "PerDryWei" EXACT []
-is_a: CO_340:Agronomical traits
+is_a: CO_340:Agronomical%20traits
 
 [Term]
 id: CO_340:0000675
@@ -3942,7 +3942,7 @@ name: Leaf–stem ratio
 namespace: CowpeaTrait
 def: "Weight of leaves divided by weight of other parts of shoot" []
 synonym: "LeaSteRat" EXACT []
-is_a: CO_340:Agronomical traits
+is_a: CO_340:Agronomical%20traits
 
 [Term]
 id: CO_340:0000674
@@ -3950,7 +3950,7 @@ name: Plant vigour
 namespace: CowpeaTrait
 def: "Status of the plant" []
 synonym: "PlaVig" EXACT []
-is_a: CO_340:Agronomical traits
+is_a: CO_340:Agronomical%20traits
 
 [Term]
 id: CO_340:0000673
@@ -3958,7 +3958,7 @@ name: Number of nodes
 namespace: CowpeaTrait
 def: "Number of nodes" []
 synonym: "NumNodMainSte" EXACT []
-is_a: CO_340:Morphological traits
+is_a: CO_340:Morphological%20traits
 
 [Term]
 id: CO_340:0000672
@@ -3966,7 +3966,7 @@ name: Number of main branches
 namespace: CowpeaTrait
 def: "Number of main branches" []
 synonym: "NumMaiBra" EXACT []
-is_a: CO_340:Morphological traits
+is_a: CO_340:Morphological%20traits
 
 [Term]
 id: CO_340:0000671
@@ -3974,7 +3974,7 @@ name: Stipule width
 namespace: CowpeaTrait
 def: "Measure of stipule width" []
 synonym: "StiWid" EXACT []
-is_a: CO_340:Morphological traits
+is_a: CO_340:Morphological%20traits
 
 [Term]
 id: CO_340:0000670
@@ -3982,7 +3982,7 @@ name: Stipule length
 namespace: CowpeaTrait
 def: "Measure of stipule length" []
 synonym: "StiLen" EXACT []
-is_a: CO_340:Morphological traits
+is_a: CO_340:Morphological%20traits
 
 [Term]
 id: CO_340:0000669
@@ -3990,7 +3990,7 @@ name: Leaf texture
 namespace: CowpeaTrait
 def: "Leaf appearance" []
 synonym: "LeaTex" EXACT []
-is_a: CO_340:Morphological traits
+is_a: CO_340:Morphological%20traits
 
 [Term]
 id: CO_340:0000668
@@ -3998,7 +3998,7 @@ name: Terminal leaflet width
 namespace: CowpeaTrait
 def: "The widest dimension of the terminal leaflet whose shape" []
 synonym: "TerLeaWid" EXACT []
-is_a: CO_340:Morphological traits
+is_a: CO_340:Morphological%20traits
 
 [Term]
 id: CO_340:0000667
@@ -4006,7 +4006,7 @@ name: Terminal leaflet length
 namespace: CowpeaTrait
 def: "Length of terminal leaflet whose shape was recorded" []
 synonym: "TerLeaLen" EXACT []
-is_a: CO_340:Morphological traits
+is_a: CO_340:Morphological%20traits
 
 [Term]
 id: CO_340:0000666
@@ -4014,7 +4014,7 @@ name: Leaf marking
 namespace: CowpeaTrait
 def: "Presence/absence of V-mark on leaflets" []
 synonym: "LeaMar" EXACT []
-is_a: CO_340:Morphological traits
+is_a: CO_340:Morphological%20traits
 
 [Term]
 id: CO_340:0000665
@@ -4022,7 +4022,7 @@ name: Leaf colour
 namespace: CowpeaTrait
 def: "Intensity of green Colour of the leaf" []
 synonym: "LeaCol" EXACT []
-is_a: CO_340:Morphological traits
+is_a: CO_340:Morphological%20traits
 
 [Term]
 id: CO_340:0000664
@@ -4030,7 +4030,7 @@ name: Hypocotyl length
 namespace: CowpeaTrait
 def: "length of the hypocotyl" []
 synonym: "HypLen" EXACT []
-is_a: CO_340:Morphological traits
+is_a: CO_340:Morphological%20traits
 
 [Term]
 id: CO_340:0000663
@@ -4038,7 +4038,7 @@ name: Eye pattern
 namespace: CowpeaTrait
 def: "The shape of the pigment pattern which surrounds the hilum. The ‘front’ of the hilum is the non-micropylar end." []
 synonym: "EyePat" EXACT []
-is_a: CO_340:Morphological traits
+is_a: CO_340:Morphological%20traits
 
 [Term]
 id: CO_340:0000662
@@ -4046,7 +4046,7 @@ name: Eye colour
 namespace: CowpeaTrait
 def: "The color of the eye" []
 synonym: "EyeCol" EXACT []
-is_a: CO_340:Morphological traits
+is_a: CO_340:Morphological%20traits
 
 [Term]
 id: CO_340:0000661
@@ -4054,7 +4054,7 @@ name: Testa texture
 namespace: CowpeaTrait
 def: "The texture of the testa" []
 synonym: "TesTex" EXACT []
-is_a: CO_340:Morphological traits
+is_a: CO_340:Morphological%20traits
 
 [Term]
 id: CO_340:0000660
@@ -4062,7 +4062,7 @@ name: Seed Shape
 namespace: CowpeaTrait
 def: "Shape of the seed" []
 synonym: "SeeSha" EXACT []
-is_a: CO_340:Morphological traits
+is_a: CO_340:Morphological%20traits
 
 [Term]
 id: CO_340:0000659
@@ -4070,7 +4070,7 @@ name: Pod curvature
 namespace: CowpeaTrait
 def: "Curvature of th pod" []
 synonym: "PodCur" EXACT []
-is_a: CO_340:Morphological traits
+is_a: CO_340:Morphological%20traits
 
 [Term]
 id: CO_340:0000658
@@ -4078,7 +4078,7 @@ name: Immature pod pigmentation
 namespace: CowpeaTrait
 def: "Pigmentation of immature pod" []
 synonym: "ImmPodPig" EXACT []
-is_a: CO_340:Morphological traits
+is_a: CO_340:Morphological%20traits
 
 [Term]
 id: CO_340:0000657
@@ -4086,7 +4086,7 @@ name: Pod attachment to peduncle
 namespace: CowpeaTrait
 def: "attachment of the pod to the peduncle" []
 synonym: "PodAtt" EXACT []
-is_a: CO_340:Morphological traits
+is_a: CO_340:Morphological%20traits
 
 [Term]
 id: CO_340:0000656
@@ -4094,7 +4094,7 @@ name: Raceme position
 namespace: CowpeaTrait
 def: "position of raceme" []
 synonym: "RacPos" EXACT []
-is_a: CO_340:Morphological traits
+is_a: CO_340:Morphological%20traits
 
 [Term]
 id: CO_340:0000655
@@ -4102,7 +4102,7 @@ name: Plant hairiness
 namespace: CowpeaTrait
 def: "Presence of hair on plant" []
 synonym: "PlaHair" EXACT []
-is_a: CO_340:Morphological traits
+is_a: CO_340:Morphological%20traits
 
 [Term]
 id: CO_340:0000654
@@ -4110,7 +4110,7 @@ name: Terminal leaflet shape
 namespace: CowpeaTrait
 def: "Shape of terminal leaflet" []
 synonym: "TerLEASh" EXACT []
-is_a: CO_340:Morphological traits
+is_a: CO_340:Morphological%20traits
 
 [Term]
 id: CO_340:0000653
@@ -4118,7 +4118,7 @@ name: Plant pigmentation
 namespace: CowpeaTrait
 def: "Pigmentation of the plant part" []
 synonym: "PlaPig" EXACT []
-is_a: CO_340:Morphological traits
+is_a: CO_340:Morphological%20traits
 
 [Term]
 id: CO_340:0000652
@@ -4126,7 +4126,7 @@ name: Twinning tendency
 namespace: CowpeaTrait
 def: "twinning tendency" []
 synonym: "TwiTend" EXACT []
-is_a: CO_340:Morphological traits
+is_a: CO_340:Morphological%20traits
 
 [Term]
 id: CO_340:0000651
@@ -4134,7 +4134,7 @@ name: Growth pattern
 namespace: CowpeaTrait
 def: "Pattern of growth" []
 synonym: "GroPat" EXACT []
-is_a: CO_340:Morphological traits
+is_a: CO_340:Morphological%20traits
 
 [Term]
 id: CO_340:0000650
@@ -4142,7 +4142,7 @@ name: Striga- Height of Striga
 namespace: CowpeaTrait
 def: "Height of Striga" []
 synonym: "AHS" EXACT []
-is_a: CO_340:Biotic stress traits
+is_a: CO_340:Biotic%20stress%20traits
 
 [Term]
 id: CO_340:0000649
@@ -4150,7 +4150,7 @@ name: Striga infestation
 namespace: CowpeaTrait
 def: "Plot infested with Striga gesnerioides" []
 synonym: "SIP" EXACT []
-is_a: CO_340:Biotic stress traits
+is_a: CO_340:Biotic%20stress%20traits
 
 [Term]
 id: CO_340:0000648
@@ -4158,7 +4158,7 @@ name: Weight of Alectra
 namespace: CowpeaTrait
 def: "Weight of Alectra" []
 synonym: "AWA" EXACT []
-is_a: CO_340:Biotic stress traits
+is_a: CO_340:Biotic%20stress%20traits
 
 [Term]
 id: CO_340:0000647
@@ -4166,7 +4166,7 @@ name: Alectra- Height of Alectra
 namespace: CowpeaTrait
 def: "Height of Alectra" []
 synonym: "AHA" EXACT []
-is_a: CO_340:Biotic stress traits
+is_a: CO_340:Biotic%20stress%20traits
 
 [Term]
 id: CO_340:0000646
@@ -4174,7 +4174,7 @@ name: Alectra- Alectra infection
 namespace: CowpeaTrait
 def: "Number of plants infected by Alectra" []
 synonym: "PIA" EXACT []
-is_a: CO_340:Biotic stress traits
+is_a: CO_340:Biotic%20stress%20traits
 
 [Term]
 id: CO_340:0000645
@@ -4182,7 +4182,7 @@ name: Alectra - Date of First Alectra Emergence
 namespace: CowpeaTrait
 def: "Date of the first Alectra emergence" []
 synonym: "DFAE" EXACT []
-is_a: CO_340:Biotic stress traits
+is_a: CO_340:Biotic%20stress%20traits
 
 [Term]
 id: CO_340:0000644
@@ -4190,7 +4190,7 @@ name: Flower thrip damage
 namespace: CowpeaTrait
 def: "Flower thrip damage to stipules, flower buds and peduncles" []
 synonym: "THRIPFLOW, FOLTHRIP" EXACT []
-is_a: CO_340:Biotic stress traits
+is_a: CO_340:Biotic%20stress%20traits
 
 [Term]
 id: CO_340:0000643
@@ -4198,7 +4198,7 @@ name: Leafhopper (Empoasca) damage
 namespace: CowpeaTrait
 def: "Damage caused by leafhopper (Empoasca)" []
 synonym: "EmpRes" EXACT []
-is_a: CO_340:Biotic stress traits
+is_a: CO_340:Biotic%20stress%20traits
 
 [Term]
 id: CO_340:0000642
@@ -4206,7 +4206,7 @@ name: Aphid severity
 namespace: CowpeaTrait
 def: "Severity of aphid infestation" []
 synonym: "AphSev" EXACT []
-is_a: CO_340:Biotic stress traits
+is_a: CO_340:Biotic%20stress%20traits
 
 [Term]
 id: CO_340:0000641
@@ -4214,7 +4214,7 @@ name: Aphid incidence
 namespace: CowpeaTrait
 def: "Aphid Incidence Score" []
 synonym: "AphIS" EXACT []
-is_a: CO_340:Biotic stress traits
+is_a: CO_340:Biotic%20stress%20traits
 
 [Term]
 id: CO_340:0000640
@@ -4222,7 +4222,7 @@ name: Harvested leaf weight
 namespace: CowpeaTrait
 def: "Weight of harvested leaves" []
 synonym: "TWL" EXACT []
-is_a: CO_340:Agronomical traits
+is_a: CO_340:Agronomical%20traits
 
 [Term]
 id: CO_340:0000639
@@ -4232,7 +4232,7 @@ def: "Number of plants germinated within one week after planting" []
 synonym: "Plants germinated" EXACT []
 synonym: " Hills with plants emerged" EXACT []
 synonym: "GERM" EXACT []
-is_a: CO_340:Agronomical traits
+is_a: CO_340:Agronomical%20traits
 
 [Term]
 id: CO_340:0000638
@@ -4240,7 +4240,7 @@ name: Grain yield
 namespace: CowpeaTrait
 def: "Harvested grain weight" []
 synonym: "GrYld" EXACT []
-is_a: CO_340:Agronomical traits
+is_a: CO_340:Agronomical%20traits
 
 [Term]
 id: CO_340:0000634
@@ -4250,7 +4250,7 @@ relationship: scale_of CO_340:0000633
 
 [Term]
 id: CO_340:0000633
-name: 
+name: No method name found
 namespace: CowpeaMethod
 def: "Count the number of Alectra in the experimental plot 9 weeks after planting" []
 relationship: method_of CO_340:0000632
@@ -4261,7 +4261,7 @@ name: ALPERPLT
 namespace: CowpeaTrait
 def: "Alectra per plot" []
 synonym: "ALPERP" EXACT []
-is_a: CO_340:Agronomical traits
+is_a: CO_340:Agronomical%20traits
 
 [Term]
 id: CO_340:0000631
@@ -4322,7 +4322,7 @@ name: Diabrotica
 namespace: CowpeaTrait
 def: "Infestation by diabrotica" []
 synonym: "DIABRT" EXACT []
-is_a: CO_340:Biotic stress traits
+is_a: CO_340:Biotic%20stress%20traits
 
 [Term]
 id: CO_340:0000628
@@ -4332,7 +4332,7 @@ relationship: scale_of CO_340:0000627
 
 [Term]
 id: CO_340:0000627
-name: 
+name: No method name found
 namespace: CowpeaMethod
 def: "Averaged weigh of 5 or 10 random Striga plants per experimental plot" []
 relationship: method_of CO_340:0000626
@@ -4343,7 +4343,7 @@ name: STRGDRWT
 namespace: CowpeaTrait
 def: "Striga dry weight" []
 synonym: "STRGDR" EXACT []
-is_a: CO_340:Agronomical traits
+is_a: CO_340:Agronomical%20traits
 
 [Term]
 id: CO_340:0000625
@@ -4364,7 +4364,7 @@ name: Peduncle length
 namespace: CowpeaTrait
 def: "Length of peduncules at full growth" []
 synonym: "PedLen" EXACT []
-is_a: CO_340:Morphological traits
+is_a: CO_340:Morphological%20traits
 
 [Term]
 id: CO_340:0000622
@@ -4385,7 +4385,7 @@ name: Nodule number
 namespace: CowpeaTrait
 def: "Number of nodules" []
 synonym: "NodNo" EXACT []
-is_a: CO_340:Agronomical traits
+is_a: CO_340:Agronomical%20traits
 
 [Term]
 id: CO_340:0000619
@@ -4406,7 +4406,7 @@ name: Nodule weight
 namespace: CowpeaTrait
 def: "weight of nodule" []
 synonym: "NDLWT" EXACT []
-is_a: CO_340:Agronomical traits
+is_a: CO_340:Agronomical%20traits
 
 [Term]
 id: CO_340:0000616
@@ -4427,7 +4427,7 @@ name: Fresh fodder weight
 namespace: CowpeaTrait
 def: "weight of fresh fodder" []
 synonym: "FFWT" EXACT []
-is_a: CO_340:Agronomical traits
+is_a: CO_340:Agronomical%20traits
 
 [Term]
 id: CO_340:0000613
@@ -4449,7 +4449,7 @@ name: Iron concentration
 namespace: CowpeaTrait
 def: "Iron concentration in the seed" []
 synonym: "ICONC" EXACT []
-is_a: CO_340:Quality traits
+is_a: CO_340:Quality%20traits
 
 [Term]
 id: CO_340:0000610
@@ -4472,7 +4472,7 @@ namespace: CowpeaTrait
 def: "Zinc concentration in the seed" []
 synonym: "dry fodder yield" EXACT []
 synonym: "ZNCONC" EXACT []
-is_a: CO_340:Quality traits
+is_a: CO_340:Quality%20traits
 
 [Term]
 id: CO_340:0000607
@@ -4482,7 +4482,7 @@ relationship: scale_of CO_340:0000606
 
 [Term]
 id: CO_340:0000606
-name: 
+name: No method name found
 relationship: method_of CO_340:0000605
 
 [Term]
@@ -4491,7 +4491,7 @@ name: HEAD WEIGHT
 namespace: CowpeaTrait
 def: "HEAD WEIGHT" []
 synonym: "HDWT" EXACT []
-is_a: CO_340:Agronomical traits
+is_a: CO_340:Agronomical%20traits
 
 [Term]
 id: CO_340:0000604
@@ -4513,7 +4513,7 @@ name: Leaf harvest
 namespace: CowpeaTrait
 def: "Weight of LEAF HARVESTed per plot every week" []
 synonym: "LFHV" EXACT []
-is_a: CO_340:Agronomical traits
+is_a: CO_340:Agronomical%20traits
 
 [Term]
 id: CO_340:0000601
@@ -4523,7 +4523,7 @@ relationship: scale_of CO_340:0000600
 
 [Term]
 id: CO_340:0000600
-name: 
+name: No method name found
 namespace: CowpeaMethod
 def: "Pouch Screening in growth chamber" []
 relationship: method_of CO_340:0000599
@@ -4534,7 +4534,7 @@ name: Resistance to M. javanica root knot nematode
 namespace: CowpeaTrait
 def: "Resistance to M. javanica root knot nematode" []
 synonym: "RSMJAV" EXACT []
-is_a: CO_340:Biotic stress traits
+is_a: CO_340:Biotic%20stress%20traits
 
 [Term]
 id: CO_340:0000598
@@ -4555,7 +4555,7 @@ name: Wasps
 namespace: CowpeaTrait
 def: "Undefined trait" []
 synonym: "WASPS" EXACT []
-is_a: CO_340:Biotic stress traits
+is_a: CO_340:Biotic%20stress%20traits
 
 [Term]
 id: CO_340:0000589
@@ -4576,7 +4576,7 @@ name: Number of hills
 namespace: CowpeaTrait
 def: "Number of hills having at least one plant" []
 synonym: "HILLS" EXACT []
-is_a: CO_340:Agronomical traits
+is_a: CO_340:Agronomical%20traits
 
 [Term]
 id: CO_340:0000586
@@ -4637,7 +4637,7 @@ name: Leaf rust infestation
 namespace: CowpeaTrait
 def: "Infestation by Leaf rust" []
 synonym: "LEAFRU" EXACT []
-is_a: CO_340:Biotic stress traits
+is_a: CO_340:Biotic%20stress%20traits
 
 [Term]
 id: CO_340:0000583
@@ -4658,7 +4658,7 @@ name: Dead plant number
 namespace: CowpeaTrait
 def: "Number of dead plants" []
 synonym: "NDEADP" EXACT []
-is_a: CO_340:Agronomical traits
+is_a: CO_340:Agronomical%20traits
 
 [Term]
 id: CO_340:0000580
@@ -4668,7 +4668,7 @@ relationship: scale_of CO_340:0000579
 
 [Term]
 id: CO_340:0000579
-name: 
+name: No method name found
 relationship: method_of CO_340:0000578
 
 [Term]
@@ -4677,7 +4677,7 @@ name: PERCENT PROTEIN
 namespace: CowpeaTrait
 def: "PERCENT PROTEIN" []
 synonym: "PPTP" EXACT []
-is_a: CO_340:Agronomical traits
+is_a: CO_340:Agronomical%20traits
 
 [Term]
 id: CO_340:0000577
@@ -4698,7 +4698,7 @@ name: Grain protein content
 namespace: CowpeaTrait
 def: "Protein content of the grain" []
 synonym: "PROTEIN" EXACT []
-is_a: CO_340:Quality traits
+is_a: CO_340:Quality%20traits
 
 [Term]
 id: CO_340:0000574
@@ -4759,7 +4759,7 @@ name: Phoma infestation
 namespace: CowpeaTrait
 def: "Infestation by phoma" []
 synonym: "PHOMA" EXACT []
-is_a: CO_340:Biotic stress traits
+is_a: CO_340:Biotic%20stress%20traits
 
 [Term]
 id: CO_340:0000571
@@ -4780,7 +4780,7 @@ name: Plant height
 namespace: CowpeaTrait
 def: "Plant height" []
 synonym: "PTHT" EXACT []
-is_a: CO_340:Morphological traits
+is_a: CO_340:Morphological%20traits
 
 [Term]
 id: CO_340:0000568
@@ -4802,7 +4802,7 @@ name: Leaf weight
 namespace: CowpeaTrait
 def: "Leaf weight" []
 synonym: "LfWt" EXACT []
-is_a: CO_340:Agronomical traits
+is_a: CO_340:Agronomical%20traits
 
 [Term]
 id: CO_340:0000565
@@ -4864,7 +4864,7 @@ namespace: CowpeaTrait
 def: "Leaf spot infestation" []
 synonym: "Septoria" EXACT []
 synonym: "LFSPT" EXACT []
-is_a: CO_340:Biotic stress traits
+is_a: CO_340:Biotic%20stress%20traits
 
 [Term]
 id: CO_340:0000559
@@ -4874,7 +4874,7 @@ relationship: scale_of CO_340:0000558
 
 [Term]
 id: CO_340:0000558
-name: 
+name: No method name found
 namespace: CowpeaMethod
 def: "Pouch Screening in growth chamber" []
 relationship: method_of CO_340:0000557
@@ -4885,7 +4885,7 @@ name: M. incognita root knot nematode
 namespace: CowpeaTrait
 def: "Resistance to M. incognita root knot nematode" []
 synonym: "RSMICG" EXACT []
-is_a: CO_340:Biotic stress traits
+is_a: CO_340:Biotic%20stress%20traits
 
 [Term]
 id: CO_340:0000550
@@ -4906,7 +4906,7 @@ name: Grain sucrose content
 namespace: CowpeaTrait
 def: "Grain sucrose content" []
 synonym: "SUCROS" EXACT []
-is_a: CO_340:Quality traits
+is_a: CO_340:Quality%20traits
 
 [Term]
 id: CO_340:0000547
@@ -4967,7 +4967,7 @@ name: Leaf scab infestation
 namespace: CowpeaTrait
 def: "Infestation by Leaf scab" []
 synonym: "LEAFSC" EXACT []
-is_a: CO_340:Biotic stress traits
+is_a: CO_340:Biotic%20stress%20traits
 
 [Term]
 id: CO_340:0000544
@@ -4977,7 +4977,7 @@ relationship: scale_of CO_340:0000543
 
 [Term]
 id: CO_340:0000543
-name: 
+name: No method name found
 relationship: method_of CO_340:0000542
 
 [Term]
@@ -4986,7 +4986,7 @@ name: Resistance to M. incognita root knot nematode
 namespace: CowpeaTrait
 def: "Resistance to M. incognita root knot nematode" []
 synonym: "RESMIN" EXACT []
-is_a: CO_340:Biotic stress traits
+is_a: CO_340:Biotic%20stress%20traits
 
 [Term]
 id: CO_340:0000541
@@ -5047,7 +5047,7 @@ name: Smut infestation
 namespace: CowpeaTrait
 def: "Infestation by Smut" []
 synonym: "SMUT" EXACT []
-is_a: CO_340:Biotic stress traits
+is_a: CO_340:Biotic%20stress%20traits
 
 [Term]
 id: CO_340:0000538
@@ -5057,7 +5057,7 @@ relationship: scale_of CO_340:0000537
 
 [Term]
 id: CO_340:0000537
-name: 
+name: No method name found
 namespace: CowpeaMethod
 def: "Record the date at which the first Striga in the experimental plot emerged" []
 relationship: method_of CO_340:0000536
@@ -5069,7 +5069,7 @@ namespace: CowpeaTrait
 def: "Days to Striga Emergence" []
 synonym: "STREM" EXACT []
 synonym: "DYSTRG" EXACT []
-is_a: CO_340:Agronomical traits
+is_a: CO_340:Agronomical%20traits
 
 [Term]
 id: CO_340:0000535
@@ -5090,7 +5090,7 @@ name: Pode emergence time
 namespace: CowpeaTrait
 def: "Time to pod Emergence" []
 synonym: "DFRSTPO" EXACT []
-is_a: CO_340:Phenological traits
+is_a: CO_340:Phenological%20traits
 
 [Term]
 id: CO_340:0000532
@@ -5112,7 +5112,7 @@ namespace: CowpeaTrait
 def: "Dry fodder weight" []
 synonym: "dry fodder" EXACT []
 synonym: "DFWT" EXACT []
-is_a: CO_340:Agronomical traits
+is_a: CO_340:Agronomical%20traits
 
 [Term]
 id: CO_340:0000511
@@ -5133,7 +5133,7 @@ name: Chlorophyll content
 namespace: CowpeaTrait
 def: "Chlorophyll content" []
 synonym: "SPAD" EXACT []
-is_a: CO_340:Abiotic stress traits
+is_a: CO_340:Abiotic%20stress%20traits
 
 [Term]
 id: CO_340:0000505
@@ -5154,7 +5154,7 @@ name: M. javanica root knot nematode
 namespace: CowpeaTrait
 def: "Damage caused by M. javanica root knot nematode" []
 synonym: "RootNemRes" EXACT []
-is_a: CO_340:Biotic stress traits
+is_a: CO_340:Biotic%20stress%20traits
 
 [Term]
 id: CO_340:0000502
@@ -5175,7 +5175,7 @@ name: Fresh pod
 namespace: CowpeaTrait
 def: "Weight of fresh pod" []
 synonym: "FRESHP" EXACT []
-is_a: CO_340:Agronomical traits
+is_a: CO_340:Agronomical%20traits
 
 [Term]
 id: CO_340:0000499
@@ -5236,7 +5236,7 @@ name: Phytium infestation
 namespace: CowpeaTrait
 def: "Extent of the infestation by Pythium" []
 synonym: "PHYTM" EXACT []
-is_a: CO_340:Biotic stress traits
+is_a: CO_340:Biotic%20stress%20traits
 
 [Term]
 id: CO_340:0000496
@@ -5297,7 +5297,7 @@ name: Pod scab infestation
 namespace: CowpeaTrait
 def: "Pod infestation by SCAB" []
 synonym: "PODSCAB" EXACT []
-is_a: CO_340:Biotic stress traits
+is_a: CO_340:Biotic%20stress%20traits
 
 [Term]
 id: CO_340:0000478
@@ -5318,7 +5318,7 @@ name: Cooking time
 namespace: CowpeaTrait
 def: "Time needed for cowpea sample to cook" []
 synonym: "CKTME" EXACT []
-is_a: CO_340:Quality traits
+is_a: CO_340:Quality%20traits
 
 [Term]
 id: CO_340:0000469
@@ -5379,7 +5379,7 @@ name: Growth habit
 namespace: CowpeaTrait
 def: "Type of growth habit" []
 synonym: "GROHAB" EXACT []
-is_a: CO_340:Agronomical traits
+is_a: CO_340:Agronomical%20traits
 
 [Term]
 id: CO_340:0000463
@@ -5389,7 +5389,7 @@ relationship: scale_of CO_340:0000462
 
 [Term]
 id: CO_340:0000462
-name: 
+name: No method name found
 relationship: method_of CO_340:0000461
 
 [Term]
@@ -5398,7 +5398,7 @@ name: PLOT INFECTED WITH ALECTRA
 namespace: CowpeaTrait
 def: "Presence or Absence of Alectra" []
 synonym: "PALCT" EXACT []
-is_a: CO_340:Biotic stress traits
+is_a: CO_340:Biotic%20stress%20traits
 
 [Term]
 id: CO_340:0000460
@@ -5408,7 +5408,7 @@ relationship: scale_of CO_340:0000459
 
 [Term]
 id: CO_340:0000459
-name: 
+name: No method name found
 namespace: CowpeaMethod
 def: "Total Weight of harvested pod per plot" []
 relationship: method_of CO_340:0000458
@@ -5419,7 +5419,7 @@ name: TOTAL PODS
 namespace: CowpeaTrait
 def: "Total pods harvested" []
 synonym: "TPDHV" EXACT []
-is_a: CO_340:Agronomical traits
+is_a: CO_340:Agronomical%20traits
 
 [Term]
 id: CO_340:0000454
@@ -5429,7 +5429,7 @@ relationship: scale_of CO_340:0000453
 
 [Term]
 id: CO_340:0000453
-name: 
+name: No method name found
 namespace: CowpeaMethod
 def: "Visual rating of % affected leaf area, 0 - 10 score" []
 relationship: method_of CO_340:0000452
@@ -5440,7 +5440,7 @@ name: Resistance to bacterial blight (X. vignicola)
 namespace: CowpeaTrait
 def: "Resistance to bacterial blight (Xanthomonas vignicola)" []
 synonym: "BB" EXACT []
-is_a: CO_340:Biotic stress traits
+is_a: CO_340:Biotic%20stress%20traits
 
 [Term]
 id: CO_340:0000451
@@ -5450,7 +5450,7 @@ relationship: scale_of CO_340:0000450
 
 [Term]
 id: CO_340:0000450
-name: 
+name: No method name found
 namespace: CowpeaMethod
 def: "Count of pods per plant for ten plants" []
 relationship: method_of CO_340:0000449
@@ -5461,7 +5461,7 @@ name: Pods per plot
 namespace: CowpeaTrait
 def: "Pods per plot" []
 synonym: "PODN" EXACT []
-is_a: CO_340:Agronomical traits
+is_a: CO_340:Agronomical%20traits
 
 [Term]
 id: CO_340:0000445
@@ -5522,7 +5522,7 @@ name: Lygus bug damage
 namespace: CowpeaTrait
 def: "Damage caused by lygus bug" []
 synonym: "LYGUSRES" EXACT []
-is_a: CO_340:Biotic stress traits
+is_a: CO_340:Biotic%20stress%20traits
 
 [Term]
 id: CO_340:0000442
@@ -5583,7 +5583,7 @@ name: Macrophomina Severity
 namespace: CowpeaTrait
 def: "Severity of the symptoms caused by macrophomina" []
 synonym: "MACROPH" EXACT []
-is_a: CO_340:Biotic stress traits
+is_a: CO_340:Biotic%20stress%20traits
 
 [Term]
 id: CO_340:0000439
@@ -5628,7 +5628,7 @@ name: color of dry pod
 namespace: CowpeaTrait
 def: "Dry pod color" []
 synonym: "DRYPODCOL" EXACT []
-is_a: CO_340:Morphological traits
+is_a: CO_340:Morphological%20traits
 
 [Term]
 id: CO_340:0000436
@@ -5649,7 +5649,7 @@ name: Canopy Height
 namespace: CowpeaTrait
 def: "Canopy Height" []
 synonym: "CANOPYHT" EXACT []
-is_a: CO_340:Agronomical traits
+is_a: CO_340:Agronomical%20traits
 
 [Term]
 id: CO_340:0000433
@@ -5702,7 +5702,7 @@ name: Flower color
 namespace: CowpeaTrait
 def: "Flower color" []
 synonym: "FLOWCOL" EXACT []
-is_a: CO_340:Morphological traits
+is_a: CO_340:Morphological%20traits
 
 [Term]
 id: CO_340:0000430
@@ -5723,7 +5723,7 @@ name: Foliar thrip damage
 namespace: CowpeaTrait
 def: "Foliar thrip damage" []
 synonym: "FOLTHRIP" EXACT []
-is_a: CO_340:Biotic stress traits
+is_a: CO_340:Biotic%20stress%20traits
 
 [Term]
 id: CO_340:0000427
@@ -5784,7 +5784,7 @@ name: Alectra
 namespace: CowpeaTrait
 def: "Alectra vogelii infestation" []
 synonym: "ALCTRA" EXACT []
-is_a: CO_340:Biotic stress traits
+is_a: CO_340:Biotic%20stress%20traits
 
 [Term]
 id: CO_340:0000424
@@ -5845,7 +5845,7 @@ name: Cercospora
 namespace: CowpeaTrait
 def: "Damage caused by Cercospora" []
 synonym: "CRCSP" EXACT []
-is_a: CO_340:Biotic stress traits
+is_a: CO_340:Biotic%20stress%20traits
 
 [Term]
 id: CO_340:0000421
@@ -5906,7 +5906,7 @@ name: Seed shape
 namespace: CowpeaTrait
 def: "Seed shape" []
 synonym: "SDSHAPE" EXACT []
-is_a: CO_340:Quality traits
+is_a: CO_340:Quality%20traits
 
 [Term]
 id: CO_340:0000418
@@ -5983,7 +5983,7 @@ name: Seedcoat color
 namespace: CowpeaTrait
 def: "Seed coat color" []
 synonym: "SDCOLOR" EXACT []
-is_a: CO_340:Quality traits
+is_a: CO_340:Quality%20traits
 
 [Term]
 id: CO_340:0000415
@@ -6028,7 +6028,7 @@ name: Seedcoat
 namespace: CowpeaTrait
 def: "Seedcoat texture" []
 synonym: "SDTEXT" EXACT []
-is_a: CO_340:Quality traits
+is_a: CO_340:Quality%20traits
 
 [Term]
 id: CO_340:0000412
@@ -6089,7 +6089,7 @@ name: Anthracnose damage
 namespace: CowpeaTrait
 def: "Anthracnose damage" []
 synonym: "ATNSE" EXACT []
-is_a: CO_340:Biotic stress traits
+is_a: CO_340:Biotic%20stress%20traits
 
 [Term]
 id: CO_340:0000406
@@ -6110,7 +6110,7 @@ name: Dead plant proportion
 namespace: CowpeaTrait
 def: "Proportion of dead plant" []
 synonym: "PDEADP" EXACT []
-is_a: CO_340:Agronomical traits
+is_a: CO_340:Agronomical%20traits
 
 [Term]
 id: CO_340:0000403
@@ -6131,7 +6131,7 @@ name: Length of pods
 namespace: CowpeaTrait
 def: "Length of pods" []
 synonym: "PODLNGTH" EXACT []
-is_a: CO_340:Morphological traits
+is_a: CO_340:Morphological%20traits
 
 [Term]
 id: CO_340:0000400
@@ -6192,7 +6192,7 @@ name: Septoria severity
 namespace: CowpeaTrait
 def: "Severity of the symptoms caused by Septoria" []
 synonym: "SEPT" EXACT []
-is_a: CO_340:Biotic stress traits
+is_a: CO_340:Biotic%20stress%20traits
 
 [Term]
 id: CO_340:0000397
@@ -6253,7 +6253,7 @@ name: Pigment bleeding
 namespace: CowpeaTrait
 def: "Seedcoat pigment bleeding" []
 synonym: "EYELEAK" EXACT []
-is_a: CO_340:Quality traits
+is_a: CO_340:Quality%20traits
 
 [Term]
 id: CO_340:0000394
@@ -6274,7 +6274,7 @@ name: Termites infestation
 namespace: CowpeaTrait
 def: "Extent of the infestation by termites" []
 synonym: "TRMTS" EXACT []
-is_a: CO_340:Biotic stress traits
+is_a: CO_340:Biotic%20stress%20traits
 
 [Term]
 id: CO_340:0000391
@@ -6335,7 +6335,7 @@ name: Thrip damage to stipules
 namespace: CowpeaTrait
 def: "Flower thrip damage to stipules" []
 synonym: "THRIPSTIP" EXACT []
-is_a: CO_340:Biotic stress traits
+is_a: CO_340:Biotic%20stress%20traits
 
 [Term]
 id: CO_340:0000388
@@ -6396,7 +6396,7 @@ name: Aphid damage
 namespace: CowpeaTrait
 def: "Damage caused by aphid in specialized nursery" []
 synonym: "APHIDRES" EXACT []
-is_a: CO_340:Biotic stress traits
+is_a: CO_340:Biotic%20stress%20traits
 
 [Term]
 id: CO_340:0000385
@@ -6457,7 +6457,7 @@ name: Fusarium wilt Race 4 damage
 namespace: CowpeaTrait
 def: "Damage caused by Fusarium wilt Race 4" []
 synonym: "FUSWILTR4" EXACT []
-is_a: CO_340:Biotic stress traits
+is_a: CO_340:Biotic%20stress%20traits
 
 [Term]
 id: CO_340:0000382
@@ -6518,7 +6518,7 @@ name: Fusarium wilt Race 3 damage
 namespace: CowpeaTrait
 def: "Damage caused by Fusarium wilt Race 3" []
 synonym: "FUSWILTR3" EXACT []
-is_a: CO_340:Biotic stress traits
+is_a: CO_340:Biotic%20stress%20traits
 
 [Term]
 id: CO_340:0000379
@@ -6568,7 +6568,7 @@ is_a: CO_340:0000379
 
 [Term]
 id: CO_340:0000378
-name: 
+name: No method name found
 namespace: CowpeaMethod
 def: "Visual rating" []
 relationship: method_of CO_340:0000377
@@ -6579,7 +6579,7 @@ name: Blackeye cowpea mosaic virus
 namespace: CowpeaTrait
 def: "Resistance to blackeye cowpea mosaic virus" []
 synonym: "BLCMV" EXACT []
-is_a: CO_340:Biotic stress traits
+is_a: CO_340:Biotic%20stress%20traits
 
 [Term]
 id: CO_340:0000376
@@ -6600,7 +6600,7 @@ name: Threshability
 namespace: CowpeaTrait
 def: "How easy it is to separate the seed from the shafts" []
 synonym: "THRS" EXACT []
-is_a: CO_340:Quality traits
+is_a: CO_340:Quality%20traits
 
 [Term]
 id: CO_340:0000373
@@ -6610,7 +6610,7 @@ relationship: scale_of CO_340:0000372
 
 [Term]
 id: CO_340:0000372
-name: 
+name: No method name found
 relationship: method_of CO_340:0000371
 
 [Term]
@@ -6619,7 +6619,7 @@ name: GRPODKGH
 namespace: CowpeaTrait
 def: "Grain and Pod weight in kg/ha" []
 synonym: "GRPODK" EXACT []
-is_a: CO_340:Agronomical traits
+is_a: CO_340:Agronomical%20traits
 
 [Term]
 id: CO_340:0000370
@@ -6680,7 +6680,7 @@ name: Stem rot damage
 namespace: CowpeaTrait
 def: "Damage caused by Stem rot" []
 synonym: "STMRT" EXACT []
-is_a: CO_340:Biotic stress traits
+is_a: CO_340:Biotic%20stress%20traits
 
 [Term]
 id: CO_340:0000367
@@ -6741,7 +6741,7 @@ name: Web blight damage
 namespace: CowpeaTrait
 def: "Damage caused by WEB BLIGHT" []
 synonym: "WEBB" EXACT []
-is_a: CO_340:Biotic stress traits
+is_a: CO_340:Biotic%20stress%20traits
 
 [Term]
 id: CO_340:0000364
@@ -6762,7 +6762,7 @@ name: Thrip Resistance
 namespace: CowpeaTrait
 def: "Resistance to Thrips" []
 synonym: "THRIPS" EXACT []
-is_a: CO_340:Biotic stress traits
+is_a: CO_340:Biotic%20stress%20traits
 
 [Term]
 id: CO_340:0000361
@@ -6824,7 +6824,7 @@ namespace: CowpeaTrait
 def: "Number of plant infested by Striga" []
 synonym: "Resistance to Striga gesnerioides" EXACT []
 synonym: "PLSTRG" EXACT []
-is_a: CO_340:Biotic stress traits
+is_a: CO_340:Biotic%20stress%20traits
 
 [Term]
 id: CO_340:0000358
@@ -6845,7 +6845,7 @@ name: Pod per plant
 namespace: CowpeaTrait
 def: "Number of pods per plant" []
 synonym: "PODPLA" EXACT []
-is_a: CO_340:Agronomical traits
+is_a: CO_340:Agronomical%20traits
 
 [Term]
 id: CO_340:0000355
@@ -6855,7 +6855,7 @@ relationship: scale_of CO_340:0000354
 
 [Term]
 id: CO_340:0000354
-name: 
+name: No method name found
 relationship: method_of CO_340:0000353
 
 [Term]
@@ -6864,7 +6864,7 @@ name: Pods per peduncule
 namespace: CowpeaTrait
 def: "Number of Pods per peduncle - Recorded under total insect control. Average number of 10 randomly selected peduncles" []
 synonym: "PODPED" EXACT []
-is_a: CO_340:Agronomical traits
+is_a: CO_340:Agronomical%20traits
 
 [Term]
 id: CO_340:0000346
@@ -6886,7 +6886,7 @@ name: Time to first mature pod
 namespace: CowpeaTrait
 def: "Time elapsed of days from planting to first pod maturity" []
 synonym: "Tto1MatPod" EXACT []
-is_a: CO_340:Phenological traits
+is_a: CO_340:Phenological%20traits
 
 [Term]
 id: CO_340:0000343
@@ -6908,7 +6908,7 @@ name: Time to first flower
 namespace: CowpeaTrait
 def: "Time elapsed from planting to first flowering" []
 synonym: "Tto1stFlw" EXACT []
-is_a: CO_340:Phenological traits
+is_a: CO_340:Phenological%20traits
 
 [Term]
 id: CO_340:0000340
@@ -6969,7 +6969,7 @@ name: Bacteria pustule
 namespace: CowpeaTrait
 def: "Damage caused by bacteria pustule" []
 synonym: "BACTPUST" EXACT []
-is_a: CO_340:Biotic stress traits
+is_a: CO_340:Biotic%20stress%20traits
 
 [Term]
 id: CO_340:0000337
@@ -6979,7 +6979,7 @@ relationship: scale_of CO_340:0000336
 
 [Term]
 id: CO_340:0000336
-name: 
+name: No method name found
 relationship: method_of CO_340:0000335
 
 [Term]
@@ -6988,7 +6988,7 @@ name: Pod weight per plot
 namespace: CowpeaTrait
 def: "Pod weight per plot" []
 synonym: "PODWT" EXACT []
-is_a: CO_340:Agronomical traits
+is_a: CO_340:Agronomical%20traits
 
 [Term]
 id: CO_340:0000334
@@ -6998,7 +6998,7 @@ relationship: scale_of CO_340:0000333
 
 [Term]
 id: CO_340:0000333
-name: 
+name: No method name found
 relationship: method_of CO_340:0000332
 
 [Term]
@@ -7007,7 +7007,7 @@ name: TOTAL PODS HARVESTED
 namespace: CowpeaTrait
 def: "Total pods harvested" []
 synonym: "TPDHV" EXACT []
-is_a: CO_340:Agronomical traits
+is_a: CO_340:Agronomical%20traits
 
 [Term]
 id: CO_340:0000331
@@ -7017,7 +7017,7 @@ relationship: scale_of CO_340:0000330
 
 [Term]
 id: CO_340:0000330
-name: 
+name: No method name found
 relationship: method_of CO_340:0000329
 
 [Term]
@@ -7026,7 +7026,7 @@ name: TOTAL SEED HARVESTED
 namespace: CowpeaTrait
 def: "Total seed harvested" []
 synonym: "TSDHV" EXACT []
-is_a: CO_340:Agronomical traits
+is_a: CO_340:Agronomical%20traits
 
 [Term]
 id: CO_340:0000328
@@ -7036,7 +7036,7 @@ relationship: scale_of CO_340:0000327
 
 [Term]
 id: CO_340:0000327
-name: 
+name: No method name found
 namespace: CowpeaMethod
 def: "Record date when plot is harvested" []
 relationship: method_of CO_340:0000326
@@ -7047,7 +7047,7 @@ name: Harvest date
 namespace: CowpeaTrait
 def: "Date test was harvested" []
 synonym: "HVDATE" EXACT []
-is_a: CO_340:Agronomical traits
+is_a: CO_340:Agronomical%20traits
 
 [Term]
 id: CO_340:0000325
@@ -7108,7 +7108,7 @@ name: Blackeye cowpea mosaic virus severity
 namespace: CowpeaTrait
 def: "Severity of the symtoms caused by cowpea blackeye mosaic virus" []
 synonym: "BLCMV" EXACT []
-is_a: CO_340:Biotic stress traits
+is_a: CO_340:Biotic%20stress%20traits
 
 [Term]
 id: CO_340:0000322
@@ -7129,7 +7129,7 @@ name: Number of Striga
 namespace: CowpeaTrait
 def: "Number of striga emerged" []
 synonym: "StrNo" EXACT []
-is_a: CO_340:Biotic stress traits
+is_a: CO_340:Biotic%20stress%20traits
 
 [Term]
 id: CO_340:0000319
@@ -7190,7 +7190,7 @@ name: Pod sucking bug severity
 namespace: CowpeaTrait
 def: "Severity of pod sucking bug symptoms" []
 synonym: "PODSB" EXACT []
-is_a: CO_340:Biotic stress traits
+is_a: CO_340:Biotic%20stress%20traits
 
 [Term]
 id: CO_340:0000316
@@ -7211,7 +7211,7 @@ name: Date of Striga emergence
 namespace: CowpeaTrait
 def: "Date of Striga emergence" []
 synonym: "STREM" EXACT []
-is_a: CO_340:Biotic stress traits
+is_a: CO_340:Biotic%20stress%20traits
 
 [Term]
 id: CO_340:0000313
@@ -7221,7 +7221,7 @@ relationship: scale_of CO_340:0000312
 
 [Term]
 id: CO_340:0000312
-name: 
+name: No method name found
 relationship: method_of CO_340:0000311
 
 [Term]
@@ -7230,7 +7230,7 @@ name: INSECTS
 namespace: CowpeaTrait
 def: "Insect infestation" []
 synonym: "INST" EXACT []
-is_a: CO_340:Biotic stress traits
+is_a: CO_340:Biotic%20stress%20traits
 
 [Term]
 id: CO_340:0000310
@@ -7293,7 +7293,7 @@ def: "Pod damage caused by Maruca (insect) attack" []
 synonym: "Maruca resistance" EXACT []
 synonym: " Resistance to Maruca" EXACT []
 synonym: "MARUCA" EXACT []
-is_a: CO_340:Biotic stress traits
+is_a: CO_340:Biotic%20stress%20traits
 
 [Term]
 id: CO_340:0000307
@@ -7303,7 +7303,7 @@ relationship: scale_of CO_340:0000306
 
 [Term]
 id: CO_340:0000306
-name: 
+name: No method name found
 relationship: method_of CO_340:0000305
 
 [Term]
@@ -7312,7 +7312,7 @@ name: DISEASES
 namespace: CowpeaTrait
 def: "Disease score" []
 synonym: "DISES" EXACT []
-is_a: CO_340:Biotic stress traits
+is_a: CO_340:Biotic%20stress%20traits
 
 [Term]
 id: CO_340:0000304
@@ -7333,7 +7333,7 @@ name: Pods per peduncule
 namespace: CowpeaTrait
 def: "number of pods per peduncles" []
 synonym: "PODPED" EXACT []
-is_a: CO_340:Agronomical traits
+is_a: CO_340:Agronomical%20traits
 
 [Term]
 id: CO_340:0000301
@@ -7394,7 +7394,7 @@ name: Thrip damage to podset
 namespace: CowpeaTrait
 def: "Damage to podset caused by thrips" []
 synonym: "THRIPDAM" EXACT []
-is_a: CO_340:Biotic stress traits
+is_a: CO_340:Biotic%20stress%20traits
 
 [Term]
 id: CO_340:0000298
@@ -7455,7 +7455,7 @@ name: Cowpea aphid-borne mosaic virus severity
 namespace: CowpeaTrait
 def: "Severity of the symtoms caused by cowpea aphid-borne mosaic virus" []
 synonym: "CAMV" EXACT []
-is_a: CO_340:Biotic stress traits
+is_a: CO_340:Biotic%20stress%20traits
 
 [Term]
 id: CO_340:0000295
@@ -7477,7 +7477,7 @@ namespace: CowpeaTrait
 def: "Ratio of grain weight over plant biomass" []
 synonym: "Plant biomass partitioning" EXACT []
 synonym: "HI" EXACT []
-is_a: CO_340:Agronomical traits
+is_a: CO_340:Agronomical%20traits
 
 [Term]
 id: CO_340:0000292
@@ -7539,7 +7539,7 @@ namespace: CowpeaTrait
 def: "Resistance to Striga gesnerioides parasitic weed." []
 synonym: "PLOT INFECTED WITH STRIGA" EXACT []
 synonym: "STRRES" EXACT []
-is_a: CO_340:Biotic stress traits
+is_a: CO_340:Biotic%20stress%20traits
 
 [Term]
 id: CO_340:0000286
@@ -7549,7 +7549,7 @@ relationship: scale_of CO_340:0000285
 
 [Term]
 id: CO_340:0000285
-name: 
+name: No method name found
 namespace: CowpeaMethod
 def: "Weighing" []
 relationship: method_of CO_340:0000284
@@ -7560,7 +7560,7 @@ name: PODS KG/H
 namespace: CowpeaTrait
 def: "POD weight Kg/ha" []
 synonym: "PDWT" EXACT []
-is_a: CO_340:Agronomical traits
+is_a: CO_340:Agronomical%20traits
 
 [Term]
 id: CO_340:0000283
@@ -7621,7 +7621,7 @@ name: Brown blotch
 namespace: CowpeaTrait
 def: "Infestation by Brown blotch" []
 synonym: "BRBL" EXACT []
-is_a: CO_340:Biotic stress traits
+is_a: CO_340:Biotic%20stress%20traits
 
 [Term]
 id: CO_340:0000280
@@ -7642,7 +7642,7 @@ name: Virus Incidence
 namespace: CowpeaTrait
 def: "Proportion of plant infected by virus" []
 synonym: "VIRINC" EXACT []
-is_a: CO_340:Biotic stress traits
+is_a: CO_340:Biotic%20stress%20traits
 
 [Term]
 id: CO_340:0000277
@@ -7703,7 +7703,7 @@ name: Virus Severity
 namespace: CowpeaTrait
 def: "Severity of symptoms caused by viruses" []
 synonym: "VIRSEV" EXACT []
-is_a: CO_340:Biotic stress traits
+is_a: CO_340:Biotic%20stress%20traits
 
 [Term]
 id: CO_340:0000274
@@ -7772,7 +7772,7 @@ name: Seed coat pattern
 namespace: CowpeaTrait
 def: "Seedcoat pattern" []
 synonym: "SDPATRN" EXACT []
-is_a: CO_340:Quality traits
+is_a: CO_340:Quality%20traits
 
 [Term]
 id: CO_340:0000271
@@ -7833,7 +7833,7 @@ name: Drought induced senescence
 namespace: CowpeaTrait
 def: "Plant senescence due to drought" []
 synonym: "FLDSN" EXACT []
-is_a: CO_340:Abiotic stress traits
+is_a: CO_340:Abiotic%20stress%20traits
 
 [Term]
 id: CO_340:0000268
@@ -8015,7 +8015,7 @@ synonym: "Head count" EXACT []
 synonym: " Net stand" EXACT []
 synonym: "" EXACT []
 synonym: "PSTAND" EXACT []
-is_a: CO_340:Agronomical traits
+is_a: CO_340:Agronomical%20traits
 
 [Term]
 id: CO_340:0000247
@@ -8037,7 +8037,7 @@ name: Grain yield per plot
 namespace: CowpeaTrait
 def: "Harvested grain weight" []
 synonym: "YLDPLOT" EXACT []
-is_a: CO_340:Agronomical traits
+is_a: CO_340:Agronomical%20traits
 
 [Term]
 id: CO_340:0000244
@@ -8059,7 +8059,7 @@ name: Grain yield per plant
 namespace: CowpeaTrait
 def: "Harvested grain weight" []
 synonym: "YLDPLANT" EXACT []
-is_a: CO_340:Agronomical traits
+is_a: CO_340:Agronomical%20traits
 
 [Term]
 id: CO_340:0000241
@@ -8080,7 +8080,7 @@ name: Seed per pod
 namespace: CowpeaTrait
 def: "Number of seed per pod" []
 synonym: "SEEDPOD" EXACT []
-is_a: CO_340:Agronomical traits
+is_a: CO_340:Agronomical%20traits
 
 [Term]
 id: CO_340:0000238
@@ -8101,7 +8101,7 @@ name: Maturity time
 namespace: CowpeaTrait
 def: "Time to maturity" []
 synonym: "MatT" EXACT []
-is_a: CO_340:Phenological traits
+is_a: CO_340:Phenological%20traits
 
 [Term]
 id: CO_340:0000235
@@ -8122,7 +8122,7 @@ name: Flowering time
 namespace: CowpeaTrait
 def: "Flowering time" []
 synonym: "FlwT" EXACT []
-is_a: CO_340:Phenological traits
+is_a: CO_340:Phenological%20traits
 
 [Term]
 id: CO_340:00001094
