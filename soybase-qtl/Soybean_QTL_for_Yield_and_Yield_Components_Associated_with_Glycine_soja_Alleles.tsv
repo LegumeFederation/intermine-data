@@ -1,8 +1,8 @@
-TaxonID	3920
+TaxonID	3847
 Variety	Williams82
 MappingPopulation	Glycinemax(variety7499)_x_Glycinesoja(PI245331)
-Parent	Glycine max (variety 7499)
-Parent	Glycine soja (PI 245331)
+Parent	Glycinemax(variety7499)
+Parent	Glycinesoja(PI245331)
 Title	Soybean QTL for Yield and Yield Components Associated with Glycine soja Alleles
 Lodging 19-1	Lodging
 Lodging 19-2	Lodging
