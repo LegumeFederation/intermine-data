@@ -8,8 +8,3 @@ Median root width (DIRT)	TO:0000043
 Adventitious root angle (manual)	TO:0000043
 Max root width (DIRT)	TO:0000043
 Basal root angle (manuail)	TO:0000043
-## cowpea crop ontology
-Stem diameter (manual)	CO_340:0000695
-Stem diameter (DIRT)	CO_340:0000695
-Adventitious root angle (manual)	CO_340:0000693
-Basal root angle (manual)	CO_340:0000694
