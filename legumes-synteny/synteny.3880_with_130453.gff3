@@ -1,6 +1,10 @@
 ##gff-version 3
 ##date Wed May 18 16:01:29 2016
 ##source gbrowse gbgff gff3 dumper
+#SourceTaxonID  3880
+#SourceVariety  A17
+#TargetTaxonID  130453
+#TargetVariety  V14167
 Chr01	DAGchainer	syntenic_region	98846	469998	468.0	-	.	Name=Aradu.A06.1;median_Ks=0.8496;Target=Chr06:103325318..103727484
 Chr01	DAGchainer	syntenic_region	488273	737785	419.0	+	.	Name=Aradu.A06.2;median_Ks=1.0627;Target=Chr06:102945578..103169371
 Chr01	DAGchainer	syntenic_region	529208	824184	284.5	+	.	Name=Aradu.A08.3;Target=Chr08:7468284..8016323;median_Ks=1.0650

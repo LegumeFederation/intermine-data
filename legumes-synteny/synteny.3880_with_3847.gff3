@@ -1,6 +1,10 @@
 ##gff-version 3
 ##date Wed May 18 16:01:13 2016
 ##source gbrowse gbgff gff3 dumper
+#SourceTaxonID  3880
+#SourceVariety  A17
+#TargetTaxonID  3847
+#TargetVariety  Williams82
 Chr01	DAGchainer	syntenic_region	35910	359190	399.5	+	.	Name=Gm06.1;median_Ks=0.8361;Target=Chr06:6488093..7019054
 Chr01	DAGchainer	syntenic_region	35910	359190	428.7	+	.	Name=Gm04.2;Target=Chr04:6995190..7592779;median_Ks=0.9362
 Chr01	DAGchainer	syntenic_region	51361	110219	155.0	-	.	Name=Gm17.3;median_Ks=0.9688;Target=Chr17:28893388..29067542

@@ -1,6 +1,10 @@
 ##gff-version 3
 ##date Mon May  2 14:03:32 2016
 ##source gbrowse gbgff gff3 dumper
+#SourceTaxonID	130453
+#SourceVariety	V14167
+#TargetTaxonID	130454
+#TargetVariety	K30076	
 Aradu.A01	DAGchainer	syntenic_region	63347	127681	173.0	-	.	Name=Araip.B01.1;median_Ks=0.0430;Target=Araip.B01:17125379..17229197
 Aradu.A01	DAGchainer	syntenic_region	192586	942018	1158.4	-	.	Name=Araip.B01.2;Target=Araip.B01:14997114..16889071;median_Ks=0.0397
 Aradu.A01	DAGchainer	syntenic_region	989565	1217270	719.3	-	.	Name=Araip.B01.3;Target=Araip.B01:14150373..14760937;median_Ks=0.0422
