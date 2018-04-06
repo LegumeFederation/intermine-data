@@ -3826,7 +3826,7 @@ is_a: CO_340:Agronomical%20traits
 id: CO_340:0000689
 name: Seed thickness
 namespace: CowpeaTrait
-def: "Tickness of the seed" []
+def: "Thickness of the seed" []
 synonym: "SeeThi" EXACT []
 is_a: CO_340:Morphological%20traits
 
@@ -3858,7 +3858,7 @@ is_a: CO_340:Morphological%20traits
 id: CO_340:0000685
 name: Pod wall thickness
 namespace: CowpeaTrait
-def: "Tickness of pod wall" []
+def: "Thickness of pod wall" []
 synonym: "PodWaiTh" EXACT []
 is_a: CO_340:Morphological%20traits
 

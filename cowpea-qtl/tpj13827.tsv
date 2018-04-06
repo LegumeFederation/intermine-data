@@ -3,10 +3,20 @@ Variety	IT97K-499-35
 MappingPopulation	MAGIC-2017
 PMID	29356213
 #QTL			Trait
-MAGIC-2017.ft.ld	Flowering time under long daylength at UCR-CES
-MAGIC-2017.ft.sd	Flowering time under short daylength at CVARS
-MAGIC-2017.gh.ld	Growth habit under long daylength at UCR-CES
-MAGIC-2017.gh.sd	Growth habit under short daylength at CVARS
-MAGIC-2017.seedsize.sd	Seed size at CVARS (short daylength)
-MAGIC-2017.mat.ni	Maturity at CVARS under normal irrigation
-MAGIC-2017.mat.ri	Maturity at CVARS under restricted irrigation
+MAGIC-2017.ft.ld.4	Flowering time under long daylength at UCR-CES
+MAGIC-2017.ft.ld.5	Flowering time under long daylength at UCR-CES
+MAGIC-2017.ft.ld.9	Flowering time under long daylength at UCR-CES
+MAGIC-2017.ft.ld.11	Flowering time under long daylength at UCR-CES
+MAGIC-2017.ft.sd.1	Flowering time under short daylength at CVARS
+MAGIC-2017.ft.sd.4	Flowering time under short daylength at CVARS
+MAGIC-2017.ft.sd.5	Flowering time under short daylength at CVARS
+MAGIC-2017.ft.sd.9	Flowering time under short daylength at CVARS
+MAGIC-2017.gh.ld.1	Growth habit under long daylength at UCR-CES
+MAGIC-2017.gh.ld.9	Growth habit under long daylength at UCR-CES
+MAGIC-2017.gh.sd.1	Growth habit under short daylength at CVARS
+MAGIC-2017.ss.sd.6	Seed size at CVARS (short daylength)
+MAGIC-2017.ss.sd.8	Seed size at CVARS (short daylength)
+MAGIC-2017.mat.ni.5	Maturity at CVARS under normal irrigation
+MAGIC-2017.mat.ri.2	Maturity at CVARS under restricted irrigation
+MAGIC-2017.mat.ri.5	Maturity at CVARS under restricted irrigation
+MAGIC-2017.mat.ri.9	Maturity at CVARS under restricted irrigation
