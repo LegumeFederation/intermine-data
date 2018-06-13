@@ -1,0 +1,52 @@
+TaxonID	3847
+Variety	Williams82
+experiment_id	3
+experiment_type	GWAS
+SoyBase_ID	KGK20170712.1
+platform_name	BARCSoySNP6K
+platform_details	Illumina BeadChip
+number_loci_tested	6000
+number_germplasm_tested	169
+#gwas_id	gwas_name	other_name	gwas_family	gwas_class	trait_SOY_number	QTL_type	QTL_category	locus_id	locus_name	p_value	LOD	R2	chromosome	linkage_group	qtl_start	qtl_end
+42	Seed yield 3-g1		Seed yield 3	Seed yield	SOY:0001622	QTL_yield	seed_composition_and_yield	94411	ss715613203			11.97	Gm12	H	5718212	5718212
+43	Seed yield 3-g2		Seed yield 3	Seed yield	SOY:0001622	QTL_yield	seed_composition_and_yield	94325	ss715613104			11.92	Gm12	H	4671136	4671136
+44	Seed yield 3-g3		Seed yield 3	Seed yield	SOY:0001622	QTL_yield	seed_composition_and_yield	94415	ss715613207			11.92	Gm12	H	5797709	5797709
+45	Seed yield 3-g4		Seed yield 3	Seed yield	SOY:0001622	QTL_yield	seed_composition_and_yield	94401	ss715613192			10.17	Gm12	H	5622210	5622210
+46	Seed yield 3-g5		Seed yield 3	Seed yield	SOY:0001622	QTL_yield	seed_composition_and_yield	98196	ss715614920			9.14	Gm13	F	30157326	30157326
+47	Seed yield 3-g6		Seed yield 3	Seed yield	SOY:0001622	QTL_yield	seed_composition_and_yield	76376	ss715593323			15.83	Gm06	C2	15074536	15074536
+48	Seed weight 3-g1		Seed weight 3	Seed weight	SOY:0001629	QTL_other-seed	plant_architecture	72963	ss715592623			9.92	Gm05	A1	105085	105085
+49	Seed weight 3-g2		Seed weight 3	Seed weight	SOY:0001629	QTL_other-seed	plant_architecture	72971	ss715592632			9.92	Gm05	A1	21750	21750
+50	Seed weight 3-g3		Seed weight 3	Seed weight	SOY:0001629	QTL_other-seed	plant_architecture	94411	ss715613203			9.92	Gm12	H	5718212	5718212
+51	Seed weight 3-g4		Seed weight 3	Seed weight	SOY:0001629	QTL_other-seed	plant_architecture	94415	ss715613207			12.89	Gm12	H	5797709	5797709
+52	Seed weight 3-g5		Seed weight 3	Seed weight	SOY:0001629	QTL_other-seed	plant_architecture	94325	ss715613104			12.33	Gm12	H	4671136	4671136
+53	Seed weight 3-g6		Seed weight 3	Seed weight	SOY:0001629	QTL_other-seed	plant_architecture	91585	ss715610817			10.08	Gm11	B1	5074720	5074720
+54	Seed weight 3-g7		Seed weight 3	Seed weight	SOY:0001629	QTL_other-seed	plant_architecture	78847	ss715598558			9.78	Gm07	M	6985620	6985620
+55	Seed weight 3-g8		Seed weight 3	Seed weight	SOY:0001629	QTL_other-seed	plant_architecture	94411	ss715613203			8.92	Gm12	H	5718212	5718212
+56	Plant height 3-g1		Plant height 3	Plant height	SOY:0001365	QTL_whole-plant	plant_architecture	118351	ss715635468			17.51	Gm19	L	45324187	45324187
+57	Plant height 3-g2		Plant height 3	Plant height	SOY:0001365	QTL_whole-plant	plant_architecture	118338	ss715635454			14.68	Gm19	L	45266572	45266572
+58	Plant height 3-g3		Plant height 3	Plant height	SOY:0001365	QTL_whole-plant	plant_architecture	118387	ss715635506			16.86	Gm19	L	45557339	45557339
+59	Plant height 3-g4		Plant height 3	Plant height	SOY:0001365	QTL_whole-plant	plant_architecture	118401	ss715635520			16.76	Gm19	L	45642661	45642661
+60	Plant height 3-g5		Plant height 3	Plant height	SOY:0001365	QTL_whole-plant	plant_architecture	118310	ss715635425			16.08	Gm19	L	45204029	45204029
+61	Plant height 3-g6		Plant height 3	Plant height	SOY:0001365	QTL_whole-plant	plant_architecture	118360	ss715635477			15.12	Gm19	L	45370182	45370182
+62	Plant height 3-g7		Plant height 3	Plant height	SOY:0001365	QTL_whole-plant	plant_architecture	118376	ss715635494			14.53	Gm19	L	45478026	45478026
+63	Plant height 3-g8		Plant height 3	Plant height	SOY:0001365	QTL_whole-plant	plant_architecture	118318	ss715635433			13.29	ZZ	ZZ	0	0
+64	Plant height 3-g9		Plant height 3	Plant height	SOY:0001365	QTL_whole-plant	plant_architecture	118289	ss715635403			11.68	Gm19	L	44964716	44964716
+65	Plant height 3-g10		Plant height 3	Plant height	SOY:0001365	QTL_whole-plant	plant_architecture	84563	ss715601733			11.08	Gm08	A2	40596492	40596492
+66	Plant height 3-g11		Plant height 3	Plant height	SOY:0001365	QTL_whole-plant	plant_architecture	116767	ss715633774			10.66	Gm19	L	32352993	32352993
+67	Plant height 3-g12		Plant height 3	Plant height	SOY:0001365	QTL_whole-plant	plant_architecture	92942	ss715609800			10.46	Gm11	B1	19062168	19062168
+68	Plant height 3-g13		Plant height 3	Plant height	SOY:0001365	QTL_whole-plant	plant_architecture	63591	ss715581751			10.01	Gm02	D1b	2967798	2967798
+69	Plant height 3-g14		Plant height 3	Plant height	SOY:0001365	QTL_whole-plant	plant_architecture	115299	ss715632400			9.72	Gm18	G	56876857	56876857
+70	Plant height 3-g15		Plant height 3	Plant height	SOY:0001365	QTL_whole-plant	plant_architecture	117828	ss715634905			9.55	Gm19	L	39924241	39924241
+71	Plant height 3-g16		Plant height 3	Plant height	SOY:0001365	QTL_whole-plant	plant_architecture	105422	ss715622494			9.42	Gm15	E	49521249	49521249
+72	Plant height 3-g17		Plant height 3	Plant height	SOY:0001365	QTL_whole-plant	plant_architecture	68638	ss715585767			9.13	Gm03	N	36845000	36845000
+73	Plant height 3-g18		Plant height 3	Plant height	SOY:0001365	QTL_whole-plant	plant_architecture	118170	ss715635276			27.7	Gm19	L	43321090	43321090
+74	Plant height 3-g19		Plant height 3	Plant height	SOY:0001365	QTL_whole-plant	plant_architecture	118122	ss715635224			27.26	Gm19	L	42660205	42660205
+75	Plant height 3-g20		Plant height 3	Plant height	SOY:0001365	QTL_whole-plant	plant_architecture	86957	ss715603983			23.77	Gm09	K	40608419	40608419
+76	Plant height 3-g21		Plant height 3	Plant height	SOY:0001365	QTL_whole-plant	plant_architecture	100706	ss715619979			12.35	scaffold_28	K	64787	64787
+77	Plant height 3-g22		Plant height 3	Plant height	SOY:0001365	QTL_whole-plant	plant_architecture	120566	ss715637988			12.01	Gm20	I	38957276	38957276
+78	Plant height 3-g23		Plant height 3	Plant height	SOY:0001365	QTL_whole-plant	plant_architecture	120544	ss715637964			12.01	Gm20	I	38511359	38511359
+79	Plant height 3-g24		Plant height 3	Plant height	SOY:0001365	QTL_whole-plant	plant_architecture	120569	ss715637991			11.43	Gm20	I	39009502	39009502
+80	Plant height 3-g25		Plant height 3	Plant height	SOY:0001365	QTL_whole-plant	plant_architecture	100695	ss715619968			11.22	scaffold_28	I	122454	122454
+81	Plant height 3-g26		Plant height 3	Plant height	SOY:0001365	QTL_whole-plant	plant_architecture	75037	ss715592226			17.92	Gm05	A1	38700130	38700130
+82	Plant height 3-g27		Plant height 3	Plant height	SOY:0001365	QTL_whole-plant	plant_architecture	75049	ss715592240			17.92	Gm05	A1	38597425	38597425
+83	Plant height 3-g28		Plant height 3	Plant height	SOY:0001365	QTL_whole-plant	plant_architecture	75042	ss715592231			15.15	Gm05	A1	38679910	38679910

@@ -1,0 +1,52 @@
+TaxonID	3847
+Variety	Williams82
+experiment_id	8
+experiment_type	GWAS
+SoyBase_ID	KGK20170908.1
+number_loci_tested	116769
+number_germplasm_tested	366
+#gwas_id      gwas_name	other_name	gwas_family	gwas_class	trait_SOY_number	QTL_type	QTL_category	locus_id	locus_name	p_value	LOD	R2	chromosome	linkage_group	qtl_start	qtl_end
+784	Seed isoflavone 1-g1	qSifc-a-01-1	Seed isoflavone 1	Seed isoflavone	SOY:0001849	QTL_other-seed	seed_composition_and_yield	7284	Gm01_BLOCK159	3.36E-05		0.7	Gm01	D1a	18427457	18427457
+785	Seed isoflavone 1-g2	qSifc-a-01-2	Seed isoflavone 1	Seed isoflavone	SOY:0001849	QTL_other-seed	seed_composition_and_yield	7285	Gm01_BLOCK329	0.000553084		0.5	Gm01	D1a	48550634	48550634
+786	Seed isoflavone 1-g3	qSifc-a-02-1	Seed isoflavone 1	Seed isoflavone	SOY:0001849	QTL_other-seed	seed_composition_and_yield	7312	Gm02_7555638	0.007446583		0.3	Gm02	D1b	7644953	7644953
+787	Seed isoflavone 1-g4	qSifc-a-02-2	Seed isoflavone 1	Seed isoflavone	SOY:0001849	QTL_other-seed	seed_composition_and_yield	7313	Gm02_9665788	8.62E-21		2.9	Gm02	D1b	9665787	9665787
+788	Seed isoflavone 1-g5	qSifc-a-02-3	Seed isoflavone 1	Seed isoflavone	SOY:0001849	QTL_other-seed	seed_composition_and_yield	7314	Gm02_15308691	1.29E-22		3.1	Gm02	D1b	9763140	9763140
+789	Seed isoflavone 1-g6	qSifc-a-02-4	Seed isoflavone 1	Seed isoflavone	SOY:0001849	QTL_other-seed	seed_composition_and_yield	7286	Gm02_BLOCK204	1.83E-41		6.4	Gm02	D1b	21930371	21930371
+790	Seed isoflavone 1-g7	qSifc-a-02-5	Seed isoflavone 1	Seed isoflavone	SOY:0001849	QTL_other-seed	seed_composition_and_yield	7287	Gm02_BLOCK267	4.27E-20		2.9	Gm02	D1b	31375330	31375330
+791	Seed isoflavone 1-g8	qSifc-a-03-1	Seed isoflavone 1	Seed isoflavone	SOY:0001849	QTL_other-seed	seed_composition_and_yield	7315	Gm03_2279362	0.000111666		0.5	Gm03	N	2289038	2289038
+792	Seed isoflavone 1-g9	qSifc-a-03-2	Seed isoflavone 1	Seed isoflavone	SOY:0001849	QTL_other-seed	seed_composition_and_yield	7288	Gm03_BLOCK51	0.022370772		0.3	Gm03	N	4827545	4827545
+793	Seed isoflavone 1-g10	qSifc-a-03-3	Seed isoflavone 1	Seed isoflavone	SOY:0001849	QTL_other-seed	seed_composition_and_yield	7289	Gm03_BLOCK135	0.000675539		0.7	Gm03	N	15708348	15708348
+794	Seed isoflavone 1-g11	qSifc-a-03-4	Seed isoflavone 1	Seed isoflavone	SOY:0001849	QTL_other-seed	seed_composition_and_yield	7290	Gm03_BLOCK187	0.00012341		0.9	Gm03	N	22671129	22671129
+795	Seed isoflavone 1-g12	qSifc-a-03-5	Seed isoflavone 1	Seed isoflavone	SOY:0001849	QTL_other-seed	seed_composition_and_yield	7291	Gm03_BLOCK231	2.30E-51		8.2	Gm03	N	29166645	29166645
+796	Seed isoflavone 1-g13	qSifc-a-03-6	Seed isoflavone 1	Seed isoflavone	SOY:0001849	QTL_other-seed	seed_composition_and_yield	7292	Gm03_BLOCK281	0.000335463		0.6	Gm03	N	35773496	35773496
+797	Seed isoflavone 1-g14	qSifc-a-03-7	Seed isoflavone 1	Seed isoflavone	SOY:0001849	QTL_other-seed	seed_composition_and_yield	7293	Gm03_BLOCK286	3.49E-19		2.8	Gm03	N	36152319	36152319
+798	Seed isoflavone 1-g15	qSifc-a-04-1	Seed isoflavone 1	Seed isoflavone	SOY:0001849	QTL_other-seed	seed_composition_and_yield	7316	Gm04_3377494	2.05E-06		0.7	Gm04	C1	3434561	3434561
+799	Seed isoflavone 1-g16	qSifc-a-04-2	Seed isoflavone 1	Seed isoflavone	SOY:0001849	QTL_other-seed	seed_composition_and_yield	7294	Gm04_BLOCK77	1.87E-11		1.8	Gm04	C1	8556335	8556335
+800	Seed isoflavone 1-g17	qSifc-a-04-3	Seed isoflavone 1	Seed isoflavone	SOY:0001849	QTL_other-seed	seed_composition_and_yield	7295	Gm04_BLOCK106	3.78E-12		1.9	Gm04	C1	10946510	10946510
+801	Seed isoflavone 1-g18	qSifc-a-04-4	Seed isoflavone 1	Seed isoflavone	SOY:0001849	QTL_other-seed	seed_composition_and_yield	7296	Gm04_BLOCK202	0.004086771		0.4	Gm04	C1	23610412	23610412
+802	Seed isoflavone 1-g19	qSifc-a-04-5	Seed isoflavone 1	Seed isoflavone	SOY:0001849	QTL_other-seed	seed_composition_and_yield	7317	Gm04_47568317	1.89E-15		2.1	Gm04	C1	50699328	50699328
+803	Seed isoflavone 1-g20	qSifc-a-05-1	Seed isoflavone 1	Seed isoflavone	SOY:0001849	QTL_other-seed	seed_composition_and_yield	7297	Gm05_BLOCK67	0.000370744		0.6	Gm05	A1	23880950	23880950
+804	Seed isoflavone 1-g21	qSifc-a-05-2	Seed isoflavone 1	Seed isoflavone	SOY:0001849	QTL_other-seed	seed_composition_and_yield	7298	Gm05_BLOCK190	9.80E-32		4.6	Gm05	A1	38521436	38521436
+805	Seed isoflavone 1-g22	qSifc-a-05-3	Seed isoflavone 1	Seed isoflavone	SOY:0001849	QTL_other-seed	seed_composition_and_yield	7299	Gm05_BLOCK213	1.54E-13		2	Gm05	A1	41371562	41371562
+806	Seed isoflavone 1-g23	qSifc-a-06-1	Seed isoflavone 1	Seed isoflavone	SOY:0001849	QTL_other-seed	seed_composition_and_yield	7318	Gm06_29614031	0.022370772		0.2	Gm06	C2	30507058	30507058
+807	Seed isoflavone 1-g24	qSifc-a-08-1	Seed isoflavone 1	Seed isoflavone	SOY:0001849	QTL_other-seed	seed_composition_and_yield	7300	Gm08_BLOCK10	2.28E-09		1.2	Gm08	A2	2024128	2024128
+808	Seed isoflavone 1-g25	qSifc-a-08-2	Seed isoflavone 1	Seed isoflavone	SOY:0001849	QTL_other-seed	seed_composition_and_yield	7301	Gm08_BLOCK107	0.006737947		0.4	Gm08	A2	15354741	15354741
+809	Seed isoflavone 1-g26	qSifc-a-09-1	Seed isoflavone 1	Seed isoflavone	SOY:0001849	QTL_other-seed	seed_composition_and_yield	7302	Gm09_BLOCK243	0.000675539		0.6	Gm09	K	30084398	30084398
+810	Seed isoflavone 1-g27	qSifc-a-09-2	Seed isoflavone 1	Seed isoflavone	SOY:0001849	QTL_other-seed	seed_composition_and_yield	7303	Gm09_BLOCK276	1.52E-07		1.1	Gm09	K	34921967	34921967
+811	Seed isoflavone 1-g28	qSifc-a-10-1	Seed isoflavone 1	Seed isoflavone	SOY:0001849	QTL_other-seed	seed_composition_and_yield	7304	Gm10_BLOCK181	1.01E-05		0.8	Gm10	O	23605189	23605189
+812	Seed isoflavone 1-g29	qSifc-a-10-2	Seed isoflavone 1	Seed isoflavone	SOY:0001849	QTL_other-seed	seed_composition_and_yield	7319	Gm10_46060044	0.000675539		0.4	Gm10	O	46629832	46629832
+813	Seed isoflavone 1-g30	qSifc-a-10-3	Seed isoflavone 1	Seed isoflavone	SOY:0001849	QTL_other-seed	seed_composition_and_yield	7305	Gm10_BLOCK381	5.65E-12		1.8	Gm10	O	48995252	48995252
+814	Seed isoflavone 1-g31	qSifc-a-12-1	Seed isoflavone 1	Seed isoflavone	SOY:0001849	QTL_other-seed	seed_composition_and_yield	7320	Gm12_24806866	1.37E-05		0.6	Gm12	H	21011320	21011320
+815	Seed isoflavone 1-g32	qSifc-a-13-1	Seed isoflavone 1	Seed isoflavone	SOY:0001849	QTL_other-seed	seed_composition_and_yield	7321	Gm13_35947620	2.25E-05		0.6	Gm13	F	37088743	37088743
+816	Seed isoflavone 1-g33	qSifc-a-14-1	Seed isoflavone 1	Seed isoflavone	SOY:0001849	QTL_other-seed	seed_composition_and_yield	7322	Gm14_14739875	2.14E-24		3.4	Gm14	B2	14530947	14530947
+817	Seed isoflavone 1-g34	qSifc-a-15-1	Seed isoflavone 1	Seed isoflavone	SOY:0001849	QTL_other-seed	seed_composition_and_yield	7306	Gm15_BLOCK78	3.41E-10		1.4	Gm15	E	11618019	11618019
+818	Seed isoflavone 1-g35	qSifc-a-15-2	Seed isoflavone 1	Seed isoflavone	SOY:0001849	QTL_other-seed	seed_composition_and_yield	7307	Gm15_BLOCK375	3.06E-07		1.1	Gm15	E	48071457	48071457
+819	Seed isoflavone 1-g36	qSifc-a-18-1	Seed isoflavone 1	Seed isoflavone	SOY:0001849	QTL_other-seed	seed_composition_and_yield	7308	Gm18_BLOCK368	1.09E-34		5.5	Gm18	G	46393508	46393508
+820	Seed isoflavone 1-g37	qSifc-a-18-2	Seed isoflavone 1	Seed isoflavone	SOY:0001849	QTL_other-seed	seed_composition_and_yield	7323	Gm18_56138428	2.04E-05		0.6	Gm18	G	51866256	51866256
+821	Seed isoflavone 1-g38	qSifc-a-18-3	Seed isoflavone 1	Seed isoflavone	SOY:0001849	QTL_other-seed	seed_composition_and_yield	7324	Gm18_57350313	3.45E-15		2	Gm18	G	53080827	53080827
+822	Seed isoflavone 1-g39	qSifc-a-18-4	Seed isoflavone 1	Seed isoflavone	SOY:0001849	QTL_other-seed	seed_composition_and_yield	7325	Gm18_61020284	0.013568559		0.2	Gm18	G	56722105	56722105
+823	Seed isoflavone 1-g40	qSifc-a-19-1	Seed isoflavone 1	Seed isoflavone	SOY:0001849	QTL_other-seed	seed_composition_and_yield	7309	Gm19_BLOCK23	6.31E-16		2.4	Gm19	L	3215723	3215723
+824	Seed isoflavone 1-g41	qSifc-a-20-1	Seed isoflavone 1	Seed isoflavone	SOY:0001849	QTL_other-seed	seed_composition_and_yield	7326	Gm20_14431547	2.78E-08		1	Gm20	I	10105383	10105383
+825	Seed isoflavone 1-g42	qSifc-a-20-2	Seed isoflavone 1	Seed isoflavone	SOY:0001849	QTL_other-seed	seed_composition_and_yield	7310	Gm20_BLOCK102	1.02E-06		1	Gm20	I	20382565	20382565
+826	Seed isoflavone 1-g43	qSifc-a-20-3	Seed isoflavone 1	Seed isoflavone	SOY:0001849	QTL_other-seed	seed_composition_and_yield	7327	Gm20_26093114	0.001113775		0.4	Gm20	I	27260157	27260157
+827	Seed isoflavone 1-g44	qSifc-a-20-4	Seed isoflavone 1	Seed isoflavone	SOY:0001849	QTL_other-seed	seed_composition_and_yield	7311	Gm20_BLOCK245	0.000452827		0.5	Gm20	I	37053466	37053466

@@ -1,0 +1,18 @@
+TaxonID	3847
+Variety	Williams82
+experiment_id	13
+experiment_type	GWAS
+SoyBase_ID	KGK20171018.1
+platform_name	SoySNP50K
+platform_details	Illumina BeadChip
+number_loci_tested	35009
+number_germplasm_tested	166
+#gwas_id	gwas_name	other_name	gwas_family	gwas_class	trait_SOY_number	QTL_type	QTL_category	locus_id	locus_name	p_value	LOD	R2	chromosome	linkage_group	qtl_start	qtl_end
+1116	Seed weight 7-g1		Seed weight 7	Seed weight	SOY:0001629	QTL_other-seed	plant_architecture	70741	ss715587337	0.000776247		0.075	Gm04	C1	30724329	30724329
+1117	Seed weight 7-g2		Seed weight 7	Seed weight	SOY:0001629	QTL_other-seed	plant_architecture	70748	ss715587354	0.000812831		0.073	Gm04	C1	30314753	30314753
+1118	Seed weight 7-g3		Seed weight 7	Seed weight	SOY:0001629	QTL_other-seed	plant_architecture	70805	ss715587463	0.000776247		0.073	Gm04	C1	32782075	32782075
+1119	Seed weight 7-g4		Seed weight 7	Seed weight	SOY:0001629	QTL_other-seed	plant_architecture	70868	ss715587560	3.02E-05		0.111	Gm04	C1	36376946	36376946
+1120	Seed weight 7-g5		Seed weight 7	Seed weight	SOY:0001629	QTL_other-seed	plant_architecture	71056	ss715587852	6.76E-06		0.128	Gm04	C1	40151473	40151473
+1121	Seed weight 7-g6		Seed weight 7	Seed weight	SOY:0001629	QTL_other-seed	plant_architecture	108297	ss715626515	0.000123027		0.092	Gm17	D2	2492277	2492277
+1122	Seed weight 7-g7		Seed weight 7	Seed weight	SOY:0001629	QTL_other-seed	plant_architecture	108298	ss715626516	2.82E-05		0.106	Gm17	D2	2492594	2492594
+1123	Seed weight 7-g8		Seed weight 7	Seed weight	SOY:0001629	QTL_other-seed	plant_architecture	108840	ss715628293	3.89E-06		0.132	Gm17	D2	8364226	8364226

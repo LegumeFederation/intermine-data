@@ -1,0 +1,92 @@
+TaxonID	3847
+Variety	Williams82
+experiment_id	15
+experiment_type	GWAS
+SoyBase_ID	KGK20170711.1
+platform_name	SoySNP50K
+platform_details	Ilumina BeadChip
+number_loci_tested	31045
+number_germplasm_tested	309
+#gwas_id	gwas_name	other_name	gwas_family	gwas_class	trait_SOY_number	QTL_type	QTL_category	locus_id	locus_name	p_value	LOD	R2	chromosome	linkage_group	qtl_start	qtl_end
+1155	First flower 2-g1	DTF	First flower 2	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	62691	ss715580093	4.50E-05			Gm01	D1a	51104169	51104169
+1156	First flower 2-g2	DTF	First flower 2	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	63794	ss715582789	1.90E-04			Gm02	D1b	4517364	4517364
+1157	First flower 2-g3	DTF	First flower 2	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	75478	ss715595388	1.50E-07			Gm06	C2	6079473	6079473
+1158	First flower 2-g4	DTF	First flower 2	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	76657	ss715593623	3.20E-05			Gm06	C2	16768958	16768958
+1159	First flower 2-g5	DTF	First flower 2	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	76991	ss715594028	4.40E-05			Gm06	C2	26102718	26102718
+1160	First flower 2-g6	DTF	First flower 2	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	78721	ss715598422	7.10E-05			Gm07	M	5995694	5995694
+1161	First flower 2-g7	DTF	First flower 2	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	78894	ss715598611	1.70E-04			Gm07	M	7433625	7433625
+1162	First flower 2-g8	DTF	First flower 2	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	79516	ss715595840	4.30E-05			Gm07	M	14243305	14243305
+1163	First flower 2-g9	DTF	First flower 2	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	81180	ss715597834	2.10E-04			Gm07	M	38950138	38950138
+1164	First flower 2-g10	DTF	First flower 2	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	83098	ss715599973	3.60E-05			Gm08	A2	17753910	17753910
+1165	First flower 2-g11	DTF	First flower 2	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	85070	ss715602265	4.80E-05			Gm08	A2	45505357	45505357
+1166	First flower 2-g12	DTF	First flower 2	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	85100	ss715602298	5.60E-06			Gm08	A2	45169252	45169252
+1167	First flower 2-g13	DTF	First flower 2	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	85115	ss715602313	5.20E-05			Gm08	A2	45665786	45665786
+1168	First flower 2-g14	DTF	First flower 2	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	85798	ss715604771	5.40E-05			Gm09	K	4431321	4431321
+1169	First flower 2-g15	DTF	First flower 2	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	86047	ss715605256	1.90E-04			Gm09	K	6155519	6155519
+1170	First flower 2-g16	DTF	First flower 2	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	86153	ss715605368	2.10E-05			Gm09	K	6936587	6936587
+1171	First flower 2-g17	DTF	First flower 2	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	91258	ss715609022	2.00E-04			Gm11	B1	1403993	1403993
+1172	First flower 2-g18	DTF	First flower 2	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	92684	ss715609443	2.10E-06			Gm11	B1	11169779	11169779
+1173	First flower 2-g19	DTF	First flower 2	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	99366	ss715616244	8.50E-05			Gm13	F	40878186	40878186
+1174	First flower 2-g20	DTF	First flower 2	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	100050	ss715618211	9.20E-05			Gm14	B2	2919862	2919862
+1175	First flower 2-g21	DTF	First flower 2	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	102073	ss715619036	2.80E-05			Gm14	B2	44753289	44753289
+1176	First flower 2-g22	DTF	First flower 2	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	113869	ss715630848	1.30E-05			Gm18	G	43901336	43901336
+1177	First flower 2-g23	DTF	First flower 2	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	115261	ss715632359	1.40E-06			Gm18	G	56570437	56570437
+1178	First flower 2-g24	DTF	First flower 2	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	117962	ss715635043	6.90E-05			Gm19	L	40854939	40854939
+1179	First flower 2-g25	DTF	First flower 2	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	118964	ss715637153	3.70E-05			Gm20	I	276646	276646
+1180	First flower 2-g26.1	DTF	First flower 2	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	119760	ss715637021	1.60E-06			Gm20	I	24888164	24888164
+1181	First flower 2-g26.2	DTF	First flower 2	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	119836	ss715637130	5.50E-08			Gm20	I	28156541	28156541
+1182	First flower 2-g26.3	DTF	First flower 2	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	119856	ss715637162	5.50E-08			Gm20	I	29014086	29014086
+1183	First flower 2-g26.4	DTF	First flower 2	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	119884	ss715637211	9.10E-08			Gm20	I	30358415	30358415
+1184	First flower 2-g26.5	DTF	First flower 2	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	119901	ss715637240	9.70E-08			Gm20	I	31127936	31127936
+1185	First flower 2-g27	DTF	First flower 2	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	121494	ss715638945	5.60E-05			Gm20	I	47859128	47859128
+1186	R8 full maturity 2-g1	DTM	R8 full maturity 2	R8 full maturity	SOY:0001646	QTL_reprod-period	seed_composition_and_yield	92079	ss715608733	5.20E-06			Gm11	B1	10183893	10183893
+1187	R8 full maturity 2-g2	DTM	R8 full maturity 2	R8 full maturity	SOY:0001646	QTL_reprod-period	seed_composition_and_yield	106002	ss715623784	2.50E-06			Gm16	J	2434861	2434861
+1188	R8 full maturity 2-g3	DTM	R8 full maturity 2	R8 full maturity	SOY:0001646	QTL_reprod-period	seed_composition_and_yield	106052	ss715623939	4.30E-06			Gm16	J	2849579	2849579
+1189	R8 full maturity 2-g4	DTM	R8 full maturity 2	R8 full maturity	SOY:0001646	QTL_reprod-period	seed_composition_and_yield	106082	ss715624268	3.80E-06			Gm16	J	3031911	3031911
+1190	R8 full maturity 2-g5	DTM	R8 full maturity 2	R8 full maturity	SOY:0001646	QTL_reprod-period	seed_composition_and_yield	118310	ss715635425	7.60E-06			Gm19	L	45204029	45204029
+1191	R8 full maturity 2-g6	DTM	R8 full maturity 2	R8 full maturity	SOY:0001646	QTL_reprod-period	seed_composition_and_yield	118618	ss715635754	1.10E-05			Gm19	L	48030545	48030545
+1192	Reproductive period 2-g1	DFTM	Reproductive period 2	Reproductive period	SOY:0002109	QTL_reprod-period	seed_composition_and_yield	66522	ss715583348	1.80E-05			Gm02	D1b	46908679	46908679
+1193	Reproductive period 2-g2	DFTM	Reproductive period 2	Reproductive period	SOY:0002109	QTL_reprod-period	seed_composition_and_yield	66927	ss715584534	8.60E-05			Gm03	N	1619330	1619330
+1194	Reproductive period 2-g3	DFTM	Reproductive period 2	Reproductive period	SOY:0002109	QTL_reprod-period	seed_composition_and_yield	67516	ss715586799	9.70E-05			Gm03	N	5219074	5219074
+1195	Reproductive period 2-g4	DFTM	Reproductive period 2	Reproductive period	SOY:0002109	QTL_reprod-period	seed_composition_and_yield	67712	ss715584375	1.50E-04			Gm03	N	10760346	10760346
+1196	Reproductive period 2-g5	DFTM	Reproductive period 2	Reproductive period	SOY:0002109	QTL_reprod-period	seed_composition_and_yield	68345	ss715585434	7.30E-06			Gm03	N	34307749	34307749
+1197	Reproductive period 2-g6	DFTM	Reproductive period 2	Reproductive period	SOY:0002109	QTL_reprod-period	seed_composition_and_yield	71013	ss715587783	4.20E-07			Gm04	C1	38274140	38274140
+1198	Reproductive period 2-g7	DFTM	Reproductive period 2	Reproductive period	SOY:0002109	QTL_reprod-period	seed_composition_and_yield	75784	ss715592690	1.90E-05			Gm06	C2	10283306	10283306
+1199	Reproductive period 2-g8	DFTM	Reproductive period 2	Reproductive period	SOY:0002109	QTL_reprod-period	seed_composition_and_yield	76533	ss715593498	2.30E-05			Gm06	C2	16216201	16216201
+1200	Reproductive period 2-g9	DFTM	Reproductive period 2	Reproductive period	SOY:0002109	QTL_reprod-period	seed_composition_and_yield	81668	ss715600310	5.10E-05			Gm08	A2	1969495	1969495
+1201	Reproductive period 2-g10	DFTM	Reproductive period 2	Reproductive period	SOY:0002109	QTL_reprod-period	seed_composition_and_yield	81797	ss715601228	8.30E-05			Gm08	A2	2639051	2639051
+1202	Reproductive period 2-g11	DFTM	Reproductive period 2	Reproductive period	SOY:0002109	QTL_reprod-period	seed_composition_and_yield	86149	ss715605364	2.70E-05			Gm09	K	6930651	6930651
+1203	Reproductive period 2-g12	DFTM	Reproductive period 2	Reproductive period	SOY:0002109	QTL_reprod-period	seed_composition_and_yield	87400	ss715604461	3.50E-06			Gm09	K	43869308	43869308
+1204	Reproductive period 2-g13	DFTM	Reproductive period 2	Reproductive period	SOY:0002109	QTL_reprod-period	seed_composition_and_yield	92036	ss715611295	1.80E-05			Gm11	B1	9361151	9361151
+1205	Reproductive period 2-g14	DFTM	Reproductive period 2	Reproductive period	SOY:0002109	QTL_reprod-period	seed_composition_and_yield	94312	ss715613088	5.70E-06			Gm12	H	4364475	4364475
+1206	Reproductive period 2-g15	DFTM	Reproductive period 2	Reproductive period	SOY:0002109	QTL_reprod-period	seed_composition_and_yield	102679	ss715621062	4.00E-05			Gm15	E	1609755	1609755
+1207	Reproductive period 2-g16	DFTM	Reproductive period 2	Reproductive period	SOY:0002109	QTL_reprod-period	seed_composition_and_yield	106002	ss715623784	4.20E-05			Gm16	J	2434861	2434861
+1208	Reproductive period 2-g17	DFTM	Reproductive period 2	Reproductive period	SOY:0002109	QTL_reprod-period	seed_composition_and_yield	106077	ss715624239	6.70E-06			Gm16	J	3022299	3022299
+1209	Reproductive period 2-g18	DFTM	Reproductive period 2	Reproductive period	SOY:0002109	QTL_reprod-period	seed_composition_and_yield	118360	ss715635477	6.50E-05			Gm19	L	45370182	45370182
+1210	Plant height 1-g1	PH	Plant height 1	Plant height	SOY:0001365	QTL_whole-plant	plant_architecture	69863	ss715589059	1.00E-07			Gm04	C1	5241170	5241170
+1211	Plant height 1-g2	PH	Plant height 1	Plant height	SOY:0001365	QTL_whole-plant	plant_architecture	76362	ss715593309	4.40E-05			Gm06	C2	14931917	14931917
+1212	Plant height 1-g3	PH	Plant height 1	Plant height	SOY:0001365	QTL_whole-plant	plant_architecture	84859	ss715602043	1.30E-05			Gm08	A2	43004161	43004161
+1213	Plant height 1-g4	PH	Plant height 1	Plant height	SOY:0001365	QTL_whole-plant	plant_architecture	86214	ss715605468	8.80E-05			Gm09	K	9575803	9575803
+1214	Plant height 1-g5	PH	Plant height 1	Plant height	SOY:0001365	QTL_whole-plant	plant_architecture	87370	ss715604430	1.60E-04			Gm09	K	43672912	43672912
+1215	Plant height 1-g6	PH	Plant height 1	Plant height	SOY:0001365	QTL_whole-plant	plant_architecture	87396	ss715604457	1.30E-05			Gm09	K	43862074	43862074
+1216	Plant height 1-g7	PH	Plant height 1	Plant height	SOY:0001365	QTL_whole-plant	plant_architecture	88850	ss715608556	7.20E-07			Gm10	O	7972370	7972370
+1217	Plant height 1-g8	PH	Plant height 1	Plant height	SOY:0001365	QTL_whole-plant	plant_architecture	91720	ss715610958	8.60E-06			Gm11	B1	6088565	6088565
+1218	Plant height 1-g9	PH	Plant height 1	Plant height	SOY:0001365	QTL_whole-plant	plant_architecture	93753	ss715611459	8.70E-05			Gm12	H	133176	133176
+1219	Plant height 1-g10	PH	Plant height 1	Plant height	SOY:0001365	QTL_whole-plant	plant_architecture	94803	ss715613644	9.60E-05			Gm12	H	8945837	8945837
+1220	Plant height 1-g11	PH	Plant height 1	Plant height	SOY:0001365	QTL_whole-plant	plant_architecture	99031	ss715615869	6.30E-06			Gm13	F	37183652	37183652
+1221	Plant height 1-g12	PH	Plant height 1	Plant height	SOY:0001365	QTL_whole-plant	plant_architecture	99152	ss715616002	1.90E-05			Gm13	F	37965132	37965132
+1222	Plant height 1-g13	PH	Plant height 1	Plant height	SOY:0001365	QTL_whole-plant	plant_architecture	99632	ss715616535	8.20E-06			Gm13	F	44357080	44357080
+1223	Plant height 1-g14	PH	Plant height 1	Plant height	SOY:0001365	QTL_whole-plant	plant_architecture	102457	ss715619471	1.40E-05			Gm14	B2	48022636	48022636
+1224	Plant height 1-g15	PH	Plant height 1	Plant height	SOY:0001365	QTL_whole-plant	plant_architecture	102839	ss715621573	5.00E-06			Gm15	E	3134912	3134912
+1225	Plant height 1-g16	PH	Plant height 1	Plant height	SOY:0001365	QTL_whole-plant	plant_architecture	104573	ss715621404	1.60E-05			Gm15	E	25814374	25814374
+1226	Plant height 1-g17	PH	Plant height 1	Plant height	SOY:0001365	QTL_whole-plant	plant_architecture	106349	ss715625240	4.50E-05			Gm16	J	5799540	5799540
+1227	Plant height 1-g18	PH	Plant height 1	Plant height	SOY:0001365	QTL_whole-plant	plant_architecture	107379	ss715624199	1.00E-08			Gm16	J	29940504	29940504
+1228	Plant height 1-g19	PH	Plant height 1	Plant height	SOY:0001365	QTL_whole-plant	plant_architecture	110642	ss715627698	2.70E-05			Gm17	D2	40051846	40051846
+1229	Plant height 1-g20	PH	Plant height 1	Plant height	SOY:0001365	QTL_whole-plant	plant_architecture	110668	ss715627726	5.80E-06			Gm17	D2	40271844	40271844
+1230	Plant height 1-g21	PH	Plant height 1	Plant height	SOY:0001365	QTL_whole-plant	plant_architecture	114927	ss715632003	6.20E-05			Gm18	G	54191166	54191166
+1231	Plant height 1-g22	PH	Plant height 1	Plant height	SOY:0001365	QTL_whole-plant	plant_architecture	115209	ss715632307	4.00E-05			Gm18	G	56236088	56236088
+1232	Plant height 1-g23	PH	Plant height 1	Plant height	SOY:0001365	QTL_whole-plant	plant_architecture	116231	ss715636462	1.50E-06			Gm19	L	8602885	8602885
+1233	Plant height 1-g24	PH	Plant height 1	Plant height	SOY:0001365	QTL_whole-plant	plant_architecture	118240	ss715635353	3.70E-11			Gm19	L	44592957	44592957
+1234	Plant height 1-g25	PH	Plant height 1	Plant height	SOY:0001365	QTL_whole-plant	plant_architecture	118310	ss715635425	3.00E-15			Gm19	L	45204029	45204029
+1235	Plant height 1-g26	PH	Plant height 1	Plant height	SOY:0001365	QTL_whole-plant	plant_architecture	118985	ss715637977	4.70E-05			Gm20	I	376574	376574
+1236	Plant height 1-g27	PH	Plant height 1	Plant height	SOY:0001365	QTL_whole-plant	plant_architecture	120388	ss715637802	7.50E-05			Gm20	I	37045242	37045242

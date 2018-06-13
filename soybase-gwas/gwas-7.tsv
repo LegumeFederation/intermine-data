@@ -1,0 +1,97 @@
+TaxonID	3847
+Variety	Williams82
+experiment_id	7
+experiment_type	GWAS
+SoyBase_ID	KGK20170825.1
+platform_name	SoySNP6K
+platform_details	Illumina iSelectBeadChip
+number_loci_tested	5279
+number_germplasm_tested	91
+#gwas_id	gwas_name	other_name	gwas_family	gwas_class	trait_SOY_number	QTL_type	QTL_category	locus_id	locus_name	p_value	LOD	R2	chromosome	linkage_group	qtl_start	qtl_end
+697	First flower 4-g1		First flower 4	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	63003	ss715580441				Gm01	D1a	54163222	54163222
+698	First flower 4-g2		First flower 4	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	63019	ss715580458				Gm01	D1a	54583798	54583798
+699	First flower 4-g3		First flower 4	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	64628	ss715580930				Gm02	D1b	10618540	10618540
+700	First flower 4-g4		First flower 4	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	64743	ss715581063				Gm02	D1b	12334435	12334435
+701	First flower 4-g5		First flower 4	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	65137	ss715581544				Gm02	D1b	21859307	21859307
+702	First flower 4-g6		First flower 4	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	14148	Sat_135				Gm02	D1b	37285448	37285642
+703	First flower 4-g7		First flower 4	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	66862	ss715584359				Gm03	N	1094327	1094327
+704	First flower 4-g8		First flower 4	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	67564	ss715586851				Gm03	N	5405718	5405718
+705	First flower 4-g9		First flower 4	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	68391	ss715585486				Gm03	N	34612129	34612129
+706	First flower 4-g10		First flower 4	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	68613	ss715585735				Gm03	N	36506380	36506380
+707	First flower 4-g11		First flower 4	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	69825	ss715588549				Gm04	C1	4546417	4546417
+708	First flower 4-g12		First flower 4	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	71098	ss715587914				Gm04	C1	42002144	42002144
+709	First flower 4-g13		First flower 4	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	71429	ss715588277				Gm04	C1	46095930	46095930
+710	First flower 4-g14		First flower 4	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	71835	ss715588716				Gm04	C1	49518276	49518276
+711	First flower 4-g15		First flower 4	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	72193	ss715592433				Gm05	A1	2357871	2357871
+712	First flower 4-g16		First flower 4	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	72402	ss715590043				Gm05	A1	3428900	3428900
+713	First flower 4-g17		First flower 4	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	73273	ss715590291				Gm05	A1	27082044	27082044
+714	First flower 4-g18		First flower 4	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	74488	ss715591655				Gm05	A1	41712419	41712419
+715	First flower 4-g19		First flower 4	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	74756	ss715591933				Gm05	A1	39990476	39990476
+716	First flower 4-g20		First flower 4	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	75223	ss715593870				Gm06	C2	2104129	2104129
+717	First flower 4-g21		First flower 4	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	75235	ss715593923				Gm06	C2	2280323	2280323
+718	First flower 4-g22		First flower 4	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	19803	Satt422				Gm06	C2	7233361	7233609
+719	First flower 4-g23		First flower 4	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	78417	ss715597129				Gm07	M	3163093	3163093
+720	First flower 4-g24		First flower 4	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	82452	ss715599242				Gm08	A2	10962094	10962094
+721	First flower 4-g25		First flower 4	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	84693	ss715601867				Gm08	A2	41517241	41517241
+722	First flower 4-g26		First flower 4	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	85556	ss715603345				Gm09	K	2342573	2342573
+723	First flower 4-g27		First flower 4	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	86509	ss715603362				Gm09	K	26687789	26687789
+724	First flower 4-g28		First flower 4	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	87223	ss715604272				Gm09	K	42499532	42499532
+725	First flower 4-g29		First flower 4	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	87608	ss715604703				Gm09	K	46712862	46712862
+726	First flower 4-g30		First flower 4	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	88088	ss715605907				Gm10	O	2325889	2325889
+727	First flower 4-g31		First flower 4	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	91233	ss715608856				Gm11	B1	1170503	1170503
+728	First flower 4-g32		First flower 4	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	91451	ss715610661				Gm11	B1	3959854	3959854
+729	First flower 4-g33		First flower 4	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	91512	ss715610738				Gm11	B1	4528574	4528574
+730	First flower 4-g34		First flower 4	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	91585	ss715610817				Gm11	B1	5074720	5074720
+731	First flower 4-g35		First flower 4	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	91762	ss715611002				Gm11	B1	6523082	6523082
+732	First flower 4-g36		First flower 4	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	91805	ss715611047				Gm11	B1	6911717	6911717
+733	First flower 4-g37		First flower 4	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	28849	Satt197				Gm11	B1	8898878	8899050
+734	First flower 4-g38		First flower 4	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	92127	ss715608789				Gm11	B1	10878645	10878645
+735	First flower 4-g39		First flower 4	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	92183	ss715608852				Gm11	B1	12891678	12891678
+736	First flower 4-g40		First flower 4	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	92607	ss715609355				Gm11	B1	26458968	26458968
+737	First flower 4-g41		First flower 4	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	92683	ss715609441				Gm11	B1	11133013	11133013
+738	First flower 4-g42		First flower 4	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	92834	ss715609629				Gm11	B1	21933518	21933518
+739	First flower 4-g43		First flower 4	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	93094	ss715609985				Gm11	B1	28206933	28206933
+740	First flower 4-g44		First flower 4	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	93143	ss715610038				Gm11	B1	28729491	28729491
+741	First flower 4-g45		First flower 4	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	93320	ss715610231				Gm11	B1	31699831	31699831
+742	First flower 4-g46		First flower 4	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	94415	ss715613207				Gm12	H	5797709	5797709
+743	First flower 4-g47		First flower 4	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	94751	ss715613581				Gm12	H	8468710	8468710
+744	First flower 4-g48		First flower 4	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	94929	ss715611482				Gm12	H	13421597	13421597
+745	First flower 4-g49		First flower 4	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	94950	ss715611521				Gm12	H	14306367	14306367
+746	First flower 4-g50		First flower 4	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	31811	Satt586				Gm13	F	10248427	10248637
+747	First flower 4-g51		First flower 4	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	97492	ss715614149				Gm13	F	24996808	24996808
+748	First flower 4-g52		First flower 4	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	99324	ss715616199				Gm13	F	40486199	40486199
+749	First flower 4-g53		First flower 4	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	100603	ss715619864				Gm14	B2	7409636	7409636
+750	First flower 4-g54		First flower 4	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	102004	ss715618957				Gm14	B2	43972963	43972963
+751	First flower 4-g55		First flower 4	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	102071	ss715619034				Gm14	B2	44735794	44735794
+752	First flower 4-g56		First flower 4	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	102497	ss715619529				Gm14	B2	48662141	48662141
+753	First flower 4-g57		First flower 4	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	102651	ss715620467				Gm15	E	1265085	1265085
+754	First flower 4-g58		First flower 4	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	103843	ss715620540				Gm15	E	13116982	13116982
+755	First flower 4-g59		First flower 4	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	104567	ss715621397				Gm15	E	25503545	25503545
+756	First flower 4-g60		First flower 4	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	104760	ss715621702				Gm15	E	38447399	38447399
+757	First flower 4-g61		First flower 4	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	35942	Satt452				Gm15	E	39682051	39682259
+758	First flower 4-g62		First flower 4	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	104954	ss715621994				Gm15	E	45731853	45731853
+759	First flower 4-g63		First flower 4	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	106349	ss715625240				Gm16	J	5799540	5799540
+760	First flower 4-g64		First flower 4	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	45512	SSRFT				Gm16	J	31114264	31114264
+761	First flower 4-g65		First flower 4	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	107526	ss715624371				Gm16	J	31134540	31134540
+762	First flower 4-g66		First flower 4	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	107914	ss715624819				Gm16	J	36203537	36203537
+763	First flower 4-g67		First flower 4	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	110195	ss715627222				Gm17	D2	37284864	37284864
+764	First flower 4-g68		First flower 4	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	110731	ss715627791				Gm17	D2	40796421	40796421
+765	First flower 4-g69		First flower 4	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	111256	ss715630568				Gm18	G	4344194	4344194
+766	First flower 4-g70		First flower 4	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	113487	ss715630327				Gm18	G	24606879	24606879
+767	First flower 4-g71		First flower 4	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	113536	ss715630399				Gm18	G	34206640	34206640
+768	First flower 4-g72		First flower 4	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	40545	Satt564				Gm18	G	43342306	43342463
+769	First flower 4-g73		First flower 4	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	114767	ss715631834				Gm18	G	52856594	52856594
+770	First flower 4-g74		First flower 4	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	115898	ss715636097				Gm19	L	5182596	5182596
+771	First flower 4-g75		First flower 4	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	117246	ss715634291				Gm19	L	35637955	35637955
+772	First flower 4-g76		First flower 4	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	117828	ss715634905				Gm19	L	39924241	39924241
+773	First flower 4-g77		First flower 4	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	42500	Sat_113				Gm19	L	42311222	42311495
+774	First flower 4-g78		First flower 4	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	42707	Satt664				Gm19	L	46227880	46228107
+775	First flower 4-g79		First flower 4	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	118496	ss715635619				Gm19	L	46878915	46878915
+776	First flower 4-g80		First flower 4	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	42751	Satt229				Gm19	L	47167396	47167618
+777	First flower 4-g81		First flower 4	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	118576	ss715635705				Gm19	L	47636152	47636152
+778	First flower 4-g82		First flower 4	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	118834	ss715635983				Gm19	L	49906750	49906750
+779	First flower 4-g83		First flower 4	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	43001	Satt571				Gm20	I	1287393	1287548
+780	First flower 4-g84		First flower 4	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	119376	ss715638062				Gm20	I	3867301	3867301
+781	First flower 4-g85		First flower 4	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	120566	ss715637988				Gm20	I	38957276	38957276
+782	First flower 4-g86		First flower 4	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	121067	ss715638506				Gm20	I	44268681	44268681
+783	First flower 4-g87		First flower 4	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	121172	ss715638616				Gm20	I	45385596	45385596

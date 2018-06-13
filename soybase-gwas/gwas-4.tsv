@@ -1,0 +1,38 @@
+TaxonID	3847
+Variety	Williams82
+experiment_id	4
+experiment_type	GWAS
+SoyBase_ID	KGK20170915.1
+platform_name	SoySNP50k
+platform_details	Illumina iSelect BeadChip
+number_loci_tested	31253
+number_germplasm_tested	332
+#gwas_id	gwas_name	other_name	gwas_family	gwas_class	trait_SOY_number	QTL_type	QTL_category	locus_id	locus_name	p_value	LOD	R2	chromosome	linkage_group	qtl_start	qtl_end
+84	Leaf carotenoid content 1-g1.1		Leaf carotenoid content 1	Leaf carotenoid content	SOY:0002223	QTL_leaf-stem	plant_architecture	61153	ss715579102	0.000457088		4.11	Gm01	D1a	3524524	3524524
+85	Leaf carotenoid content 1-g1.2		Leaf carotenoid content 1	Leaf carotenoid content	SOY:0002223	QTL_leaf-stem	plant_architecture	61269	ss715579432	0.000524807		4.03	Gm01	D1a	4297976	4297976
+86	Leaf carotenoid content 1-g2		Leaf carotenoid content 1	Leaf carotenoid content	SOY:0002223	QTL_leaf-stem	plant_architecture	61428	ss715580774	0.000323594		4.3	Gm01	D1a	6767604	6767604
+87	Leaf carotenoid content 1-g3		Leaf carotenoid content 1	Leaf carotenoid content	SOY:0002223	QTL_leaf-stem	plant_architecture	66323	ss715583100	0.000457088		3.45	Gm02	D1b	44347373	44347373
+88	Leaf carotenoid content 1-g4.1		Leaf carotenoid content 1	Leaf carotenoid content	SOY:0002223	QTL_leaf-stem	plant_architecture	71335	ss715588177	0.000301995		4.33	Gm04	C1	45235471	45235471
+89	Leaf carotenoid content 1-g4.2		Leaf carotenoid content 1	Leaf carotenoid content	SOY:0002223	QTL_leaf-stem	plant_architecture	71342	ss715588184	0.000229087		4.5	Gm04	C1	45287419	45287419
+90	Leaf carotenoid content 1-g4.3		Leaf carotenoid content 1	Leaf carotenoid content	SOY:0002223	QTL_leaf-stem	plant_architecture	71343	ss715588185	0.000239883		4.49	Gm04	C1	45298329	45298329
+91	Leaf carotenoid content 1-g4.4		Leaf carotenoid content 1	Leaf carotenoid content	SOY:0002223	QTL_leaf-stem	plant_architecture	71354	ss715588197	0.000323594		4.29	Gm04	C1	45341780	45341780
+92	Leaf carotenoid content 1-g4.5		Leaf carotenoid content 1	Leaf carotenoid content	SOY:0002223	QTL_leaf-stem	plant_architecture	71356	ss715588199	0.000281838		4.53	Gm04	C1	45356241	45356241
+93	Leaf carotenoid content 1-g5		Leaf carotenoid content 1	Leaf carotenoid content	SOY:0002223	QTL_leaf-stem	plant_architecture	82578	ss715599380	0.000416869		3.8	Gm08	A2	12178990	12178990
+94	Leaf carotenoid content 1-g6		Leaf carotenoid content 1	Leaf carotenoid content	SOY:0002223	QTL_leaf-stem	plant_architecture	84893	ss715602081	0.000549541		4.05	Gm08	A2	43566184	43566184
+95	Leaf carotenoid content 1-g7		Leaf carotenoid content 1	Leaf carotenoid content	SOY:0002223	QTL_leaf-stem	plant_architecture	88405	ss715607418	0.00020893		4.34	Gm10	O	4433515	4433515
+96	Leaf carotenoid content 1-g8		Leaf carotenoid content 1	Leaf carotenoid content	SOY:0002223	QTL_leaf-stem	plant_architecture	89949	ss715606823	0.000363078		3.84	Gm10	O	39682612	39682612
+97	Leaf carotenoid content 1-g9		Leaf carotenoid content 1	Leaf carotenoid content	SOY:0002223	QTL_leaf-stem	plant_architecture	97553	ss715614224	0.000512861		4.07	Gm13	F	25779102	25779102
+98	Leaf carotenoid content 1-g10		Leaf carotenoid content 1	Leaf carotenoid content	SOY:0002223	QTL_leaf-stem	plant_architecture	98139	ss715614857	0.000398107		3.19	Gm13	F	29790648	29790648
+99	Leaf carotenoid content 1-g11		Leaf carotenoid content 1	Leaf carotenoid content	SOY:0002223	QTL_leaf-stem	plant_architecture	103241	ss715623062	0.000457088		4.06	Gm15	E	7742643	7742643
+100	Leaf carotenoid content 1-g12.1		Leaf carotenoid content 1	Leaf carotenoid content	SOY:0002223	QTL_leaf-stem	plant_architecture	105244	ss715622306	0.000398107		4.34	Gm15	E	48137601	48137601
+101	Leaf carotenoid content 1-g12.2		Leaf carotenoid content 1	Leaf carotenoid content	SOY:0002223	QTL_leaf-stem	plant_architecture	105246	ss715622308	0.00040738		4.22	Gm15	E	48144839	48144839
+102	Leaf carotenoid content 1-g12.3		Leaf carotenoid content 1	Leaf carotenoid content	SOY:0002223	QTL_leaf-stem	plant_architecture	105254	ss715622316	0.000323594		4.33	Gm15	E	48193117	48193117
+103	Leaf carotenoid content 1-g12.4		Leaf carotenoid content 1	Leaf carotenoid content	SOY:0002223	QTL_leaf-stem	plant_architecture	105255	ss715622317	0.000354813		4.33	Gm15	E	48194557	48194557
+104	Leaf carotenoid content 1-g12.5		Leaf carotenoid content 1	Leaf carotenoid content	SOY:0002223	QTL_leaf-stem	plant_architecture	105258	ss715622320	0.000363078		4.26	Gm15	E	48211214	48211214
+105	Leaf carotenoid content 1-g13.1		Leaf carotenoid content 1	Leaf carotenoid content	SOY:0002223	QTL_leaf-stem	plant_architecture	111750	ss715632891	6.92E-05		5.01	Gm18	G	9346384	9346384
+106	Leaf carotenoid content 1-g13.2		Leaf carotenoid content 1	Leaf carotenoid content	SOY:0002223	QTL_leaf-stem	plant_architecture	111779	ss715632923	3.02E-05		5.46	Gm18	G	9495115	9495115
+107	Leaf carotenoid content 1-g13.3		Leaf carotenoid content 1	Leaf carotenoid content	SOY:0002223	QTL_leaf-stem	plant_architecture	111785	ss715632930	4.37E-05		5.32	Gm18	G	9536287	9536287
+108	Leaf carotenoid content 1-g13.4		Leaf carotenoid content 1	Leaf carotenoid content	SOY:0002223	QTL_leaf-stem	plant_architecture	111793	ss715632940	4.37E-05		5.26	Gm18	G	9641514	9641514
+109	Leaf carotenoid content 1-g13.5		Leaf carotenoid content 1	Leaf carotenoid content	SOY:0002223	QTL_leaf-stem	plant_architecture	111798	ss715632945	0.000467735		3.63	Gm18	G	9663419	9663419
+110	Leaf carotenoid content 1-g13.6		Leaf carotenoid content 1	Leaf carotenoid content	SOY:0002223	QTL_leaf-stem	plant_architecture	111804	ss715632952	0.000281838		4.11	Gm18	G	9714629	9714629
+111	Leaf carotenoid content 1-g14		Leaf carotenoid content 1	Leaf carotenoid content	SOY:0002223	QTL_leaf-stem	plant_architecture	118514	ss715635640	0.00047863		3.49	Gm19	L	47187424	47187424

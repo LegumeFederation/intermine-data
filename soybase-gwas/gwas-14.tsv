@@ -1,0 +1,40 @@
+TaxonID	3847
+Variety	Williams82
+experiment_id	14
+experiment_type	GWAS
+SoyBase_ID	KGK20170707.1
+platform_name	Illumina GoldenGate
+number_loci_tested	1142
+number_germplasm_tested	219
+#gwas_id	gwas_name	other_name	gwas_family	gwas_class	trait_SOY_number	QTL_type	QTL_category	locus_id	locus_name	p_value	LOD	R2	chromosome	linkage_group	qtl_start	qtl_end
+1124	Branch number, main stem 1-g1	BR	Branch number, main stem 1	Branch number, main stem	SOY:0001318	QTL_whole-plant	plant_architecture	6845	ss107920459	0.01247		0.064376	Gm17	D2	10942849	10942849
+1125	Branch number, main stem 1-g2	BR	Branch number, main stem 1	Branch number, main stem	SOY:0001318	QTL_whole-plant	plant_architecture	2651	ss107912965	0.02663		0.065946	Gm17	D2	687969	687969
+1126	Branch number, main stem 1-g3	BR	Branch number, main stem 1	Branch number, main stem	SOY:0001318	QTL_whole-plant	plant_architecture	5411	ss107912978	0.007598		0.089385	Gm15	E	42596278	42596278
+1127	Branch number, main stem 1-g4	BR	Branch number, main stem 1	Branch number, main stem	SOY:0001318	QTL_whole-plant	plant_architecture	2739	ss107913130	0.0144		0.065449	Gm17	D2	10983581	10983581
+1128	Branch number, main stem 1-g5	BR	Branch number, main stem 1	Branch number, main stem	SOY:0001318	QTL_whole-plant	plant_architecture	2973	ss107913147	0.000254		0.064469	Gm15	E	27808670	27808670
+1129	Branch number, main stem 1-g6	BR	Branch number, main stem 1	Branch number, main stem	SOY:0001318	QTL_whole-plant	plant_architecture	3813	ss107913489	5.46E-05		0.079245	Gm20	I	34074375	34074375
+1130	Stem diameter, main 1-g1	DI	Stem diameter, main 1	Stem diameter, main	SOY:0001624	QTL_leaf-stem	plant_architecture	2496	ss107913943	3.27E-07		0.062988	Gm02	D1b	2380973	2380973
+1131	Plant height 2-g1	PH	Plant height 2	Plant height	SOY:0001365	QTL_whole-plant	plant_architecture	6846	ss107920090	0.000865		0.066215	Gm13	F	44893681	44893681
+1132	Plant height 2-g2	PH	Plant height 2	Plant height	SOY:0001365	QTL_whole-plant	plant_architecture	3250	ss107912550	0.000921		0.06062	Gm13	F	45165212	45165212
+1133	Plant height 2-g3	PH	Plant height 2	Plant height	SOY:0001365	QTL_whole-plant	plant_architecture	6847	ss107919771	0.01032		0.072107	Gm02	D1b	15923907	15923907
+1134	Seed weight 2-g1	SW	Seed weight 2	Seed weight	SOY:0001629	QTL_other-seed	plant_architecture	4279	ss107913198	0.000716		0.071048	Gm09	K	47598387	47598387
+1135	Seed weight 2-g2	SW	Seed weight 2	Seed weight	SOY:0001629	QTL_other-seed	plant_architecture	5138	ss107913562	0.0189		0.072943	Gm03	N	38117007	38117007
+1136	Seed weight 2-g3	SW	Seed weight 2	Seed weight	SOY:0001629	QTL_other-seed	plant_architecture	1760	ss107913815	2.89E-10		0.061957	Gm11	B1	15649091	15649091
+1137	Seed weight 2-g4	SW	Seed weight 2	Seed weight	SOY:0001629	QTL_other-seed	plant_architecture	1759	ss107913806	2.89E-10		0.061957	Gm11	B1	15649090	15649090
+1138	Seed yield 2-g1	SY	Seed yield 2	Seed yield	SOY:0001622	QTL_yield	seed_composition_and_yield	3056	ss107913076	0.7894		0.078993	Gm13	F	17660886	17660886
+1139	Seed yield 2-g2	SY	Seed yield 2	Seed yield	SOY:0001622	QTL_yield	seed_composition_and_yield	2144	ss107913110	0.0527		0.076799	Gm06	C2	3823755	3823755
+1140	Seed yield 2-g3	SY	Seed yield 2	Seed yield	SOY:0001622	QTL_yield	seed_composition_and_yield	5139	ss107913503	0.001188		0.075182	Gm03	N	38448188	38448188
+1141	Seed yield 2-g4	SY	Seed yield 2	Seed yield	SOY:0001622	QTL_yield	seed_composition_and_yield	4722	ss107913538	0.000127		0.061509	Gm03	N	38642636	38642636
+1142	Pod number 2-g1	TP	Pod number 2	Pod number	SOY:0001702	QTL_pod	plant_architecture	6848	ss107916660	0.000327		0.061754	Gm15	E	5252046	5252046
+1143	Pod number 2-g2	TP	Pod number 2	Pod number	SOY:0001702	QTL_pod	plant_architecture	3250	ss107912550	0.00018		0.060101	Gm13	F	45165212	45165212
+1144	Pod number 2-g3	TP	Pod number 2	Pod number	SOY:0001702	QTL_pod	plant_architecture	6849	ss107917367	6.62E-07		0.078915	Gm11	B1	33902439	33902439
+1145	Pod number 2-g4	TP	Pod number 2	Pod number	SOY:0001702	QTL_pod	plant_architecture	2220	ss107918865	4.81E-05		0.073056	Gm06	C2	26237442	26237442
+1146	Pod number 2-g5	TP	Pod number 2	Pod number	SOY:0001702	QTL_pod	plant_architecture	1759	ss107913806	8.45E-05		0.060759	Gm11	B1	15649090	15649090
+1147	Pod number 2-g6	TP	Pod number 2	Pod number	SOY:0001702	QTL_pod	plant_architecture	1760	ss107913815	8.45E-05		0.060759	Gm11	B1	15649091	15649091
+1148	Pod number 2-g7	TP	Pod number 2	Pod number	SOY:0001702	QTL_pod	plant_architecture	6845	ss107920459	0.09236		0.061018	Gm17	D2	10942849	10942849
+1149	Pod number 2-g8	TP	Pod number 2	Pod number	SOY:0001702	QTL_pod	plant_architecture	6850	ss107918045	0.01007		0.067465	Gm05	A1	38923016	38923016
+1150	Seeds per plant 2-g1	TS	Seeds per plant 2	Seeds per plant	SOY:0001616	QTL_yield	seed_composition_and_yield	6848	ss107916660	0.000265		0.065604	Gm15	E	5252046	5252046
+1151	Seeds per plant 2-g2	TS	Seeds per plant 2	Seeds per plant	SOY:0001616	QTL_yield	seed_composition_and_yield	6849	ss107917367	1.51E-08		0.09132	Gm11	B1	33902439	33902439
+1152	Seeds per plant 2-g3	TS	Seeds per plant 2	Seeds per plant	SOY:0001616	QTL_yield	seed_composition_and_yield	2220	ss107918865	1.11E-05		0.087323	Gm06	C2	18211927	26237442
+1153	Seeds per plant 2-g4	TS	Seeds per plant 2	Seeds per plant	SOY:0001616	QTL_yield	seed_composition_and_yield	6847	ss107919771	0.1078		0.069836	Gm02	D1b	15923907	18844283
+1154	Seeds per plant 2-g5	TS	Seeds per plant 2	Seeds per plant	SOY:0001616	QTL_yield	seed_composition_and_yield	5968	ss107918968	0.7796		0.068098	Gm04	C1	443360	443360
