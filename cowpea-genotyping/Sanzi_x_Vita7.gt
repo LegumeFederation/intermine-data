@@ -1,5 +1,5 @@
 TaxonID	3920
-MappingPopulation	Sanzi_x_Vita7
+GenotypingStudy	Sanzi_x_Vita7
 Description	In this study, we analyzed the genetics of leaf morphology in a segregating cowpea RIL population, Sanzi (sub-globose) x Vita7 (hastate). A QTL was identified for the “hastate leaf shape” locus, Hls, which was positioned on the cowpea consensus genetic map and cowpea physical map. A candidate gene was identified using syntenic relationships between cowpea, soybean and Medicago. In addition, a SNP marker was found which co-segregated with the leaf morphology genotypes and phenotype, which could be used as a molecular marker for breeding purposes.
 MatrixNotes	A = Parent A, B = Parent B. Lower case: genotype calls reversed based on parental alleles.
 Parent	Sanzi

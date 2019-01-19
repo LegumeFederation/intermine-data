@@ -1,10 +1,7 @@
 TaxonID	3847
-Variety	Williams82
-experiment_id	11
-experiment_type	GWAS
-SoyBase_ID	KGK20170814.1
-number_loci_tested	17172
-number_germplasm_tested	139
+PrimaryIdentifier	KGK20170814.1
+NumberLociTested	17172
+NumberGermplasmTested	139
 #gwas_id	gwas_name	other_name	gwas_family	gwas_class	trait_SOY_number	QTL_type	QTL_category	locus_id	locus_name	p_value	LOD	R2	chromosome	linkage_group	qtl_start	qtl_end
 1084	Flower color 1-g1	Flower colour	Flower color 1	Flower color	SOY:0001352	QTL_whole-plant	plant_architecture	7329	FB3657203	3.39E-17		0.83	Gm13	F	18211927	18211927
 1085	Pubescence color 1-g1	Pubescence colour	Pubescence color 1	Pubescence color	SOY:0001719	QTL_whole-plant	plant_architecture	7330	FB18639044	2.93E-16		0.86	Gm06	C2	18844283	18844283

@@ -1,10 +1,7 @@
 TaxonID	3847
-Variety	Williams82
-experiment_id	8
-experiment_type	GWAS
-SoyBase_ID	KGK20170908.1
-number_loci_tested	116769
-number_germplasm_tested	366
+PrimaryIdentifier	KGK20170908.1
+NumberLociTested	116769
+NumberGermplasmTested	366
 #gwas_id      gwas_name	other_name	gwas_family	gwas_class	trait_SOY_number	QTL_type	QTL_category	locus_id	locus_name	p_value	LOD	R2	chromosome	linkage_group	qtl_start	qtl_end
 784	Seed isoflavone 1-g1	qSifc-a-01-1	Seed isoflavone 1	Seed isoflavone	SOY:0001849	QTL_other-seed	seed_composition_and_yield	7284	Gm01_BLOCK159	3.36E-05		0.7	Gm01	D1a	18427457	18427457
 785	Seed isoflavone 1-g2	qSifc-a-01-2	Seed isoflavone 1	Seed isoflavone	SOY:0001849	QTL_other-seed	seed_composition_and_yield	7285	Gm01_BLOCK329	0.000553084		0.5	Gm01	D1a	48550634	48550634

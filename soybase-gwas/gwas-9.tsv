@@ -1,10 +1,7 @@
 TaxonID	3847
-Variety	Williams82
-experiment_id	9
-experiment_type	GWAS
-SoyBase_ID	KGK20170714.2
-number_loci_tested	142
-number_germplasm_tested	92
+PrimaryIdentifier	KGK20170714.2
+NumberLociTested	142
+NumberGermplasmTested	92
 #gwas_id      gwas_name	other_name	gwas_family	gwas_class	trait_SOY_number	QTL_type	QTL_category	locus_id	locus_name	p_value	LOD	R2	chromosome	linkage_group	qtl_start	qtl_end
 828	Seed oil 3-g1		Seed oil 3	Seed oil	SOY:0001668	QTL_oil	seed_composition_and_yield	17493	Satt294			0.149	Gm04	C1	43305171	43305451
 829	Seed oil 3-g2		Seed oil 3	Seed oil	SOY:0001668	QTL_oil	seed_composition_and_yield	39569	AW734137			0.137	Gm18	G	3626442	3626636

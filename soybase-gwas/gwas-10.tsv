@@ -1,12 +1,9 @@
 TaxonID	3847
-Variety	Williams82
-experiment_id	10
-experiment_type	GWAS
-SoyBase_ID	KGK20171002.1
-platform_name	SoySNP50K
-platform_details	iSelect BeadChip
-number_loci_tested	33957
-number_germplasm_tested	374
+PrimaryIdentifier	KGK20171002.1
+PlatformName	SoySNP50K
+PlatformDetails	iSelect BeadChip
+NumberLociTested	33957
+NumberGermplasmTested	374
 #gwas_id	gwas_name	other_name	gwas_family	gwas_class	trait_SOY_number	QTL_type	QTL_category	locus_id	locus_name	p_value	LOD	R2	chromosome	linkage_group	qtl_start	qtl_end
 938	Ureide content 1-g1.1		Ureide content 1	Ureide content	SOY:0002231	QTL_whole-plant	other	62658	ss715580059				Gm01	D1a	50879523	50879523
 939	Ureide content 1-g1.2		Ureide content 1	Ureide content	SOY:0002231	QTL_whole-plant	other	62667	ss715580069				Gm01	D1a	50933494	50933494

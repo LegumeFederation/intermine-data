@@ -1,12 +1,9 @@
 TaxonID	3847
-Variety	Williams82
-experiment_id	1
-experiment_type	GWAS
-SoyBase_ID	KGK20170714.1
-platform_name	SoySNP50k
-platform_details	Illumina Infinium BeadChip
-number_loci_tested	52041
-number_germplasm_tested	12116
+PrimaryIdentifier	KGK20170714.1
+PlatformName	SoySNP50k
+PlatformDetails	Illumina Infinium BeadChip
+NumberLociTested	52041
+NumberGermplasmTested	12116
 #gwas_id	gwas_name	other_name	gwas_family	gwas_class	trait_SOY_number	QTL_type	QTL_category	locus_id	locus_name	p_value	LOD	R2	chromosome	linkage_group	qtl_start	qtl_end
 1	Seed protein 3-g1		Seed protein 3	Seed protein	SOY:0001676	QTL_protein	seed_composition_and_yield	119892	ss715637225	3.24E-06			Gm20	I	30743655	30743655
 2	Seed protein 3-g2		Seed protein 3	Seed protein	SOY:0001676	QTL_protein	seed_composition_and_yield	119901	ss715637240	6.92E-07			Gm20	I	31127936	31127936

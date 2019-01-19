@@ -1,11 +1,8 @@
 TaxonID	3847
-Variety	Williams82
-experiment_id	14
-experiment_type	GWAS
-SoyBase_ID	KGK20170707.1
-platform_name	Illumina GoldenGate
-number_loci_tested	1142
-number_germplasm_tested	219
+PrimaryIdentifier	KGK20170707.1
+PlatformName	Illumina GoldenGate
+NumberLociTested	1142
+NumberGermplasmTested	219
 #gwas_id	gwas_name	other_name	gwas_family	gwas_class	trait_SOY_number	QTL_type	QTL_category	locus_id	locus_name	p_value	LOD	R2	chromosome	linkage_group	qtl_start	qtl_end
 1124	Branch number, main stem 1-g1	BR	Branch number, main stem 1	Branch number, main stem	SOY:0001318	QTL_whole-plant	plant_architecture	6845	ss107920459	0.01247		0.064376	Gm17	D2	10942849	10942849
 1125	Branch number, main stem 1-g2	BR	Branch number, main stem 1	Branch number, main stem	SOY:0001318	QTL_whole-plant	plant_architecture	2651	ss107912965	0.02663		0.065946	Gm17	D2	687969	687969

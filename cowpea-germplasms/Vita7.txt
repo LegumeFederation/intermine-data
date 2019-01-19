@@ -1,5 +1,5 @@
 TaxonId	3920
-Variety	Vita7
+Strain	Vita7
 Description	Vita 7 is a spreading, indeterminate cowpea variety with hastate leaves and small seeds with smooth seed coats. It was developed by the Grain Legume Improvement Project (GLIP) of the International Institute of Tropical Agriculture (IITA) in Ibadan, Nigeria.
 URL	http://www.iita.org/cowpea
 Country	Nigeria

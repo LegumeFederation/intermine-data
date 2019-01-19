@@ -1,12 +1,9 @@
 TaxonID	3847
-Variety	Williams82
-experiment_id	3
-experiment_type	GWAS
-SoyBase_ID	KGK20170712.1
-platform_name	BARCSoySNP6K
-platform_details	Illumina BeadChip
-number_loci_tested	6000
-number_germplasm_tested	169
+PrimaryIdentifier	KGK20170712.1
+PlatformName	BARCSoySNP6K
+PlatformDetails	Illumina BeadChip
+NumberLociTested	6000
+NumberGermplasmTested	169
 #gwas_id	gwas_name	other_name	gwas_family	gwas_class	trait_SOY_number	QTL_type	QTL_category	locus_id	locus_name	p_value	LOD	R2	chromosome	linkage_group	qtl_start	qtl_end
 42	Seed yield 3-g1		Seed yield 3	Seed yield	SOY:0001622	QTL_yield	seed_composition_and_yield	94411	ss715613203			11.97	Gm12	H	5718212	5718212
 43	Seed yield 3-g2		Seed yield 3	Seed yield	SOY:0001622	QTL_yield	seed_composition_and_yield	94325	ss715613104			11.92	Gm12	H	4671136	4671136

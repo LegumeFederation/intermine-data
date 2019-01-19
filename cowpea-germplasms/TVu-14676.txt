@@ -1,5 +1,5 @@
 TaxonID	3920
-Variety	TVu-14676
+Strain	TVu-14676
 Description	TVu-14676 is a cowpea cultivar developed by IITA and is resistant to the parasitic plant Striga gesnerioides races SGl, SG2, SG3 and SG5.
 URL	http://www.iita.org/cowpea
 Country	Nigeria

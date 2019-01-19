@@ -1,12 +1,9 @@
 TaxonID	3847
-Variety	Williams82
-experiment_id	4
-experiment_type	GWAS
-SoyBase_ID	KGK20170915.1
-platform_name	SoySNP50k
-platform_details	Illumina iSelect BeadChip
-number_loci_tested	31253
-number_germplasm_tested	332
+PrimaryIdentifier	KGK20170915.1
+PlatformName	SoySNP50k
+PlatformDetails	Illumina iSelect BeadChip
+NumberLociTested	31253
+NumberGermplasmTested	332
 #gwas_id	gwas_name	other_name	gwas_family	gwas_class	trait_SOY_number	QTL_type	QTL_category	locus_id	locus_name	p_value	LOD	R2	chromosome	linkage_group	qtl_start	qtl_end
 84	Leaf carotenoid content 1-g1.1		Leaf carotenoid content 1	Leaf carotenoid content	SOY:0002223	QTL_leaf-stem	plant_architecture	61153	ss715579102	0.000457088		4.11	Gm01	D1a	3524524	3524524
 85	Leaf carotenoid content 1-g1.2		Leaf carotenoid content 1	Leaf carotenoid content	SOY:0002223	QTL_leaf-stem	plant_architecture	61269	ss715579432	0.000524807		4.03	Gm01	D1a	4297976	4297976

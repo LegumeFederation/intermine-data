@@ -1,8 +1,8 @@
 ##gff-version 3
 #SourceTaxonID	3847
-#SourceVariety	Williams82
+#SourceStrain	Williams82
 #TargetTaxonID	3847
-#TargetVariety	Williams82
+#TargetStrain	Williams82
 Gm01	DAGchainer	syntenic_region	227021	926129	1243.0	+	.	Name=old_duplication.Gm08;Target=Gm08:2159073..2752670;median_Ks=0.7982
 Gm01	DAGchainer	syntenic_region	275426	926129	1194.0	+	.	Name=old_duplication.Gm05;Target=Gm05:40040654..40586624;median_Ks=0.6426
 Gm01	DAGchainer	syntenic_region	2235786	2293185	170.0	-	.	Name=old_duplication.Gm18;Target=Gm18:25240133..25363498;median_Ks=0.9995

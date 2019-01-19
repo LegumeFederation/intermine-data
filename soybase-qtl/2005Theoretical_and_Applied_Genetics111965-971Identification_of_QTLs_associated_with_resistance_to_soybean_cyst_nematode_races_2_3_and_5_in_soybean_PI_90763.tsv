@@ -1,8 +1,5 @@
 TaxonID	3847
-Variety	Williams82
 MappingPopulation	Hamilton_x_PI90763
-Parent	Hamilton
-Parent	PI90763
 Journal	Theoretical and Applied Genetics
 Year	2005
 Volume	111
@@ -18,9 +15,3 @@ SCN 29-6	Reaction to Heterodera glycines
 SCN 29-7	Reaction to Heterodera glycines
 SCN 29-8	Reaction to Heterodera glycines
 SCN 29-9	Reaction to Heterodera glycines
-SCN 45-1	Aluminum Tolerance
-SCN 45-2	Aluminum Tolerance
-SCN 45-3	Aluminum Tolerance
-SCN 45-4	Aluminum Tolerance
-SCN 45-5	Aluminum Tolerance
-SCN 45-6	Aluminum Tolerance

@@ -1,8 +1,5 @@
 TaxonID	3920
-Variety	IT97K-499-35
-MappingPopulation	ZN016_x_Zhijiang282
-Parent	ZN016
-Parent	Zhijiang282
+GenotypingStudy	ZN016_x_Zhijiang282
 PMID	27658053
 #QTL	TraitName
 Qpl.zaas-3	Pod length

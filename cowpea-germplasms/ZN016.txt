@@ -1,4 +1,4 @@
 TaxonId	138955
-Variety	ZN016
+Strain	ZN016
 Description	ZN016 is a landrace of asparagus bean originating from southern China showing resistance to powdery mildew at all growth stages.
 Country	China

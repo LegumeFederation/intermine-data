@@ -1,5 +1,5 @@
 TaxonID	3920
-MappingPopulation	CB46_x_IT93K-503-1
+GenotypingStudy	CB46_x_IT93K-503-1
 Description	Three cowpea RIL populations which segregate for Fot race 4 resistance were used for QTL mapping studies. The IT93K-503-1 (resistant) × CB46 (susceptible) population consisted of 113 lines advanced to the F10 generation using single seed descent. IT93K-503-1 is an advanced breeding line developed by the International Institute for Tropical Agriculture (IITA) with strong resistance to Fot race 4. CB46 was bred for resistance to Fot race 3 but is highly susceptible to Fot race 4.
 MatrixNotes	A = Parent A, B = Parent B. Lower case: genotype calls reversed based on parental alleles.
 Parent	CB46

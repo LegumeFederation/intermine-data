@@ -1,6 +1,6 @@
 TaxonId	3920
-Variety	IT84S-2246-4
-AlternateVarietyName	TVu-14195
+Strain	IT84S-2246-4
+AlternateStrainName	TVu-14195
 Description	IT84S-2246-4 has combined resistance to aphid, bruchid, thrips and several diseases. It was developed by the Grain Legume Improvement Project (GLIP) of the International Institute of Tropical Agriculture (IITA) in Ibadan, Nigeria.
 URL	http://www.iita.org/cowpea
 Country	Nigeria

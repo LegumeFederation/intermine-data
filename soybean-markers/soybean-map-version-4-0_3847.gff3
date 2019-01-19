@@ -1,6 +1,8 @@
 ##gff-version 3
 ##date Sat Feb 13 21:44:03 2016
 ##source gbrowse gbgff gff3 dumper
+#TaxonId	3847
+#Strain	Williams82
 Gm01	.	SNP	125073	125073	.	+	.	Name=BARC-065659-19620;ID=1;alleles=A%2FC;lg=D1a;Dbxref=dbSNP:rs121991944,dbSNP:ss107930710
 Gm01	.	SNP	245959	245959	.	-	.	Name=BARC-059889-16199;ID=2;Dbxref=dbSNP:rs121992766,dbSNP:ss107927468;alleles=C%2FT;lg=D1a
 Gm01	.	SNP	508076	508076	.	-	.	Name=BARC-028843-06027;ID=4;lg=D1a;alleles=A%2FG;Dbxref=dbSNP:rs121966147,dbSNP:ss107913549

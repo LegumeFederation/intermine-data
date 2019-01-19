@@ -1,26 +1,26 @@
 # this is a standard expression file to be read by InterMine source legfed-expression
 #
 # 1. source name, PMID, geo, bioProject, sra-study
-RNA-Seq Atlas of Glycine max: a guide to the soybean transcriptome.     20687943                PRJNA208048     SRP025919
+RNA-Seq Atlas of Glycine max: a guide to the soybean transcriptome. (Gene IDs converted from v1 to v2.)	20687943		PRJNA208048	SRP025919
 # 2. expression unit
 RPKM
 # 3. number of samples
 14
 # 4. Sample number, name and description in same order as the columns
-1       young_leaf      Young Leaf: 0.4 Leaflets unfurled (SOY:0000252)
-2       flower  Flower: F0.4 Open flower (SOY:0001277)
-3       one_cm_pod      One cm pod: 7 DAF: F0.7 Small size pod (SOY:0001280)
-4       pod_shell_10DAF Pod-shell: 10-13 DAF: F0.8 Pod medium size (SOY:0001281)
-5       pod_shell_14DAF Pod-shell: 14-17 DAF: F0.9 Full pod size (SOY:0001282)
-6       seed_10DAF      Seed: 10-13 DAF: S1.06 Cotyledon stage (SOY:0001290)
-7       seed_14DAF      Seed: 14-17 DAF: S1.06 Cotyledon stage (SOY:0001290)
-8       seed_21DAF      Seed: 21 DAF: S1.07 Early maturity stage 1 (SOY:0001291)
-9       seed_25DAF      Seed: 25 DAF: S1.07 Early maturity stage 1 (SOY:0001291)
-10      seed_28DAF      Seed: 28 DAF: S1.07 Early maturity stage 1 (SOY:0001291)
-11      seed_35DAF      Seed: 35 DAF: S1.08 Early maturity stage 2 (SOY:0001292)
-12      seed_42DAF      Seed: 42 DAF: S1.09 Mid seed maturity (SOY:0001293)
-13      root    Root: Root structures (SOY:0001183)
-14      nodule  Nodule: Bacterial root nodule (SOY:0001301)
+1	young_leaf	Young Leaf: 0.4 Leaflets unfurled (SOY:0000252)
+2	flower	Flower: F0.4 Open flower (SOY:0001277)
+3	one_cm_pod	One cm pod: 7 DAF: F0.7 Small size pod (SOY:0001280)
+4	pod_shell_10DAF	Pod-shell: 10-13 DAF: F0.8 Pod medium size (SOY:0001281)
+5	pod_shell_14DAF	Pod-shell: 14-17 DAF: F0.9 Full pod size (SOY:0001282)
+6	seed_10DAF	Seed: 10-13 DAF: S1.06 Cotyledon stage (SOY:0001290)
+7	seed_14DAF	Seed: 14-17 DAF: S1.06 Cotyledon stage (SOY:0001290)
+8	seed_21DAF	Seed: 21 DAF: S1.07 Early maturity stage 1 (SOY:0001291)
+9	seed_25DAF	Seed: 25 DAF: S1.07 Early maturity stage 1 (SOY:0001291)
+10	seed_28DAF	Seed: 28 DAF: S1.07 Early maturity stage 1 (SOY:0001291)
+11	seed_35DAF	Seed: 35 DAF: S1.08 Early maturity stage 2 (SOY:0001292)
+12	seed_42DAF	Seed: 42 DAF: S1.09 Mid seed maturity (SOY:0001293)
+13	root	Root: Root structures (SOY:0001183)
+14	nodule	Nodule: Bacterial root nodule (SOY:0001301)
 # 5. expression data with Gene or mRNA identifiers (gene will have .1 appended)
 Glyma.20G056700	0	0	0	0	0	0	0	0	0	0	0	0	0	0
 Glyma.20G056600	2	2	2	2	1	2	1	1	1	0	0	0	2	1

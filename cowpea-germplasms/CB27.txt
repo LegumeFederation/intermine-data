@@ -1,6 +1,6 @@
 TaxonID	3920
-Variety	CB27
-AlternateVarietyName	California Blackeye 27
+Strain	CB27
+AlternateStrainName	California Blackeye 27
 Description	California Blackeye 27 (or CB27) is ideally suited to the Central Valley of California and other areas where hot weather occurs during flowering. This cultivar also produces higher blackeye bean yields in areas where races 3 and 4 of Fusarium wilt or aggressive biotypes of root-knot nematodes (like Meloidogyne incognita and M. Javanica) are present. Nematode populations in the soil are reduced following cultivation of CB27, conferring benefits to subsequent nematode susceptible crops. Therefore, CB27 is an excellent candidate for use in an annual crop rotation cycle in areas where control of root-knot nematodes is necessary.
 PatentNumber	200000183
 URL	https://techtransfer.universityofcalifornia.edu/NCD/10164.html

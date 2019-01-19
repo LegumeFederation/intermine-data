@@ -1,12 +1,9 @@
 TaxonID	3847
-Variety	Williams82
-experiment_id	12
-experiment_type	GWAS
-SoyBase_ID	KGK20170920.1
-platform_name	SoyNAM
-platform_details	Illumina BeadChip
-number_loci_tested	4077
-number_germplasm_tested	5555
+PrimaryIdentifier	KGK20170920.1
+PlatformName	SoyNAM
+PlatformDetails	Illumina BeadChip
+NumberLociTested	4077
+NumberGermplasmTested	5555
 #gwas_id	gwas_name	other_name	gwas_family	gwas_class	trait_SOY_number	QTL_type	QTL_category	locus_id	locus_name	p_value	LOD	R2	chromosome	linkage_group	qtl_start	qtl_end
 1109	Canopy cover 1-g1		Canopy cover 1	Canopy cover	SOY:0002230	QTL_whole-plant	plant_architecture	7354	ss1235974195				Gm01	D1a	51797141	51797141
 1110	Canopy cover 1-g2		Canopy cover 1	Canopy cover	SOY:0002230	QTL_whole-plant	plant_architecture	7355	ss1235977049				Gm05	A1	37757692	37757692

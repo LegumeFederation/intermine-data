@@ -1,10 +1,7 @@
 TaxonID	3847
-Variety	Williams82
-experiment_id	6
-experiment_type	GWAS
-SoyBase_ID	KGK20170803.1
-number_loci_tested	85
-number_germplasm_tested	113
+PrimaryIdentifier	KGK20170803.1
+NumberLociTested	85
+NumberGermplasmTested	113
 #gwas_id	gwas_name	other_name	gwas_family	gwas_class	trait_SOY_number	QTL_type	QTL_category	locus_id	locus_name	p_value	LOD	R2	chromosome	linkage_group	qtl_start	qtl_end
 646	First flower 3-g1		First flower 3	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	12782	Satt408	0.00851138			Gm01	D1a	54400559	54400734
 647	First flower 3-g2		First flower 3	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	3209	Satt521	0.001202264			Gm03	N	36674235	36674461

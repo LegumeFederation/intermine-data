@@ -1,5 +1,5 @@
-TaxonID	138955
-MappingPopulation	ZN016_x_Zhijiang282
+TaxonID	3920
+GenotypingStudy	ZN016_x_Zhijiang282
 Description	In the current study, we describe the application of the Cowpea iSelect Consortium Array (Illumina, Inc.) to dissect pod length QTLs in cowpea. Zhijiang282, the male parent of the RIL population, exhibited longer pods (mean = 47.0 cm) than the female parent ZN016 (mean = 31.9 cm) in all experiments. Among the RILs, pod length displayed a continuous distribution with the population means falling between the parental values.
 MatrixNotes	A = Parent A, B = Parent B. Lower case: genotype calls reversed based on parental alleles.
 Parent	ZN016

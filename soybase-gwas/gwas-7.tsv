@@ -1,12 +1,9 @@
 TaxonID	3847
-Variety	Williams82
-experiment_id	7
-experiment_type	GWAS
-SoyBase_ID	KGK20170825.1
-platform_name	SoySNP6K
-platform_details	Illumina iSelectBeadChip
-number_loci_tested	5279
-number_germplasm_tested	91
+PrimaryIdentifier	KGK20170825.1
+PlatformName	SoySNP6K
+PlatformDetails	Illumina iSelectBeadChip
+NumberLociTested	5279
+NumberGermplasmTested	91
 #gwas_id	gwas_name	other_name	gwas_family	gwas_class	trait_SOY_number	QTL_type	QTL_category	locus_id	locus_name	p_value	LOD	R2	chromosome	linkage_group	qtl_start	qtl_end
 697	First flower 4-g1		First flower 4	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	63003	ss715580441				Gm01	D1a	54163222	54163222
 698	First flower 4-g2		First flower 4	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	63019	ss715580458				Gm01	D1a	54583798	54583798
