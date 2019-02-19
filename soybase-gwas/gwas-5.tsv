@@ -1,539 +1,544 @@
 TaxonID	3847
-PrimaryIdentifier	KGK20171027.1
+Strain	Williams82
+Name	KGK20171027.1
+PlatformName	
+PlatformDetails	
 NumberLociTested	4000000
 NumberGermplasmTested	809
-#gwas_id	gwas_name	other_name	gwas_family	gwas_class	trait_SOY_number	QTL_type	QTL_category	locus_id	locus_name	p_value	LOD	R2	chromosome	linkage_group	qtl_start	qtl_end
-112	First flower 5-g1.1	Beginning bloom date	First flower 5	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	6858	Chr10_44731893	1.41E-14			Gm10	O	44731893	44731893
-113	First flower 5-g1.2	Beginning bloom date	First flower 5	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	6859	Chr10_45310798	1.41E-14			Gm10	O	45310798	45310798
-114	First flower 5-g1.3	Beginning bloom date	First flower 5	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	6860	Chr10_45465189	1.41E-14			Gm10	O	45465189	45465189
-115	First flower 5-g2	Beginning bloom date	First flower 5	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	6861	Chr11_25033166	7.41E-09			Gm11	B1	25033166	25033166
-116	First flower 5-g3	Beginning bloom date	First flower 5	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	6862	Chr19_43183481	1.20E-07			Gm19	L	43183481	43183481
-117	First flower 5-g4.1	Beginning bloom date	First flower 5	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	6863	Chr02_10182071	6.31E-09			Gm02	D1b	10182071	10182071
-118	First flower 5-g4.2	Beginning bloom date	First flower 5	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	6864	Chr02_10286440	6.31E-09			Gm02	D1b	10286440	10286440
-119	First flower 5-g5.1	Beginning bloom date	First flower 5	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	6865	Chr02_12316110	0.00000001			Gm02	D1b	12316110	12316110
-120	First flower 5-g5.2	Beginning bloom date	First flower 5	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	6866	Chr02_12408988	0.00000001			Gm02	D1b	12408988	12408988
-121	First flower 5-g6	Beginning bloom date	First flower 5	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	6867	Chr03_3919776	2.34E-07			Gm03	N	3919776	3919776
-122	First flower 5-g7.1	Beginning bloom date	First flower 5	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	6868	Chr06_20057204	1.02E-07			Gm06	C2	20057204	20057204
-123	First flower 5-g7.2	Beginning bloom date	First flower 5	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	6869	Chr06_20097064	1.02E-07			Gm06	C2	20097064	20097064
-124	First flower 5-g7.3	Beginning bloom date	First flower 5	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	6870	Chr06_20297543	1.02E-07			Gm06	C2	20297543	20297543
-125	First flower 5-g8.1	Beginning bloom date	First flower 5	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	6871	Chr09_45594506	1.45E-07			Gm09	K	45594506	45594506
-126	First flower 5-g8.2	Beginning bloom date	First flower 5	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	6872	Chr09_45632566	1.45E-07			Gm09	K	45632566	45632566
-127	First flower 5-g9	Beginning bloom date	First flower 5	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	6873	Chr11_10820746	2.19E-07			Gm11	B1	10820746	10820746
-128	First flower 5-g10.1	Beginning bloom date	First flower 5	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	6874	Chr12_5475503	1.17E-08			Gm12	H	5475503	5475503
-129	First flower 5-g10.2	Beginning bloom date	First flower 5	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	6875	Chr12_5504773	1.17E-08			Gm12	H	5504773	5504773
-130	First flower 5-g10.3	Beginning bloom date	First flower 5	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	6876	Chr12_5529926	1.17E-08			Gm12	H	5529926	5529926
-131	First flower 5-g11	Beginning bloom date	First flower 5	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	6877	Chr14_47346921	2.09E-07			Gm14	B2	47346921	47346921
-132	First flower 5-g12.1	Beginning bloom date	First flower 5	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	6878	Chr18_57269028	1.41E-08			Gm18	G	57269028	57269028
-133	First flower 5-g12.2	Beginning bloom date	First flower 5	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	6879	Chr18_57269374	1.41E-08			Gm18	G	57269374	57269374
-134	First flower 5-g12.3	Beginning bloom date	First flower 5	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	6880	Chr18_57272016	1.41E-08			Gm18	G	57272016	57272016
-135	First flower 5-g13	Beginning bloom date	First flower 5	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	6881	Chr20_34256561	2.14E-07			Gm20	I	34256561	34256561
-136	Interbranch length 1-g1.1	Branch density	Interbranch length 1	Interbranch length	SOY:0002235	QTL_whole-plant	plant_architecture	6882	Chr19_42774588	3.09E-35			Gm19	L	42774588	42774588
-137	Interbranch length 1-g1.2	Branch density	Interbranch length 1	Interbranch length	SOY:0002235	QTL_whole-plant	plant_architecture	6883	Chr19_45203169	3.09E-35			Gm19	L	45203169	45203169
-138	Interbranch length 1-g1.3	Branch density	Interbranch length 1	Interbranch length	SOY:0002235	QTL_whole-plant	plant_architecture	6884	Chr19_46737870	3.09E-35			Gm19	L	46737870	46737870
-139	Interbranch length 1-g2.1	Branch density	Interbranch length 1	Interbranch length	SOY:0002235	QTL_whole-plant	plant_architecture	6885	Chr06_19172865	4.17E-14			Gm06	C2	19172865	19172865
-140	Interbranch length 1-g2.2	Branch density	Interbranch length 1	Interbranch length	SOY:0002235	QTL_whole-plant	plant_architecture	6886	Chr06_21642015	4.17E-14			Gm06	C2	21642015	21642015
-141	Branching 1-g1.1	Branch number	Branching 1	Branching	SOY:0001318	QTL_whole-plant	plant_architecture	6887	Chr18_55626229	4.37E-09			Gm18	G	55626229	55626229
-142	Branching 1-g1.2	Branch number	Branching 1	Branching	SOY:0001318	QTL_whole-plant	plant_architecture	6888	Chr18_55628880	4.37E-09			Gm18	G	55628880	55628880
-143	Canopy width 1-g1.1	Branch shape	Canopy width 1	Canopy width	SOY:0001325	QTL_whole-plant	plant_architecture	6889	Chr03_38932768	5.01E-09			Gm03	N	38932768	38932768
-144	Canopy width 1-g1.2	Branch shape	Canopy width 1	Canopy width	SOY:0001325	QTL_whole-plant	plant_architecture	6890	Chr03_38936586	5.01E-09			Gm03	N	38936586	38936586
-145	Canopy width 1-g2.1	Branch shape	Canopy width 1	Canopy width	SOY:0001325	QTL_whole-plant	plant_architecture	6891	Chr19_36606460	1.17E-08			Gm19	L	36606460	36606460
-146	Canopy width 1-g2.2	Branch shape	Canopy width 1	Canopy width	SOY:0001325	QTL_whole-plant	plant_architecture	6892	Chr19_36661427	1.17E-08			Gm19	L	36661427	36661427
-147	Canopy width 1-g3.1	Branch shape	Canopy width 1	Canopy width	SOY:0001325	QTL_whole-plant	plant_architecture	6893	Chr19_46600788	7.08E-12			Gm19	L	46600788	46600788
-148	Canopy width 1-g3.2	Branch shape	Canopy width 1	Canopy width	SOY:0001325	QTL_whole-plant	plant_architecture	6894	Chr19_46601442	7.08E-12			Gm19	L	46601442	46601442
-149	Canopy width 1-g3.3	Branch shape	Canopy width 1	Canopy width	SOY:0001325	QTL_whole-plant	plant_architecture	6884	Chr19_46737870	7.08E-12			Gm19	L	46737870	46737870
-150	Leaflet chlorophyll 2-g1	Chlorophyll content	Leaflet chlorophyll 2	Leaflet chlorophyll	SOY:0001859	QTL_leaf-stem	plant_architecture	6895	Chr13_37658142	2.00E-07			Gm13	F	37658142	37658142
-151	Leaflet chlorophyll 2-g2.1	Chlorophyll content	Leaflet chlorophyll 2	Leaflet chlorophyll	SOY:0001859	QTL_leaf-stem	plant_architecture	6896	Chr11_31229649	1.26E-07			Gm11	B1	31229649	31229649
-152	Leaflet chlorophyll 2-g2.2	Chlorophyll content	Leaflet chlorophyll 2	Leaflet chlorophyll	SOY:0001859	QTL_leaf-stem	plant_architecture	6897	Chr11_31229668	1.26E-07			Gm11	B1	31229668	31229668
-153	Leaflet chlorophyll 2-g3.1	Chlorophyll content	Leaflet chlorophyll 2	Leaflet chlorophyll	SOY:0001859	QTL_leaf-stem	plant_architecture	6898	Chr13_33185039	2.82E-08			Gm13	F	33185039	33185039
-154	Leaflet chlorophyll 2-g3.2	Chlorophyll content	Leaflet chlorophyll 2	Leaflet chlorophyll	SOY:0001859	QTL_leaf-stem	plant_architecture	6899	Chr13_33185121	2.82E-08			Gm13	F	33185121	33185121
-155	Leaflet chlorophyll 2-g3.3	Chlorophyll content	Leaflet chlorophyll 2	Leaflet chlorophyll	SOY:0001859	QTL_leaf-stem	plant_architecture	6900	Chr13_33304202	2.82E-08			Gm13	F	33304202	33304202
-156	Leaflet chlorophyll 2-g4	Chlorophyll content	Leaflet chlorophyll 2	Leaflet chlorophyll	SOY:0001859	QTL_leaf-stem	plant_architecture	6901	Chr18_6944172	2.29E-07			Gm18	G	6944172	6944172
-157	Leaflet chlorophyll 2-g5	Chlorophyll content	Leaflet chlorophyll 2	Leaflet chlorophyll	SOY:0001859	QTL_leaf-stem	plant_architecture	6902	Chr18_50272746	1.86E-07			Gm18	G	50272746	50272746
-158	Leaflet chlorophyll 2-g6	Chlorophyll content	Leaflet chlorophyll 2	Leaflet chlorophyll	SOY:0001859	QTL_leaf-stem	plant_architecture	6903	Chr20_543629	2.45E-07			Gm20	I	543629	543629
-159	Seed palmitic 2-g1.1	FA16 content	Seed palmitic 2	Seed palmitic	SOY:0001673	QTL_oil	seed_composition_and_yield	6904	Chr05_925502	2.34E-14			Gm05	A1	925502	925502
-160	Seed palmitic 2-g1.2	FA16 content	Seed palmitic 2	Seed palmitic	SOY:0001673	QTL_oil	seed_composition_and_yield	6905	Chr05_1050109	2.34E-14			Gm05	A1	1050109	1050109
-161	Seed palmitic 2-g1.3	FA16 content	Seed palmitic 2	Seed palmitic	SOY:0001673	QTL_oil	seed_composition_and_yield	6906	Chr05_1476699	2.34E-14			Gm05	A1	1476699	1476699
-162	Seed palmitic 2-g2	FA16 content	Seed palmitic 2	Seed palmitic	SOY:0001673	QTL_oil	seed_composition_and_yield	6907	Chr06_50581961	1.17E-07			Gm06	C2	50581961	50581961
-163	Seed palmitic 2-g3.1	FA16 content	Seed palmitic 2	Seed palmitic	SOY:0001673	QTL_oil	seed_composition_and_yield	6908	Chr07_2438597	5.62E-08			Gm07	M	2438597	2438597
-164	Seed palmitic 2-g3.2	FA16 content	Seed palmitic 2	Seed palmitic	SOY:0001673	QTL_oil	seed_composition_and_yield	6909	Chr07_2439024	5.62E-08			Gm07	M	2439024	2439024
-165	Seed long-chain fatty acid 1-g1.1	FA16 ratio	Seed long-chain fatty acid 1	Seed long-chain fatty acid	SOY:0002233	QTL_oil	seed_composition_and_yield	6904	Chr05_925502	8.51E-16			Gm05	A1	925502	925502
-166	Seed long-chain fatty acid 1-g1.2	FA16 ratio	Seed long-chain fatty acid 1	Seed long-chain fatty acid	SOY:0002233	QTL_oil	seed_composition_and_yield	6910	Chr05_1140198	8.51E-16			Gm05	A1	1140198	1140198
-167	Seed long-chain fatty acid 1-g1.3	FA16 ratio	Seed long-chain fatty acid 1	Seed long-chain fatty acid	SOY:0002233	QTL_oil	seed_composition_and_yield	6906	Chr05_1476699	8.51E-16			Gm05	A1	1476699	1476699
-168	Seed long-chain fatty acid 1-g2.1	FA16 ratio	Seed long-chain fatty acid 1	Seed long-chain fatty acid	SOY:0002233	QTL_oil	seed_composition_and_yield	6911	Chr05_1692088	3.98E-08			Gm05	A1	1692088	1692088
-169	Seed long-chain fatty acid 1-g2.2	FA16 ratio	Seed long-chain fatty acid 1	Seed long-chain fatty acid	SOY:0002233	QTL_oil	seed_composition_and_yield	6912	Chr05_1701656	3.98E-08			Gm05	A1	1701656	1701656
-170	Seed long-chain fatty acid 1-g2.3	FA16 ratio	Seed long-chain fatty acid 1	Seed long-chain fatty acid	SOY:0002233	QTL_oil	seed_composition_and_yield	6913	Chr05_1716595	3.98E-08			Gm05	A1	1716595	1716595
-171	Seed long-chain fatty acid 1-g3.1	FA16 ratio	Seed long-chain fatty acid 1	Seed long-chain fatty acid	SOY:0002233	QTL_oil	seed_composition_and_yield	6914	Chr13_14070515	6.03E-09			Gm13	F	14070515	14070515
-172	Seed long-chain fatty acid 1-g3.2	FA16 ratio	Seed long-chain fatty acid 1	Seed long-chain fatty acid	SOY:0002233	QTL_oil	seed_composition_and_yield	6915	Chr13_14109681	6.03E-09			Gm13	F	14109681	14109681
-173	Seed long-chain fatty acid 1-g3.3	FA16 ratio	Seed long-chain fatty acid 1	Seed long-chain fatty acid	SOY:0002233	QTL_oil	seed_composition_and_yield	6916	Chr13_14114485	6.03E-09			Gm13	F	14114485	14114485
-174	Seed long-chain fatty acid 1-g4.1	FA16 ratio	Seed long-chain fatty acid 1	Seed long-chain fatty acid	SOY:0002233	QTL_oil	seed_composition_and_yield	6917	Chr04_2101652	1.55E-07			Gm04	C1	2101652	2101652
-175	Seed long-chain fatty acid 1-g4.2	FA16 ratio	Seed long-chain fatty acid 1	Seed long-chain fatty acid	SOY:0002233	QTL_oil	seed_composition_and_yield	6918	Chr04_2120885	1.55E-07			Gm04	C1	2120885	2120885
-176	Seed long-chain fatty acid 1-g4.3	FA16 ratio	Seed long-chain fatty acid 1	Seed long-chain fatty acid	SOY:0002233	QTL_oil	seed_composition_and_yield	6919	Chr04_2126907	1.55E-07			Gm04	C1	2126907	2126907
-177	Seed long-chain fatty acid 1-g5.1	FA16 ratio	Seed long-chain fatty acid 1	Seed long-chain fatty acid	SOY:0002233	QTL_oil	seed_composition_and_yield	6920	Chr11_10795759	6.03E-08			Gm11	B1	10795759	10795759
-178	Seed long-chain fatty acid 1-g5.2	FA16 ratio	Seed long-chain fatty acid 1	Seed long-chain fatty acid	SOY:0002233	QTL_oil	seed_composition_and_yield	6921	Chr11_10826709	6.03E-08			Gm11	B1	10826709	10826709
-179	Seed long-chain fatty acid 1-g5.3	FA16 ratio	Seed long-chain fatty acid 1	Seed long-chain fatty acid	SOY:0002233	QTL_oil	seed_composition_and_yield	6922	Chr11_10876169	6.03E-08			Gm11	B1	10876169	10876169
-180	Seed stearic 1-g1.1	FA18 content	Seed stearic 1	Seed stearic	SOY:0001626	QTL_oil	seed_composition_and_yield	6923	Chr02_19886706	7.24E-08			Gm02	D1b	19886706	19886706
-181	Seed stearic 1-g1.2	FA18 content	Seed stearic 1	Seed stearic	SOY:0001626	QTL_oil	seed_composition_and_yield	6924	Chr02_19955907	7.24E-08			Gm02	D1b	19955907	19955907
-182	Seed stearic 1-g1.3	FA18 content	Seed stearic 1	Seed stearic	SOY:0001626	QTL_oil	seed_composition_and_yield	6925	Chr02_19985370	7.24E-08			Gm02	D1b	19985370	19985370
-183	Seed stearic 1-g2.1	FA18 content	Seed stearic 1	Seed stearic	SOY:0001626	QTL_oil	seed_composition_and_yield	6926	Chr03_12501628	9.55E-10			Gm03	N	12501628	12501628
-184	Seed stearic 1-g2.2	FA18 content	Seed stearic 1	Seed stearic	SOY:0001626	QTL_oil	seed_composition_and_yield	6927	Chr03_12704607	9.55E-10			Gm03	N	12704607	12704607
-185	Seed stearic 1-g2.3	FA18 content	Seed stearic 1	Seed stearic	SOY:0001626	QTL_oil	seed_composition_and_yield	6928	Chr03_12954110	9.55E-10			Gm03	N	12954110	12954110
-186	Seed stearic 1-g3.1	FA18 content	Seed stearic 1	Seed stearic	SOY:0001626	QTL_oil	seed_composition_and_yield	6929	Chr14_15199586	5.50E-11			Gm14	B2	15199586	15199586
-187	Seed stearic 1-g3.2	FA18 content	Seed stearic 1	Seed stearic	SOY:0001626	QTL_oil	seed_composition_and_yield	6930	Chr14_17456087	5.50E-11			Gm14	B2	17456087	17456087
-188	Seed stearic 1-g3.3	FA18 content	Seed stearic 1	Seed stearic	SOY:0001626	QTL_oil	seed_composition_and_yield	6931	Chr14_19630147	5.50E-11			Gm14	B2	19630147	19630147
-189	Seed stearic 1-g4.1	FA18 content	Seed stearic 1	Seed stearic	SOY:0001626	QTL_oil	seed_composition_and_yield	6932	Chr14_34771615	1.15E-10			Gm14	B2	34771615	34771615
-190	Seed stearic 1-g4.2	FA18 content	Seed stearic 1	Seed stearic	SOY:0001626	QTL_oil	seed_composition_and_yield	6933	Chr14_39684297	1.15E-10			Gm14	B2	39684297	39684297
-191	Seed stearic 1-g4.3	FA18 content	Seed stearic 1	Seed stearic	SOY:0001626	QTL_oil	seed_composition_and_yield	6934	Chr14_40356659	1.15E-10			Gm14	B2	40356659	40356659
-192	Seed long-chain fatty acid 1-g6.1	FA18 ratio	Seed long-chain fatty acid 1	Seed long-chain fatty acid	SOY:0002233	QTL_oil	seed_composition_and_yield	6935	Chr02_19851000	1.15E-09			Gm02	D1b	19851000	19851000
-193	Seed long-chain fatty acid 1-g6.2	FA18 ratio	Seed long-chain fatty acid 1	Seed long-chain fatty acid	SOY:0002233	QTL_oil	seed_composition_and_yield	6923	Chr02_19886706	1.15E-09			Gm02	D1b	19886706	19886706
-194	Seed long-chain fatty acid 1-g6.3	FA18 ratio	Seed long-chain fatty acid 1	Seed long-chain fatty acid	SOY:0002233	QTL_oil	seed_composition_and_yield	6936	Chr02_19997509	1.15E-09			Gm02	D1b	19997509	19997509
-195	Seed long-chain fatty acid 1-g7.1	FA18 ratio	Seed long-chain fatty acid 1	Seed long-chain fatty acid	SOY:0002233	QTL_oil	seed_composition_and_yield	6937	Chr03_12500458	2.19E-13			Gm03	N	12500458	12500458
-196	Seed long-chain fatty acid 1-g7.2	FA18 ratio	Seed long-chain fatty acid 1	Seed long-chain fatty acid	SOY:0002233	QTL_oil	seed_composition_and_yield	6938	Chr03_12702388	2.19E-13			Gm03	N	12702388	12702388
-197	Seed long-chain fatty acid 1-g7.3	FA18 ratio	Seed long-chain fatty acid 1	Seed long-chain fatty acid	SOY:0002233	QTL_oil	seed_composition_and_yield	6939	Chr03_12989558	2.19E-13			Gm03	N	12989558	12989558
-198	Seed long-chain fatty acid 1-g8.1	FA18 ratio	Seed long-chain fatty acid 1	Seed long-chain fatty acid	SOY:0002233	QTL_oil	seed_composition_and_yield	6940	Chr14_14985465	8.13E-15			Gm14	B2	14985465	14985465
-199	Seed long-chain fatty acid 1-g8.2	FA18 ratio	Seed long-chain fatty acid 1	Seed long-chain fatty acid	SOY:0002233	QTL_oil	seed_composition_and_yield	6930	Chr14_17456087	8.13E-15			Gm14	B2	17456087	17456087
-200	Seed long-chain fatty acid 1-g8.3	FA18 ratio	Seed long-chain fatty acid 1	Seed long-chain fatty acid	SOY:0002233	QTL_oil	seed_composition_and_yield	6941	Chr14_19660594	8.13E-15			Gm14	B2	19660594	19660594
-201	Seed long-chain fatty acid 1-g9.1	FA18 ratio	Seed long-chain fatty acid 1	Seed long-chain fatty acid	SOY:0002233	QTL_oil	seed_composition_and_yield	6942	Chr14_34208617	4.27E-14			Gm14	B2	34208617	34208617
-202	Seed long-chain fatty acid 1-g9.2	FA18 ratio	Seed long-chain fatty acid 1	Seed long-chain fatty acid	SOY:0002233	QTL_oil	seed_composition_and_yield	6933	Chr14_39684297	4.27E-14			Gm14	B2	39684297	39684297
-203	Seed long-chain fatty acid 1-g9.3	FA18 ratio	Seed long-chain fatty acid 1	Seed long-chain fatty acid	SOY:0002233	QTL_oil	seed_composition_and_yield	6943	Chr14_40536866	4.27E-14			Gm14	B2	40536866	40536866
-204	Seed alpha-linolenic acid 1-g1.1	FA18:3 content	Seed alpha-linolenic acid 1	Seed alpha-linolenic acid	SOY:0002232	QTL_oil	seed_composition_and_yield	6944	Chr04_5365622	1.45E-07			Gm04	C1	5365622	5365622
-205	Seed alpha-linolenic acid 1-g1.2	FA18:3 content	Seed alpha-linolenic acid 1	Seed alpha-linolenic acid	SOY:0002232	QTL_oil	seed_composition_and_yield	6945	Chr04_5369762	1.45E-07			Gm04	C1	5369762	5369762
-206	Seed alpha-linolenic acid 1-g2.1	FA18:3 content	Seed alpha-linolenic acid 1	Seed alpha-linolenic acid	SOY:0002232	QTL_oil	seed_composition_and_yield	6946	Chr14_45909173	1.62E-11			Gm14	B2	45909173	45909173
-207	Seed alpha-linolenic acid 1-g2.2	FA18:3 content	Seed alpha-linolenic acid 1	Seed alpha-linolenic acid	SOY:0002232	QTL_oil	seed_composition_and_yield	6947	Chr14_45985528	1.62E-11			Gm14	B2	45985528	45985528
-208	Seed alpha-linolenic acid 1-g2.3	FA18:3 content	Seed alpha-linolenic acid 1	Seed alpha-linolenic acid	SOY:0002232	QTL_oil	seed_composition_and_yield	6948	Chr14_46019811	1.62E-11			Gm14	B2	46019811	46019811
-209	Seed long-chain fatty acid 1-g10.1	FA18:3 ratio	Seed long-chain fatty acid 1	Seed long-chain fatty acid	SOY:0002233	QTL_oil	seed_composition_and_yield	6949	Chr14_45927234	2.04E-10			Gm14	B2	45927234	45927234
-210	Seed long-chain fatty acid 1-g10.2	FA18:3 ratio	Seed long-chain fatty acid 1	Seed long-chain fatty acid	SOY:0002233	QTL_oil	seed_composition_and_yield	6947	Chr14_45985528	2.04E-10			Gm14	B2	45985528	45985528
-211	Flower color 2-g1.1	Flower color	Flower color 2	Flower color	SOY:0001352	QTL_whole-plant	plant_architecture	6950	Chr13_16609051	6.76E-166			Gm13	F	16609051	16609051
-212	Flower color 2-g1.2	Flower color	Flower color 2	Flower color	SOY:0001352	QTL_whole-plant	plant_architecture	6951	Chr13_17307394	6.76E-166			Gm13	F	17307394	17307394
-213	Flower color 2-g1.3	Flower color	Flower color 2	Flower color	SOY:0001352	QTL_whole-plant	plant_architecture	6952	Chr13_19868544	6.76E-166			Gm13	F	19868544	19868544
-214	First flower 5-g14.1	Full bloom date	First flower 5	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	6953	Chr05_40012587	1.23E-07			Gm05	A1	40012587	40012587
-215	First flower 5-g14.2	Full bloom date	First flower 5	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	6954	Chr05_40016323	1.23E-07			Gm05	A1	40016323	40016323
-216	First flower 5-g15.1	Full bloom date	First flower 5	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	6955	Chr10_44710944	2.82E-14			Gm10	O	44710944	44710944
-217	First flower 5-g15.2	Full bloom date	First flower 5	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	6859	Chr10_45310798	2.82E-14			Gm10	O	45310798	45310798
-218	First flower 5-g15.3	Full bloom date	First flower 5	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	6860	Chr10_45465189	2.82E-14			Gm10	O	45465189	45465189
-219	First flower 5-g16.1	Full bloom date	First flower 5	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	6956	Chr11_24962516	3.72E-10			Gm11	B1	24962516	24962516
-220	First flower 5-g16.2	Full bloom date	First flower 5	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	6861	Chr11_25033166	3.72E-10			Gm11	B1	25033166	25033166
-221	First flower 5-g16.3	Full bloom date	First flower 5	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	6957	Chr11_25055297	3.72E-10			Gm11	B1	25055297	25055297
-222	First flower 5-g17	Full bloom date	First flower 5	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	6862	Chr19_43183481	7.24E-08			Gm19	L	43183481	43183481
-223	First flower 5-g18	Full bloom date	First flower 5	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	6958	Chr01_2893024	4.17E-08			Gm01	D1a	2893024	2893024
-224	First flower 5-g19.1	Full bloom date	First flower 5	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	6959	Chr02_9815707	1.45E-08			Gm02	D1b	9815707	9815707
-225	First flower 5-g19.2	Full bloom date	First flower 5	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	6863	Chr02_10182071	1.45E-08			Gm02	D1b	10182071	10182071
-226	First flower 5-g19.3	Full bloom date	First flower 5	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	6864	Chr02_10286440	1.45E-08			Gm02	D1b	10286440	10286440
-227	First flower 5-g20.1	Full bloom date	First flower 5	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	6865	Chr02_12316110	1.48E-07			Gm02	D1b	12316110	12316110
-228	First flower 5-g20.2	Full bloom date	First flower 5	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	6960	Chr02_12408115	1.48E-07			Gm02	D1b	12408115	12408115
-229	First flower 5-g21	Full bloom date	First flower 5	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	6867	Chr03_3919776	6.92E-08			Gm03	N	3919776	3919776
-230	First flower 5-g22.1	Full bloom date	First flower 5	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	6961	Chr03_5139801	2.14E-07			Gm03	N	5139801	5139801
-231	First flower 5-g22.2	Full bloom date	First flower 5	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	6962	Chr03_5146262	2.14E-07			Gm03	N	5146262	5146262
-232	First flower 5-g23.1	Full bloom date	First flower 5	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	6963	Chr06_19178035	7.08E-08			Gm06	C2	19178035	19178035
-233	First flower 5-g23.2	Full bloom date	First flower 5	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	6869	Chr06_20097064	7.08E-08			Gm06	C2	20097064	20097064
-234	First flower 5-g23.3	Full bloom date	First flower 5	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	6964	Chr06_20299454	7.08E-08			Gm06	C2	20299454	20299454
-235	First flower 5-g24.1	Full bloom date	First flower 5	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	6873	Chr11_10820746	1.32E-08			Gm11	B1	10820746	10820746
-236	First flower 5-g24.2	Full bloom date	First flower 5	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	6965	Chr11_10836170	1.32E-08			Gm11	B1	10836170	10836170
-237	First flower 5-g25.1	Full bloom date	First flower 5	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	6966	Chr11_31718686	2.45E-08			Gm11	B1	31718686	31718686
-238	First flower 5-g25.2	Full bloom date	First flower 5	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	6967	Chr11_31730516	2.45E-08			Gm11	B1	31730516	31730516
-239	First flower 5-g25.3	Full bloom date	First flower 5	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	6968	Chr11_31731024	2.45E-08			Gm11	B1	31731024	31731024
-240	First flower 5-g26.1	Full bloom date	First flower 5	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	6874	Chr12_5475503	5.89E-09			Gm12	H	5475503	5475503
-241	First flower 5-g26.2	Full bloom date	First flower 5	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	6875	Chr12_5504773	5.89E-09			Gm12	H	5504773	5504773
-242	First flower 5-g26.3	Full bloom date	First flower 5	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	6876	Chr12_5529926	5.89E-09			Gm12	H	5529926	5529926
-243	First flower 5-g27.1	Full bloom date	First flower 5	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	6969	Chr13_37478851	1.74E-07			Gm13	F	37478851	37478851
-244	First flower 5-g27.2	Full bloom date	First flower 5	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	6970	Chr13_37498490	1.74E-07			Gm13	F	37498490	37498490
-245	First flower 5-g28	Full bloom date	First flower 5	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	6971	Chr14_12744442	1.78E-07			Gm14	B2	12744442	12744442
-246	First flower 5-g29.1	Full bloom date	First flower 5	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	6972	Chr15_13133351	0.00000001			Gm15	E	13133351	13133351
-247	First flower 5-g29.2	Full bloom date	First flower 5	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	6973	Chr15_13160907	0.00000001			Gm15	E	13160907	13160907
-248	First flower 5-g29.3	Full bloom date	First flower 5	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	6974	Chr15_13160963	0.00000001			Gm15	E	13160963	13160963
-249	First flower 5-g30.1	Full bloom date	First flower 5	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	6975	Chr17_2233815	1.38E-07			Gm17	D2	2233815	2233815
-250	First flower 5-g30.2	Full bloom date	First flower 5	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	6976	Chr17_2239470	1.38E-07			Gm17	D2	2239470	2239470
-251	First flower 5-g30.3	Full bloom date	First flower 5	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	6977	Chr17_2239543	1.38E-07			Gm17	D2	2239543	2239543
-252	First flower 5-g31.1	Full bloom date	First flower 5	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	6879	Chr18_57269374	5.62E-08			Gm18	G	57269374	57269374
-253	First flower 5-g31.2	Full bloom date	First flower 5	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	6880	Chr18_57272016	5.62E-08			Gm18	G	57272016	57272016
-254	First flower 5-g32	Full bloom date	First flower 5	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	6881	Chr20_34256561	2.00E-07			Gm20	I	34256561	34256561
-255	Hilum color 2-g1	Hilum color	Hilum color 2	Hilum color	SOY:0001367	QTL_other-seed	plant_architecture	6978	Chr06_20138000	3.16E-09			Gm06	C2	20138000	20138000
-256	Hilum color 2-g2.1	Hilum color	Hilum color 2	Hilum color	SOY:0001367	QTL_other-seed	plant_architecture	6979	Chr08_8360663	4.47E-13			Gm08	A2	8360663	8360663
-257	Hilum color 2-g2.2	Hilum color	Hilum color 2	Hilum color	SOY:0001367	QTL_other-seed	plant_architecture	6980	Chr08_8402284	4.47E-13			Gm08	A2	8402284	8402284
-258	Hilum color 2-g2.3	Hilum color	Hilum color 2	Hilum color	SOY:0001367	QTL_other-seed	plant_architecture	6981	Chr08_8608730	4.47E-13			Gm08	A2	8608730	8608730
-259	Hilum color 2-g3.1	Hilum color	Hilum color 2	Hilum color	SOY:0001367	QTL_other-seed	plant_architecture	6983	Chr08_11469073	1.74E-10			Gm08	A2	11469073	11469073
-260	Hilum color 2-g3.2	Hilum color	Hilum color 2	Hilum color	SOY:0001367	QTL_other-seed	plant_architecture	6983	Chr08_11469073	1.74E-10			Gm08	A2	11469073	11469073
-261	Hilum color 2-g3.3	Hilum color	Hilum color 2	Hilum color	SOY:0001367	QTL_other-seed	plant_architecture	6983	Chr08_11469073	1.74E-10			Gm08	A2	11469073	11469073
-262	Hilum color 2-g4.1	Hilum color	Hilum color 2	Hilum color	SOY:0001367	QTL_other-seed	plant_architecture	6986	Chr08_14158294	2.29E-09			Gm08	A2	14158294	14158294
-263	Hilum color 2-g4.2	Hilum color	Hilum color 2	Hilum color	SOY:0001367	QTL_other-seed	plant_architecture	6986	Chr08_14158294	2.29E-09			Gm08	A2	14158294	14158294
-264	Hilum color 2-g4.3	Hilum color	Hilum color 2	Hilum color	SOY:0001367	QTL_other-seed	plant_architecture	6986	Chr08_14158294	2.29E-09			Gm08	A2	14158294	14158294
-265	Hilum color 2-g5.1	Hilum color	Hilum color 2	Hilum color	SOY:0001367	QTL_other-seed	plant_architecture	6989	Chr13_30062400	1.05E-09			Gm13	F	30062400	30062400
-266	Hilum color 2-g5.2	Hilum color	Hilum color 2	Hilum color	SOY:0001367	QTL_other-seed	plant_architecture	6989	Chr13_30062400	1.05E-09			Gm13	F	30062400	30062400
-267	Hilum color 2-g5.3	Hilum color	Hilum color 2	Hilum color	SOY:0001367	QTL_other-seed	plant_architecture	6989	Chr13_30062400	1.05E-09			Gm13	F	30062400	30062400
-268	Hilum color 2-g6	Hilum color	Hilum color 2	Hilum color	SOY:0001367	QTL_other-seed	plant_architecture	6991	Chr20_36902659	0.0000001			Gm20	I	36902659	36902659
-269	Seed amino acids 1-g1.1	L_Glu(Gln) content	Seed amino acids 1	Seed amino acids	SOY:0001757	QTL_protein	seed_composition_and_yield	6992	Chr01_53486467	3.16E-08			Gm01	D1a	53486467	53486467
-270	Seed amino acids 1-g1.2	L_Glu(Gln) content	Seed amino acids 1	Seed amino acids	SOY:0001757	QTL_protein	seed_composition_and_yield	6993	Chr01_53486650	3.16E-08			Gm01	D1a	53486650	53486650
-271	Seed amino acids 1-g2.1	L_Glu(Gln) content	Seed amino acids 1	Seed amino acids	SOY:0001757	QTL_protein	seed_composition_and_yield	6994	Chr08_35266140	2.19E-08			Gm08	A2	35266140	35266140
-272	Seed amino acids 1-g2.2	L_Glu(Gln) content	Seed amino acids 1	Seed amino acids	SOY:0001757	QTL_protein	seed_composition_and_yield	6995	Chr08_35266158	2.19E-08			Gm08	A2	35266158	35266158
-273	Seed amino acids 1-g2.3	L_Glu(Gln) content	Seed amino acids 1	Seed amino acids	SOY:0001757	QTL_protein	seed_composition_and_yield	6996	Chr08_35266324	2.19E-08			Gm08	A2	35266324	35266324
-274	Seed amino acids 1-g3	L_Glu(Gln) content	Seed amino acids 1	Seed amino acids	SOY:0001757	QTL_protein	seed_composition_and_yield	6997	Chr09_33309127	6.03E-08			Gm09	K	33309127	33309127
-275	Seed amino acids 1-g4.1	L_Glu(Gln) content	Seed amino acids 1	Seed amino acids	SOY:0001757	QTL_protein	seed_composition_and_yield	6998	Chr13_2546775	1.12E-08			Gm13	F	2546775	2546775
-276	Seed amino acids 1-g4.2	L_Glu(Gln) content	Seed amino acids 1	Seed amino acids	SOY:0001757	QTL_protein	seed_composition_and_yield	6999	Chr13_2546862	1.12E-08			Gm13	F	2546862	2546862
-277	Seed amino acids 1-g5.1	L_Glu(Gln) content	Seed amino acids 1	Seed amino acids	SOY:0001757	QTL_protein	seed_composition_and_yield	7000	Chr14_5055466	5.62E-08			Gm14	B2	5055466	5055466
-278	Seed amino acids 1-g5.2	L_Glu(Gln) content	Seed amino acids 1	Seed amino acids	SOY:0001757	QTL_protein	seed_composition_and_yield	7001	Chr14_5055474	5.62E-08			Gm14	B2	5055474	5055474
-279	Seed amino acids 1-g6.1	L_Gly content	Seed amino acids 1	Seed amino acids	SOY:0001757	QTL_protein	seed_composition_and_yield	7002	Chr10_2422267	1.05E-07			Gm10	O	2422267	2422267
-280	Seed amino acids 1-g6.2	L_Gly content	Seed amino acids 1	Seed amino acids	SOY:0001757	QTL_protein	seed_composition_and_yield	7003	Chr10_2428789	1.05E-07			Gm10	O	2428789	2428789
-281	Seed amino acids 1-g6.3	L_Gly content	Seed amino acids 1	Seed amino acids	SOY:0001757	QTL_protein	seed_composition_and_yield	7004	Chr10_2436611	1.05E-07			Gm10	O	2436611	2436611
-282	Seed amino acids 1-g7	L_Phe content	Seed amino acids 1	Seed amino acids	SOY:0001757	QTL_protein	seed_composition_and_yield	6999	Chr13_2546862	1.82E-07			Gm13	F	2546862	2546862
-283	Seed amino acids 1-g8	L_Ser content	Seed amino acids 1	Seed amino acids	SOY:0001757	QTL_protein	seed_composition_and_yield	7005	Chr01_989187	7.94E-10			Gm01	D1a	989187	989187
-284	Seed amino acids 1-g9.1	L_Ser content	Seed amino acids 1	Seed amino acids	SOY:0001757	QTL_protein	seed_composition_and_yield	6992	Chr01_53486467	1.82E-10			Gm01	D1a	53486467	53486467
-285	Seed amino acids 1-g9.2	L_Ser content	Seed amino acids 1	Seed amino acids	SOY:0001757	QTL_protein	seed_composition_and_yield	7006	Chr01_53486490	1.82E-10			Gm01	D1a	53486490	53486490
-286	Seed amino acids 1-g9.3	L_Ser content	Seed amino acids 1	Seed amino acids	SOY:0001757	QTL_protein	seed_composition_and_yield	7007	Chr01_53486686	1.82E-10			Gm01	D1a	53486686	53486686
-287	Seed amino acids 1-g10.1	L_Ser content	Seed amino acids 1	Seed amino acids	SOY:0001757	QTL_protein	seed_composition_and_yield	6994	Chr08_35266140	7.94E-11			Gm08	A2	35266140	35266140
-288	Seed amino acids 1-g10.2	L_Ser content	Seed amino acids 1	Seed amino acids	SOY:0001757	QTL_protein	seed_composition_and_yield	6995	Chr08_35266158	7.94E-11			Gm08	A2	35266158	35266158
-289	Seed amino acids 1-g10.3	L_Ser content	Seed amino acids 1	Seed amino acids	SOY:0001757	QTL_protein	seed_composition_and_yield	6996	Chr08_35266324	7.94E-11			Gm08	A2	35266324	35266324
-290	Seed amino acids 1-g11	L_Ser content	Seed amino acids 1	Seed amino acids	SOY:0001757	QTL_protein	seed_composition_and_yield	6997	Chr09_33309127	1.74E-09			Gm09	K	33309127	33309127
-291	Seed amino acids 1-g12.1	L_Ser content	Seed amino acids 1	Seed amino acids	SOY:0001757	QTL_protein	seed_composition_and_yield	6998	Chr13_2546775	1.02E-11			Gm13	F	2546775	2546775
-292	Seed amino acids 1-g12.2	L_Ser content	Seed amino acids 1	Seed amino acids	SOY:0001757	QTL_protein	seed_composition_and_yield	6999	Chr13_2546862	1.02E-11			Gm13	F	2546862	2546862
-293	Seed amino acids 1-g13.1	L_Ser content	Seed amino acids 1	Seed amino acids	SOY:0001757	QTL_protein	seed_composition_and_yield	7000	Chr14_5055466	9.77E-10			Gm14	B2	5055466	5055466
-294	Seed amino acids 1-g13.2	L_Ser content	Seed amino acids 1	Seed amino acids	SOY:0001757	QTL_protein	seed_composition_and_yield	7001	Chr14_5055474	9.77E-10			Gm14	B2	5055474	5055474
-295	Seed amino acids 1-g14	L_Thr content	Seed amino acids 1	Seed amino acids	SOY:0001757	QTL_protein	seed_composition_and_yield	7006	Chr01_53486490	1.91E-07			Gm01	D1a	53486490	53486490
-296	Seed amino acids 1-g15	L_Thr content	Seed amino acids 1	Seed amino acids	SOY:0001757	QTL_protein	seed_composition_and_yield	7004	Chr10_2436611	1.07E-07			Gm10	O	2436611	2436611
-297	Seed amino acids 1-g16	L_Thr content	Seed amino acids 1	Seed amino acids	SOY:0001757	QTL_protein	seed_composition_and_yield	6999	Chr13_2546862	4.57E-08			Gm13	F	2546862	2546862
-298	Seed amino acids 1-g17	L_Thr content	Seed amino acids 1	Seed amino acids	SOY:0001757	QTL_protein	seed_composition_and_yield	7008	Chr20_38215861	2.45E-07			Gm20	I	38215861	38215861
-299	Seed amino acids 1-g18.1	L_Tyr content	Seed amino acids 1	Seed amino acids	SOY:0001757	QTL_protein	seed_composition_and_yield	7005	Chr01_989187	1.66E-12			Gm01	D1a	989187	989187
-300	Seed amino acids 1-g18.2	L_Tyr content	Seed amino acids 1	Seed amino acids	SOY:0001757	QTL_protein	seed_composition_and_yield	7009	Chr01_989204	1.66E-12			Gm01	D1a	989204	989204
-301	Seed amino acids 1-g19	L_Tyr content	Seed amino acids 1	Seed amino acids	SOY:0001757	QTL_protein	seed_composition_and_yield	7010	Chr01_2181558	5.37E-08			Gm01	D1a	2181558	2181558
-302	Seed amino acids 1-g20.1	L_Tyr content	Seed amino acids 1	Seed amino acids	SOY:0001757	QTL_protein	seed_composition_and_yield	6992	Chr01_53486467	1.35E-16			Gm01	D1a	53486467	53486467
-303	Seed amino acids 1-g20.2	L_Tyr content	Seed amino acids 1	Seed amino acids	SOY:0001757	QTL_protein	seed_composition_and_yield	7007	Chr01_53486686	1.35E-16			Gm01	D1a	53486686	53486686
-304	Seed amino acids 1-g21.1	L_Tyr content	Seed amino acids 1	Seed amino acids	SOY:0001757	QTL_protein	seed_composition_and_yield	6994	Chr08_35266140	1.15E-16			Gm08	A2	35266140	35266140
-305	Seed amino acids 1-g21.2	L_Tyr content	Seed amino acids 1	Seed amino acids	SOY:0001757	QTL_protein	seed_composition_and_yield	6996	Chr08_35266324	1.15E-16			Gm08	A2	35266324	35266324
-306	Seed amino acids 1-g22	L_Tyr content	Seed amino acids 1	Seed amino acids	SOY:0001757	QTL_protein	seed_composition_and_yield	6997	Chr09_33309127	1.41E-16			Gm09	K	33309127	33309127
-307	Seed amino acids 1-g23.1	L_Tyr content	Seed amino acids 1	Seed amino acids	SOY:0001757	QTL_protein	seed_composition_and_yield	6998	Chr13_2546775	9.12E-17			Gm13	F	2546775	2546775
-308	Seed amino acids 1-g23.2	L_Tyr content	Seed amino acids 1	Seed amino acids	SOY:0001757	QTL_protein	seed_composition_and_yield	6999	Chr13_2546862	9.12E-17			Gm13	F	2546862	2546862
-309	Seed amino acids 1-g24.1	L_Tyr content	Seed amino acids 1	Seed amino acids	SOY:0001757	QTL_protein	seed_composition_and_yield	7000	Chr14_5055466	2.09E-15			Gm14	B2	5055466	5055466
-310	Seed amino acids 1-g24.2	L_Tyr content	Seed amino acids 1	Seed amino acids	SOY:0001757	QTL_protein	seed_composition_and_yield	7001	Chr14_5055474	2.09E-15			Gm14	B2	5055474	5055474
-311	Seed amino acids 1-g25.1	L_Tyr content	Seed amino acids 1	Seed amino acids	SOY:0001757	QTL_protein	seed_composition_and_yield	7011	Chr19_44806855	1.29E-07			Gm19	L	44806855	44806855
-312	Seed amino acids 1-g25.2	L_Tyr content	Seed amino acids 1	Seed amino acids	SOY:0001757	QTL_protein	seed_composition_and_yield	7012	Chr19_44912660	1.29E-07			Gm19	L	44912660	44912660
-313	Seed amino acids 1-g25.3	L_Tyr content	Seed amino acids 1	Seed amino acids	SOY:0001757	QTL_protein	seed_composition_and_yield	7013	Chr19_44922846	1.29E-07			Gm19	L	44922846	44922846
-314	Leaflet area 1-g1.1	Leaf area	Leaflet area 1	Leaflet area	SOY:0001385	QTL_leaf-stem	plant_architecture	7014	Chr20_35408048	5.25E-24			Gm20	I	35408048	35408048
-315	Leaflet area 1-g1.2	Leaf area	Leaflet area 1	Leaflet area	SOY:0001385	QTL_leaf-stem	plant_architecture	7015	Chr20_35828042	5.25E-24			Gm20	I	35828042	35828042
-316	Leaflet area 1-g1.3	Leaf area	Leaflet area 1	Leaflet area	SOY:0001385	QTL_leaf-stem	plant_architecture	7016	Chr20_36674350	5.25E-24			Gm20	I	36674350	36674350
-317	Leaflet area 1-g2.1	Leaf area	Leaflet area 1	Leaflet area	SOY:0001385	QTL_leaf-stem	plant_architecture	7017	Chr03_2958986	1.07E-07			Gm03	N	2958986	2958986
-318	Leaflet area 1-g2.2	Leaf area	Leaflet area 1	Leaflet area	SOY:0001385	QTL_leaf-stem	plant_architecture	7018	Chr03_2961780	1.07E-07			Gm03	N	2961780	2961780
-319	Leaflet area 1-g3.1	Leaf area	Leaflet area 1	Leaflet area	SOY:0001385	QTL_leaf-stem	plant_architecture	7019	Chr19_45143539	3.02E-08			Gm19	L	45143539	45143539
-320	Leaflet area 1-g3.2	Leaf area	Leaflet area 1	Leaflet area	SOY:0001385	QTL_leaf-stem	plant_architecture	7020	Chr19_45148240	3.02E-08			Gm19	L	45148240	45148240
-321	Leaflet area 1-g3.3	Leaf area	Leaflet area 1	Leaflet area	SOY:0001385	QTL_leaf-stem	plant_architecture	7021	Chr19_45151648	3.02E-08			Gm19	L	45151648	45151648
-322	Leaflet length 1-g1.1	Leaf length	Leaflet length 1	Leaflet length	SOY:0001379	QTL_leaf-stem	plant_architecture	7022	Chr20_35819212	1.70E-10			Gm20	I	35819212	35819212
-323	Leaflet length 1-g1.2	Leaf length	Leaflet length 1	Leaflet length	SOY:0001379	QTL_leaf-stem	plant_architecture	7015	Chr20_35828042	1.70E-10			Gm20	I	35828042	35828042
-324	Leaflet length 1-g1.3	Leaf length	Leaflet length 1	Leaflet length	SOY:0001379	QTL_leaf-stem	plant_architecture	7023	Chr20_36429226	1.70E-10			Gm20	I	36429226	36429226
-325	Leaflet shape 1-g1.1	Leaf shape	Leaflet shape 1	Leaflet shape	SOY:0001389	QTL_leaf-stem	plant_architecture	7024	Chr03_36978574	1.82E-09			Gm03	N	36978574	36978574
-326	Leaflet shape 1-g1.2	Leaf shape	Leaflet shape 1	Leaflet shape	SOY:0001389	QTL_leaf-stem	plant_architecture	7025	Chr03_36990764	1.82E-09			Gm03	N	36990764	36990764
-327	Leaflet shape 1-g1.3	Leaf shape	Leaflet shape 1	Leaflet shape	SOY:0001389	QTL_leaf-stem	plant_architecture	7026	Chr03_37081007	1.82E-09			Gm03	N	37081007	37081007
-328	Leaflet shape 1-g2.1	Leaf shape	Leaflet shape 1	Leaflet shape	SOY:0001389	QTL_leaf-stem	plant_architecture	7027	Chr05_39755185	6.76E-09			Gm05	A1	39755185	39755185
-329	Leaflet shape 1-g2.2	Leaf shape	Leaflet shape 1	Leaflet shape	SOY:0001389	QTL_leaf-stem	plant_architecture	7028	Chr05_39890441	6.76E-09			Gm05	A1	39890441	39890441
-330	Leaflet shape 1-g3.1	Leaf shape	Leaflet shape 1	Leaflet shape	SOY:0001389	QTL_leaf-stem	plant_architecture	7029	Chr14_46348041	1.05E-10			Gm14	B2	46348041	46348041
-331	Leaflet shape 1-g3.2	Leaf shape	Leaflet shape 1	Leaflet shape	SOY:0001389	QTL_leaf-stem	plant_architecture	7030	Chr14_46680049	1.05E-10			Gm14	B2	46680049	46680049
-332	Leaflet shape 1-g3.3	Leaf shape	Leaflet shape 1	Leaflet shape	SOY:0001389	QTL_leaf-stem	plant_architecture	7031	Chr14_47053817	1.05E-10			Gm14	B2	47053817	47053817
-333	Leaflet shape 1-g4.1	Leaf shape	Leaflet shape 1	Leaflet shape	SOY:0001389	QTL_leaf-stem	plant_architecture	7032	Chr18_55501775	3.16E-11			Gm18	G	55501775	55501775
-334	Leaflet shape 1-g4.2	Leaf shape	Leaflet shape 1	Leaflet shape	SOY:0001389	QTL_leaf-stem	plant_architecture	7033	Chr18_55546113	3.16E-11			Gm18	G	55546113	55546113
-335	Leaflet shape 1-g4.3	Leaf shape	Leaflet shape 1	Leaflet shape	SOY:0001389	QTL_leaf-stem	plant_architecture	7034	Chr18_55552164	3.16E-11			Gm18	G	55552164	55552164
-336	Leaflet shape 1-g5.1	Leaf shape	Leaflet shape 1	Leaflet shape	SOY:0001389	QTL_leaf-stem	plant_architecture	7035	Chr20_34667185	8.13E-219			Gm20	I	34667185	34667185
-337	Leaflet shape 1-g5.2	Leaf shape	Leaflet shape 1	Leaflet shape	SOY:0001389	QTL_leaf-stem	plant_architecture	7015	Chr20_35828042	8.13E-219			Gm20	I	35828042	35828042
-338	Leaflet shape 1-g5.3	Leaf shape	Leaflet shape 1	Leaflet shape	SOY:0001389	QTL_leaf-stem	plant_architecture	7036	Chr20_37127728	8.13E-219			Gm20	I	37127728	37127728
-339	Leaflet width 1-g1	Leaf width	Leaflet width 1	Leaflet width	SOY:0001614	QTL_leaf-stem	plant_architecture	7037	Chr13_30332156	1.86E-07			Gm13	F	30332156	30332156
-340	Leaflet width 1-g2.1	Leaf width	Leaflet width 1	Leaflet width	SOY:0001614	QTL_leaf-stem	plant_architecture	7038	Chr20_34772220	7.24E-64			Gm20	I	34772220	34772220
-341	Leaflet width 1-g2.2	Leaf width	Leaflet width 1	Leaflet width	SOY:0001614	QTL_leaf-stem	plant_architecture	7015	Chr20_35828042	7.24E-64			Gm20	I	35828042	35828042
-342	Leaflet width 1-g2.3	Leaf width	Leaflet width 1	Leaflet width	SOY:0001614	QTL_leaf-stem	plant_architecture	7039	Chr20_36767928	7.24E-64			Gm20	I	36767928	36767928
-343	Leaflet width 1-g3.1	Leaf width	Leaflet width 1	Leaflet width	SOY:0001614	QTL_leaf-stem	plant_architecture	7040	Chr02_10512749	1.35E-08			Gm02	D1b	10512749	10512749
-344	Leaflet width 1-g3.2	Leaf width	Leaflet width 1	Leaflet width	SOY:0001614	QTL_leaf-stem	plant_architecture	7041	Chr02_10512883	1.35E-08			Gm02	D1b	10512883	10512883
-345	Leaflet width 1-g3.3	Leaf width	Leaflet width 1	Leaflet width	SOY:0001614	QTL_leaf-stem	plant_architecture	7042	Chr02_10565355	1.35E-08			Gm02	D1b	10565355	10565355
-346	Leaflet width 1-g4.1	Leaf width	Leaflet width 1	Leaflet width	SOY:0001614	QTL_leaf-stem	plant_architecture	7017	Chr03_2958986	2.09E-08			Gm03	N	2958986	2958986
-347	Leaflet width 1-g4.2	Leaf width	Leaflet width 1	Leaflet width	SOY:0001614	QTL_leaf-stem	plant_architecture	7018	Chr03_2961780	2.09E-08			Gm03	N	2961780	2961780
-348	Leaflet width 1-g5.1	Leaf width	Leaflet width 1	Leaflet width	SOY:0001614	QTL_leaf-stem	plant_architecture	7019	Chr19_45143539	1.32E-10			Gm19	L	45143539	45143539
-349	Leaflet width 1-g5.2	Leaf width	Leaflet width 1	Leaflet width	SOY:0001614	QTL_leaf-stem	plant_architecture	7043	Chr19_45143999	1.32E-10			Gm19	L	45143999	45143999
-350	Leaflet width 1-g5.3	Leaf width	Leaflet width 1	Leaflet width	SOY:0001614	QTL_leaf-stem	plant_architecture	7044	Chr19_45253317	1.32E-10			Gm19	L	45253317	45253317
-351	Lodging 1-g1.1	Lodging	Lodging 1	Lodging	SOY:0001393	QTL_whole-plant	plant_architecture	7045	Chr19_44826476	1.51E-10			Gm19	L	44826476	44826476
-352	Lodging 1-g1.2	Lodging	Lodging 1	Lodging	SOY:0001393	QTL_whole-plant	plant_architecture	7046	Chr19_45131781	1.51E-10			Gm19	L	45131781	45131781
-353	Lodging 1-g1.3	Lodging	Lodging 1	Lodging	SOY:0001393	QTL_whole-plant	plant_architecture	7047	Chr19_45281163	1.51E-10			Gm19	L	45281163	45281163
-354	Seed set 1-g1	Number of four seed per pod	Seed set 1	Seed set	SOY:0001419	QTL_yield	seed_composition_and_yield	7048	Chr02_14797903	5.75E-11			Gm02	D1b	14797903	14797903
-355	Seed set 1-g2	Number of four seed per pod	Seed set 1	Seed set	SOY:0001419	QTL_yield	seed_composition_and_yield	7049	Chr03_12539660	1.78E-09			Gm03	N	12539660	12539660
-356	Seed set 1-g3	Number of four seed per pod	Seed set 1	Seed set	SOY:0001419	QTL_yield	seed_composition_and_yield	7050	Chr05_35995777	2.00E-10			Gm05	A1	35995777	35995777
-357	Seed set 1-g4.1	Number of four seed per pod	Seed set 1	Seed set	SOY:0001419	QTL_yield	seed_composition_and_yield	7051	Chr10_50270206	3.24E-14			Gm10	O	50270206	50270206
-358	Seed set 1-g4.2	Number of four seed per pod	Seed set 1	Seed set	SOY:0001419	QTL_yield	seed_composition_and_yield	7052	Chr10_50981304	3.24E-14			Gm10	O	50981304	50981304
-359	Seed set 1-g4.3	Number of four seed per pod	Seed set 1	Seed set	SOY:0001419	QTL_yield	seed_composition_and_yield	7053	Chr10_51354084	3.24E-14			Gm10	O	51354084	51354084
-360	Seed set 1-g5.1	Number of four seed per pod	Seed set 1	Seed set	SOY:0001419	QTL_yield	seed_composition_and_yield	7014	Chr20_35408048	5.62E-87			Gm20	I	35408048	35408048
-361	Seed set 1-g5.2	Number of four seed per pod	Seed set 1	Seed set	SOY:0001419	QTL_yield	seed_composition_and_yield	7015	Chr20_35828042	5.62E-87			Gm20	I	35828042	35828042
-362	Seed set 1-g5.3	Number of four seed per pod	Seed set 1	Seed set	SOY:0001419	QTL_yield	seed_composition_and_yield	7016	Chr20_36674350	5.62E-87			Gm20	I	36674350	36674350
-363	Seed set 1-g6.1	Number of four seed per pod	Seed set 1	Seed set	SOY:0001419	QTL_yield	seed_composition_and_yield	7054	Chr05_34595284	2.24E-13			Gm05	A1	34595284	34595284
-364	Seed set 1-g6.2	Number of four seed per pod	Seed set 1	Seed set	SOY:0001419	QTL_yield	seed_composition_and_yield	7055	Chr05_34901192	2.24E-13			Gm05	A1	34901192	34901192
-365	Seed set 1-g6.3	Number of four seed per pod	Seed set 1	Seed set	SOY:0001419	QTL_yield	seed_composition_and_yield	7056	Chr05_35011212	2.24E-13			Gm05	A1	35011212	35011212
-366	Seed set 1-g7	Number of one seed per pod	Seed set 1	Seed set	SOY:0001419	QTL_yield	seed_composition_and_yield	7057	Chr06_50955096	5.50E-08			Gm06	C2	50955096	50955096
-367	Seed set 1-g8.1	Number of one seed per pod	Seed set 1	Seed set	SOY:0001419	QTL_yield	seed_composition_and_yield	7058	Chr11_8911653	2.34E-08			Gm11	B1	8911653	8911653
-368	Seed set 1-g8.2	Number of one seed per pod	Seed set 1	Seed set	SOY:0001419	QTL_yield	seed_composition_and_yield	7059	Chr11_8911723	2.34E-08			Gm11	B1	8911723	8911723
-369	Seed set 1-g9.1	Number of one seed per pod	Seed set 1	Seed set	SOY:0001419	QTL_yield	seed_composition_and_yield	7060	Chr13_23631174	4.27E-08			Gm13	F	23631174	23631174
-370	Seed set 1-g9.2	Number of one seed per pod	Seed set 1	Seed set	SOY:0001419	QTL_yield	seed_composition_and_yield	7061	Chr13_23649175	4.27E-08			Gm13	F	23649175	23649175
-371	Seed set 1-g10	Number of one seed per pod	Seed set 1	Seed set	SOY:0001419	QTL_yield	seed_composition_and_yield	7062	Chr13_23863861	1.62E-07			Gm13	F	23863861	23863861
-372	Seed set 1-g11	Number of one seed per pod	Seed set 1	Seed set	SOY:0001419	QTL_yield	seed_composition_and_yield	7063	Chr01_52039777	1.74E-08			Gm01	D1a	52039777	52039777
-373	Seed set 1-g12.1	Number of one seed per pod	Seed set 1	Seed set	SOY:0001419	QTL_yield	seed_composition_and_yield	7064	Chr02_14459921	2.14E-07			Gm02	D1b	14459921	14459921
-374	Seed set 1-g12.2	Number of one seed per pod	Seed set 1	Seed set	SOY:0001419	QTL_yield	seed_composition_and_yield	7065	Chr02_14463444	2.14E-07			Gm02	D1b	14463444	14463444
-375	Seed set 1-g13.1	Number of one seed per pod	Seed set 1	Seed set	SOY:0001419	QTL_yield	seed_composition_and_yield	7066	Chr03_659279	4.37E-08			Gm03	N	659279	659279
-376	Seed set 1-g13.2	Number of one seed per pod	Seed set 1	Seed set	SOY:0001419	QTL_yield	seed_composition_and_yield	7067	Chr03_669584	4.37E-08			Gm03	N	669584	669584
-377	Seed set 1-g14.1	Number of one seed per pod	Seed set 1	Seed set	SOY:0001419	QTL_yield	seed_composition_and_yield	7068	Chr03_33533018	9.12E-11			Gm03	N	33533018	33533018
-378	Seed set 1-g14.2	Number of one seed per pod	Seed set 1	Seed set	SOY:0001419	QTL_yield	seed_composition_and_yield	7069	Chr03_33542939	9.12E-11			Gm03	N	33542939	33542939
-379	Seed set 1-g15.1	Number of one seed per pod	Seed set 1	Seed set	SOY:0001419	QTL_yield	seed_composition_and_yield	7070	Chr08_10962492	8.32E-08			Gm08	A2	10962492	10962492
-380	Seed set 1-g15.2	Number of one seed per pod	Seed set 1	Seed set	SOY:0001419	QTL_yield	seed_composition_and_yield	7071	Chr08_10979773	8.32E-08			Gm08	A2	10979773	10979773
-381	Seed set 1-g16.1	Number of one seed per pod	Seed set 1	Seed set	SOY:0001419	QTL_yield	seed_composition_and_yield	7072	Chr08_46433091	4.17E-08			Gm08	A2	46433091	46433091
-382	Seed set 1-g16.2	Number of one seed per pod	Seed set 1	Seed set	SOY:0001419	QTL_yield	seed_composition_and_yield	7073	Chr08_46454061	4.17E-08			Gm08	A2	46454061	46454061
-383	Seed set 1-g17.1	Number of one seed per pod	Seed set 1	Seed set	SOY:0001419	QTL_yield	seed_composition_and_yield	7074	Chr09_3215373	1.29E-08			Gm09	K	3215373	3215373
-384	Seed set 1-g17.2	Number of one seed per pod	Seed set 1	Seed set	SOY:0001419	QTL_yield	seed_composition_and_yield	7075	Chr09_3222171	1.29E-08			Gm09	K	3222171	3222171
-385	Seed set 1-g17.3	Number of one seed per pod	Seed set 1	Seed set	SOY:0001419	QTL_yield	seed_composition_and_yield	7076	Chr09_3224372	1.29E-08			Gm09	K	3224372	3224372
-386	Seed set 1-g18.1	Number of one seed per pod	Seed set 1	Seed set	SOY:0001419	QTL_yield	seed_composition_and_yield	7077	Chr10_5362354	3.39E-08			Gm10	O	5362354	5362354
-387	Seed set 1-g18.2	Number of one seed per pod	Seed set 1	Seed set	SOY:0001419	QTL_yield	seed_composition_and_yield	7078	Chr10_5411439	3.39E-08			Gm10	O	5411439	5411439
-388	Seed set 1-g19.1	Number of one seed per pod	Seed set 1	Seed set	SOY:0001419	QTL_yield	seed_composition_and_yield	7079	Chr12_5509317	2.04E-10			Gm12	H	5509317	5509317
-389	Seed set 1-g19.2	Number of one seed per pod	Seed set 1	Seed set	SOY:0001419	QTL_yield	seed_composition_and_yield	7080	Chr12_5692082	2.04E-10			Gm12	H	5692082	5692082
-390	Seed set 1-g20	Number of one seed per pod	Seed set 1	Seed set	SOY:0001419	QTL_yield	seed_composition_and_yield	7081	Chr12_38592784	1.51E-07			Gm12	H	38592784	38592784
-391	Seed set 1-g21.1	Number of one seed per pod	Seed set 1	Seed set	SOY:0001419	QTL_yield	seed_composition_and_yield	7082	Chr16_36034965	3.80E-09			Gm16	J	36034965	36034965
-392	Seed set 1-g21.2	Number of one seed per pod	Seed set 1	Seed set	SOY:0001419	QTL_yield	seed_composition_and_yield	7083	Chr16_36035091	3.80E-09			Gm16	J	36035091	36035091
-393	Seed set 1-g22.1	Number of one seed per pod	Seed set 1	Seed set	SOY:0001419	QTL_yield	seed_composition_and_yield	7084	Chr18_51584082	6.46E-10			Gm18	G	51584082	51584082
-394	Seed set 1-g22.2	Number of one seed per pod	Seed set 1	Seed set	SOY:0001419	QTL_yield	seed_composition_and_yield	7085	Chr18_51678296	6.46E-10			Gm18	G	51678296	51678296
-395	Seed set 1-g22.3	Number of one seed per pod	Seed set 1	Seed set	SOY:0001419	QTL_yield	seed_composition_and_yield	7086	Chr18_51684068	6.46E-10			Gm18	G	51684068	51684068
-396	Seed set 1-g23.1	Number of one seed per pod	Seed set 1	Seed set	SOY:0001419	QTL_yield	seed_composition_and_yield	7087	Chr18_55940116	5.89E-11			Gm18	G	55940116	55940116
-397	Seed set 1-g23.2	Number of one seed per pod	Seed set 1	Seed set	SOY:0001419	QTL_yield	seed_composition_and_yield	7088	Chr18_56137255	5.89E-11			Gm18	G	56137255	56137255
-398	Seed set 1-g23.3	Number of one seed per pod	Seed set 1	Seed set	SOY:0001419	QTL_yield	seed_composition_and_yield	7089	Chr18_56472919	5.89E-11			Gm18	G	56472919	56472919
-399	Seed set 1-g24.1	Number of one seed per pod	Seed set 1	Seed set	SOY:0001419	QTL_yield	seed_composition_and_yield	7090	Chr19_44926860	2.29E-07			Gm19	L	44926860	44926860
-400	Seed set 1-g24.2	Number of one seed per pod	Seed set 1	Seed set	SOY:0001419	QTL_yield	seed_composition_and_yield	7091	Chr19_44926990	2.29E-07			Gm19	L	44926990	44926990
-401	Seed set 1-g24.3	Number of one seed per pod	Seed set 1	Seed set	SOY:0001419	QTL_yield	seed_composition_and_yield	7092	Chr19_44946040	2.29E-07			Gm19	L	44946040	44946040
-402	Seed set 1-g25.1	Number of three seed per pod	Seed set 1	Seed set	SOY:0001419	QTL_yield	seed_composition_and_yield	7093	Chr06_50426708	8.71E-11			Gm06	C2	50426708	50426708
-403	Seed set 1-g25.2	Number of three seed per pod	Seed set 1	Seed set	SOY:0001419	QTL_yield	seed_composition_and_yield	7094	Chr06_50458245	8.71E-11			Gm06	C2	50458245	50458245
-404	Seed set 1-g25.3	Number of three seed per pod	Seed set 1	Seed set	SOY:0001419	QTL_yield	seed_composition_and_yield	7095	Chr06_50488039	8.71E-11			Gm06	C2	50488039	50488039
-405	Seed set 1-g26.1	Number of three seed per pod	Seed set 1	Seed set	SOY:0001419	QTL_yield	seed_composition_and_yield	7096	Chr13_23566848	2.09E-11			Gm13	F	23566848	23566848
-406	Seed set 1-g26.2	Number of three seed per pod	Seed set 1	Seed set	SOY:0001419	QTL_yield	seed_composition_and_yield	7097	Chr13_23712209	2.09E-11			Gm13	F	23712209	23712209
-407	Seed set 1-g26.3	Number of three seed per pod	Seed set 1	Seed set	SOY:0001419	QTL_yield	seed_composition_and_yield	7098	Chr13_24090210	2.09E-11			Gm13	F	24090210	24090210
-408	Seed set 1-g27.1	Number of three seed per pod	Seed set 1	Seed set	SOY:0001419	QTL_yield	seed_composition_and_yield	7099	Chr19_44873069	2.24E-10			Gm19	L	44873069	44873069
-409	Seed set 1-g27.2	Number of three seed per pod	Seed set 1	Seed set	SOY:0001419	QTL_yield	seed_composition_and_yield	7100	Chr19_45899429	2.24E-10			Gm19	L	45899429	45899429
-410	Seed set 1-g28	Number of three seed per pod	Seed set 1	Seed set	SOY:0001419	QTL_yield	seed_composition_and_yield	7101	Chr02_4327729	8.91E-08			Gm02	D1b	4327729	4327729
-411	Seed set 1-g29.1	Number of three seed per pod	Seed set 1	Seed set	SOY:0001419	QTL_yield	seed_composition_and_yield	7102	Chr13_29034903	4.27E-08			Gm13	F	29034903	29034903
-412	Seed set 1-g29.2	Number of three seed per pod	Seed set 1	Seed set	SOY:0001419	QTL_yield	seed_composition_and_yield	7103	Chr13_29064846	4.27E-08			Gm13	F	29064846	29064846
-413	Seed set 1-g29.3	Number of three seed per pod	Seed set 1	Seed set	SOY:0001419	QTL_yield	seed_composition_and_yield	7104	Chr13_29802713	4.27E-08			Gm13	F	29802713	29802713
-414	Seed set 1-g30	Number of three seed per pod	Seed set 1	Seed set	SOY:0001419	QTL_yield	seed_composition_and_yield	7105	Chr18_55037203	1.23E-07			Gm18	G	55037203	55037203
-415	Plant height 5-g1.1	Plant height	Plant height 5	Plant height	SOY:0001365	QTL_whole-plant	plant_architecture	7106	Chr10_44961185	3.09E-10			Gm10	O	44961185	44961185
-416	Plant height 5-g1.2	Plant height	Plant height 5	Plant height	SOY:0001365	QTL_whole-plant	plant_architecture	6859	Chr10_45310798	3.09E-10			Gm10	O	45310798	45310798
-417	Plant height 5-g2	Plant height	Plant height 5	Plant height	SOY:0001365	QTL_whole-plant	plant_architecture	7107	Chr11_4980454	1.38E-07			Gm11	B1	4980454	4980454
-418	Plant height 5-g3.1	Plant height	Plant height 5	Plant height	SOY:0001365	QTL_whole-plant	plant_architecture	7108	Chr19_44323024	1.48E-27			Gm19	L	44323024	44323024
-419	Plant height 5-g3.2	Plant height	Plant height 5	Plant height	SOY:0001365	QTL_whole-plant	plant_architecture	7109	Chr19_45205190	1.48E-27			Gm19	L	45205190	45205190
-420	Plant height 5-g3.3	Plant height	Plant height 5	Plant height	SOY:0001365	QTL_whole-plant	plant_architecture	7110	Chr19_46340503	1.48E-27			Gm19	L	46340503	46340503
-421	Plant height 5-g4.1	Plant height	Plant height 5	Plant height	SOY:0001365	QTL_whole-plant	plant_architecture	7111	Chr18_55048864	1.70E-11			Gm18	G	55048864	55048864
-422	Plant height 5-g4.2	Plant height	Plant height 5	Plant height	SOY:0001365	QTL_whole-plant	plant_architecture	6888	Chr18_55628880	1.70E-11			Gm18	G	55628880	55628880
-423	Plant height 5-g4.3	Plant height	Plant height 5	Plant height	SOY:0001365	QTL_whole-plant	plant_architecture	7112	Chr18_55784929	1.70E-11			Gm18	G	55784929	55784929
-424	R8 full maturity 5-g1	Pod maturity date	R8 full maturity 5	R8 full maturity	SOY:0001646	QTL_reprod-period	seed_composition_and_yield	7113	Chr05_41854422	1.35E-07			Gm05	A1	41854422	41854422
-425	R8 full maturity 5-g2.1	Pod maturity date	R8 full maturity 5	R8 full maturity	SOY:0001646	QTL_reprod-period	seed_composition_and_yield	7114	Chr10_44587441	2.82E-15			Gm10	O	44587441	44587441
-426	R8 full maturity 5-g2.2	Pod maturity date	R8 full maturity 5	R8 full maturity	SOY:0001646	QTL_reprod-period	seed_composition_and_yield	6859	Chr10_45310798	2.82E-15			Gm10	O	45310798	45310798
-427	R8 full maturity 5-g2.3	Pod maturity date	R8 full maturity 5	R8 full maturity	SOY:0001646	QTL_reprod-period	seed_composition_and_yield	7115	Chr10_45548620	2.82E-15			Gm10	O	45548620	45548620
-428	R8 full maturity 5-g3	Pod maturity date	R8 full maturity 5	R8 full maturity	SOY:0001646	QTL_reprod-period	seed_composition_and_yield	7116	Chr06_46742623	1.95E-07			Gm06	C2	46742623	46742623
-429	R8 full maturity 5-g4.1	Pod maturity date	R8 full maturity 5	R8 full maturity	SOY:0001646	QTL_reprod-period	seed_composition_and_yield	7117	Chr16_27495898	4.07E-08			Gm16	J	27495898	27495898
-430	R8 full maturity 5-g4.2	Pod maturity date	R8 full maturity 5	R8 full maturity	SOY:0001646	QTL_reprod-period	seed_composition_and_yield	7118	Chr16_27954220	4.07E-08			Gm16	J	27954220	27954220
-431	R8 full maturity 5-g4.3	Pod maturity date	R8 full maturity 5	R8 full maturity	SOY:0001646	QTL_reprod-period	seed_composition_and_yield	7119	Chr16_27956742	4.07E-08			Gm16	J	27956742	27956742
-432	Pod shattering 1-g1.1	Pod shattering	Pod shattering 1	Pod shattering	SOY:0001302	QTL_whole-plant	plant_architecture	7120	Chr16_29495010	5.01E-15			Gm16	J	29495010	29495010
-433	Pod shattering 1-g1.2	Pod shattering	Pod shattering 1	Pod shattering	SOY:0001302	QTL_whole-plant	plant_architecture	7121	Chr16_29959803	5.01E-15			Gm16	J	29959803	29959803
-434	Pod shattering 1-g1.3	Pod shattering	Pod shattering 1	Pod shattering	SOY:0001302	QTL_whole-plant	plant_architecture	7122	Chr16_30188301	5.01E-15			Gm16	J	30188301	30188301
-435	Pubescence color 2-g1.1	Pubescence color	Pubescence color 2	Pubescence color	SOY:0001719	QTL_whole-plant	plant_architecture	7123	Chr03_45188204	1.32E-10			Gm03	N	45188204	45188204
-436	Pubescence color 2-g1.2	Pubescence color	Pubescence color 2	Pubescence color	SOY:0001719	QTL_whole-plant	plant_architecture	7124	Chr03_45301350	1.32E-10			Gm03	N	45301350	45301350
-437	Pubescence color 2-g1.3	Pubescence color	Pubescence color 2	Pubescence color	SOY:0001719	QTL_whole-plant	plant_architecture	7125	Chr03_45546666	1.32E-10			Gm03	N	45546666	45546666
-438	Pubescence color 2-g2.1	Pubescence color	Pubescence color 2	Pubescence color	SOY:0001719	QTL_whole-plant	plant_architecture	7126	Chr06_16701822	1.38E-61			Gm06	C2	16701822	16701822
-439	Pubescence color 2-g2.2	Pubescence color	Pubescence color 2	Pubescence color	SOY:0001719	QTL_whole-plant	plant_architecture	7127	Chr06_18734414	1.38E-61			Gm06	C2	18734414	18734414
-440	Pubescence color 2-g2.3	Pubescence color	Pubescence color 2	Pubescence color	SOY:0001719	QTL_whole-plant	plant_architecture	7128	Chr06_19482848	1.38E-61			Gm06	C2	19482848	19482848
-441	Pubescence color 2-g3.1	Pubescence color	Pubescence color 2	Pubescence color	SOY:0001719	QTL_whole-plant	plant_architecture	7129	Chr12_16899433	1.70E-15			Gm12	H	16899433	16899433
-442	Pubescence color 2-g3.2	Pubescence color	Pubescence color 2	Pubescence color	SOY:0001719	QTL_whole-plant	plant_architecture	7130	Chr12_16906312	1.70E-15			Gm12	H	16906312	16906312
-443	Pubescence color 2-g4.1	Pubescence color	Pubescence color 2	Pubescence color	SOY:0001719	QTL_whole-plant	plant_architecture	7131	Chr16_1439581	6.31E-23			Gm16	J	1439581	1439581
-444	Pubescence color 2-g4.2	Pubescence color	Pubescence color 2	Pubescence color	SOY:0001719	QTL_whole-plant	plant_architecture	7132	Chr16_1440263	6.31E-23			Gm16	J	1440263	1440263
-445	Pubescence color 2-g4.3	Pubescence color	Pubescence color 2	Pubescence color	SOY:0001719	QTL_whole-plant	plant_architecture	7133	Chr16_1445782	6.31E-23			Gm16	J	1445782	1445782
-446	Seed long-chain fatty acid 1-g11.1	Ratio of FA18 and FA16	Seed long-chain fatty acid 1	Seed long-chain fatty acid	SOY:0002233	QTL_oil	seed_composition_and_yield	6935	Chr02_19851000	2.57E-08			Gm02	D1b	19851000	19851000
-447	Seed long-chain fatty acid 1-g11.2	Ratio of FA18 and FA16	Seed long-chain fatty acid 1	Seed long-chain fatty acid	SOY:0002233	QTL_oil	seed_composition_and_yield	7134	Chr02_19951148	2.57E-08			Gm02	D1b	19951148	19951148
-448	Seed long-chain fatty acid 1-g11.3	Ratio of FA18 and FA16	Seed long-chain fatty acid 1	Seed long-chain fatty acid	SOY:0002233	QTL_oil	seed_composition_and_yield	7135	Chr02_19961433	2.57E-08			Gm02	D1b	19961433	19961433
-449	Seed long-chain fatty acid 1-g12	Ratio of FA18 and FA16	Seed long-chain fatty acid 1	Seed long-chain fatty acid	SOY:0002233	QTL_oil	seed_composition_and_yield	7136	Chr03_4003522	1.91E-07			Gm03	N	4003522	4003522
-450	Seed long-chain fatty acid 1-g13.1	Ratio of FA18 and FA16	Seed long-chain fatty acid 1	Seed long-chain fatty acid	SOY:0002233	QTL_oil	seed_composition_and_yield	7137	Chr03_12525686	6.31E-11			Gm03	N	12525686	12525686
-451	Seed long-chain fatty acid 1-g13.2	Ratio of FA18 and FA16	Seed long-chain fatty acid 1	Seed long-chain fatty acid	SOY:0002233	QTL_oil	seed_composition_and_yield	7138	Chr03_12917268	6.31E-11			Gm03	N	12917268	12917268
-452	Seed long-chain fatty acid 1-g13.3	Ratio of FA18 and FA16	Seed long-chain fatty acid 1	Seed long-chain fatty acid	SOY:0002233	QTL_oil	seed_composition_and_yield	7139	Chr03_12958942	6.31E-11			Gm03	N	12958942	12958942
-453	Seed long-chain fatty acid 1-g14.1	Ratio of FA18 and FA16	Seed long-chain fatty acid 1	Seed long-chain fatty acid	SOY:0002233	QTL_oil	seed_composition_and_yield	7140	Chr05_1116077	1.41E-07			Gm05	A1	1116077	1116077
-454	Seed long-chain fatty acid 1-g14.2	Ratio of FA18 and FA16	Seed long-chain fatty acid 1	Seed long-chain fatty acid	SOY:0002233	QTL_oil	seed_composition_and_yield	7141	Chr05_1120475	1.41E-07			Gm05	A1	1120475	1120475
-455	Seed long-chain fatty acid 1-g15.1	Ratio of FA18 and FA16	Seed long-chain fatty acid 1	Seed long-chain fatty acid	SOY:0002233	QTL_oil	seed_composition_and_yield	7142	Chr14_15191684	1.58E-11			Gm14	B2	15191684	15191684
-456	Seed long-chain fatty acid 1-g15.2	Ratio of FA18 and FA16	Seed long-chain fatty acid 1	Seed long-chain fatty acid	SOY:0002233	QTL_oil	seed_composition_and_yield	7143	Chr14_17083726	1.58E-11			Gm14	B2	17083726	17083726
-457	Seed long-chain fatty acid 1-g15.3	Ratio of FA18 and FA16	Seed long-chain fatty acid 1	Seed long-chain fatty acid	SOY:0002233	QTL_oil	seed_composition_and_yield	6931	Chr14_19630147	1.58E-11			Gm14	B2	19630147	19630147
-458	Seed long-chain fatty acid 1-g16.1	Ratio of FA18 and FA16	Seed long-chain fatty acid 1	Seed long-chain fatty acid	SOY:0002233	QTL_oil	seed_composition_and_yield	7144	Chr14_34381036	2.40E-11			Gm14	B2	34381036	34381036
-459	Seed long-chain fatty acid 1-g16.2	Ratio of FA18 and FA16	Seed long-chain fatty acid 1	Seed long-chain fatty acid	SOY:0002233	QTL_oil	seed_composition_and_yield	6933	Chr14_39684297	2.40E-11			Gm14	B2	39684297	39684297
-460	Seed long-chain fatty acid 1-g16.3	Ratio of FA18 and FA16	Seed long-chain fatty acid 1	Seed long-chain fatty acid	SOY:0002233	QTL_oil	seed_composition_and_yield	7145	Chr14_40409746	2.40E-11			Gm14	B2	40409746	40409746
-461	Seed long-chain fatty acid 1-g17	Ratio of FA18:3 and FA18:2	Seed long-chain fatty acid 1	Seed long-chain fatty acid	SOY:0002233	QTL_oil	seed_composition_and_yield	6859	Chr10_45310798	1.15E-07			Gm10	O	45310798	45310798
-462	Seed long-chain fatty acid 1-g18.1	Ratio of FA18:3 and FA18:2	Seed long-chain fatty acid 1	Seed long-chain fatty acid	SOY:0002233	QTL_oil	seed_composition_and_yield	7146	Chr14_45907223	7.76E-18			Gm14	B2	45907223	45907223
-463	Seed long-chain fatty acid 1-g18.2	Ratio of FA18:3 and FA18:2	Seed long-chain fatty acid 1	Seed long-chain fatty acid	SOY:0002233	QTL_oil	seed_composition_and_yield	7147	Chr14_45938204	7.76E-18			Gm14	B2	45938204	45938204
-464	Seed long-chain fatty acid 1-g18.3	Ratio of FA18:3 and FA18:2	Seed long-chain fatty acid 1	Seed long-chain fatty acid	SOY:0002233	QTL_oil	seed_composition_and_yield	7148	Chr14_46067489	7.76E-18			Gm14	B2	46067489	46067489
-465	Seed set 1-g31	Ratio of four seed per pod	Seed set 1	Seed set	SOY:0001419	QTL_yield	seed_composition_and_yield	7049	Chr03_12539660	2.75E-10			Gm03	N	12539660	12539660
-466	Seed set 1-g32.1	Ratio of four seed per pod	Seed set 1	Seed set	SOY:0001419	QTL_yield	seed_composition_and_yield	7025	Chr03_36990764	1.41E-09			Gm03	N	36990764	36990764
-467	Seed set 1-g32.2	Ratio of four seed per pod	Seed set 1	Seed set	SOY:0001419	QTL_yield	seed_composition_and_yield	7026	Chr03_37081007	1.41E-09			Gm03	N	37081007	37081007
-468	Seed set 1-g33	Ratio of four seed per pod	Seed set 1	Seed set	SOY:0001419	QTL_yield	seed_composition_and_yield	7050	Chr05_35995777	7.41E-11			Gm05	A1	35995777	35995777
-469	Seed set 1-g34	Ratio of four seed per pod	Seed set 1	Seed set	SOY:0001419	QTL_yield	seed_composition_and_yield	7149	Chr08_8320138	2.09E-11			Gm08	A2	8320138	8320138
-470	Seed set 1-g35	Ratio of four seed per pod	Seed set 1	Seed set	SOY:0001419	QTL_yield	seed_composition_and_yield	7150	Chr08_16990280	9.77E-10			Gm08	A2	16990280	16990280
-471	Seed set 1-g36.1	Ratio of four seed per pod	Seed set 1	Seed set	SOY:0001419	QTL_yield	seed_composition_and_yield	7052	Chr10_50981304	3.39E-11			Gm10	O	50981304	50981304
-472	Seed set 1-g36.2	Ratio of four seed per pod	Seed set 1	Seed set	SOY:0001419	QTL_yield	seed_composition_and_yield	7053	Chr10_51354084	3.39E-11			Gm10	O	51354084	51354084
-473	Seed set 1-g37.1	Ratio of four seed per pod	Seed set 1	Seed set	SOY:0001419	QTL_yield	seed_composition_and_yield	7151	Chr19_171263	3.31E-09			Gm19	L	171263	171263
-474	Seed set 1-g37.2	Ratio of four seed per pod	Seed set 1	Seed set	SOY:0001419	QTL_yield	seed_composition_and_yield	7152	Chr19_175246	3.31E-09			Gm19	L	175246	175246
-475	Seed set 1-g38.1	Ratio of four seed per pod	Seed set 1	Seed set	SOY:0001419	QTL_yield	seed_composition_and_yield	7014	Chr20_35408048	4.17E-96			Gm20	I	35408048	35408048
-476	Seed set 1-g38.2	Ratio of four seed per pod	Seed set 1	Seed set	SOY:0001419	QTL_yield	seed_composition_and_yield	7015	Chr20_35828042	4.17E-96			Gm20	I	35828042	35828042
-477	Seed set 1-g38.3	Ratio of four seed per pod	Seed set 1	Seed set	SOY:0001419	QTL_yield	seed_composition_and_yield	7153	Chr20_36864748	4.17E-96			Gm20	I	36864748	36864748
-478	Seed set 1-g39.1	Ratio of four seed per pod	Seed set 1	Seed set	SOY:0001419	QTL_yield	seed_composition_and_yield	7154	Chr08_23115727	3.55E-11			Gm08	A2	23115727	23115727
-479	Seed set 1-g39.2	Ratio of four seed per pod	Seed set 1	Seed set	SOY:0001419	QTL_yield	seed_composition_and_yield	7155	Chr08_23132059	3.55E-11			Gm08	A2	23132059	23132059
-480	Seed set 1-g39.3	Ratio of four seed per pod	Seed set 1	Seed set	SOY:0001419	QTL_yield	seed_composition_and_yield	7156	Chr08_23294168	3.55E-11			Gm08	A2	23294168	23294168
-481	Seed set 1-g40	Ratio of four seed per pod	Seed set 1	Seed set	SOY:0001419	QTL_yield	seed_composition_and_yield	7157	Chr18_50977030	6.46E-10			Gm18	G	50977030	50977030
-482	Seed set 1-g41.1	Ratio of one seed per pod	Seed set 1	Seed set	SOY:0001419	QTL_yield	seed_composition_and_yield	7158	Chr07_5008759	8.71E-12			Gm07	M	5008759	5008759
-483	Seed set 1-g41.2	Ratio of one seed per pod	Seed set 1	Seed set	SOY:0001419	QTL_yield	seed_composition_and_yield	7159	Chr07_5009560	8.71E-12			Gm07	M	5009560	5009560
-484	Seed set 1-g41.3	Ratio of one seed per pod	Seed set 1	Seed set	SOY:0001419	QTL_yield	seed_composition_and_yield	7160	Chr07_5010394	8.71E-12			Gm07	M	5010394	5010394
-485	Seed set 1-g42	Ratio of one seed per pod	Seed set 1	Seed set	SOY:0001419	QTL_yield	seed_composition_and_yield	7060	Chr13_23631174	1.10E-07			Gm13	F	23631174	23631174
-486	Seed long-chain fatty acid 1-g19.1	Ratio of SFA and USFA	Seed long-chain fatty acid 1	Seed long-chain fatty acid	SOY:0002233	QTL_oil	seed_composition_and_yield	6904	Chr05_925502	7.59E-14			Gm05	A1	925502	925502
-487	Seed long-chain fatty acid 1-g19.2	Ratio of SFA and USFA	Seed long-chain fatty acid 1	Seed long-chain fatty acid	SOY:0002233	QTL_oil	seed_composition_and_yield	7161	Chr05_1095346	7.59E-14			Gm05	A1	1095346	1095346
-488	Seed long-chain fatty acid 1-g19.3	Ratio of SFA and USFA	Seed long-chain fatty acid 1	Seed long-chain fatty acid	SOY:0002233	QTL_oil	seed_composition_and_yield	6906	Chr05_1476699	7.59E-14			Gm05	A1	1476699	1476699
-489	Seed long-chain fatty acid 1-g20.1	Ratio of SFA and USFA	Seed long-chain fatty acid 1	Seed long-chain fatty acid	SOY:0002233	QTL_oil	seed_composition_and_yield	6912	Chr05_1701656	1.12E-07			Gm05	A1	1701656	1701656
-490	Seed long-chain fatty acid 1-g20.2	Ratio of SFA and USFA	Seed long-chain fatty acid 1	Seed long-chain fatty acid	SOY:0002233	QTL_oil	seed_composition_and_yield	7162	Chr05_1715940	1.12E-07			Gm05	A1	1715940	1715940
-491	Seed set 1-g43.1	Ratio of three seed per pod	Seed set 1	Seed set	SOY:0001419	QTL_yield	seed_composition_and_yield	7093	Chr06_50426708	5.50E-14			Gm06	C2	50426708	50426708
-492	Seed set 1-g43.2	Ratio of three seed per pod	Seed set 1	Seed set	SOY:0001419	QTL_yield	seed_composition_and_yield	7163	Chr06_50457715	5.50E-14			Gm06	C2	50457715	50457715
-493	Seed set 1-g43.3	Ratio of three seed per pod	Seed set 1	Seed set	SOY:0001419	QTL_yield	seed_composition_and_yield	7095	Chr06_50488039	5.50E-14			Gm06	C2	50488039	50488039
-494	Seed set 1-g44.1	Ratio of three seed per pod	Seed set 1	Seed set	SOY:0001419	QTL_yield	seed_composition_and_yield	7164	Chr13_23464848	6.17E-14			Gm13	F	23464848	23464848
-495	Seed set 1-g44.2	Ratio of three seed per pod	Seed set 1	Seed set	SOY:0001419	QTL_yield	seed_composition_and_yield	7165	Chr13_23769636	6.17E-14			Gm13	F	23769636	23769636
-496	Seed set 1-g44.3	Ratio of three seed per pod	Seed set 1	Seed set	SOY:0001419	QTL_yield	seed_composition_and_yield	7166	Chr13_24261217	6.17E-14			Gm13	F	24261217	24261217
-497	Seed set 1-g45.1	Ratio of three seed per pod	Seed set 1	Seed set	SOY:0001419	QTL_yield	seed_composition_and_yield	7167	Chr02_3699898	4.90E-08			Gm02	D1b	3699898	3699898
-498	Seed set 1-g45.2	Ratio of three seed per pod	Seed set 1	Seed set	SOY:0001419	QTL_yield	seed_composition_and_yield	7168	Chr02_3701362	4.90E-08			Gm02	D1b	3701362	3701362
-499	Seed set 1-g46.1	Ratio of three seed per pod	Seed set 1	Seed set	SOY:0001419	QTL_yield	seed_composition_and_yield	7169	Chr12_4759044	5.37E-08			Gm12	H	4759044	4759044
-500	Seed set 1-g46.2	Ratio of three seed per pod	Seed set 1	Seed set	SOY:0001419	QTL_yield	seed_composition_and_yield	7170	Chr12_4801855	5.37E-08			Gm12	H	4801855	4801855
-501	Seed set 1-g46.3	Ratio of three seed per pod	Seed set 1	Seed set	SOY:0001419	QTL_yield	seed_composition_and_yield	7171	Chr12_4802088	5.37E-08			Gm12	H	4802088	4802088
-502	Seed set 1-g47.1	Ratio of three seed per pod	Seed set 1	Seed set	SOY:0001419	QTL_yield	seed_composition_and_yield	7172	Chr13_29713396	1.23E-07			Gm13	F	29713396	29713396
-503	Seed set 1-g47.2	Ratio of three seed per pod	Seed set 1	Seed set	SOY:0001419	QTL_yield	seed_composition_and_yield	7173	Chr13_29713397	1.23E-07			Gm13	F	29713397	29713397
-504	Seed set 1-g48.1	Ratio of three seed per pod	Seed set 1	Seed set	SOY:0001419	QTL_yield	seed_composition_and_yield	7174	Chr13_40871681	1.38E-07			Gm13	F	40871681	40871681
-505	Seed set 1-g48.2	Ratio of three seed per pod	Seed set 1	Seed set	SOY:0001419	QTL_yield	seed_composition_and_yield	7175	Chr13_40890538	1.38E-07			Gm13	F	40890538	40890538
-506	Seed set 1-g48.3	Ratio of three seed per pod	Seed set 1	Seed set	SOY:0001419	QTL_yield	seed_composition_and_yield	7176	Chr13_40904291	1.38E-07			Gm13	F	40904291	40904291
-507	Seed set 1-g49.1	Ratio of three seed per pod	Seed set 1	Seed set	SOY:0001419	QTL_yield	seed_composition_and_yield	7177	Chr18_55954117	2.45E-07			Gm18	G	55954117	55954117
-508	Seed set 1-g49.2	Ratio of three seed per pod	Seed set 1	Seed set	SOY:0001419	QTL_yield	seed_composition_and_yield	7178	Chr18_55954415	2.45E-07			Gm18	G	55954415	55954415
-509	Seed set 1-g50.1	Ratio of three seed per pod	Seed set 1	Seed set	SOY:0001419	QTL_yield	seed_composition_and_yield	7179	Chr19_44529859	5.62E-10			Gm19	L	44529859	44529859
-510	Seed set 1-g50.2	Ratio of three seed per pod	Seed set 1	Seed set	SOY:0001419	QTL_yield	seed_composition_and_yield	7180	Chr19_45393133	5.62E-10			Gm19	L	45393133	45393133
-511	Seed set 1-g50.3	Ratio of three seed per pod	Seed set 1	Seed set	SOY:0001419	QTL_yield	seed_composition_and_yield	7181	Chr19_45570270	5.62E-10			Gm19	L	45570270	45570270
-512	Seed set 1-g51.1	Ratio of two seed per pod	Seed set 1	Seed set	SOY:0001419	QTL_yield	seed_composition_and_yield	7093	Chr06_50426708	4.07E-11			Gm06	C2	50426708	50426708
-513	Seed set 1-g51.2	Ratio of two seed per pod	Seed set 1	Seed set	SOY:0001419	QTL_yield	seed_composition_and_yield	7182	Chr06_50487622	4.07E-11			Gm06	C2	50487622	50487622
-514	Seed set 1-g51.3	Ratio of two seed per pod	Seed set 1	Seed set	SOY:0001419	QTL_yield	seed_composition_and_yield	7095	Chr06_50488039	4.07E-11			Gm06	C2	50488039	50488039
-515	Seed set 1-g52.1	Ratio of two seed per pod	Seed set 1	Seed set	SOY:0001419	QTL_yield	seed_composition_and_yield	7096	Chr13_23566848	1.78E-12			Gm13	F	23566848	23566848
-516	Seed set 1-g52.2	Ratio of two seed per pod	Seed set 1	Seed set	SOY:0001419	QTL_yield	seed_composition_and_yield	7165	Chr13_23769636	1.78E-12			Gm13	F	23769636	23769636
-517	Seed set 1-g52.3	Ratio of two seed per pod	Seed set 1	Seed set	SOY:0001419	QTL_yield	seed_composition_and_yield	7183	Chr13_24076584	1.78E-12			Gm13	F	24076584	24076584
-518	Seed set 1-g53.1	Ratio of two seed per pod	Seed set 1	Seed set	SOY:0001419	QTL_yield	seed_composition_and_yield	7184	Chr20_35589687	1.78E-16			Gm20	I	35589687	35589687
-519	Seed set 1-g53.2	Ratio of two seed per pod	Seed set 1	Seed set	SOY:0001419	QTL_yield	seed_composition_and_yield	7015	Chr20_35828042	1.78E-16			Gm20	I	35828042	35828042
-520	Seed set 1-g53.3	Ratio of two seed per pod	Seed set 1	Seed set	SOY:0001419	QTL_yield	seed_composition_and_yield	7023	Chr20_36429226	1.78E-16			Gm20	I	36429226	36429226
-521	Seed set 1-g54.1	Ratio of two seed per pod	Seed set 1	Seed set	SOY:0001419	QTL_yield	seed_composition_and_yield	7185	Chr02_45301846	1.35E-07			Gm02	D1b	45301846	45301846
-522	Seed set 1-g54.2	Ratio of two seed per pod	Seed set 1	Seed set	SOY:0001419	QTL_yield	seed_composition_and_yield	7186	Chr02_45360996	1.35E-07			Gm02	D1b	45360996	45360996
-523	Seed set 1-g55.1	Ratio of two seed per pod	Seed set 1	Seed set	SOY:0001419	QTL_yield	seed_composition_and_yield	7187	Chr19_44526228	3.80E-10			Gm19	L	44526228	44526228
-524	Seed set 1-g55.2	Ratio of two seed per pod	Seed set 1	Seed set	SOY:0001419	QTL_yield	seed_composition_and_yield	7188	Chr19_44568053	3.80E-10			Gm19	L	44568053	44568053
-525	Seed set 1-g55.3	Ratio of two seed per pod	Seed set 1	Seed set	SOY:0001419	QTL_yield	seed_composition_and_yield	7189	Chr19_45569736	3.80E-10			Gm19	L	45569736	45569736
-526	Reproductive stage length 1-g1.1	Reproduction stage length	Reproductive stage length 1	Reproductive stage length	SOY:0001824	QTL_reprod-period	seed_composition_and_yield	7190	Chr06_49288896	5.01E-09			Gm06	C2	49288896	49288896
-527	Reproductive stage length 1-g1.2	Reproduction stage length	Reproductive stage length 1	Reproductive stage length	SOY:0001824	QTL_reprod-period	seed_composition_and_yield	7191	Chr06_49301647	5.01E-09			Gm06	C2	49301647	49301647
-528	Reproductive stage length 1-g2.1	Reproduction stage length	Reproductive stage length 1	Reproductive stage length	SOY:0001824	QTL_reprod-period	seed_composition_and_yield	7192	Chr10_44852177	9.77E-09			Gm10	O	44852177	44852177
-529	Reproductive stage length 1-g2.2	Reproduction stage length	Reproductive stage length 1	Reproductive stage length	SOY:0001824	QTL_reprod-period	seed_composition_and_yield	7193	Chr10_44985285	9.77E-09			Gm10	O	44985285	44985285
-530	Reproductive stage length 1-g2.3	Reproduction stage length	Reproductive stage length 1	Reproductive stage length	SOY:0001824	QTL_reprod-period	seed_composition_and_yield	7194	Chr10_45025153	9.77E-09			Gm10	O	45025153	45025153
-531	Reproductive stage length 1-g3.1	Reproduction stage length	Reproductive stage length 1	Reproductive stage length	SOY:0001824	QTL_reprod-period	seed_composition_and_yield	7195	Chr14_2202535	5.75E-08			Gm14	B2	2202535	2202535
-532	Reproductive stage length 1-g3.2	Reproduction stage length	Reproductive stage length 1	Reproductive stage length	SOY:0001824	QTL_reprod-period	seed_composition_and_yield	7196	Chr14_2228033	5.75E-08			Gm14	B2	2228033	2228033
-533	Seed coat luster 1-g1.1	Seed brightness	Seed coat luster 1	Seed coat luster	SOY:0001416	QTL_other-seed	plant_architecture	7197	Chr15_8879684	4.27E-19			Gm15	E	8879684	8879684
-534	Seed coat luster 1-g1.2	Seed brightness	Seed coat luster 1	Seed coat luster	SOY:0001416	QTL_other-seed	plant_architecture	7198	Chr15_9423523	4.27E-19			Gm15	E	9423523	9423523
-535	Seed coat luster 1-g1.3	Seed brightness	Seed coat luster 1	Seed coat luster	SOY:0001416	QTL_other-seed	plant_architecture	7199	Chr15_10168658	4.27E-19			Gm15	E	10168658	10168658
-536	Seed coat color 1-g1.1	Seed coat color	Seed coat color 1	Seed coat color	SOY:0001414	QTL_other-seed	plant_architecture	7200	Chr01_3568116	1.12E-07			Gm01	D1a	3568116	3568116
-537	Seed coat color 1-g1.2	Seed coat color	Seed coat color 1	Seed coat color	SOY:0001414	QTL_other-seed	plant_architecture	7201	Chr01_3570619	1.12E-07			Gm01	D1a	3570619	3570619
-538	Seed coat color 1-g1.3	Seed coat color	Seed coat color 1	Seed coat color	SOY:0001414	QTL_other-seed	plant_architecture	7202	Chr01_3576803	1.12E-07			Gm01	D1a	3576803	3576803
-539	Seed coat color 1-g2	Seed coat color	Seed coat color 1	Seed coat color	SOY:0001414	QTL_other-seed	plant_architecture	7203	Chr01_53229579	4.17E-12			Gm01	D1a	53229579	53229579
-540	Seed coat color 1-g3.1	Seed coat color	Seed coat color 1	Seed coat color	SOY:0001414	QTL_other-seed	plant_architecture	7204	Chr08_7800853	2.63E-35			Gm08	A2	7800853	7800853
-541	Seed coat color 1-g3.2	Seed coat color	Seed coat color 1	Seed coat color	SOY:0001414	QTL_other-seed	plant_architecture	7205	Chr08_8607374	2.63E-35			Gm08	A2	8607374	8607374
-542	Seed coat color 1-g3.3	Seed coat color	Seed coat color 1	Seed coat color	SOY:0001414	QTL_other-seed	plant_architecture	7206	Chr08_9079037	2.63E-35			Gm08	A2	9079037	9079037
-543	Seed height 1-g1	Seed height	Seed height 1	Seed height	SOY:0001598	QTL_other-seed	plant_architecture	7207	Chr02_45257422	1.29E-07			Gm02	D1b	45257422	45257422
-544	Seed height 1-g2	Seed height	Seed height 1	Seed height	SOY:0001598	QTL_other-seed	plant_architecture	7208	Chr04_13890053	2.63E-09			Gm04	C1	13890053	13890053
-545	Seed height 1-g3.1	Seed height	Seed height 1	Seed height	SOY:0001598	QTL_other-seed	plant_architecture	7209	Chr16_29708364	2.40E-08			Gm16	J	29708364	29708364
-546	Seed height 1-g3.2	Seed height	Seed height 1	Seed height	SOY:0001598	QTL_other-seed	plant_architecture	7210	Chr16_29720337	2.40E-08			Gm16	J	29720337	29720337
-547	Seed height 1-g3.3	Seed height	Seed height 1	Seed height	SOY:0001598	QTL_other-seed	plant_architecture	7211	Chr16_29732386	2.40E-08			Gm16	J	29732386	29732386
-548	Seed height 1-g4.1	Seed height	Seed height 1	Seed height	SOY:0001598	QTL_other-seed	plant_architecture	7212	Chr16_31852019	8.32E-08			Gm16	J	31852019	31852019
-549	Seed height 1-g4.2	Seed height	Seed height 1	Seed height	SOY:0001598	QTL_other-seed	plant_architecture	7213	Chr16_31856997	8.32E-08			Gm16	J	31856997	31856997
-550	Seed height 1-g4.3	Seed height	Seed height 1	Seed height	SOY:0001598	QTL_other-seed	plant_architecture	7214	Chr16_31858061	8.32E-08			Gm16	J	31858061	31858061
-551	Seed width to height ratio 1-g1.1	Seed shape 2	Seed width to height ratio 1	Seed width to height ratio	SOY:0001980	QTL_other-seed	plant_architecture	7215	Chr13_43681231	7.24E-08			Gm13	F	43681231	43681231
-552	Seed width to height ratio 1-g1.2	Seed shape 2	Seed width to height ratio 1	Seed width to height ratio	SOY:0001980	QTL_other-seed	plant_architecture	7216	Chr13_43702857	7.24E-08			Gm13	F	43702857	43702857
-553	Seed width to height ratio 1-g2.1	Seed shape 2	Seed width to height ratio 1	Seed width to height ratio	SOY:0001980	QTL_other-seed	plant_architecture	7217	Chr05_1590873	1.32E-07			Gm05	A1	1590873	1590873
-554	Seed width to height ratio 1-g2.2	Seed shape 2	Seed width to height ratio 1	Seed width to height ratio	SOY:0001980	QTL_other-seed	plant_architecture	7218	Chr05_1595240	1.32E-07			Gm05	A1	1595240	1595240
-555	Seed width to height ratio 1-g2.3	Seed shape 2	Seed width to height ratio 1	Seed width to height ratio	SOY:0001980	QTL_other-seed	plant_architecture	7219	Chr05_1595726	1.32E-07			Gm05	A1	1595726	1595726
-556	Seed length to thickness ratio 2-g1.1	Seed shape 3	Seed length to thickness ratio 2	Seed length to thickness ratio	SOY:0001978	QTL_other-seed	plant_architecture	7220	Chr02_45442886	1.12E-07			Gm02	D1b	45442886	45442886
-557	Seed length to thickness ratio 2-g1.2	Seed shape 3	Seed length to thickness ratio 2	Seed length to thickness ratio	SOY:0001978	QTL_other-seed	plant_architecture	7221	Chr02_45449455	1.12E-07			Gm02	D1b	45449455	45449455
-558	Seed length to thickness ratio 2-g1.3	Seed shape 3	Seed length to thickness ratio 2	Seed length to thickness ratio	SOY:0001978	QTL_other-seed	plant_architecture	7222	Chr02_45456425	1.12E-07			Gm02	D1b	45456425	45456425
-559	Seed length to thickness ratio 2-g2.1	Seed shape 3	Seed length to thickness ratio 2	Seed length to thickness ratio	SOY:0001978	QTL_other-seed	plant_architecture	7223	Chr04_46154865	1.70E-07			Gm04	C1	46154865	46154865
-560	Seed length to thickness ratio 2-g2.2	Seed shape 3	Seed length to thickness ratio 2	Seed length to thickness ratio	SOY:0001978	QTL_other-seed	plant_architecture	7224	Chr04_46160140	1.70E-07			Gm04	C1	46160140	46160140
-561	Seed length to thickness ratio 2-g3	Seed shape 3	Seed length to thickness ratio 2	Seed length to thickness ratio	SOY:0001978	QTL_other-seed	plant_architecture	7225	Chr13_43762199	1.45E-07			Gm13	F	43762199	43762199
-562	Seed length to thickness ratio 2-g4.1	Seed shape 3	Seed length to thickness ratio 2	Seed length to thickness ratio	SOY:0001978	QTL_other-seed	plant_architecture	7226	Chr16_31858976	2.19E-07			Gm16	J	31858976	31858976
-563	Seed length to thickness ratio 2-g4.2	Seed shape 3	Seed length to thickness ratio 2	Seed length to thickness ratio	SOY:0001978	QTL_other-seed	plant_architecture	7227	Chr16_31859883	2.19E-07			Gm16	J	31859883	31859883
-564	Seed length to thickness ratio 2-g4.3	Seed shape 3	Seed length to thickness ratio 2	Seed length to thickness ratio	SOY:0001978	QTL_other-seed	plant_architecture	7228	Chr16_31862501	2.19E-07			Gm16	J	31862501	31862501
-565	Seed length to thickness ratio 2-g5	Seed shape 3	Seed length to thickness ratio 2	Seed length to thickness ratio	SOY:0001978	QTL_other-seed	plant_architecture	7229	Chr17_3547250	1.05E-07			Gm17	D2	3547250	3547250
-566	Seed thickness 2-g1.1	Seed thickness	Seed thickness 2	Seed thickness	SOY:0001598	QTL_other-seed	plant_architecture	7230	Chr02_45412343	2.51E-08			Gm02	D1b	45412343	45412343
-567	Seed thickness 2-g1.2	Seed thickness	Seed thickness 2	Seed thickness	SOY:0001598	QTL_other-seed	plant_architecture	7220	Chr02_45442886	2.51E-08			Gm02	D1b	45442886	45442886
-568	Seed thickness 2-g1.3	Seed thickness	Seed thickness 2	Seed thickness	SOY:0001598	QTL_other-seed	plant_architecture	7222	Chr02_45456425	2.51E-08			Gm02	D1b	45456425	45456425
-569	Seed thickness 2-g2.1	Seed thickness	Seed thickness 2	Seed thickness	SOY:0001598	QTL_other-seed	plant_architecture	7231	Chr16_31851745	5.01E-10			Gm16	J	31851745	31851745
-570	Seed thickness 2-g2.2	Seed thickness	Seed thickness 2	Seed thickness	SOY:0001598	QTL_other-seed	plant_architecture	7232	Chr16_31851884	5.01E-10			Gm16	J	31851884	31851884
-571	Seed thickness 2-g2.3	Seed thickness	Seed thickness 2	Seed thickness	SOY:0001598	QTL_other-seed	plant_architecture	7228	Chr16_31862501	5.01E-10			Gm16	J	31862501	31862501
-572	Seed thickness 2-g3.1	Seed thickness	Seed thickness 2	Seed thickness	SOY:0001598	QTL_other-seed	plant_architecture	7233	Chr20_582353	2.75E-09			Gm20	I	582353	582353
-573	Seed thickness 2-g3.2	Seed thickness	Seed thickness 2	Seed thickness	SOY:0001598	QTL_other-seed	plant_architecture	7234	Chr20_587636	2.75E-09			Gm20	I	587636	587636
-574	Seed thickness 2-g3.3	Seed thickness	Seed thickness 2	Seed thickness	SOY:0001598	QTL_other-seed	plant_architecture	7235	Chr20_588706	2.75E-09			Gm20	I	588706	588706
-575	Seed thickness 2-g4	Seed thickness	Seed thickness 2	Seed thickness	SOY:0001598	QTL_other-seed	plant_architecture	7236	Chr09_39383089	2.14E-07			Gm09	K	39383089	39383089
-576	Seed thickness 2-g5.1	Seed thickness	Seed thickness 2	Seed thickness	SOY:0001598	QTL_other-seed	plant_architecture	7237	Chr10_50200713	1.95E-07			Gm10	O	50200713	50200713
-577	Seed thickness 2-g5.2	Seed thickness	Seed thickness 2	Seed thickness	SOY:0001598	QTL_other-seed	plant_architecture	7238	Chr10_50212466	1.95E-07			Gm10	O	50212466	50212466
-578	Seed volume 1-g1.1	Seed volume	Seed volume 1	Seed volume	SOY:0001600	QTL_other-seed	plant_architecture	7239	Chr04_13518076	8.13E-09			Gm04	C1	13518076	13518076
-579	Seed volume 1-g1.2	Seed volume	Seed volume 1	Seed volume	SOY:0001600	QTL_other-seed	plant_architecture	7208	Chr04_13890053	8.13E-09			Gm04	C1	13890053	13890053
-580	Seed volume 1-g1.3	Seed volume	Seed volume 1	Seed volume	SOY:0001600	QTL_other-seed	plant_architecture	7240	Chr04_14176459	8.13E-09			Gm04	C1	14176459	14176459
-581	Seed volume 1-g2	Seed volume	Seed volume 1	Seed volume	SOY:0001600	QTL_other-seed	plant_architecture	7241	Chr13_21924051	1.78E-07			Gm13	F	21924051	21924051
-582	Seed long-chain fatty acid 1-g21.1	SFA content	Seed long-chain fatty acid 1	Seed long-chain fatty acid	SOY:0002233	QTL_oil	seed_composition_and_yield	6904	Chr05_925502	1.10E-12			Gm05	A1	925502	925502
-583	Seed long-chain fatty acid 1-g21.2	SFA content	Seed long-chain fatty acid 1	Seed long-chain fatty acid	SOY:0002233	QTL_oil	seed_composition_and_yield	6905	Chr05_1050109	1.10E-12			Gm05	A1	1050109	1050109
-584	Seed long-chain fatty acid 1-g21.3	SFA content	Seed long-chain fatty acid 1	Seed long-chain fatty acid	SOY:0002233	QTL_oil	seed_composition_and_yield	6906	Chr05_1476699	1.10E-12			Gm05	A1	1476699	1476699
-585	Seed long-chain fatty acid 1-g22	SFA content	Seed long-chain fatty acid 1	Seed long-chain fatty acid	SOY:0002233	QTL_oil	seed_composition_and_yield	6907	Chr06_50581961	1.35E-07			Gm06	C2	50581961	50581961
-586	Seed long-chain fatty acid 1-g23.1	SFA content	Seed long-chain fatty acid 1	Seed long-chain fatty acid	SOY:0002233	QTL_oil	seed_composition_and_yield	6908	Chr07_2438597	2.04E-09			Gm07	M	2438597	2438597
-587	Seed long-chain fatty acid 1-g23.2	SFA content	Seed long-chain fatty acid 1	Seed long-chain fatty acid	SOY:0002233	QTL_oil	seed_composition_and_yield	6909	Chr07_2439024	2.04E-09			Gm07	M	2439024	2439024
-588	Stem termination type 1-g1.1	Stem grow habit	Stem termination type 1	Stem termination type	SOY:0001688	QTL_leaf-stem	plant_architecture	7242	Chr19_44047586	3.31E-28			Gm19	L	44047586	44047586
-589	Stem termination type 1-g1.2	Stem grow habit	Stem termination type 1	Stem termination type	SOY:0001688	QTL_leaf-stem	plant_architecture	7243	Chr19_45145714	3.31E-28			Gm19	L	45145714	45145714
-590	Stem termination type 1-g1.3	Stem grow habit	Stem termination type 1	Stem termination type	SOY:0001688	QTL_leaf-stem	plant_architecture	7244	Chr19_46208015	3.31E-28			Gm19	L	46208015	46208015
-591	Internode length 1-g1.1	Stem node density	Internode length 1	Internode length	SOY:0001679	QTL_whole-plant	plant_architecture	7245	Chr13_20978742	6.31E-08			Gm13	F	20978742	20978742
-592	Internode length 1-g1.2	Stem node density	Internode length 1	Internode length	SOY:0001679	QTL_whole-plant	plant_architecture	7246	Chr13_20981056	6.31E-08			Gm13	F	20981056	20981056
-593	Internode length 1-g2.1	Stem node density	Internode length 1	Internode length	SOY:0001679	QTL_whole-plant	plant_architecture	7247	Chr19_44789500	1.70E-12			Gm19	L	44789500	44789500
-594	Internode length 1-g2.2	Stem node density	Internode length 1	Internode length	SOY:0001679	QTL_whole-plant	plant_architecture	7248	Chr19_44802143	1.70E-12			Gm19	L	44802143	44802143
-595	Internode length 1-g2.3	Stem node density	Internode length 1	Internode length	SOY:0001679	QTL_whole-plant	plant_architecture	7249	Chr19_45160841	1.70E-12			Gm19	L	45160841	45160841
-596	Internode length 1-g3	Stem node density	Internode length 1	Internode length	SOY:0001679	QTL_whole-plant	plant_architecture	7250	Chr03_45112152	9.77E-10			Gm03	N	45112152	45112152
-597	Internode length 1-g4.1	Stem node density	Internode length 1	Internode length	SOY:0001679	QTL_whole-plant	plant_architecture	7251	Chr18_54925329	9.12E-08			Gm18	G	54925329	54925329
-598	Internode length 1-g4.2	Stem node density	Internode length 1	Internode length	SOY:0001679	QTL_whole-plant	plant_architecture	7252	Chr18_54931296	9.12E-08			Gm18	G	54931296	54931296
-599	Node number 1-g1	Stem node number	Node number 1	Node number	SOY:0001752	QTL_whole-plant	plant_architecture	6859	Chr10_45310798	3.72E-09			Gm10	O	45310798	45310798
-600	Node number 1-g2.1	Stem node number	Node number 1	Node number	SOY:0001752	QTL_whole-plant	plant_architecture	7253	Chr19_43990450	5.89E-36			Gm19	L	43990450	43990450
-601	Node number 1-g2.2	Stem node number	Node number 1	Node number	SOY:0001752	QTL_whole-plant	plant_architecture	7109	Chr19_45205190	5.89E-36			Gm19	L	45205190	45205190
-602	Node number 1-g2.3	Stem node number	Node number 1	Node number	SOY:0001752	QTL_whole-plant	plant_architecture	7254	Chr19_47335622	5.89E-36			Gm19	L	47335622	47335622
-603	Node number 1-g3	Stem node number	Node number 1	Node number	SOY:0001752	QTL_whole-plant	plant_architecture	7255	Chr06_50575400	2.29E-07			Gm06	C2	50575400	50575400
-604	Node number 1-g4	Stem node number	Node number 1	Node number	SOY:0001752	QTL_whole-plant	plant_architecture	7107	Chr11_4980454	7.76E-08			Gm11	B1	4980454	4980454
-605	Node number 1-g5.1	Stem node number	Node number 1	Node number	SOY:0001752	QTL_whole-plant	plant_architecture	7256	Chr16_37079553	1.62E-07			Gm16	J	37079553	37079553
-606	Node number 1-g5.2	Stem node number	Node number 1	Node number	SOY:0001752	QTL_whole-plant	plant_architecture	7257	Chr16_37079569	1.62E-07			Gm16	J	37079569	37079569
-607	Node number 1-g6.1	Stem node number	Node number 1	Node number	SOY:0001752	QTL_whole-plant	plant_architecture	7258	Chr18_55620032	8.32E-15			Gm18	G	55620032	55620032
-608	Node number 1-g6.2	Stem node number	Node number 1	Node number	SOY:0001752	QTL_whole-plant	plant_architecture	6888	Chr18_55628880	8.32E-15			Gm18	G	55628880	55628880
-609	Node number 1-g6.3	Stem node number	Node number 1	Node number	SOY:0001752	QTL_whole-plant	plant_architecture	7259	Chr18_55808363	8.32E-15			Gm18	G	55808363	55808363
-610	Pod number 1-g1.1	Stem pod density	Pod number 1	Pod number	SOY:0001702	QTL_pod	plant_architecture	6887	Chr18_55626229	9.55E-11			Gm18	G	55626229	55626229
-611	Pod number 1-g1.2	Stem pod density	Pod number 1	Pod number	SOY:0001702	QTL_pod	plant_architecture	6888	Chr18_55628880	9.55E-11			Gm18	G	55628880	55628880
-612	Pod number 1-g1.3	Stem pod density	Pod number 1	Pod number	SOY:0001702	QTL_pod	plant_architecture	7260	Chr18_55662445	9.55E-11			Gm18	G	55662445	55662445
-613	Pod number 1-g2.1	Stem pod density	Pod number 1	Pod number	SOY:0001702	QTL_pod	plant_architecture	7261	Chr19_44467769	5.37E-14			Gm19	L	44467769	44467769
-614	Pod number 1-g2.2	Stem pod density	Pod number 1	Pod number	SOY:0001702	QTL_pod	plant_architecture	7262	Chr19_45090914	5.37E-14			Gm19	L	45090914	45090914
-615	Pod number 1-g2.3	Stem pod density	Pod number 1	Pod number	SOY:0001702	QTL_pod	plant_architecture	7263	Chr19_46204451	5.37E-14			Gm19	L	46204451	46204451
-616	Pod number 1-g3	Stem pod density	Pod number 1	Pod number	SOY:0001702	QTL_pod	plant_architecture	7264	Chr09_32401720	2.00E-07			Gm09	K	32401720	32401720
-617	Pod number 1-g4.1	Stem pod density	Pod number 1	Pod number	SOY:0001702	QTL_pod	plant_architecture	7265	Chr09_39250197	1.23E-08			Gm09	K	39250197	39250197
-618	Pod number 1-g4.2	Stem pod density	Pod number 1	Pod number	SOY:0001702	QTL_pod	plant_architecture	7266	Chr09_39280392	1.23E-08			Gm09	K	39280392	39280392
-619	Pod number 1-g4.3	Stem pod density	Pod number 1	Pod number	SOY:0001702	QTL_pod	plant_architecture	7267	Chr09_39288965	1.23E-08			Gm09	K	39288965	39288965
-620	Pod number 1-g5	Stem pod density	Pod number 1	Pod number	SOY:0001702	QTL_pod	plant_architecture	7268	Chr09_41322819	1.12E-07			Gm09	K	41322819	41322819
-621	Pod number 1-g6	Stem pod density	Pod number 1	Pod number	SOY:0001702	QTL_pod	plant_architecture	7269	Chr11_5338661	5.01E-08			Gm11	B1	5338661	5338661
-622	Stem shape, main 1-g1.1	Stem shape	Stem shape, main 1	Stem shape, main	SOY:0002234	QTL_leaf-stem	plant_architecture	7270	Chr14_46732925	6.17E-08			Gm14	B2	46732925	46732925
-623	Stem shape, main 1-g1.2	Stem shape	Stem shape, main 1	Stem shape, main	SOY:0002234	QTL_leaf-stem	plant_architecture	7271	Chr14_46733015	6.17E-08			Gm14	B2	46733015	46733015
-624	Stem shape, main 1-g1.3	Stem shape	Stem shape, main 1	Stem shape, main	SOY:0002234	QTL_leaf-stem	plant_architecture	7272	Chr14_46733138	6.17E-08			Gm14	B2	46733138	46733138
-625	Stem shape, main 1-g2.1	Stem shape	Stem shape, main 1	Stem shape, main	SOY:0002234	QTL_leaf-stem	plant_architecture	7247	Chr19_44789500	1.70E-13			Gm19	L	44789500	44789500
-626	Stem shape, main 1-g2.2	Stem shape	Stem shape, main 1	Stem shape, main	SOY:0002234	QTL_leaf-stem	plant_architecture	7243	Chr19_45145714	1.70E-13			Gm19	L	45145714	45145714
-627	Stem shape, main 1-g2.3	Stem shape	Stem shape, main 1	Stem shape, main	SOY:0002234	QTL_leaf-stem	plant_architecture	7273	Chr19_45292195	1.70E-13			Gm19	L	45292195	45292195
-628	Stem shape, main 1-g3.1	Stem shape	Stem shape, main 1	Stem shape, main	SOY:0002234	QTL_leaf-stem	plant_architecture	7274	Chr20_36065864	4.27E-08			Gm20	I	36065864	36065864
-629	Stem shape, main 1-g3.2	Stem shape	Stem shape, main 1	Stem shape, main	SOY:0002234	QTL_leaf-stem	plant_architecture	7275	Chr20_36065943	4.27E-08			Gm20	I	36065943	36065943
-630	Stem shape, main 1-g3.3	Stem shape	Stem shape, main 1	Stem shape, main	SOY:0002234	QTL_leaf-stem	plant_architecture	7276	Chr20_36066371	4.27E-08			Gm20	I	36066371	36066371
-631	Seed oil to protein ratio 1-g1	Total AA and FA content	Seed oil to protein ratio 1	Seed oil to protein ratio	SOY:0001689	QTL_oil	seed_composition_and_yield	7277	Chr02_45869612	0.0000001			Gm02	D1b	45869612	45869612
-632	Seed amino acids 1-g26.1	Total AA subgroup 1 content	Seed amino acids 1	Seed amino acids	SOY:0001757	QTL_protein	seed_composition_and_yield	7278	Chr10_2400625	1.17E-07			Gm10	O	2400625	2400625
-633	Seed amino acids 1-g26.2	Total AA subgroup 1 content	Seed amino acids 1	Seed amino acids	SOY:0001757	QTL_protein	seed_composition_and_yield	7279	Chr10_2415581	1.17E-07			Gm10	O	2415581	2415581
-634	Seed amino acids 1-g27	Total AA subgroup 2 content	Seed amino acids 1	Seed amino acids	SOY:0001757	QTL_protein	seed_composition_and_yield	7005	Chr01_989187	1.45E-08			Gm01	D1a	989187	989187
-635	Seed amino acids 1-g28.1	Total AA subgroup 2 content	Seed amino acids 1	Seed amino acids	SOY:0001757	QTL_protein	seed_composition_and_yield	6992	Chr01_53486467	7.76E-11			Gm01	D1a	53486467	53486467
-636	Seed amino acids 1-g28.2	Total AA subgroup 2 content	Seed amino acids 1	Seed amino acids	SOY:0001757	QTL_protein	seed_composition_and_yield	7007	Chr01_53486686	7.76E-11			Gm01	D1a	53486686	53486686
-637	Seed amino acids 1-g29.1	Total AA subgroup 2 content	Seed amino acids 1	Seed amino acids	SOY:0001757	QTL_protein	seed_composition_and_yield	6994	Chr08_35266140	7.94E-11			Gm08	A2	35266140	35266140
-638	Seed amino acids 1-g29.2	Total AA subgroup 2 content	Seed amino acids 1	Seed amino acids	SOY:0001757	QTL_protein	seed_composition_and_yield	6996	Chr08_35266324	7.94E-11			Gm08	A2	35266324	35266324
-639	Seed amino acids 1-g30	Total AA subgroup 2 content	Seed amino acids 1	Seed amino acids	SOY:0001757	QTL_protein	seed_composition_and_yield	6997	Chr09_33309127	1.10E-10			Gm09	K	33309127	33309127
-640	Seed amino acids 1-g31.1	Total AA subgroup 2 content	Seed amino acids 1	Seed amino acids	SOY:0001757	QTL_protein	seed_composition_and_yield	6998	Chr13_2546775	2.19E-11			Gm13	F	2546775	2546775
-641	Seed amino acids 1-g31.2	Total AA subgroup 2 content	Seed amino acids 1	Seed amino acids	SOY:0001757	QTL_protein	seed_composition_and_yield	6999	Chr13_2546862	2.19E-11			Gm13	F	2546862	2546862
-642	Seed amino acids 1-g32.1	Total AA subgroup 2 content	Seed amino acids 1	Seed amino acids	SOY:0001757	QTL_protein	seed_composition_and_yield	7000	Chr14_5055466	2.82E-10			Gm14	B2	5055466	5055466
-643	Seed amino acids 1-g32.2	Total AA subgroup 2 content	Seed amino acids 1	Seed amino acids	SOY:0001757	QTL_protein	seed_composition_and_yield	7001	Chr14_5055474	2.82E-10			Gm14	B2	5055474	5055474
-644	Total seed number 3-g1.1	Total seed number	Total seed number 3	Total seed number	SOY:0001616	QTL_yield	seed_composition_and_yield	7280	Chr19_45359595	5.13E-08			Gm19	L	45359595	45359595
-645	Total seed number 3-g1.2	Total seed number	Total seed number 3	Total seed number	SOY:0001616	QTL_yield	seed_composition_and_yield	7281	Chr19_45408782	5.13E-08			Gm19	L	45408782	45408782
+Assembly	Wm82.a2
+DOI	10.1186/s13059-017-1289-9
+#phenotype	ontology_identifier	marker	p_value	chromosome	start	end
+Seed amino acids	SOY:0001757	Chr01_989187	7.94E-10	Gm01	989187	989187
+Seed amino acids	SOY:0001757	Chr01_989187	1.45E-08	Gm01	989187	989187
+Seed amino acids	SOY:0001757	Chr01_989187	1.66E-12	Gm01	989187	989187
+Seed amino acids	SOY:0001757	Chr01_989204	1.66E-12	Gm01	989204	989204
+Seed amino acids	SOY:0001757	Chr01_2181558	5.37E-08	Gm01	2181558	2181558
+First flower	SOY:0001640	Chr01_2893024	4.17E-08	Gm01	2893024	2893024
+Seed coat color	SOY:0001414	Chr01_3568116	1.12E-07	Gm01	3568116	3568116
+Seed coat color	SOY:0001414	Chr01_3570619	1.12E-07	Gm01	3570619	3570619
+Seed coat color	SOY:0001414	Chr01_3576803	1.12E-07	Gm01	3576803	3576803
+Seed set	SOY:0001419	Chr01_52039777	1.74E-08	Gm01	52039777	52039777
+Seed coat color	SOY:0001414	Chr01_53229579	4.17E-12	Gm01	53229579	53229579
+Seed amino acids	SOY:0001757	Chr01_53486467	1.82E-10	Gm01	53486467	53486467
+Seed amino acids	SOY:0001757	Chr01_53486467	3.16E-08	Gm01	53486467	53486467
+Seed amino acids	SOY:0001757	Chr01_53486467	7.76E-11	Gm01	53486467	53486467
+Seed amino acids	SOY:0001757	Chr01_53486467	1.35E-16	Gm01	53486467	53486467
+Seed amino acids	SOY:0001757	Chr01_53486490	1.91E-07	Gm01	53486490	53486490
+Seed amino acids	SOY:0001757	Chr01_53486490	1.82E-10	Gm01	53486490	53486490
+Seed amino acids	SOY:0001757	Chr01_53486650	3.16E-08	Gm01	53486650	53486650
+Seed amino acids	SOY:0001757	Chr01_53486686	7.76E-11	Gm01	53486686	53486686
+Seed amino acids	SOY:0001757	Chr01_53486686	1.82E-10	Gm01	53486686	53486686
+Seed amino acids	SOY:0001757	Chr01_53486686	1.35E-16	Gm01	53486686	53486686
+Seed set	SOY:0001419	Chr02_3699898	4.90E-08	Gm02	3699898	3699898
+Seed set	SOY:0001419	Chr02_3701362	4.90E-08	Gm02	3701362	3701362
+Seed set	SOY:0001419	Chr02_4327729	8.91E-08	Gm02	4327729	4327729
+First flower	SOY:0001640	Chr02_9815707	1.45E-08	Gm02	9815707	9815707
+First flower	SOY:0001640	Chr02_10182071	1.45E-08	Gm02	10182071	10182071
+First flower	SOY:0001640	Chr02_10182071	6.31E-09	Gm02	10182071	10182071
+First flower	SOY:0001640	Chr02_10286440	1.45E-08	Gm02	10286440	10286440
+First flower	SOY:0001640	Chr02_10286440	6.31E-09	Gm02	10286440	10286440
+Leaflet width	SOY:0001614	Chr02_10512749	1.35E-08	Gm02	10512749	10512749
+Leaflet width	SOY:0001614	Chr02_10512883	1.35E-08	Gm02	10512883	10512883
+Leaflet width	SOY:0001614	Chr02_10565355	1.35E-08	Gm02	10565355	10565355
+First flower	SOY:0001640	Chr02_12316110	1.48E-07	Gm02	12316110	12316110
+First flower	SOY:0001640	Chr02_12316110	0.00000001	Gm02	12316110	12316110
+First flower	SOY:0001640	Chr02_12408115	1.48E-07	Gm02	12408115	12408115
+First flower	SOY:0001640	Chr02_12408988	0.00000001	Gm02	12408988	12408988
+Seed set	SOY:0001419	Chr02_14459921	2.14E-07	Gm02	14459921	14459921
+Seed set	SOY:0001419	Chr02_14463444	2.14E-07	Gm02	14463444	14463444
+Seed set	SOY:0001419	Chr02_14797903	5.75E-11	Gm02	14797903	14797903
+Seed long-chain fatty acid	SOY:0002233	Chr02_19851000	2.57E-08	Gm02	19851000	19851000
+Seed long-chain fatty acid	SOY:0002233	Chr02_19851000	1.15E-09	Gm02	19851000	19851000
+Seed long-chain fatty acid	SOY:0002233	Chr02_19886706	1.15E-09	Gm02	19886706	19886706
+Seed stearic	SOY:0001626	Chr02_19886706	7.24E-08	Gm02	19886706	19886706
+Seed long-chain fatty acid	SOY:0002233	Chr02_19951148	2.57E-08	Gm02	19951148	19951148
+Seed stearic	SOY:0001626	Chr02_19955907	7.24E-08	Gm02	19955907	19955907
+Seed long-chain fatty acid	SOY:0002233	Chr02_19961433	2.57E-08	Gm02	19961433	19961433
+Seed stearic	SOY:0001626	Chr02_19985370	7.24E-08	Gm02	19985370	19985370
+Seed long-chain fatty acid	SOY:0002233	Chr02_19997509	1.15E-09	Gm02	19997509	19997509
+Seed height	SOY:0001598	Chr02_45257422	1.29E-07	Gm02	45257422	45257422
+Seed set	SOY:0001419	Chr02_45301846	1.35E-07	Gm02	45301846	45301846
+Seed set	SOY:0001419	Chr02_45360996	1.35E-07	Gm02	45360996	45360996
+Seed thickness	SOY:0001598	Chr02_45412343	2.51E-08	Gm02	45412343	45412343
+Seed length to thickness ratio	SOY:0001978	Chr02_45442886	1.12E-07	Gm02	45442886	45442886
+Seed thickness	SOY:0001598	Chr02_45442886	2.51E-08	Gm02	45442886	45442886
+Seed length to thickness ratio	SOY:0001978	Chr02_45449455	1.12E-07	Gm02	45449455	45449455
+Seed thickness	SOY:0001598	Chr02_45456425	2.51E-08	Gm02	45456425	45456425
+Seed length to thickness ratio	SOY:0001978	Chr02_45456425	1.12E-07	Gm02	45456425	45456425
+Seed oil to protein ratio	SOY:0001689	Chr02_45869612	0.0000001	Gm02	45869612	45869612
+Seed set	SOY:0001419	Chr03_659279	4.37E-08	Gm03	659279	659279
+Seed set	SOY:0001419	Chr03_669584	4.37E-08	Gm03	669584	669584
+Leaflet area	SOY:0001385	Chr03_2958986	1.07E-07	Gm03	2958986	2958986
+Leaflet width	SOY:0001614	Chr03_2958986	2.09E-08	Gm03	2958986	2958986
+Leaflet area	SOY:0001385	Chr03_2961780	1.07E-07	Gm03	2961780	2961780
+Leaflet width	SOY:0001614	Chr03_2961780	2.09E-08	Gm03	2961780	2961780
+First flower	SOY:0001640	Chr03_3919776	6.92E-08	Gm03	3919776	3919776
+First flower	SOY:0001640	Chr03_3919776	2.34E-07	Gm03	3919776	3919776
+Seed long-chain fatty acid	SOY:0002233	Chr03_4003522	1.91E-07	Gm03	4003522	4003522
+First flower	SOY:0001640	Chr03_5139801	2.14E-07	Gm03	5139801	5139801
+First flower	SOY:0001640	Chr03_5146262	2.14E-07	Gm03	5146262	5146262
+Seed long-chain fatty acid	SOY:0002233	Chr03_12500458	2.19E-13	Gm03	12500458	12500458
+Seed stearic	SOY:0001626	Chr03_12501628	9.55E-10	Gm03	12501628	12501628
+Seed long-chain fatty acid	SOY:0002233	Chr03_12525686	6.31E-11	Gm03	12525686	12525686
+Seed set	SOY:0001419	Chr03_12539660	1.78E-09	Gm03	12539660	12539660
+Seed set	SOY:0001419	Chr03_12539660	2.75E-10	Gm03	12539660	12539660
+Seed long-chain fatty acid	SOY:0002233	Chr03_12702388	2.19E-13	Gm03	12702388	12702388
+Seed stearic	SOY:0001626	Chr03_12704607	9.55E-10	Gm03	12704607	12704607
+Seed long-chain fatty acid	SOY:0002233	Chr03_12917268	6.31E-11	Gm03	12917268	12917268
+Seed stearic	SOY:0001626	Chr03_12954110	9.55E-10	Gm03	12954110	12954110
+Seed long-chain fatty acid	SOY:0002233	Chr03_12958942	6.31E-11	Gm03	12958942	12958942
+Seed long-chain fatty acid	SOY:0002233	Chr03_12989558	2.19E-13	Gm03	12989558	12989558
+Seed set	SOY:0001419	Chr03_33533018	9.12E-11	Gm03	33533018	33533018
+Seed set	SOY:0001419	Chr03_33542939	9.12E-11	Gm03	33542939	33542939
+Leaflet shape	SOY:0001389	Chr03_36978574	1.82E-09	Gm03	36978574	36978574
+Seed set	SOY:0001419	Chr03_36990764	1.41E-09	Gm03	36990764	36990764
+Leaflet shape	SOY:0001389	Chr03_36990764	1.82E-09	Gm03	36990764	36990764
+Seed set	SOY:0001419	Chr03_37081007	1.41E-09	Gm03	37081007	37081007
+Leaflet shape	SOY:0001389	Chr03_37081007	1.82E-09	Gm03	37081007	37081007
+Canopy width	SOY:0001325	Chr03_38932768	5.01E-09	Gm03	38932768	38932768
+Canopy width	SOY:0001325	Chr03_38936586	5.01E-09	Gm03	38936586	38936586
+Internode length	SOY:0001679	Chr03_45112152	9.77E-10	Gm03	45112152	45112152
+Pubescence color	SOY:0001719	Chr03_45188204	1.32E-10	Gm03	45188204	45188204
+Pubescence color	SOY:0001719	Chr03_45301350	1.32E-10	Gm03	45301350	45301350
+Pubescence color	SOY:0001719	Chr03_45546666	1.32E-10	Gm03	45546666	45546666
+Seed long-chain fatty acid	SOY:0002233	Chr04_2101652	1.55E-07	Gm04	2101652	2101652
+Seed long-chain fatty acid	SOY:0002233	Chr04_2120885	1.55E-07	Gm04	2120885	2120885
+Seed long-chain fatty acid	SOY:0002233	Chr04_2126907	1.55E-07	Gm04	2126907	2126907
+Seed alpha-linolenic acid	SOY:0002232	Chr04_5365622	1.45E-07	Gm04	5365622	5365622
+Seed alpha-linolenic acid	SOY:0002232	Chr04_5369762	1.45E-07	Gm04	5369762	5369762
+Seed volume	SOY:0001600	Chr04_13518076	8.13E-09	Gm04	13518076	13518076
+Seed volume	SOY:0001600	Chr04_13890053	8.13E-09	Gm04	13890053	13890053
+Seed height	SOY:0001598	Chr04_13890053	2.63E-09	Gm04	13890053	13890053
+Seed volume	SOY:0001600	Chr04_14176459	8.13E-09	Gm04	14176459	14176459
+Seed length to thickness ratio	SOY:0001978	Chr04_46154865	1.70E-07	Gm04	46154865	46154865
+Seed length to thickness ratio	SOY:0001978	Chr04_46160140	1.70E-07	Gm04	46160140	46160140
+Seed long-chain fatty acid	SOY:0002233	Chr05_925502	8.51E-16	Gm05	925502	925502
+Seed palmitic	SOY:0001673	Chr05_925502	2.34E-14	Gm05	925502	925502
+Seed long-chain fatty acid	SOY:0002233	Chr05_925502	7.59E-14	Gm05	925502	925502
+Seed long-chain fatty acid	SOY:0002233	Chr05_925502	1.10E-12	Gm05	925502	925502
+Seed long-chain fatty acid	SOY:0002233	Chr05_1050109	1.10E-12	Gm05	1050109	1050109
+Seed palmitic	SOY:0001673	Chr05_1050109	2.34E-14	Gm05	1050109	1050109
+Seed long-chain fatty acid	SOY:0002233	Chr05_1095346	7.59E-14	Gm05	1095346	1095346
+Seed long-chain fatty acid	SOY:0002233	Chr05_1116077	1.41E-07	Gm05	1116077	1116077
+Seed long-chain fatty acid	SOY:0002233	Chr05_1120475	1.41E-07	Gm05	1120475	1120475
+Seed long-chain fatty acid	SOY:0002233	Chr05_1140198	8.51E-16	Gm05	1140198	1140198
+Seed long-chain fatty acid	SOY:0002233	Chr05_1476699	7.59E-14	Gm05	1476699	1476699
+Seed long-chain fatty acid	SOY:0002233	Chr05_1476699	1.10E-12	Gm05	1476699	1476699
+Seed long-chain fatty acid	SOY:0002233	Chr05_1476699	8.51E-16	Gm05	1476699	1476699
+Seed palmitic	SOY:0001673	Chr05_1476699	2.34E-14	Gm05	1476699	1476699
+Seed width to height ratio	SOY:0001980	Chr05_1590873	1.32E-07	Gm05	1590873	1590873
+Seed width to height ratio	SOY:0001980	Chr05_1595240	1.32E-07	Gm05	1595240	1595240
+Seed width to height ratio	SOY:0001980	Chr05_1595726	1.32E-07	Gm05	1595726	1595726
+Seed long-chain fatty acid	SOY:0002233	Chr05_1692088	3.98E-08	Gm05	1692088	1692088
+Seed long-chain fatty acid	SOY:0002233	Chr05_1701656	1.12E-07	Gm05	1701656	1701656
+Seed long-chain fatty acid	SOY:0002233	Chr05_1701656	3.98E-08	Gm05	1701656	1701656
+Seed long-chain fatty acid	SOY:0002233	Chr05_1715940	1.12E-07	Gm05	1715940	1715940
+Seed long-chain fatty acid	SOY:0002233	Chr05_1716595	3.98E-08	Gm05	1716595	1716595
+Seed set	SOY:0001419	Chr05_34595284	2.24E-13	Gm05	34595284	34595284
+Seed set	SOY:0001419	Chr05_34901192	2.24E-13	Gm05	34901192	34901192
+Seed set	SOY:0001419	Chr05_35011212	2.24E-13	Gm05	35011212	35011212
+Seed set	SOY:0001419	Chr05_35995777	2.00E-10	Gm05	35995777	35995777
+Seed set	SOY:0001419	Chr05_35995777	7.41E-11	Gm05	35995777	35995777
+Leaflet shape	SOY:0001389	Chr05_39755185	6.76E-09	Gm05	39755185	39755185
+Leaflet shape	SOY:0001389	Chr05_39890441	6.76E-09	Gm05	39890441	39890441
+First flower	SOY:0001640	Chr05_40012587	1.23E-07	Gm05	40012587	40012587
+First flower	SOY:0001640	Chr05_40016323	1.23E-07	Gm05	40016323	40016323
+R8 full maturity	SOY:0001646	Chr05_41854422	1.35E-07	Gm05	41854422	41854422
+Pubescence color	SOY:0001719	Chr06_16701822	1.38E-61	Gm06	16701822	16701822
+Pubescence color	SOY:0001719	Chr06_18734414	1.38E-61	Gm06	18734414	18734414
+Interbranch length	SOY:0002235	Chr06_19172865	4.17E-14	Gm06	19172865	19172865
+First flower	SOY:0001640	Chr06_19178035	7.08E-08	Gm06	19178035	19178035
+Pubescence color	SOY:0001719	Chr06_19482848	1.38E-61	Gm06	19482848	19482848
+First flower	SOY:0001640	Chr06_20057204	1.02E-07	Gm06	20057204	20057204
+First flower	SOY:0001640	Chr06_20097064	1.02E-07	Gm06	20097064	20097064
+First flower	SOY:0001640	Chr06_20097064	7.08E-08	Gm06	20097064	20097064
+Hilum color	SOY:0001367	Chr06_20138000	3.16E-09	Gm06	20138000	20138000
+First flower	SOY:0001640	Chr06_20297543	1.02E-07	Gm06	20297543	20297543
+First flower	SOY:0001640	Chr06_20299454	7.08E-08	Gm06	20299454	20299454
+Interbranch length	SOY:0002235	Chr06_21642015	4.17E-14	Gm06	21642015	21642015
+R8 full maturity	SOY:0001646	Chr06_46742623	1.95E-07	Gm06	46742623	46742623
+Reproductive stage length	SOY:0001824	Chr06_49288896	5.01E-09	Gm06	49288896	49288896
+Reproductive stage length	SOY:0001824	Chr06_49301647	5.01E-09	Gm06	49301647	49301647
+Seed set	SOY:0001419	Chr06_50426708	8.71E-11	Gm06	50426708	50426708
+Seed set	SOY:0001419	Chr06_50426708	4.07E-11	Gm06	50426708	50426708
+Seed set	SOY:0001419	Chr06_50426708	5.50E-14	Gm06	50426708	50426708
+Seed set	SOY:0001419	Chr06_50457715	5.50E-14	Gm06	50457715	50457715
+Seed set	SOY:0001419	Chr06_50458245	8.71E-11	Gm06	50458245	50458245
+Seed set	SOY:0001419	Chr06_50487622	4.07E-11	Gm06	50487622	50487622
+Seed set	SOY:0001419	Chr06_50488039	4.07E-11	Gm06	50488039	50488039
+Seed set	SOY:0001419	Chr06_50488039	5.50E-14	Gm06	50488039	50488039
+Seed set	SOY:0001419	Chr06_50488039	8.71E-11	Gm06	50488039	50488039
+Node number	SOY:0001752	Chr06_50575400	2.29E-07	Gm06	50575400	50575400
+Seed palmitic	SOY:0001673	Chr06_50581961	1.17E-07	Gm06	50581961	50581961
+Seed long-chain fatty acid	SOY:0002233	Chr06_50581961	1.35E-07	Gm06	50581961	50581961
+Seed set	SOY:0001419	Chr06_50955096	5.50E-08	Gm06	50955096	50955096
+Seed long-chain fatty acid	SOY:0002233	Chr07_2438597	2.04E-09	Gm07	2438597	2438597
+Seed palmitic	SOY:0001673	Chr07_2438597	5.62E-08	Gm07	2438597	2438597
+Seed palmitic	SOY:0001673	Chr07_2439024	5.62E-08	Gm07	2439024	2439024
+Seed long-chain fatty acid	SOY:0002233	Chr07_2439024	2.04E-09	Gm07	2439024	2439024
+Seed set	SOY:0001419	Chr07_5008759	8.71E-12	Gm07	5008759	5008759
+Seed set	SOY:0001419	Chr07_5009560	8.71E-12	Gm07	5009560	5009560
+Seed set	SOY:0001419	Chr07_5010394	8.71E-12	Gm07	5010394	5010394
+Seed coat color	SOY:0001414	Chr08_7800853	2.63E-35	Gm08	7800853	7800853
+Seed set	SOY:0001419	Chr08_8320138	2.09E-11	Gm08	8320138	8320138
+Hilum color	SOY:0001367	Chr08_8360663	4.47E-13	Gm08	8360663	8360663
+Hilum color	SOY:0001367	Chr08_8402284	4.47E-13	Gm08	8402284	8402284
+Seed coat color	SOY:0001414	Chr08_8607374	2.63E-35	Gm08	8607374	8607374
+Hilum color	SOY:0001367	Chr08_8608730	4.47E-13	Gm08	8608730	8608730
+Seed coat color	SOY:0001414	Chr08_9079037	2.63E-35	Gm08	9079037	9079037
+Seed set	SOY:0001419	Chr08_10962492	8.32E-08	Gm08	10962492	10962492
+Seed set	SOY:0001419	Chr08_10979773	8.32E-08	Gm08	10979773	10979773
+Hilum color	SOY:0001367	Chr08_11469073	1.74E-10	Gm08	11469073	11469073
+Hilum color	SOY:0001367	Chr08_11469073	1.74E-10	Gm08	11469073	11469073
+Hilum color	SOY:0001367	Chr08_11469073	1.74E-10	Gm08	11469073	11469073
+Hilum color	SOY:0001367	Chr08_14158294	2.29E-09	Gm08	14158294	14158294
+Hilum color	SOY:0001367	Chr08_14158294	2.29E-09	Gm08	14158294	14158294
+Hilum color	SOY:0001367	Chr08_14158294	2.29E-09	Gm08	14158294	14158294
+Seed set	SOY:0001419	Chr08_16990280	9.77E-10	Gm08	16990280	16990280
+Seed set	SOY:0001419	Chr08_23115727	3.55E-11	Gm08	23115727	23115727
+Seed set	SOY:0001419	Chr08_23132059	3.55E-11	Gm08	23132059	23132059
+Seed set	SOY:0001419	Chr08_23294168	3.55E-11	Gm08	23294168	23294168
+Seed amino acids	SOY:0001757	Chr08_35266140	7.94E-11	Gm08	35266140	35266140
+Seed amino acids	SOY:0001757	Chr08_35266140	1.15E-16	Gm08	35266140	35266140
+Seed amino acids	SOY:0001757	Chr08_35266140	2.19E-08	Gm08	35266140	35266140
+Seed amino acids	SOY:0001757	Chr08_35266140	7.94E-11	Gm08	35266140	35266140
+Seed amino acids	SOY:0001757	Chr08_35266158	2.19E-08	Gm08	35266158	35266158
+Seed amino acids	SOY:0001757	Chr08_35266158	7.94E-11	Gm08	35266158	35266158
+Seed amino acids	SOY:0001757	Chr08_35266324	7.94E-11	Gm08	35266324	35266324
+Seed amino acids	SOY:0001757	Chr08_35266324	7.94E-11	Gm08	35266324	35266324
+Seed amino acids	SOY:0001757	Chr08_35266324	2.19E-08	Gm08	35266324	35266324
+Seed amino acids	SOY:0001757	Chr08_35266324	1.15E-16	Gm08	35266324	35266324
+Seed set	SOY:0001419	Chr08_46433091	4.17E-08	Gm08	46433091	46433091
+Seed set	SOY:0001419	Chr08_46454061	4.17E-08	Gm08	46454061	46454061
+Seed set	SOY:0001419	Chr09_3215373	1.29E-08	Gm09	3215373	3215373
+Seed set	SOY:0001419	Chr09_3222171	1.29E-08	Gm09	3222171	3222171
+Seed set	SOY:0001419	Chr09_3224372	1.29E-08	Gm09	3224372	3224372
+Pod number	SOY:0001702	Chr09_32401720	2.00E-07	Gm09	32401720	32401720
+Seed amino acids	SOY:0001757	Chr09_33309127	1.74E-09	Gm09	33309127	33309127
+Seed amino acids	SOY:0001757	Chr09_33309127	1.10E-10	Gm09	33309127	33309127
+Seed amino acids	SOY:0001757	Chr09_33309127	6.03E-08	Gm09	33309127	33309127
+Seed amino acids	SOY:0001757	Chr09_33309127	1.41E-16	Gm09	33309127	33309127
+Pod number	SOY:0001702	Chr09_39250197	1.23E-08	Gm09	39250197	39250197
+Pod number	SOY:0001702	Chr09_39280392	1.23E-08	Gm09	39280392	39280392
+Pod number	SOY:0001702	Chr09_39288965	1.23E-08	Gm09	39288965	39288965
+Seed thickness	SOY:0001598	Chr09_39383089	2.14E-07	Gm09	39383089	39383089
+Pod number	SOY:0001702	Chr09_41322819	1.12E-07	Gm09	41322819	41322819
+First flower	SOY:0001640	Chr09_45594506	1.45E-07	Gm09	45594506	45594506
+First flower	SOY:0001640	Chr09_45632566	1.45E-07	Gm09	45632566	45632566
+Seed amino acids	SOY:0001757	Chr10_2400625	1.17E-07	Gm10	2400625	2400625
+Seed amino acids	SOY:0001757	Chr10_2415581	1.17E-07	Gm10	2415581	2415581
+Seed amino acids	SOY:0001757	Chr10_2422267	1.05E-07	Gm10	2422267	2422267
+Seed amino acids	SOY:0001757	Chr10_2428789	1.05E-07	Gm10	2428789	2428789
+Seed amino acids	SOY:0001757	Chr10_2436611	1.07E-07	Gm10	2436611	2436611
+Seed amino acids	SOY:0001757	Chr10_2436611	1.05E-07	Gm10	2436611	2436611
+Seed set	SOY:0001419	Chr10_5362354	3.39E-08	Gm10	5362354	5362354
+Seed set	SOY:0001419	Chr10_5411439	3.39E-08	Gm10	5411439	5411439
+R8 full maturity	SOY:0001646	Chr10_44587441	2.82E-15	Gm10	44587441	44587441
+First flower	SOY:0001640	Chr10_44710944	2.82E-14	Gm10	44710944	44710944
+First flower	SOY:0001640	Chr10_44731893	1.41E-14	Gm10	44731893	44731893
+Reproductive stage length	SOY:0001824	Chr10_44852177	9.77E-09	Gm10	44852177	44852177
+Plant height	SOY:0001365	Chr10_44961185	3.09E-10	Gm10	44961185	44961185
+Reproductive stage length	SOY:0001824	Chr10_44985285	9.77E-09	Gm10	44985285	44985285
+Reproductive stage length	SOY:0001824	Chr10_45025153	9.77E-09	Gm10	45025153	45025153
+First flower	SOY:0001640	Chr10_45310798	2.82E-14	Gm10	45310798	45310798
+Seed long-chain fatty acid	SOY:0002233	Chr10_45310798	1.15E-07	Gm10	45310798	45310798
+R8 full maturity	SOY:0001646	Chr10_45310798	2.82E-15	Gm10	45310798	45310798
+Plant height	SOY:0001365	Chr10_45310798	3.09E-10	Gm10	45310798	45310798
+Node number	SOY:0001752	Chr10_45310798	3.72E-09	Gm10	45310798	45310798
+First flower	SOY:0001640	Chr10_45310798	1.41E-14	Gm10	45310798	45310798
+First flower	SOY:0001640	Chr10_45465189	1.41E-14	Gm10	45465189	45465189
+First flower	SOY:0001640	Chr10_45465189	2.82E-14	Gm10	45465189	45465189
+R8 full maturity	SOY:0001646	Chr10_45548620	2.82E-15	Gm10	45548620	45548620
+Seed thickness	SOY:0001598	Chr10_50200713	1.95E-07	Gm10	50200713	50200713
+Seed thickness	SOY:0001598	Chr10_50212466	1.95E-07	Gm10	50212466	50212466
+Seed set	SOY:0001419	Chr10_50270206	3.24E-14	Gm10	50270206	50270206
+Seed set	SOY:0001419	Chr10_50981304	3.24E-14	Gm10	50981304	50981304
+Seed set	SOY:0001419	Chr10_50981304	3.39E-11	Gm10	50981304	50981304
+Seed set	SOY:0001419	Chr10_51354084	3.24E-14	Gm10	51354084	51354084
+Seed set	SOY:0001419	Chr10_51354084	3.39E-11	Gm10	51354084	51354084
+Node number	SOY:0001752	Chr11_4980454	7.76E-08	Gm11	4980454	4980454
+Plant height	SOY:0001365	Chr11_4980454	1.38E-07	Gm11	4980454	4980454
+Pod number	SOY:0001702	Chr11_5338661	5.01E-08	Gm11	5338661	5338661
+Seed set	SOY:0001419	Chr11_8911653	2.34E-08	Gm11	8911653	8911653
+Seed set	SOY:0001419	Chr11_8911723	2.34E-08	Gm11	8911723	8911723
+Seed long-chain fatty acid	SOY:0002233	Chr11_10795759	6.03E-08	Gm11	10795759	10795759
+First flower	SOY:0001640	Chr11_10820746	2.19E-07	Gm11	10820746	10820746
+First flower	SOY:0001640	Chr11_10820746	1.32E-08	Gm11	10820746	10820746
+Seed long-chain fatty acid	SOY:0002233	Chr11_10826709	6.03E-08	Gm11	10826709	10826709
+First flower	SOY:0001640	Chr11_10836170	1.32E-08	Gm11	10836170	10836170
+Seed long-chain fatty acid	SOY:0002233	Chr11_10876169	6.03E-08	Gm11	10876169	10876169
+First flower	SOY:0001640	Chr11_24962516	3.72E-10	Gm11	24962516	24962516
+First flower	SOY:0001640	Chr11_25033166	3.72E-10	Gm11	25033166	25033166
+First flower	SOY:0001640	Chr11_25033166	7.41E-09	Gm11	25033166	25033166
+First flower	SOY:0001640	Chr11_25055297	3.72E-10	Gm11	25055297	25055297
+Leaflet chlorophyll	SOY:0001859	Chr11_31229649	1.26E-07	Gm11	31229649	31229649
+Leaflet chlorophyll	SOY:0001859	Chr11_31229668	1.26E-07	Gm11	31229668	31229668
+First flower	SOY:0001640	Chr11_31718686	2.45E-08	Gm11	31718686	31718686
+First flower	SOY:0001640	Chr11_31730516	2.45E-08	Gm11	31730516	31730516
+First flower	SOY:0001640	Chr11_31731024	2.45E-08	Gm11	31731024	31731024
+Seed set	SOY:0001419	Chr12_4759044	5.37E-08	Gm12	4759044	4759044
+Seed set	SOY:0001419	Chr12_4801855	5.37E-08	Gm12	4801855	4801855
+Seed set	SOY:0001419	Chr12_4802088	5.37E-08	Gm12	4802088	4802088
+First flower	SOY:0001640	Chr12_5475503	5.89E-09	Gm12	5475503	5475503
+First flower	SOY:0001640	Chr12_5475503	1.17E-08	Gm12	5475503	5475503
+First flower	SOY:0001640	Chr12_5504773	1.17E-08	Gm12	5504773	5504773
+First flower	SOY:0001640	Chr12_5504773	5.89E-09	Gm12	5504773	5504773
+Seed set	SOY:0001419	Chr12_5509317	2.04E-10	Gm12	5509317	5509317
+First flower	SOY:0001640	Chr12_5529926	1.17E-08	Gm12	5529926	5529926
+First flower	SOY:0001640	Chr12_5529926	5.89E-09	Gm12	5529926	5529926
+Seed set	SOY:0001419	Chr12_5692082	2.04E-10	Gm12	5692082	5692082
+Pubescence color	SOY:0001719	Chr12_16899433	1.70E-15	Gm12	16899433	16899433
+Pubescence color	SOY:0001719	Chr12_16906312	1.70E-15	Gm12	16906312	16906312
+Seed set	SOY:0001419	Chr12_38592784	1.51E-07	Gm12	38592784	38592784
+Seed amino acids	SOY:0001757	Chr13_2546775	1.12E-08	Gm13	2546775	2546775
+Seed amino acids	SOY:0001757	Chr13_2546775	9.12E-17	Gm13	2546775	2546775
+Seed amino acids	SOY:0001757	Chr13_2546775	1.02E-11	Gm13	2546775	2546775
+Seed amino acids	SOY:0001757	Chr13_2546775	2.19E-11	Gm13	2546775	2546775
+Seed amino acids	SOY:0001757	Chr13_2546862	1.02E-11	Gm13	2546862	2546862
+Seed amino acids	SOY:0001757	Chr13_2546862	2.19E-11	Gm13	2546862	2546862
+Seed amino acids	SOY:0001757	Chr13_2546862	4.57E-08	Gm13	2546862	2546862
+Seed amino acids	SOY:0001757	Chr13_2546862	1.82E-07	Gm13	2546862	2546862
+Seed amino acids	SOY:0001757	Chr13_2546862	1.12E-08	Gm13	2546862	2546862
+Seed amino acids	SOY:0001757	Chr13_2546862	9.12E-17	Gm13	2546862	2546862
+Seed long-chain fatty acid	SOY:0002233	Chr13_14070515	6.03E-09	Gm13	14070515	14070515
+Seed long-chain fatty acid	SOY:0002233	Chr13_14109681	6.03E-09	Gm13	14109681	14109681
+Seed long-chain fatty acid	SOY:0002233	Chr13_14114485	6.03E-09	Gm13	14114485	14114485
+Flower color	SOY:0001352	Chr13_16609051	6.76E-166	Gm13	16609051	16609051
+Flower color	SOY:0001352	Chr13_17307394	6.76E-166	Gm13	17307394	17307394
+Flower color	SOY:0001352	Chr13_19868544	6.76E-166	Gm13	19868544	19868544
+Internode length	SOY:0001679	Chr13_20978742	6.31E-08	Gm13	20978742	20978742
+Internode length	SOY:0001679	Chr13_20981056	6.31E-08	Gm13	20981056	20981056
+Seed volume	SOY:0001600	Chr13_21924051	1.78E-07	Gm13	21924051	21924051
+Seed set	SOY:0001419	Chr13_23464848	6.17E-14	Gm13	23464848	23464848
+Seed set	SOY:0001419	Chr13_23566848	2.09E-11	Gm13	23566848	23566848
+Seed set	SOY:0001419	Chr13_23566848	1.78E-12	Gm13	23566848	23566848
+Seed set	SOY:0001419	Chr13_23631174	1.10E-07	Gm13	23631174	23631174
+Seed set	SOY:0001419	Chr13_23631174	4.27E-08	Gm13	23631174	23631174
+Seed set	SOY:0001419	Chr13_23649175	4.27E-08	Gm13	23649175	23649175
+Seed set	SOY:0001419	Chr13_23712209	2.09E-11	Gm13	23712209	23712209
+Seed set	SOY:0001419	Chr13_23769636	1.78E-12	Gm13	23769636	23769636
+Seed set	SOY:0001419	Chr13_23769636	6.17E-14	Gm13	23769636	23769636
+Seed set	SOY:0001419	Chr13_23863861	1.62E-07	Gm13	23863861	23863861
+Seed set	SOY:0001419	Chr13_24076584	1.78E-12	Gm13	24076584	24076584
+Seed set	SOY:0001419	Chr13_24090210	2.09E-11	Gm13	24090210	24090210
+Seed set	SOY:0001419	Chr13_24261217	6.17E-14	Gm13	24261217	24261217
+Seed set	SOY:0001419	Chr13_29034903	4.27E-08	Gm13	29034903	29034903
+Seed set	SOY:0001419	Chr13_29064846	4.27E-08	Gm13	29064846	29064846
+Seed set	SOY:0001419	Chr13_29713396	1.23E-07	Gm13	29713396	29713396
+Seed set	SOY:0001419	Chr13_29713397	1.23E-07	Gm13	29713397	29713397
+Seed set	SOY:0001419	Chr13_29802713	4.27E-08	Gm13	29802713	29802713
+Hilum color	SOY:0001367	Chr13_30062400	1.05E-09	Gm13	30062400	30062400
+Hilum color	SOY:0001367	Chr13_30062400	1.05E-09	Gm13	30062400	30062400
+Hilum color	SOY:0001367	Chr13_30062400	1.05E-09	Gm13	30062400	30062400
+Leaflet width	SOY:0001614	Chr13_30332156	1.86E-07	Gm13	30332156	30332156
+Leaflet chlorophyll	SOY:0001859	Chr13_33185039	2.82E-08	Gm13	33185039	33185039
+Leaflet chlorophyll	SOY:0001859	Chr13_33185121	2.82E-08	Gm13	33185121	33185121
+Leaflet chlorophyll	SOY:0001859	Chr13_33304202	2.82E-08	Gm13	33304202	33304202
+First flower	SOY:0001640	Chr13_37478851	1.74E-07	Gm13	37478851	37478851
+First flower	SOY:0001640	Chr13_37498490	1.74E-07	Gm13	37498490	37498490
+Leaflet chlorophyll	SOY:0001859	Chr13_37658142	2.00E-07	Gm13	37658142	37658142
+Seed set	SOY:0001419	Chr13_40871681	1.38E-07	Gm13	40871681	40871681
+Seed set	SOY:0001419	Chr13_40890538	1.38E-07	Gm13	40890538	40890538
+Seed set	SOY:0001419	Chr13_40904291	1.38E-07	Gm13	40904291	40904291
+Seed width to height ratio	SOY:0001980	Chr13_43681231	7.24E-08	Gm13	43681231	43681231
+Seed width to height ratio	SOY:0001980	Chr13_43702857	7.24E-08	Gm13	43702857	43702857
+Seed length to thickness ratio	SOY:0001978	Chr13_43762199	1.45E-07	Gm13	43762199	43762199
+Reproductive stage length	SOY:0001824	Chr14_2202535	5.75E-08	Gm14	2202535	2202535
+Reproductive stage length	SOY:0001824	Chr14_2228033	5.75E-08	Gm14	2228033	2228033
+Seed amino acids	SOY:0001757	Chr14_5055466	9.77E-10	Gm14	5055466	5055466
+Seed amino acids	SOY:0001757	Chr14_5055466	2.82E-10	Gm14	5055466	5055466
+Seed amino acids	SOY:0001757	Chr14_5055466	5.62E-08	Gm14	5055466	5055466
+Seed amino acids	SOY:0001757	Chr14_5055466	2.09E-15	Gm14	5055466	5055466
+Seed amino acids	SOY:0001757	Chr14_5055474	5.62E-08	Gm14	5055474	5055474
+Seed amino acids	SOY:0001757	Chr14_5055474	2.09E-15	Gm14	5055474	5055474
+Seed amino acids	SOY:0001757	Chr14_5055474	9.77E-10	Gm14	5055474	5055474
+Seed amino acids	SOY:0001757	Chr14_5055474	2.82E-10	Gm14	5055474	5055474
+First flower	SOY:0001640	Chr14_12744442	1.78E-07	Gm14	12744442	12744442
+Seed long-chain fatty acid	SOY:0002233	Chr14_14985465	8.13E-15	Gm14	14985465	14985465
+Seed long-chain fatty acid	SOY:0002233	Chr14_15191684	1.58E-11	Gm14	15191684	15191684
+Seed stearic	SOY:0001626	Chr14_15199586	5.50E-11	Gm14	15199586	15199586
+Seed long-chain fatty acid	SOY:0002233	Chr14_17083726	1.58E-11	Gm14	17083726	17083726
+Seed long-chain fatty acid	SOY:0002233	Chr14_17456087	8.13E-15	Gm14	17456087	17456087
+Seed stearic	SOY:0001626	Chr14_17456087	5.50E-11	Gm14	17456087	17456087
+Seed stearic	SOY:0001626	Chr14_19630147	5.50E-11	Gm14	19630147	19630147
+Seed long-chain fatty acid	SOY:0002233	Chr14_19630147	1.58E-11	Gm14	19630147	19630147
+Seed long-chain fatty acid	SOY:0002233	Chr14_19660594	8.13E-15	Gm14	19660594	19660594
+Seed long-chain fatty acid	SOY:0002233	Chr14_34208617	4.27E-14	Gm14	34208617	34208617
+Seed long-chain fatty acid	SOY:0002233	Chr14_34381036	2.40E-11	Gm14	34381036	34381036
+Seed stearic	SOY:0001626	Chr14_34771615	1.15E-10	Gm14	34771615	34771615
+Seed long-chain fatty acid	SOY:0002233	Chr14_39684297	4.27E-14	Gm14	39684297	39684297
+Seed stearic	SOY:0001626	Chr14_39684297	1.15E-10	Gm14	39684297	39684297
+Seed long-chain fatty acid	SOY:0002233	Chr14_39684297	2.40E-11	Gm14	39684297	39684297
+Seed stearic	SOY:0001626	Chr14_40356659	1.15E-10	Gm14	40356659	40356659
+Seed long-chain fatty acid	SOY:0002233	Chr14_40409746	2.40E-11	Gm14	40409746	40409746
+Seed long-chain fatty acid	SOY:0002233	Chr14_40536866	4.27E-14	Gm14	40536866	40536866
+Seed long-chain fatty acid	SOY:0002233	Chr14_45907223	7.76E-18	Gm14	45907223	45907223
+Seed alpha-linolenic acid	SOY:0002232	Chr14_45909173	1.62E-11	Gm14	45909173	45909173
+Seed long-chain fatty acid	SOY:0002233	Chr14_45927234	2.04E-10	Gm14	45927234	45927234
+Seed long-chain fatty acid	SOY:0002233	Chr14_45938204	7.76E-18	Gm14	45938204	45938204
+Seed long-chain fatty acid	SOY:0002233	Chr14_45985528	2.04E-10	Gm14	45985528	45985528
+Seed alpha-linolenic acid	SOY:0002232	Chr14_45985528	1.62E-11	Gm14	45985528	45985528
+Seed alpha-linolenic acid	SOY:0002232	Chr14_46019811	1.62E-11	Gm14	46019811	46019811
+Seed long-chain fatty acid	SOY:0002233	Chr14_46067489	7.76E-18	Gm14	46067489	46067489
+Leaflet shape	SOY:0001389	Chr14_46348041	1.05E-10	Gm14	46348041	46348041
+Leaflet shape	SOY:0001389	Chr14_46680049	1.05E-10	Gm14	46680049	46680049
+Stem shape, main	SOY:0002234	Chr14_46732925	6.17E-08	Gm14	46732925	46732925
+Stem shape, main	SOY:0002234	Chr14_46733015	6.17E-08	Gm14	46733015	46733015
+Stem shape, main	SOY:0002234	Chr14_46733138	6.17E-08	Gm14	46733138	46733138
+Leaflet shape	SOY:0001389	Chr14_47053817	1.05E-10	Gm14	47053817	47053817
+First flower	SOY:0001640	Chr14_47346921	2.09E-07	Gm14	47346921	47346921
+Seed coat luster	SOY:0001416	Chr15_8879684	4.27E-19	Gm15	8879684	8879684
+Seed coat luster	SOY:0001416	Chr15_9423523	4.27E-19	Gm15	9423523	9423523
+Seed coat luster	SOY:0001416	Chr15_10168658	4.27E-19	Gm15	10168658	10168658
+First flower	SOY:0001640	Chr15_13133351	0.00000001	Gm15	13133351	13133351
+First flower	SOY:0001640	Chr15_13160907	0.00000001	Gm15	13160907	13160907
+First flower	SOY:0001640	Chr15_13160963	0.00000001	Gm15	13160963	13160963
+Pubescence color	SOY:0001719	Chr16_1439581	6.31E-23	Gm16	1439581	1439581
+Pubescence color	SOY:0001719	Chr16_1440263	6.31E-23	Gm16	1440263	1440263
+Pubescence color	SOY:0001719	Chr16_1445782	6.31E-23	Gm16	1445782	1445782
+R8 full maturity	SOY:0001646	Chr16_27495898	4.07E-08	Gm16	27495898	27495898
+R8 full maturity	SOY:0001646	Chr16_27954220	4.07E-08	Gm16	27954220	27954220
+R8 full maturity	SOY:0001646	Chr16_27956742	4.07E-08	Gm16	27956742	27956742
+Pod shattering	SOY:0001302	Chr16_29495010	5.01E-15	Gm16	29495010	29495010
+Seed height	SOY:0001598	Chr16_29708364	2.40E-08	Gm16	29708364	29708364
+Seed height	SOY:0001598	Chr16_29720337	2.40E-08	Gm16	29720337	29720337
+Seed height	SOY:0001598	Chr16_29732386	2.40E-08	Gm16	29732386	29732386
+Pod shattering	SOY:0001302	Chr16_29959803	5.01E-15	Gm16	29959803	29959803
+Pod shattering	SOY:0001302	Chr16_30188301	5.01E-15	Gm16	30188301	30188301
+Seed thickness	SOY:0001598	Chr16_31851745	5.01E-10	Gm16	31851745	31851745
+Seed thickness	SOY:0001598	Chr16_31851884	5.01E-10	Gm16	31851884	31851884
+Seed height	SOY:0001598	Chr16_31852019	8.32E-08	Gm16	31852019	31852019
+Seed height	SOY:0001598	Chr16_31856997	8.32E-08	Gm16	31856997	31856997
+Seed height	SOY:0001598	Chr16_31858061	8.32E-08	Gm16	31858061	31858061
+Seed length to thickness ratio	SOY:0001978	Chr16_31858976	2.19E-07	Gm16	31858976	31858976
+Seed length to thickness ratio	SOY:0001978	Chr16_31859883	2.19E-07	Gm16	31859883	31859883
+Seed thickness	SOY:0001598	Chr16_31862501	5.01E-10	Gm16	31862501	31862501
+Seed length to thickness ratio	SOY:0001978	Chr16_31862501	2.19E-07	Gm16	31862501	31862501
+Seed set	SOY:0001419	Chr16_36034965	3.80E-09	Gm16	36034965	36034965
+Seed set	SOY:0001419	Chr16_36035091	3.80E-09	Gm16	36035091	36035091
+Node number	SOY:0001752	Chr16_37079553	1.62E-07	Gm16	37079553	37079553
+Node number	SOY:0001752	Chr16_37079569	1.62E-07	Gm16	37079569	37079569
+First flower	SOY:0001640	Chr17_2233815	1.38E-07	Gm17	2233815	2233815
+First flower	SOY:0001640	Chr17_2239470	1.38E-07	Gm17	2239470	2239470
+First flower	SOY:0001640	Chr17_2239543	1.38E-07	Gm17	2239543	2239543
+Seed length to thickness ratio	SOY:0001978	Chr17_3547250	1.05E-07	Gm17	3547250	3547250
+Leaflet chlorophyll	SOY:0001859	Chr18_6944172	2.29E-07	Gm18	6944172	6944172
+Leaflet chlorophyll	SOY:0001859	Chr18_50272746	1.86E-07	Gm18	50272746	50272746
+Seed set	SOY:0001419	Chr18_50977030	6.46E-10	Gm18	50977030	50977030
+Seed set	SOY:0001419	Chr18_51584082	6.46E-10	Gm18	51584082	51584082
+Seed set	SOY:0001419	Chr18_51678296	6.46E-10	Gm18	51678296	51678296
+Seed set	SOY:0001419	Chr18_51684068	6.46E-10	Gm18	51684068	51684068
+Internode length	SOY:0001679	Chr18_54925329	9.12E-08	Gm18	54925329	54925329
+Internode length	SOY:0001679	Chr18_54931296	9.12E-08	Gm18	54931296	54931296
+Seed set	SOY:0001419	Chr18_55037203	1.23E-07	Gm18	55037203	55037203
+Plant height	SOY:0001365	Chr18_55048864	1.70E-11	Gm18	55048864	55048864
+Leaflet shape	SOY:0001389	Chr18_55501775	3.16E-11	Gm18	55501775	55501775
+Leaflet shape	SOY:0001389	Chr18_55546113	3.16E-11	Gm18	55546113	55546113
+Leaflet shape	SOY:0001389	Chr18_55552164	3.16E-11	Gm18	55552164	55552164
+Node number	SOY:0001752	Chr18_55620032	8.32E-15	Gm18	55620032	55620032
+Pod number	SOY:0001702	Chr18_55626229	9.55E-11	Gm18	55626229	55626229
+Branching	SOY:0001318	Chr18_55626229	4.37E-09	Gm18	55626229	55626229
+Plant height	SOY:0001365	Chr18_55628880	1.70E-11	Gm18	55628880	55628880
+Pod number	SOY:0001702	Chr18_55628880	9.55E-11	Gm18	55628880	55628880
+Node number	SOY:0001752	Chr18_55628880	8.32E-15	Gm18	55628880	55628880
+Branching	SOY:0001318	Chr18_55628880	4.37E-09	Gm18	55628880	55628880
+Pod number	SOY:0001702	Chr18_55662445	9.55E-11	Gm18	55662445	55662445
+Plant height	SOY:0001365	Chr18_55784929	1.70E-11	Gm18	55784929	55784929
+Node number	SOY:0001752	Chr18_55808363	8.32E-15	Gm18	55808363	55808363
+Seed set	SOY:0001419	Chr18_55940116	5.89E-11	Gm18	55940116	55940116
+Seed set	SOY:0001419	Chr18_55954117	2.45E-07	Gm18	55954117	55954117
+Seed set	SOY:0001419	Chr18_55954415	2.45E-07	Gm18	55954415	55954415
+Seed set	SOY:0001419	Chr18_56137255	5.89E-11	Gm18	56137255	56137255
+Seed set	SOY:0001419	Chr18_56472919	5.89E-11	Gm18	56472919	56472919
+First flower	SOY:0001640	Chr18_57269028	1.41E-08	Gm18	57269028	57269028
+First flower	SOY:0001640	Chr18_57269374	1.41E-08	Gm18	57269374	57269374
+First flower	SOY:0001640	Chr18_57269374	5.62E-08	Gm18	57269374	57269374
+First flower	SOY:0001640	Chr18_57272016	1.41E-08	Gm18	57272016	57272016
+First flower	SOY:0001640	Chr18_57272016	5.62E-08	Gm18	57272016	57272016
+Seed set	SOY:0001419	Chr19_171263	3.31E-09	Gm19	171263	171263
+Seed set	SOY:0001419	Chr19_175246	3.31E-09	Gm19	175246	175246
+Canopy width	SOY:0001325	Chr19_36606460	1.17E-08	Gm19	36606460	36606460
+Canopy width	SOY:0001325	Chr19_36661427	1.17E-08	Gm19	36661427	36661427
+Interbranch length	SOY:0002235	Chr19_42774588	3.09E-35	Gm19	42774588	42774588
+First flower	SOY:0001640	Chr19_43183481	7.24E-08	Gm19	43183481	43183481
+First flower	SOY:0001640	Chr19_43183481	1.20E-07	Gm19	43183481	43183481
+Node number	SOY:0001752	Chr19_43990450	5.89E-36	Gm19	43990450	43990450
+Stem termination type	SOY:0001688	Chr19_44047586	3.31E-28	Gm19	44047586	44047586
+Plant height	SOY:0001365	Chr19_44323024	1.48E-27	Gm19	44323024	44323024
+Pod number	SOY:0001702	Chr19_44467769	5.37E-14	Gm19	44467769	44467769
+Seed set	SOY:0001419	Chr19_44526228	3.80E-10	Gm19	44526228	44526228
+Seed set	SOY:0001419	Chr19_44529859	5.62E-10	Gm19	44529859	44529859
+Seed set	SOY:0001419	Chr19_44568053	3.80E-10	Gm19	44568053	44568053
+Internode length	SOY:0001679	Chr19_44789500	1.70E-12	Gm19	44789500	44789500
+Stem shape, main	SOY:0002234	Chr19_44789500	1.70E-13	Gm19	44789500	44789500
+Internode length	SOY:0001679	Chr19_44802143	1.70E-12	Gm19	44802143	44802143
+Seed amino acids	SOY:0001757	Chr19_44806855	1.29E-07	Gm19	44806855	44806855
+Lodging	SOY:0001393	Chr19_44826476	1.51E-10	Gm19	44826476	44826476
+Seed set	SOY:0001419	Chr19_44873069	2.24E-10	Gm19	44873069	44873069
+Seed amino acids	SOY:0001757	Chr19_44912660	1.29E-07	Gm19	44912660	44912660
+Seed amino acids	SOY:0001757	Chr19_44922846	1.29E-07	Gm19	44922846	44922846
+Seed set	SOY:0001419	Chr19_44926860	2.29E-07	Gm19	44926860	44926860
+Seed set	SOY:0001419	Chr19_44926990	2.29E-07	Gm19	44926990	44926990
+Seed set	SOY:0001419	Chr19_44946040	2.29E-07	Gm19	44946040	44946040
+Pod number	SOY:0001702	Chr19_45090914	5.37E-14	Gm19	45090914	45090914
+Lodging	SOY:0001393	Chr19_45131781	1.51E-10	Gm19	45131781	45131781
+Leaflet area	SOY:0001385	Chr19_45143539	3.02E-08	Gm19	45143539	45143539
+Leaflet width	SOY:0001614	Chr19_45143539	1.32E-10	Gm19	45143539	45143539
+Leaflet width	SOY:0001614	Chr19_45143999	1.32E-10	Gm19	45143999	45143999
+Stem termination type	SOY:0001688	Chr19_45145714	3.31E-28	Gm19	45145714	45145714
+Stem shape, main	SOY:0002234	Chr19_45145714	1.70E-13	Gm19	45145714	45145714
+Leaflet area	SOY:0001385	Chr19_45148240	3.02E-08	Gm19	45148240	45148240
+Leaflet area	SOY:0001385	Chr19_45151648	3.02E-08	Gm19	45151648	45151648
+Internode length	SOY:0001679	Chr19_45160841	1.70E-12	Gm19	45160841	45160841
+Interbranch length	SOY:0002235	Chr19_45203169	3.09E-35	Gm19	45203169	45203169
+Node number	SOY:0001752	Chr19_45205190	5.89E-36	Gm19	45205190	45205190
+Plant height	SOY:0001365	Chr19_45205190	1.48E-27	Gm19	45205190	45205190
+Leaflet width	SOY:0001614	Chr19_45253317	1.32E-10	Gm19	45253317	45253317
+Lodging	SOY:0001393	Chr19_45281163	1.51E-10	Gm19	45281163	45281163
+Stem shape, main	SOY:0002234	Chr19_45292195	1.70E-13	Gm19	45292195	45292195
+Total seed number	SOY:0001616	Chr19_45359595	5.13E-08	Gm19	45359595	45359595
+Seed set	SOY:0001419	Chr19_45393133	5.62E-10	Gm19	45393133	45393133
+Total seed number	SOY:0001616	Chr19_45408782	5.13E-08	Gm19	45408782	45408782
+Seed set	SOY:0001419	Chr19_45569736	3.80E-10	Gm19	45569736	45569736
+Seed set	SOY:0001419	Chr19_45570270	5.62E-10	Gm19	45570270	45570270
+Seed set	SOY:0001419	Chr19_45899429	2.24E-10	Gm19	45899429	45899429
+Pod number	SOY:0001702	Chr19_46204451	5.37E-14	Gm19	46204451	46204451
+Stem termination type	SOY:0001688	Chr19_46208015	3.31E-28	Gm19	46208015	46208015
+Plant height	SOY:0001365	Chr19_46340503	1.48E-27	Gm19	46340503	46340503
+Canopy width	SOY:0001325	Chr19_46600788	7.08E-12	Gm19	46600788	46600788
+Canopy width	SOY:0001325	Chr19_46601442	7.08E-12	Gm19	46601442	46601442
+Interbranch length	SOY:0002235	Chr19_46737870	3.09E-35	Gm19	46737870	46737870
+Canopy width	SOY:0001325	Chr19_46737870	7.08E-12	Gm19	46737870	46737870
+Node number	SOY:0001752	Chr19_47335622	5.89E-36	Gm19	47335622	47335622
+Leaflet chlorophyll	SOY:0001859	Chr20_543629	2.45E-07	Gm20	543629	543629
+Seed thickness	SOY:0001598	Chr20_582353	2.75E-09	Gm20	582353	582353
+Seed thickness	SOY:0001598	Chr20_587636	2.75E-09	Gm20	587636	587636
+Seed thickness	SOY:0001598	Chr20_588706	2.75E-09	Gm20	588706	588706
+First flower	SOY:0001640	Chr20_34256561	2.14E-07	Gm20	34256561	34256561
+First flower	SOY:0001640	Chr20_34256561	2.00E-07	Gm20	34256561	34256561
+Leaflet shape	SOY:0001389	Chr20_34667185	8.13E-219	Gm20	34667185	34667185
+Leaflet width	SOY:0001614	Chr20_34772220	7.24E-64	Gm20	34772220	34772220
+Seed set	SOY:0001419	Chr20_35408048	5.62E-87	Gm20	35408048	35408048
+Seed set	SOY:0001419	Chr20_35408048	4.17E-96	Gm20	35408048	35408048
+Leaflet area	SOY:0001385	Chr20_35408048	5.25E-24	Gm20	35408048	35408048
+Seed set	SOY:0001419	Chr20_35589687	1.78E-16	Gm20	35589687	35589687
+Leaflet length	SOY:0001379	Chr20_35819212	1.70E-10	Gm20	35819212	35819212
+Seed set	SOY:0001419	Chr20_35828042	4.17E-96	Gm20	35828042	35828042
+Seed set	SOY:0001419	Chr20_35828042	1.78E-16	Gm20	35828042	35828042
+Leaflet area	SOY:0001385	Chr20_35828042	5.25E-24	Gm20	35828042	35828042
+Leaflet width	SOY:0001614	Chr20_35828042	7.24E-64	Gm20	35828042	35828042
+Seed set	SOY:0001419	Chr20_35828042	5.62E-87	Gm20	35828042	35828042
+Leaflet length	SOY:0001379	Chr20_35828042	1.70E-10	Gm20	35828042	35828042
+Leaflet shape	SOY:0001389	Chr20_35828042	8.13E-219	Gm20	35828042	35828042
+Stem shape, main	SOY:0002234	Chr20_36065864	4.27E-08	Gm20	36065864	36065864
+Stem shape, main	SOY:0002234	Chr20_36065943	4.27E-08	Gm20	36065943	36065943
+Stem shape, main	SOY:0002234	Chr20_36066371	4.27E-08	Gm20	36066371	36066371
+Seed set	SOY:0001419	Chr20_36429226	1.78E-16	Gm20	36429226	36429226
+Leaflet length	SOY:0001379	Chr20_36429226	1.70E-10	Gm20	36429226	36429226
+Leaflet area	SOY:0001385	Chr20_36674350	5.25E-24	Gm20	36674350	36674350
+Seed set	SOY:0001419	Chr20_36674350	5.62E-87	Gm20	36674350	36674350
+Leaflet width	SOY:0001614	Chr20_36767928	7.24E-64	Gm20	36767928	36767928
+Seed set	SOY:0001419	Chr20_36864748	4.17E-96	Gm20	36864748	36864748
+Hilum color	SOY:0001367	Chr20_36902659	0.0000001	Gm20	36902659	36902659
+Leaflet shape	SOY:0001389	Chr20_37127728	8.13E-219	Gm20	37127728	37127728
+Seed amino acids	SOY:0001757	Chr20_38215861	2.45E-07	Gm20	38215861	38215861

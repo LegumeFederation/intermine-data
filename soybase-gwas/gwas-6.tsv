@@ -1,56 +1,61 @@
 TaxonID	3847
-PrimaryIdentifier	KGK20170803.1
+Strain	Williams82
+Name	KGK20170803.1
+PlatformName	
+PlatformDetails	
 NumberLociTested	85
 NumberGermplasmTested	113
-#gwas_id	gwas_name	other_name	gwas_family	gwas_class	trait_SOY_number	QTL_type	QTL_category	locus_id	locus_name	p_value	LOD	R2	chromosome	linkage_group	qtl_start	qtl_end
-646	First flower 3-g1		First flower 3	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	12782	Satt408	0.00851138			Gm01	D1a	54400559	54400734
-647	First flower 3-g2		First flower 3	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	3209	Satt521	0.001202264			Gm03	N	36674235	36674461
-648	First flower 3-g3		First flower 3	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	20070	Satt322	0.005888437			Gm06	C2	12336492	12336709
-649	First flower 3-g4		First flower 3	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	21333	Satt636	0.008709636			Gm07	M	1203910	1204081
-650	First flower 3-g5		First flower 3	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	21392	Satt150	0.01			Gm07	M	2434259	2434459
-651	First flower 3-g6		First flower 3	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	25484	Satt417	0.009120108			Gm09	K	18101942	18102265
-652	First flower 3-g7		First flower 3	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	3095	Satt405	0.008317638			Gm16	J	1293196	1293493
-653	First flower 3-g8		First flower 3	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	36545	Satt285	0.009120108			Gm16	J	2827903	2828132
-654	First flower 3-g9		First flower 3	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	3735	sctt010	0.001			Gm18	G	11551620	11551733
-655	First flower 3-g10		First flower 3	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	40545	Satt564	0.000912011			Gm18	G	43342306	43342463
-656	First flower 3-g11		First flower 3	First flower	SOY:0001640	QTL_reprod-period	seed_composition_and_yield	43134	Satt614	0.008317638			Gm20	I	3903416	3903722
-657	R8 full maturity 3-g1		R8 full maturity 3	R8 full maturity	SOY:0001646	QTL_reprod-period	seed_composition_and_yield	12782	Satt408	0.01			Gm01	D1a	54400559	54400734
-658	R8 full maturity 3-g2		R8 full maturity 3	R8 full maturity	SOY:0001646	QTL_reprod-period	seed_composition_and_yield	15002	Satt641	0.007943282			Gm03	N	4363676	4364007
-659	R8 full maturity 3-g3		R8 full maturity 3	R8 full maturity	SOY:0001646	QTL_reprod-period	seed_composition_and_yield	3209	Satt521	2.45E-06			Gm03	N	36674235	36674461
-660	R8 full maturity 3-g4		R8 full maturity 3	R8 full maturity	SOY:0001646	QTL_reprod-period	seed_composition_and_yield	16101	Sat_304	0.006025596			Gm03	N	39088673	39088826
-661	R8 full maturity 3-g5		R8 full maturity 3	R8 full maturity	SOY:0001646	QTL_reprod-period	seed_composition_and_yield	3387	Satt718	0.005888437			Gm04	C1	13537468	13537797
-662	R8 full maturity 3-g6		R8 full maturity 3	R8 full maturity	SOY:0001646	QTL_reprod-period	seed_composition_and_yield	3735	sctt010	0.000251189			Gm18	G	11551620	11551733
-663	R8 full maturity 3-g7		R8 full maturity 3	R8 full maturity	SOY:0001646	QTL_reprod-period	seed_composition_and_yield	40545	Satt564	0.004786301			Gm18	G	43342306	43342463
-664	R8 full maturity 3-g8		R8 full maturity 3	R8 full maturity	SOY:0001646	QTL_reprod-period	seed_composition_and_yield	43134	Satt614	0.004570882			Gm20	I	3903416	3903722
-665	Seed weight 4-g1		Seed weight 4	Seed weight	SOY:0001629	QTL_other-seed	plant_architecture	1345	BE475343	0.005495409			Gm02	D1b	7054686	7054702
-666	Seed weight 4-g2		Seed weight 4	Seed weight	SOY:0001629	QTL_other-seed	plant_architecture	15002	Satt641	2.51E-06			Gm03	N	4363676	4364007
-667	Seed weight 4-g3		Seed weight 4	Seed weight	SOY:0001629	QTL_other-seed	plant_architecture	3209	Satt521	0.00616595			Gm03	N	36674235	36674461
-668	Seed weight 4-g4		Seed weight 4	Seed weight	SOY:0001629	QTL_other-seed	plant_architecture	18018	Sat_137	0.001819701			Gm05	A1	2671161	2671423
-669	Seed weight 4-g5		Seed weight 4	Seed weight	SOY:0001629	QTL_other-seed	plant_architecture	19644	Satt227	0.000489779			Gm06	C2	4256231	4256374
-670	Seed weight 4-g6		Seed weight 4	Seed weight	SOY:0001629	QTL_other-seed	plant_architecture	21061	Satt316	0.002089296			Gm06	C2	48016322	48016485
-671	Seed weight 4-g7		Seed weight 4	Seed weight	SOY:0001629	QTL_other-seed	plant_architecture	21392	Satt150	2.63E-05			Gm07	M	2434259	2434459
-672	Seed weight 4-g8		Seed weight 4	Seed weight	SOY:0001629	QTL_other-seed	plant_architecture	22720	Satt210	0.002398833			Gm07	M	40919537	40919781
-673	Seed weight 4-g9		Seed weight 4	Seed weight	SOY:0001629	QTL_other-seed	plant_architecture	26740	Satt445	0.001995262			Gm10	O	2662079	2662278
-674	Seed weight 4-g10		Seed weight 4	Seed weight	SOY:0001629	QTL_other-seed	plant_architecture	2825	Satt123	0.00851138			Gm10	O	40832257	40832365
-675	Seed weight 4-g11		Seed weight 4	Seed weight	SOY:0001629	QTL_other-seed	plant_architecture	28742	Satt251	0.006606934			Gm11	B1	6906465	6906676
-676	Seed weight 4-g12		Seed weight 4	Seed weight	SOY:0001629	QTL_other-seed	plant_architecture	30359	Sat_334	0.002570396			Gm12	H	9131428	9131648
-677	Seed weight 4-g13		Seed weight 4	Seed weight	SOY:0001629	QTL_other-seed	plant_architecture	31976	Satt516	0.000467735			Gm13	F	22489376	22489622
-678	Seed weight 4-g14		Seed weight 4	Seed weight	SOY:0001629	QTL_other-seed	plant_architecture	32658	sct_188	0.004265795			Gm13	F	34767428	34767721
-679	Seed weight 4-g15		Seed weight 4	Seed weight	SOY:0001629	QTL_other-seed	plant_architecture	35549	Satt706	0.008709636			Gm15	E	17021739	17021984
-680	Seed weight 4-g16		Seed weight 4	Seed weight	SOY:0001629	QTL_other-seed	plant_architecture	36545	Satt285	0.006456542			Gm16	J	2827903	2828132
-681	Seed weight 4-g17		Seed weight 4	Seed weight	SOY:0001629	QTL_other-seed	plant_architecture	40545	Satt564	0.001995262			Gm18	G	43342306	43342463
-682	Seed weight 4-g18		Seed weight 4	Seed weight	SOY:0001629	QTL_other-seed	plant_architecture	42436	sct_010	0.005754399			Gm19	L	41380304	41380452
-683	Seed weight 4-g19		Seed weight 4	Seed weight	SOY:0001629	QTL_other-seed	plant_architecture	45510	GMES2079	0.007585776			Gm19	L	45576235	45576254
-684	Seed weight 4-g20		Seed weight 4	Seed weight	SOY:0001629	QTL_other-seed	plant_architecture	45511	GMES4376	0.003890451			Gm19	L	48225593	48229774
-685	Pod number 3-g1		Pod number 3	Pod number	SOY:0001702	QTL_pod	plant_architecture	3037	Satt342	0.004570882			Gm01	D1a	26112323	26112350
-686	Pod number 3-g2		Pod number 3	Pod number	SOY:0001702	QTL_pod	plant_architecture	15002	Satt641	0.005011872			Gm03	N	4363676	4364007
-687	Pod number 3-g3		Pod number 3	Pod number	SOY:0001702	QTL_pod	plant_architecture	18018	Sat_137	0.005011872			Gm05	A1	2671161	2671423
-688	Pod number 3-g4		Pod number 3	Pod number	SOY:0001702	QTL_pod	plant_architecture	19056	Satt385	0.003235937			Gm05	A1	35536817	35537127
-689	Pod number 3-g5		Pod number 3	Pod number	SOY:0001702	QTL_pod	plant_architecture	20070	Satt322	0.004677351			Gm06	C2	12336492	12336709
-690	Pod number 3-g6		Pod number 3	Pod number	SOY:0001702	QTL_pod	plant_architecture	38516	Satt389	0.004466836			Gm17	D2	13771477	13771699
-691	Seed yield 4-g1		Seed yield 4	Seed yield	SOY:0001622	QTL_yield	seed_composition_and_yield	15002	Satt641	0.000354813			Gm03	N	4363676	4364007
-692	Seed yield 4-g2		Seed yield 4	Seed yield	SOY:0001622	QTL_yield	seed_composition_and_yield	3209	Satt521	0.009120108			Gm03	N	36674235	36674461
-693	Seed yield 4-g3		Seed yield 4	Seed yield	SOY:0001622	QTL_yield	seed_composition_and_yield	21061	Satt316	0.000794328			Gm06	C2	48016322	48016485
-694	Seed yield 4-g4		Seed yield 4	Seed yield	SOY:0001622	QTL_yield	seed_composition_and_yield	22902	Sat_330	0.00060256			Gm07	M	44364856	44365115
-695	Seed yield 4-g5		Seed yield 4	Seed yield	SOY:0001622	QTL_yield	seed_composition_and_yield	42436	sct_010	3.09E-06			Gm19	L	41380304	41380452
-696	Seed yield 4-g6		Seed yield 4	Seed yield	SOY:0001622	QTL_yield	seed_composition_and_yield	45511	GMES4376	0.004265795			Gm19	L	48225593	48229774
+Assembly	
+DOI	10.1270/jsbbs.63.441
+#phenotype	ontology_identifier	marker	p_value	chromosome	start	end
+Pod number	SOY:0001702	Satt342	0.004570882	Gm01	26112323	26112350
+First flower	SOY:0001640	Satt408	0.00851138	Gm01	54400559	54400734
+R8 full maturity	SOY:0001646	Satt408	0.01	Gm01	54400559	54400734
+Seed weight	SOY:0001629	BE475343	0.005495409	Gm02	7054686	7054702
+Pod number	SOY:0001702	Satt641	0.005011872	Gm03	4363676	4364007
+Seed yield	SOY:0001622	Satt641	0.000354813	Gm03	4363676	4364007
+R8 full maturity	SOY:0001646	Satt641	0.007943282	Gm03	4363676	4364007
+Seed weight	SOY:0001629	Satt641	2.51E-06	Gm03	4363676	4364007
+R8 full maturity	SOY:0001646	Satt521	2.45E-06	Gm03	36674235	36674461
+First flower	SOY:0001640	Satt521	0.001202264	Gm03	36674235	36674461
+Seed weight	SOY:0001629	Satt521	0.00616595	Gm03	36674235	36674461
+Seed yield	SOY:0001622	Satt521	0.009120108	Gm03	36674235	36674461
+R8 full maturity	SOY:0001646	Sat_304	0.006025596	Gm03	39088673	39088826
+R8 full maturity	SOY:0001646	Satt718	0.005888437	Gm04	13537468	13537797
+Seed weight	SOY:0001629	Sat_137	0.001819701	Gm05	2671161	2671423
+Pod number	SOY:0001702	Sat_137	0.005011872	Gm05	2671161	2671423
+Pod number	SOY:0001702	Satt385	0.003235937	Gm05	35536817	35537127
+Seed weight	SOY:0001629	Satt227	0.000489779	Gm06	4256231	4256374
+First flower	SOY:0001640	Satt322	0.005888437	Gm06	12336492	12336709
+Pod number	SOY:0001702	Satt322	0.004677351	Gm06	12336492	12336709
+Seed weight	SOY:0001629	Satt316	0.002089296	Gm06	48016322	48016485
+Seed yield	SOY:0001622	Satt316	0.000794328	Gm06	48016322	48016485
+First flower	SOY:0001640	Satt636	0.008709636	Gm07	1203910	1204081
+Seed weight	SOY:0001629	Satt150	2.63E-05	Gm07	2434259	2434459
+First flower	SOY:0001640	Satt150	0.01	Gm07	2434259	2434459
+Seed weight	SOY:0001629	Satt210	0.002398833	Gm07	40919537	40919781
+Seed yield	SOY:0001622	Sat_330	0.00060256	Gm07	44364856	44365115
+First flower	SOY:0001640	Satt417	0.009120108	Gm09	18101942	18102265
+Seed weight	SOY:0001629	Satt445	0.001995262	Gm10	2662079	2662278
+Seed weight	SOY:0001629	Satt123	0.00851138	Gm10	40832257	40832365
+Seed weight	SOY:0001629	Satt251	0.006606934	Gm11	6906465	6906676
+Seed weight	SOY:0001629	Sat_334	0.002570396	Gm12	9131428	9131648
+Seed weight	SOY:0001629	Satt516	0.000467735	Gm13	22489376	22489622
+Seed weight	SOY:0001629	sct_188	0.004265795	Gm13	34767428	34767721
+Seed weight	SOY:0001629	Satt706	0.008709636	Gm15	17021739	17021984
+First flower	SOY:0001640	Satt405	0.008317638	Gm16	1293196	1293493
+Seed weight	SOY:0001629	Satt285	0.006456542	Gm16	2827903	2828132
+First flower	SOY:0001640	Satt285	0.009120108	Gm16	2827903	2828132
+Pod number	SOY:0001702	Satt389	0.004466836	Gm17	13771477	13771699
+First flower	SOY:0001640	sctt010	0.001	Gm18	11551620	11551733
+R8 full maturity	SOY:0001646	sctt010	0.000251189	Gm18	11551620	11551733
+First flower	SOY:0001640	Satt564	0.000912011	Gm18	43342306	43342463
+Seed weight	SOY:0001629	Satt564	0.001995262	Gm18	43342306	43342463
+R8 full maturity	SOY:0001646	Satt564	0.004786301	Gm18	43342306	43342463
+Seed weight	SOY:0001629	sct_010	0.005754399	Gm19	41380304	41380452
+Seed yield	SOY:0001622	sct_010	3.09E-06	Gm19	41380304	41380452
+Seed weight	SOY:0001629	GMES2079	0.007585776	Gm19	45576235	45576254
+Seed yield	SOY:0001622	GMES4376	0.004265795	Gm19	48225593	48229774
+Seed weight	SOY:0001629	GMES4376	0.003890451	Gm19	48225593	48229774
+First flower	SOY:0001640	Satt614	0.008317638	Gm20	3903416	3903722
+R8 full maturity	SOY:0001646	Satt614	0.004570882	Gm20	3903416	3903722

@@ -1,44 +1,47 @@
 TaxonID	3847
-PrimaryIdentifier	KGK20170714.1
+Strain	Williams82
+Name	KGK20170714.1
 PlatformName	SoySNP50k
 PlatformDetails	Illumina Infinium BeadChip
-NumberLociTested	52041
-NumberGermplasmTested	12116
-#gwas_id	gwas_name	other_name	gwas_family	gwas_class	trait_SOY_number	QTL_type	QTL_category	locus_id	locus_name	p_value	LOD	R2	chromosome	linkage_group	qtl_start	qtl_end
-1	Seed protein 3-g1		Seed protein 3	Seed protein	SOY:0001676	QTL_protein	seed_composition_and_yield	119892	ss715637225	3.24E-06			Gm20	I	30743655	30743655
-2	Seed protein 3-g2		Seed protein 3	Seed protein	SOY:0001676	QTL_protein	seed_composition_and_yield	119901	ss715637240	6.92E-07			Gm20	I	31127936	31127936
-3	Seed protein 3-g3		Seed protein 3	Seed protein	SOY:0001676	QTL_protein	seed_composition_and_yield	119922	ss715637283	4.47E-11			Gm20	I	21083301	21083301
-4	Seed protein 3-g4		Seed protein 3	Seed protein	SOY:0001676	QTL_protein	seed_composition_and_yield	119926	ss715637294	1.15E-31			Gm20	I	32281310	32281310
-5	Seed protein 3-g5		Seed protein 3	Seed protein	SOY:0001676	QTL_protein	seed_composition_and_yield	119929	ss715637299	5.25E-33			Gm20	I	32382722	32382722
-6	Seed protein 3-g6		Seed protein 3	Seed protein	SOY:0001676	QTL_protein	seed_composition_and_yield	119933	ss715637309	1.35E-08			Gm20	I	32575639	32575639
-7	Seed protein 3-g7		Seed protein 3	Seed protein	SOY:0001676	QTL_protein	seed_composition_and_yield	119935	ss715637315	1.05E-25			Gm20	I	32720642	32720642
-8	Seed protein 3-g8		Seed protein 3	Seed protein	SOY:0001676	QTL_protein	seed_composition_and_yield	119936	ss715637316	6.92E-23			Gm20	I	32750902	32750902
-9	Seed protein 3-g9		Seed protein 3	Seed protein	SOY:0001676	QTL_protein	seed_composition_and_yield	119937	ss715637318	1.15E-14			Gm20	I	32780487	32780487
-10	Seed protein 3-g10		Seed protein 3	Seed protein	SOY:0001676	QTL_protein	seed_composition_and_yield	119938	ss715637321	5.62E-20			Gm20	I	32833826	32833826
-11	Seed protein 3-g11		Seed protein 3	Seed protein	SOY:0001676	QTL_protein	seed_composition_and_yield	119945	ss715637329	2.09E-18			Gm20	I	33119884	33119884
-12	Seed protein 3-g12		Seed protein 3	Seed protein	SOY:0001676	QTL_protein	seed_composition_and_yield	102907	ss715621777	5.89E-20			Gm15	E	3846538	3846538
-13	Seed protein 3-g13		Seed protein 3	Seed protein	SOY:0001676	QTL_protein	seed_composition_and_yield	102916	ss715621799	2.69E-10			Gm15	E	3936757	3936757
-14	Seed protein 3-g14		Seed protein 3	Seed protein	SOY:0001676	QTL_protein	seed_composition_and_yield	102917	ss715621801	7.94E-11			Gm15	E	3937899	3937899
-15	Seed protein 3-g15		Seed protein 3	Seed protein	SOY:0001676	QTL_protein	seed_composition_and_yield	102920	ss715621816	1.07E-07			Gm15	E	3985288	3985288
-16	Seed protein 3-g16		Seed protein 3	Seed protein	SOY:0001676	QTL_protein	seed_composition_and_yield	97583	ss715614263	1.12E-11			Gm13	F	26343911	26343911
-17	Seed protein 3-g17		Seed protein 3	Seed protein	SOY:0001676	QTL_protein	seed_composition_and_yield	75447	ss715595353	4.27E-06			Gm06	C2	5597303	5597303
-18	Seed protein 3-g18		Seed protein 3	Seed protein	SOY:0001676	QTL_protein	seed_composition_and_yield	75451	ss715595357	1.45E-06			Gm06	C2	5666361	5666361
-19	Seed protein 3-g19		Seed protein 3	Seed protein	SOY:0001676	QTL_protein	seed_composition_and_yield	77368	ss715594540	1.66E-06			Gm06	C2	46571984	46571984
-20	Seed oil 4-g1		Seed oil 4	Seed oil	SOY:0001668	QTL_oil	seed_composition_and_yield	119922	ss715637283	3.09E-06			Gm20	I	21083301	21083301
-21	Seed oil 4-g2		Seed oil 4	Seed oil	SOY:0001668	QTL_oil	seed_composition_and_yield	119926	ss715637294	4.07E-15			Gm20	I	32281310	32281310
-22	Seed oil 4-g3		Seed oil 4	Seed oil	SOY:0001668	QTL_oil	seed_composition_and_yield	119929	ss715637299	1.23E-16			Gm20	I	32382722	32382722
-23	Seed oil 4-g4		Seed oil 4	Seed oil	SOY:0001668	QTL_oil	seed_composition_and_yield	119935	ss715637315	3.55E-12			Gm20	I	32720642	32720642
-24	Seed oil 4-g5		Seed oil 4	Seed oil	SOY:0001668	QTL_oil	seed_composition_and_yield	119936	ss715637316	1.02E-14			Gm20	I	32750902	32750902
-25	Seed oil 4-g6		Seed oil 4	Seed oil	SOY:0001668	QTL_oil	seed_composition_and_yield	119937	ss715637318	3.72E-12			Gm20	I	32780487	32780487
-26	Seed oil 4-g7		Seed oil 4	Seed oil	SOY:0001668	QTL_oil	seed_composition_and_yield	119938	ss715637321	2.95E-13			Gm20	I	32833826	32833826
-27	Seed oil 4-g8		Seed oil 4	Seed oil	SOY:0001668	QTL_oil	seed_composition_and_yield	119945	ss715637329	6.03E-14			Gm20	I	33119884	33119884
-28	Seed oil 4-g9		Seed oil 4	Seed oil	SOY:0001668	QTL_oil	seed_composition_and_yield	102907	ss715621777	1.48E-27			Gm15	E	3846538	3846538
-29	Seed oil 4-g10		Seed oil 4	Seed oil	SOY:0001668	QTL_oil	seed_composition_and_yield	102908	ss715621779	3.24E-07			Gm15	E	3851525	3851525
-30	Seed oil 4-g11		Seed oil 4	Seed oil	SOY:0001668	QTL_oil	seed_composition_and_yield	102916	ss715621799	1.45E-14			Gm15	E	3936757	3936757
-31	Seed oil 4-g12		Seed oil 4	Seed oil	SOY:0001668	QTL_oil	seed_composition_and_yield	102917	ss715621801	3.02E-17			Gm15	E	3937899	3937899
-32	Seed oil 4-g13		Seed oil 4	Seed oil	SOY:0001668	QTL_oil	seed_composition_and_yield	102920	ss715621816	1.35E-11			Gm15	E	3985288	3985288
-33	Seed oil 4-g14		Seed oil 4	Seed oil	SOY:0001668	QTL_oil	seed_composition_and_yield	74477	ss715591641	3.16E-09			Gm05	A1	41855235	41855235
-34	Seed oil 4-g15		Seed oil 4	Seed oil	SOY:0001668	QTL_oil	seed_composition_and_yield	74478	ss715591642	3.16E-08			Gm05	A1	41854786	41854786
-35	Seed oil 4-g16		Seed oil 4	Seed oil	SOY:0001668	QTL_oil	seed_composition_and_yield	74479	ss715591644	6.92E-07			Gm05	A1	41831154	41831154
-36	Seed oil 4-g17		Seed oil 4	Seed oil	SOY:0001668	QTL_oil	seed_composition_and_yield	74481	ss715591647	3.24E-08			Gm05	A1	41807117	41807117
-37	Seed oil 4-g18		Seed oil 4	Seed oil	SOY:0001668	QTL_oil	seed_composition_and_yield	74483	ss715591649	1.12E-09			Gm05	A1	41780982	41780982
+NumberLociTested	52,041
+NumberGermplasmTested	12,116
+Assembly	Wm82.a2.v1
+DOI	10.3835/plantgenome2015.04.0024
+#phenotype	ontology_identifier	marker	p_value	chromosome	start	end
+Seed oil	SOY:0001668	ss715591649	1.12E-09	Gm05	41780982	41780982
+Seed oil	SOY:0001668	ss715591647	3.24E-08	Gm05	41807117	41807117
+Seed oil	SOY:0001668	ss715591644	6.92E-07	Gm05	41831154	41831154
+Seed oil	SOY:0001668	ss715591642	3.16E-08	Gm05	41854786	41854786
+Seed oil	SOY:0001668	ss715591641	3.16E-09	Gm05	41855235	41855235
+Seed protein	SOY:0001676	ss715595353	4.27E-06	Gm06	5597303	5597303
+Seed protein	SOY:0001676	ss715595357	1.45E-06	Gm06	5666361	5666361
+Seed protein	SOY:0001676	ss715594540	1.66E-06	Gm06	46571984	46571984
+Seed protein	SOY:0001676	ss715614263	1.12E-11	Gm13	26343911	26343911
+Seed oil	SOY:0001668	ss715621777	1.48E-27	Gm15	3846538	3846538
+Seed protein	SOY:0001676	ss715621777	5.89E-20	Gm15	3846538	3846538
+Seed oil	SOY:0001668	ss715621779	3.24E-07	Gm15	3851525	3851525
+Seed protein	SOY:0001676	ss715621799	2.69E-10	Gm15	3936757	3936757
+Seed oil	SOY:0001668	ss715621799	1.45E-14	Gm15	3936757	3936757
+Seed protein	SOY:0001676	ss715621801	7.94E-11	Gm15	3937899	3937899
+Seed oil	SOY:0001668	ss715621801	3.02E-17	Gm15	3937899	3937899
+Seed oil	SOY:0001668	ss715621816	1.35E-11	Gm15	3985288	3985288
+Seed protein	SOY:0001676	ss715621816	1.07E-07	Gm15	3985288	3985288
+Seed protein	SOY:0001676	ss715637283	4.47E-11	Gm20	21083301	21083301
+Seed oil	SOY:0001668	ss715637283	3.09E-06	Gm20	21083301	21083301
+Seed protein	SOY:0001676	ss715637225	3.24E-06	Gm20	30743655	30743655
+Seed protein	SOY:0001676	ss715637240	6.92E-07	Gm20	31127936	31127936
+Seed protein	SOY:0001676	ss715637294	1.15E-31	Gm20	32281310	32281310
+Seed oil	SOY:0001668	ss715637294	4.07E-15	Gm20	32281310	32281310
+Seed protein	SOY:0001676	ss715637299	5.25E-33	Gm20	32382722	32382722
+Seed oil	SOY:0001668	ss715637299	1.23E-16	Gm20	32382722	32382722
+Seed protein	SOY:0001676	ss715637309	1.35E-08	Gm20	32575639	32575639
+Seed oil	SOY:0001668	ss715637315	3.55E-12	Gm20	32720642	32720642
+Seed protein	SOY:0001676	ss715637315	1.05E-25	Gm20	32720642	32720642
+Seed protein	SOY:0001676	ss715637316	6.92E-23	Gm20	32750902	32750902
+Seed oil	SOY:0001668	ss715637316	1.02E-14	Gm20	32750902	32750902
+Seed protein	SOY:0001676	ss715637318	1.15E-14	Gm20	32780487	32780487
+Seed oil	SOY:0001668	ss715637318	3.72E-12	Gm20	32780487	32780487
+Seed oil	SOY:0001668	ss715637321	2.95E-13	Gm20	32833826	32833826
+Seed protein	SOY:0001676	ss715637321	5.62E-20	Gm20	32833826	32833826
+Seed protein	SOY:0001676	ss715637329	2.09E-18	Gm20	33119884	33119884
+Seed oil	SOY:0001668	ss715637329	6.03E-14	Gm20	33119884	33119884

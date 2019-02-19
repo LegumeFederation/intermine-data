@@ -1,9 +1,12 @@
 TaxonID	3847
-PrimaryIdentifier	KGK20171006.1
+Strain	Williams82
+Name	KGK20171006.1
 NumberLociTested	59845
 NumberGermplasmTested	279
-#gwas_id	gwas_name	other_name	gwas_family	gwas_class	trait_SOY_number	QTL_type	QTL_category	locus_id	locus_name	p_value	LOD	R2	chromosome	linkage_group	qtl_start	qtl_end
-38	Seed oil 6-g1		Seed oil 6	Seed oil	SOY:0001668	QTL_oil	seed_composition_and_yield	6851	Gm05_38506373	1.58489E-06		8.8	Gm05	A1	41843996	41843996
-39	Seed oil 6-g2		Seed oil 6	Seed oil	SOY:0001668	QTL_oil	seed_composition_and_yield	6852	Gm05_38473956	1.58489E-07		10.8	Gm05	A1	41876457	41876457
-40	Seed oil 6-g3		Seed oil 6	Seed oil	SOY:0001668	QTL_oil	seed_composition_and_yield	6853	Gm20_31164168	0.00000001		12.9	Gm20	I	32296452	32296452
-41	Seed oil 6-g4		Seed oil 6	Seed oil	SOY:0001668	QTL_oil	seed_composition_and_yield	6854	Gm20_606529	2.51189E-06		8.5	Gm20	I	601752	601752
+Assembly	Wm82.a1
+DOI	10.3389/fpls.2017.01222
+#phenotype	ontology_identifier	marker	p_value	chromosome	start	end
+Seed oil	SOY:0001668	Gm05_38506373	1.58489E-06	Gm05	41843996	41843996
+Seed oil	SOY:0001668	Gm05_38473956	1.58489E-07	Gm05	41876457	41876457
+Seed oil	SOY:0001668	Gm20_606529	2.51189E-06	Gm20	601752	601752
+Seed oil	SOY:0001668	Gm20_31164168	0.00000001	Gm20	32296452	32296452

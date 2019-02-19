@@ -1,30 +1,33 @@
 TaxonID	3847
-PrimaryIdentifier	KGK20170814.1
+Strain	Williams82
+Name	KGK20170814.1
 NumberLociTested	17172
 NumberGermplasmTested	139
-#gwas_id	gwas_name	other_name	gwas_family	gwas_class	trait_SOY_number	QTL_type	QTL_category	locus_id	locus_name	p_value	LOD	R2	chromosome	linkage_group	qtl_start	qtl_end
-1084	Flower color 1-g1	Flower colour	Flower color 1	Flower color	SOY:0001352	QTL_whole-plant	plant_architecture	7329	FB3657203	3.39E-17		0.83	Gm13	F	18211927	18211927
-1085	Pubescence color 1-g1	Pubescence colour	Pubescence color 1	Pubescence color	SOY:0001719	QTL_whole-plant	plant_architecture	7330	FB18639044	2.93E-16		0.86	Gm06	C2	18844283	18844283
-1086	Hilum color 1-g1	Hilum colour	Hilum color 1	Hilum color	SOY:0001367	QTL_other-seed	plant_architecture	7331	FB8480396	2.07E-12		0.59	Gm08	A2	8508938	8508938
-1087	Hilum color 1-g2	Hilum colour	Hilum color 1	Hilum color	SOY:0001367	QTL_other-seed	plant_architecture	7332	FB42464620	4.41E-12		0.54	Gm09	K	45660731	45660731
-1088	R8 full maturity 4-g1	Maturity	R8 full maturity 4	R8 full maturity	SOY:0001646	QTL_reprod-period	seed_composition_and_yield	7333	FB47468838	2.19E-06		0.49	Gm19	L	47590801	47590801
-1089	Plant height 4-g1	Plant height	Plant height 4	Plant height	SOY:0001365	QTL_whole-plant	plant_architecture	7334	FB47558095	2.23E-05		0.26	Gm19	L	47680091	47680091
-1090	Seed weight 6-g1	Seed weight	Seed weight 6	Seed weight	SOY:0001629	QTL_other-seed	plant_architecture	7335	FB8087652	2.17E-05		0.22	Gm02	D1b	8177110	8177110
-1091	Seed weight 6-g2	Seed weight	Seed weight 6	Seed weight	SOY:0001629	QTL_other-seed	plant_architecture	7336	FB28995461	3.63E-06		0.25	Gm13	F	30195118	30195118
-1092	Seed weight 6-g3	Seed weight	Seed weight 6	Seed weight	SOY:0001629	QTL_other-seed	plant_architecture	7337	FB42551451	3.86E-07		0.29	Gm20	I	43667906	43667906
-1093	Seed oil 5-g1	Oil	Seed oil 5	Seed oil	SOY:0001668	QTL_oil	seed_composition_and_yield	7346	FB31114364	1.61E-07		0.36	Gm05	A1	31380926	31380926
-1094	Seed oil 5-g2	Oil	Seed oil 5	Seed oil	SOY:0001668	QTL_oil	seed_composition_and_yield	7347	FB45563060	6.09E-06		0.31	Gm08	A2	46415576	46415576
-1095	Seed oil 5-g3	Oil	Seed oil 5	Seed oil	SOY:0001668	QTL_oil	seed_composition_and_yield	7340	FB1811225	3.86E-07		0.35	Gm10	O	1815850	1815850
-1096	Seed oil 5-g4	Oil	Seed oil 5	Seed oil	SOY:0001668	QTL_oil	seed_composition_and_yield	7341	FB58684	1.95E-06		0.32	Gm14	B2	65161	65161
-1097	Seed oil 5-g5	Oil	Seed oil 5	Seed oil	SOY:0001668	QTL_oil	seed_composition_and_yield	7350	FB4183401	1.62E-06		0.33	Gm16	J	4204153	4204153
-1098	Seed oil 5-g6	Oil	Seed oil 5	Seed oil	SOY:0001668	QTL_oil	seed_composition_and_yield	7351	FB50418986	1.09E-06		0.33	Gm19	L	50539611	50539611
-1099	Seed oil 5-g7	Oil	Seed oil 5	Seed oil	SOY:0001668	QTL_oil	seed_composition_and_yield	7352	FB10052759	1.02E-06		0.33	Gm20	I	18345755	18345755
-1100	Seed oil 5-g8	Oil	Seed oil 5	Seed oil	SOY:0001668	QTL_oil	seed_composition_and_yield	7345	FB30728503	1.18E-05		0.30	Gm20	I	31866045	31866045
-1101	Seed protein 4-g1	Protein	Seed protein 4	Seed protein	SOY:0001676	QTL_protein	seed_composition_and_yield	7346	FB31114364	9.72E-07		0.47	Gm05	A1	31380926	31380926
-1102	Seed protein 4-g2	Protein	Seed protein 4	Seed protein	SOY:0001676	QTL_protein	seed_composition_and_yield	7347	FB45563060	6.53E-07		0.47	Gm08	A2	46415576	46415576
-1103	Seed protein 4-g3	Protein	Seed protein 4	Seed protein	SOY:0001676	QTL_protein	seed_composition_and_yield	7348	FB1335189	1.00E-07		0.50	Gm10	O	1330775	1330775
-1104	Seed protein 4-g4	Protein	Seed protein 4	Seed protein	SOY:0001676	QTL_protein	seed_composition_and_yield	7349	FB120437	3.36E-08		0.51	Gm14	B2	126916	126916
-1105	Seed protein 4-g5	Protein	Seed protein 4	Seed protein	SOY:0001676	QTL_protein	seed_composition_and_yield	7350	FB4183401	1.30E-06		0.47	Gm16	J	4204153	4204153
-1106	Seed protein 4-g6	Protein	Seed protein 4	Seed protein	SOY:0001676	QTL_protein	seed_composition_and_yield	7351	FB50418986	2.48E-07		0.48	Gm19	L	50539611	50539611
-1107	Seed protein 4-g7	Protein	Seed protein 4	Seed protein	SOY:0001676	QTL_protein	seed_composition_and_yield	7352	FB10052759	1.02E-05		0.44	Gm20	I	18345755	18345755
-1108	Seed protein 4-g8	Protein	Seed protein 4	Seed protein	SOY:0001676	QTL_protein	seed_composition_and_yield	7353	FB30619328	3.55E-05		0.42	Gm20	I	31756869	31756869
+Assembly	Wm82.a1
+DOI	10.1111/pbi.12249
+#phenotype	ontology_identifier	marker	p_value	chromosome	start	end
+Seed weight	SOY:0001629	FB8087652	2.17E-05	Gm02	8177110	8177110
+Seed oil	SOY:0001668	FB31114364	1.61E-07	Gm05	31380926	31380926
+Seed protein	SOY:0001676	FB31114364	9.72E-07	Gm05	31380926	31380926
+Pubescence color	SOY:0001719	FB18639044	2.93E-16	Gm06	18844283	18844283
+Hilum color	SOY:0001367	FB8480396	2.07E-12	Gm08	8508938	8508938
+Seed oil	SOY:0001668	FB45563060	6.09E-06	Gm08	46415576	46415576
+Seed protein	SOY:0001676	FB45563060	6.53E-07	Gm08	46415576	46415576
+Hilum color	SOY:0001367	FB42464620	4.41E-12	Gm09	45660731	45660731
+Seed protein	SOY:0001676	FB1335189	1.00E-07	Gm10	1330775	1330775
+Seed oil	SOY:0001668	FB1811225	3.86E-07	Gm10	1815850	1815850
+Flower color	SOY:0001352	FB3657203	3.39E-17	Gm13	18211927	18211927
+Seed weight	SOY:0001629	FB28995461	3.63E-06	Gm13	30195118	30195118
+Seed oil	SOY:0001668	FB58684	1.95E-06	Gm14	65161	65161
+Seed protein	SOY:0001676	FB120437	3.36E-08	Gm14	126916	126916
+Seed oil	SOY:0001668	FB4183401	1.62E-06	Gm16	4204153	4204153
+Seed protein	SOY:0001676	FB4183401	1.30E-06	Gm16	4204153	4204153
+R8 full maturity	SOY:0001646	FB47468838	2.19E-06	Gm19	47590801	47590801
+Plant height	SOY:0001365	FB47558095	2.23E-05	Gm19	47680091	47680091
+Seed oil	SOY:0001668	FB50418986	1.09E-06	Gm19	50539611	50539611
+Seed protein	SOY:0001676	FB50418986	2.48E-07	Gm19	50539611	50539611
+Seed oil	SOY:0001668	FB10052759	1.02E-06	Gm20	18345755	18345755
+Seed protein	SOY:0001676	FB10052759	1.02E-05	Gm20	18345755	18345755
+Seed protein	SOY:0001676	FB30619328	3.55E-05	Gm20	31756869	31756869
+Seed oil	SOY:0001668	FB30728503	1.18E-05	Gm20	31866045	31866045
+Seed weight	SOY:0001629	FB42551451	3.86E-07	Gm20	43667906	43667906
