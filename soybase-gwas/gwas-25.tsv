@@ -5,7 +5,7 @@ PlatformName	GBS
 PlatformDetails	Genotyping-by-sequencing with three ApeKI libraries
 NumberLociTested	7864
 NumberGermplasmTested	130
-Assembly	Wm82.a1.v1.1
+Assembly	Wm82.a1
 DOI	10.3835/plantgenome2013.10.0030
 #phenotype	ontology_identifier	marker	p_value	chromosome	start	end
 Sclero	SOY:0001479	ScleroSNP0077		Gm01	27657519	27657520

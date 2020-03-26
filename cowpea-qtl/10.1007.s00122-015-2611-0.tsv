@@ -4,5 +4,5 @@ MappingPopulation	IT84S-2049_x_UCR779
 MappingPopulation	IT93K-503-1_x_UCR779
 Description	Three cowpea segregating populations were used in genetic mapping to study RKN resistance: (1) CB27 × 24-125B-1, (2) IT84S-2049 × UCR779 and (3) IT93K-503-1 × UCR779. CB27 is a California Blackeye dry grain variety bred by University of California-Riverside (UCR) while IT84S-2049 and IT93K-503-1 are breeding lines developed by the International Institute of Tropical Agriculture (IITA, Nigeria), all of which are highly resistant to RKN. The breeding line 24-125B-1 was developed by the Institute de Recherche Agricole pour le Development (IRAD, Cameroon) and UCR 779 is a Botswana cowpea landrace donated by de Moy (Colorado State University) in 1987, both of which are highly susceptible to M. incognita and M. javanica.
 PMID	26450274
-#QTL	TraitName
+#QTL	Phenotype
 QRk-vu11.1	RKN resistance

@@ -5,7 +5,7 @@ PlatformName	G. soja genome-specific CDS and CNVRs
 PlatformDetails	sequencing library and individual CNV fragments
 NumberLociTested	1,537
 NumberGermplasmTested	302
-Assembly	Wm82.a1.v1.1
+Assembly	Wm82.a1
 DOI	10.1038/nbt.3096
 #phenotype	ontology_identifier	marker	p_value	chromosome	start	end
 Pubescence form	SOY:0001720	Gm01:2957045	7.41E11	Gm01	2957045	2957046

@@ -5,7 +5,7 @@ PlatformName	GoldenGate assay
 PlatformDetails	Illumina
 NumberLociTested	1,539
 NumberGermplasmTested	191
-Assembly	Wm82.a1.v1.1
+Assembly	Wm82.a1
 DOI	10.1007/s00122-011-1719-0
 #phenotype	ontology_identifier	marker	p_value	chromosome	start	end
 Seeds per plant	SOY:0001616	ss107920423		Gm01	44792514	44792514

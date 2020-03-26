@@ -5,7 +5,7 @@ PlatformName	SoySNP50k
 PlatformDetails	Illumina BeadChip
 NumberLociTested	31045
 NumberGermplasmTested	309
-Assembly	Wm82.a1.v1.1
+Assembly	Wm82.a1
 DOI	10.1007/s00122-015-2614-x
 #phenotype	ontology_identifier	marker	p_value	chromosome	start	end
 Seed weight	SOY:0001629	ss715587065	7.27E-05	Gm04	12162899	12162899

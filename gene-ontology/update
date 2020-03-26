@@ -1,5 +1,0 @@
-# update the go obo file(s)
-rm go-basic.obo
-wget http://purl.obolibrary.org/obo/go/go-basic.obo
-rm go.obo
-wget http://purl.obolibrary.org/obo/go/go.obo

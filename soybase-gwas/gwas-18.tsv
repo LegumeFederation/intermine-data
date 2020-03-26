@@ -5,7 +5,7 @@ PlatformName	GoldenGate SNP assay
 PlatformDetails	Illumina USLP 1.0
 NumberLociTested	88
 NumberGermplasmTested	141
-Assembly	Wm82.a1.v1.1
+Assembly	Wm82.a1
 DOI	10.3835/plantgenome2011.04.0011
 #phenotype	ontology_identifier	marker	p_value	chromosome	start	end
 Iron deficiency chlorosis	SOY:0001373	ss107918691	2.94E-08	Gm02	2485010	2485010

@@ -5,7 +5,7 @@ PlatformName	SLAF-seq
 PlatformDetails	Specific Locus Amplified Fragment Sequencing
 NumberLociTested	33,194
 NumberGermplasmTested	200
-Assembly	Wm82.a2.v1
+Assembly	Wm82.a2
 DOI	10.1186/s12864-017-3843-y
 #phenotype	ontology_identifier	marker	p_value	chromosome	start	end
 SCN	SOY:0001335	RS:7631207	7.7E-11	Gm07	35898587	35898588

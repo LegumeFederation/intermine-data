@@ -5,7 +5,7 @@ PlatformName	USLP
 PlatformDetails	Universal 1536 soybean Golden Gate single nucleotide polymorphism (SNP) set
 NumberLociTested	1536
 NumberGermplasmTested	284
-Assembly	Wm 82.a1.v1.1
+Assembly	Wm82.a1
 DOI	10.3835/plantgenome2011.04.0011
 #phenotype	ontology_identifier	marker	p_value	chromosome	start	end
 Iron deficiency chlorosis	SOY:0001373	ss107927657		Gm03	43386736	43386736

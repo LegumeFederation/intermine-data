@@ -5,7 +5,7 @@ PlatformName	Illumina GoldenGate
 PlatformDetails	
 NumberLociTested	1,142
 NumberGermplasmTested	219
-Assembly	Wm82.a2.v1
+Assembly	Wm82.a2
 DOI	10.1111/pbr.12305
 #phenotype	ontology_identifier	marker	p_value	chromosome	start	end
 Stem diameter, main	SOY:0001624	ss107913943	3.27E-07	Gm02	2380973	2380973

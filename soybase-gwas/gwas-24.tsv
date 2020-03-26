@@ -5,7 +5,7 @@ PlatformName	Illumina GoldenGate assay
 PlatformDetails	Illumina Beadlab
 NumberLociTested	1536
 NumberGermplasmTested	282
-Assembly	Wm82.a1.v1.1
+Assembly	Wm82.a1
 DOI	10.1007/s11032-015-0324-3
 #phenotype	ontology_identifier	marker	p_value	chromosome	start	end
 SDS root retention	SOY:0001460	ss107920581	2E-04	Gm03	459442	459442

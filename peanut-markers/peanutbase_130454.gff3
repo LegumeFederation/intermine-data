@@ -2,7 +2,7 @@
 ##date Mon May  9 12:30:26 2016
 ##source gbrowse gbgff gff3 dumper
 #TaxonID	130454
-#Variety	K30076
+#Strain	K30076
 Araip.B10	Shirasawa2012_markers	SNP	118692256	118692542	.	+	.	Name=AC2B03;ID=1;Note=LG%20B10%20cM%2023.938
 Araip.B10	Shirasawa2012_markers	SNP	123300924	123301180	.	+	.	Name=AC2D04;ID=2;Note=LG%20B10%20cM%2024.339
 Araip.B06	Shirasawa2012_markers	SNP	13865552	13865771	.	-	.	Name=AC2H11;ID=3;Note=LG%20B06%20cM%2012.566

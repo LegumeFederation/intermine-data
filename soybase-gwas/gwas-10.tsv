@@ -5,7 +5,7 @@ PlatformName	SoySNP50K
 PlatformDetails	iSelect BeadChip
 NumberLociTested	33957
 NumberGermplasmTested	374
-Assembly	Wm.82.a1
+Assembly	Wm82.a1
 DOI	10.1534/g3.115.021774
 #phenotype	ontology_identifier	marker	p_value	chromosome	start	end
 Ureide content	SOY:0002231	ss715580059		Gm01	50879523	50879523

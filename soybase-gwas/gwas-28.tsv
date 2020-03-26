@@ -5,7 +5,7 @@ PlatformName	SoySNP50K
 PlatformDetails	iSelect SNP BeadChip
 NumberLociTested	2739
 NumberGermplasmTested	288
-Assembly	Wm82.a2.v1
+Assembly	Wm82.a2
 DOI	10.3389/fpls.2017.00670
 #phenotype	ontology_identifier	marker	p_value	chromosome	start	end
 Soybean looper	SOY:0001543	ss715592245		Gm05	5891372	5891372

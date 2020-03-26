@@ -4,7 +4,7 @@ Name	LBC20180517.1
 PlatformName	SSR/Gel
 NumberLociTested	553
 NumberGermplasmTested	275
-Assembly	Wm 82.a1.v1.1
+Assembly	Wm82.a1
 DOI	10.1111/pbr.12060
 #phenotype	ontology_identifier	marker	p_value	chromosome	start	end
 Reproductive period	SOY:0002109	Satt436		Gm01	49570296	49570516

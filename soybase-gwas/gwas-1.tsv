@@ -5,7 +5,7 @@ PlatformName	SoySNP50k
 PlatformDetails	Illumina Infinium BeadChip
 NumberLociTested	52,041
 NumberGermplasmTested	12,116
-Assembly	Wm82.a2.v1
+Assembly	Wm82.a2
 DOI	10.3835/plantgenome2015.04.0024
 #phenotype	ontology_identifier	marker	p_value	chromosome	start	end
 Seed oil	SOY:0001668	ss715591649	1.12E-09	Gm05	41780982	41780982

@@ -5,7 +5,7 @@ PlatformName	SoySNP50K
 PlatformDetails	Ilumina BeadChip
 NumberLociTested	31,045
 NumberGermplasmTested	309
-Assembly	Wm82.a1.v1.1
+Assembly	Wm82.a1
 DOI	10.1186/s12864-015-1441-4
 #phenotype	ontology_identifier	marker	p_value	chromosome	start	end
 First flower	SOY:0001640	ss715580093	4.50E-05	Gm01	51104169	51104169

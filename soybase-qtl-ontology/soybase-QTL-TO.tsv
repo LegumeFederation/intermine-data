@@ -357,11 +357,11 @@ Seed oil 14-1	TO:0000602
 Seed oil 14-2	TO:0000602
 Seed oil 14-3	TO:0000602
 Seed oil 15-1	TO:0000602
-Seed oil 16-1	TO:0000602
-Seed oil 16-2	TO:0000602
-Seed oil 16-3	TO:0000602
-Seed oil 16-4	TO:0000602
-Seed oil 16-5	TO:0000602
+Seed oil 16-1	TO:0000602	Seed oil
+Seed oil 16-2	TO:0000602	Seed oil
+Seed oil 16-3	TO:0000602	Seed oil
+Seed oil 16-4	TO:0000602	Seed oil
+Seed oil 16-5	TO:0000602	Seed oil
 Seed oil to protein ratio 1-1	TO:0000491
 Seed oil to protein ratio 1-2	TO:0000491
 Seed oleic 1-1	TO:0005002
@@ -577,12 +577,12 @@ Seed protein 14-1	TO:0000598
 Seed protein 15-1	TO:0000598
 Seed protein 16-1	TO:0000598
 Seed protein 16-2	TO:0000598
-Seed protein 17-1	TO:0000598
-Seed protein 17-2	TO:0000598
-Seed protein 17-3	TO:0000598
-Seed protein 17-4	TO:0000598
-Seed protein 17-5	TO:0000598
-Seed protein 17-6	TO:0000598
+Seed protein 17-1	TO:0000598	Seed protein
+Seed protein 17-2	TO:0000598	Seed protein
+Seed protein 17-3	TO:0000598	Seed protein
+Seed protein 17-4	TO:0000598	Seed protein
+Seed protein 17-5	TO:0000598	Seed protein
+Seed protein 17-6	TO:0000598	Seed protein
 Phomopsis seed decay 1-1	TO:0000439
 Phomopsis seed decay 2-1	TO:0000439
 Pod, beginning 1-1	TO:0002633

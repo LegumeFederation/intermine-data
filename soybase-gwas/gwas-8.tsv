@@ -5,7 +5,7 @@ PlatformName
 PlatformDetails	
 NumberLociTested	116769
 NumberGermplasmTested	366
-Assembly	Wm.82.a1
+Assembly	Wm82.a1
 DOI	10.1007/s00122-016-2724-0
 #phenotype	ontology_identifier	marker	p_value	chromosome	start	end
 Seed isoflavone	SOY:0001849	Gm01_BLOCK159	3.36E-05	Gm01	18427457	18427457

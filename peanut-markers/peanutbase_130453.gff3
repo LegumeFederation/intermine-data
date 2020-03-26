@@ -2,7 +2,7 @@
 ##date Mon May  2 16:58:31 2016
 ##source gbrowse gbgff gff3 dumper
 #TaxonID	130453
-#Variety	V14167
+#Strain	V14167
 Aradu.A08	NagyGuo2012_markers	SNP	28630395	28630957	0.0	.	.	Name=GM1001;ID=1;Note=LG%20A08%20cM%2058.106
 Aradu.A04	NagyGuo2012_markers	SNP	110181413	110181994	0.0	.	.	Name=GM1013;ID=2;Note=LG%20A04%20cM%2068.666
 Aradu.A05	NagyGuo2012_markers	SNP	15314336	15315105	0.0	.	.	Name=GM1018;ID=3;Note=LG%20A05%20cM%2060.406

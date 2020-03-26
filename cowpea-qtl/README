@@ -6,7 +6,7 @@ If MappingPopulation has the form of parent1_x_parent2, those parent strains wil
 TaxonID	3920
 MappingPopulation	Sanzi_x_Vita7
 PMID	22691139
-#QTL	TraitName
+#QTL	Phenotype
 Hls	Hastate leaf shape
 Ols	Oval leaf shape
 Rls	Rectangular leaf shape

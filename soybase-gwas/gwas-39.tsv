@@ -5,7 +5,7 @@ PlatformName	Illumina BeadArray
 PlatformDetails	SNP genotyping array
 NumberLociTested	1536
 NumberGermplasmTested	421
-Assembly	Wm.a1.v1.1
+Assembly	Wm82.a1
 DOI	10.1186/s12864-015-2049-4
 #phenotype	ontology_identifier	marker	p_value	chromosome	start	end
 Seed linolenic	SOY:0001392	Map-0008		Gm01	1389286	1389287

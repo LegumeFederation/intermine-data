@@ -729,7 +729,7 @@ GmComposite2003_G	G	-2.59	133.00	GmComposite2003_G_Seed yield 22-17	Seed yield 2
 GmComposite2003_G	G	-2.59	133.00	GmComposite2003_G_Seed yield 22-18	Seed yield 22-18		68.66	76.76	QTL_yield	0
 GmComposite2003_G	G	-2.59	133.00	GmComposite2003_G_Seed yield 27-3	Seed yield 27-3		94.50	105.50	QTL_yield	0
 GmComposite2003_G	G	-2.59	133.00	GmComposite2003_G_Seed yield 30-3	Seed yield 30-3		94.50	105.50	QTL_yield	0
-GmComposite2003_G	G	-2.59	133.00	GmComposite2003_G_shoot weight, dry 1-2	shoot weight, dry 1-2		48.11	58.71	QTL_whole-plant	0
+GmComposite2003_G	G	-2.59	133.00	GmComposite2003_G_Shoot weight, dry 1-2	Shoot weight, dry 1-2		48.11	58.71	QTL_whole-plant	0
 GmComposite2003_G	G	-2.59	133.00	GmComposite2003_G_Somatic emb per explant 1-2	Somatic emb per explant 1-2		50.68	52.68	QTL_misc	0
 GmComposite2003_G	G	-2.59	133.00	GmComposite2003_G_Somatic emb per explant 1-3	Somatic emb per explant 1-3		62.00	64.00	QTL_misc	0
 GmComposite2003_G	G	-2.59	133.00	GmComposite2003_G_Somatic emb per explant 2-1	Somatic emb per explant 2-1		50.93	53.93	QTL_misc	0
@@ -1122,8 +1122,8 @@ GmComposite2003_A2	A2	0.00	165.72	GmComposite2003_A2_Seed weight 6-2	Seed weight
 GmComposite2003_A2	A2	0.00	165.72	GmComposite2003_A2_Seed weight 7-1	Seed weight 7-1		107.78	109.78	QTL_other-seed	0
 GmComposite2003_A2	A2	0.00	165.72	GmComposite2003_A2_Seed weight per plant 3-1	Seed weight per plant 3-1		8.14	10.14	QTL_yield	0
 GmComposite2003_A2	A2	0.00	165.72	GmComposite2003_A2_Seed yield to weight ratio 3-1	Seed yield to weight ratio 3-1		107.78	109.78	QTL_yield	0
-GmComposite2003_A2	A2	0.00	165.72	GmComposite2003_A2_shoot weight, dry 1-1	shoot weight, dry 1-1		36.77	44.67	QTL_whole-plant	0
-GmComposite2003_A2	A2	0.00	165.72	GmComposite2003_A2_shoot weight, fresh 1-1	shoot weight, fresh 1-1		36.77	48.87	QTL_whole-plant	0
+GmComposite2003_A2	A2	0.00	165.72	GmComposite2003_A2_Shoot weight, dry 1-1	Shoot weight, dry 1-1		36.77	44.67	QTL_whole-plant	0
+GmComposite2003_A2	A2	0.00	165.72	GmComposite2003_A2_Shoot weight, fresh 1-1	Shoot weight, fresh 1-1		36.77	48.87	QTL_whole-plant	0
 GmComposite2003_A2	A2	0.00	165.72	GmComposite2003_A2_Stem strength, main 1-1	Stem strength, main 1-1		24.80	28.20	QTL_leaf-stem	0
 GmComposite2003_A2	A2	0.00	165.72	GmComposite2003_A2_Stem strength, main 1-2	Stem strength, main 1-2		36.11	40.01	QTL_leaf-stem	0
 GmComposite2003_B1	B1	0.00	131.80	GmComposite2003_B1_Aco4	Aco4		29.87	29.87	Gene	1
@@ -2641,7 +2641,7 @@ GmComposite2003_D1a	D1a	0.00	120.88	GmComposite2003_D1a_Seed weight 37-5	Seed we
 GmComposite2003_D1a	D1a	0.00	120.88	GmComposite2003_D1a_Seed weight 7-4	Seed weight 7-4		74.30	76.30	QTL_other-seed	0
 GmComposite2003_D1a	D1a	0.00	120.88	GmComposite2003_D1a_Seed yield 15-14	Seed yield 15-14		66.79	68.79	QTL_yield	0
 GmComposite2003_D1a	D1a	0.00	120.88	GmComposite2003_D1a_Seed yield 8-2	Seed yield 8-2		63.52	65.52	QTL_yield	0
-GmComposite2003_D1a	D1a	0.00	120.88	GmComposite2003_D1a_shoot weight, fresh 1-3	shoot weight, fresh 1-3		43.84	55.44	QTL_whole-plant	0
+GmComposite2003_D1a	D1a	0.00	120.88	GmComposite2003_D1a_Shoot weight, fresh 1-3	Shoot weight, fresh 1-3		43.84	55.44	QTL_whole-plant	0
 GmComposite2003_D1a	D1a	0.00	120.88	GmComposite2003_D1a_Whitefly resistance 1-1	Whitefly resistance 1-1		100.38	108.88	QTL_insect	0
 GmComposite2003_L	L	-1.00	150.48	GmComposite2003_L_Dt1	Dt1		89.12	89.12	Gene	1
 GmComposite2003_L	L	-1.00	150.48	GmComposite2003_L_FCA_1	FCA_1	FCA	98.30	98.30	Gene	1
@@ -3583,7 +3583,7 @@ GmComposite2003_C2	C2	-1.00	157.88	GmComposite2003_C2_Seed, beginning 3-2	Seed, 
 GmComposite2003_C2	C2	-1.00	157.88	GmComposite2003_C2_Seedling, abnormal 1-2	Seedling, abnormal 1-2		131.00	133.00	QTL_whole-plant	0
 GmComposite2003_C2	C2	-1.00	157.88	GmComposite2003_C2_Shoot fresh to dry weight ratio 1-2	Shoot fresh to dry weight ratio 1-2		98.07	118.57	QTL_whole-plant	0
 GmComposite2003_C2	C2	-1.00	157.88	GmComposite2003_C2_Shoot weight 3-2	Shoot weight 3-2		40.30	59.60	QTL_whole-plant	0
-GmComposite2003_C2	C2	-1.00	157.88	GmComposite2003_C2_shoot weight, fresh 1-2	shoot weight, fresh 1-2		24.06	60.66	QTL_whole-plant	0
+GmComposite2003_C2	C2	-1.00	157.88	GmComposite2003_C2_Shoot weight, fresh 1-2	Shoot weight, fresh 1-2		24.06	60.66	QTL_whole-plant	0
 GmComposite2003_C2	C2	-1.00	157.88	GmComposite2003_C2_Somatic emb per explant 4-2	Somatic emb per explant 4-2		107.58	127.46	QTL_misc	0
 GmComposite2003_C2	C2	-1.00	157.88	GmComposite2003_C2_Somatic embryogenesis 1-1	Somatic embryogenesis 1-1		120.60	122.60	QTL_misc	0
 GmComposite2003_C2	C2	-1.00	157.88	GmComposite2003_C2_Somatic embryogenesis 1-2	Somatic embryogenesis 1-2		100.75	102.75	QTL_misc	0
@@ -5256,8 +5256,8 @@ GmComposite2003_N	N	-1.00	138.90	GmComposite2003_N_Seed yield 27-4	Seed yield 27
 GmComposite2003_N	N	-1.00	138.90	GmComposite2003_N_Seed yield 30-4	Seed yield 30-4		90.55	94.55	QTL_yield	0
 GmComposite2003_N	N	-1.00	138.90	GmComposite2003_N_Seed yield 4-1	Seed yield 4-1		135.00	137.00	QTL_yield	0
 GmComposite2003_N	N	-1.00	138.90	GmComposite2003_N_Seedling, abnormal 1-3	Seedling, abnormal 1-3		29.30	31.30	QTL_whole-plant	0
-GmComposite2003_N	N	-1.00	138.90	GmComposite2003_N_shoot weight, dry 1-3	shoot weight, dry 1-3		38.07	52.57	QTL_whole-plant	0
-GmComposite2003_N	N	-1.00	138.90	GmComposite2003_N_shoot weight, fresh 1-4	shoot weight, fresh 1-4		38.07	51.07	QTL_whole-plant	0
+GmComposite2003_N	N	-1.00	138.90	GmComposite2003_N_Shoot weight, dry 1-3	Shoot weight, dry 1-3		38.07	52.57	QTL_whole-plant	0
+GmComposite2003_N	N	-1.00	138.90	GmComposite2003_N_Shoot weight, fresh 1-4	Shoot weight, fresh 1-4		38.07	51.07	QTL_whole-plant	0
 GmComposite2003_N	N	-1.00	138.90	GmComposite2003_N_Whitefly resistance 1-3	Whitefly resistance 1-3		77.09	102.05	QTL_insect	0
 GmComposite2003_H	H	0.00	125.05	GmComposite2003_H_NTS	NTS		19.82	19.82	Gene	1
 GmComposite2003_H	H	0.00	125.05	GmComposite2003_H_Ps	Ps		78.44	78.44	Gene	1
