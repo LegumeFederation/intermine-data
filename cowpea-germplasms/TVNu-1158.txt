@@ -1,5 +1,0 @@
-TaxonID	3920
-Strain	TVNu-1158
-Description	TVNu-1158 is small-seeded and has a perennial growth habit. It is cross-compatible with cultivated cowpea, although the F1 and subsequent generations show partial sterility.
-URL	http://my.iita.org/accession2/accession/TVNu-1158
-Country	Republic of the Congo

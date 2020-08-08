@@ -1,5 +1,0 @@
-TaxonId	3920
-Strain	IT89KD-288
-Description	IT89KD-288 is high yielding under drought in Burkina Faso and Nigeria, with brown-eye seed. It is photoperiod sensitive.
-URL	http://www.iita.org/cowpea
-Country	Nigeria

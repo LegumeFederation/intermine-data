@@ -1,7 +1,0 @@
-TaxonID	3920
-Strain	Suvita-2
-AlternateStrainName	Gorom
-Description	Suvita-2, also known as Gorom, is a local cowpea landrace in Burkina Faso. It is resistant to the parasitic weed Striga and the fungal pathogen Macrophomina phaseolina.
-PatentNumber
-PMID	12416610
-Country	Burkina Faso

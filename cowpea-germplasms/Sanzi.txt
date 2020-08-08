@@ -1,5 +1,0 @@
-TaxonID	3920
-Strain	Sanzi
-Description	Sanzi is a local landrace from Ghana which has a prostrate sprawling architecture, grayish-purple seeds, and a sub-globose leaf shape.
-Country	Ghana
-PMID	22691139

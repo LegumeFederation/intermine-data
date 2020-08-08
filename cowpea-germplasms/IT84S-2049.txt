@@ -1,7 +1,0 @@
-TaxonId	3920
-Strain	IT84S-2049
-Description	IT84S-2049 is high yielding under drought in Burkina Faso, with brown-eye seed and direct growth habit.
-URL	http://www.iita.org/cowpea
-Country	Burkina Faso
-PMID	29300744
-PMID	11908660

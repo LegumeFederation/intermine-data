@@ -1,4 +1,0 @@
-TaxonId	3920
-Strain	Zhijiang282
-Description	Zhijiang 282 is a commercial asparagus bean cultivar in China, which is highly susceptible to powdery mildew.
-Country	China

@@ -1,6 +1,0 @@
-TaxonID	3920
-Strain	IT99K-573-1-1
-AlternateStrainName	SAMPEA 14
-Description	IT99K-573-1-1 is an early-maturing, white-seeded, high-yielding and Striga-resistant variety that was released in Nigeria under the name SAMPEA 14.
-URL	http://www.iita.org/cowpea
-Country	Tanzania
